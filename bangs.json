@@ -1,0 +1,1423 @@
+[
+  {
+    "s": "Kagi Search",
+    "d": "kagi.com",
+    "t": "k",
+    "r": 1,
+    "u": "/search?q={{{s}}}",
+    "fmt": 7
+  },
+  {
+    "s": "Kagi Search",
+    "d": "kagi.com",
+    "t": "kagi",
+    "r": 1,
+    "u": "/search?q={{{s}}}",
+    "fmt": 7
+  },
+  {
+    "s": "Kagi News",
+    "d": "kagi.com",
+    "t": "n",
+    "r": 1,
+    "u": "/news?q={{{s}}}",
+    "fmt": 2
+  },
+  {
+    "s": "Kagi News",
+    "d": "kagi.com",
+    "t": "news",
+    "r": 1,
+    "u": "/news?q={{{s}}}",
+    "fmt": 2
+  },
+  {
+    "s": "Kagi Videos",
+    "d": "kagi.com",
+    "t": "v",
+    "r": 1,
+    "u": "/videos?q={{{s}}}",
+    "fmt": 2
+  },
+  {
+    "s": "Kagi Videos",
+    "d": "kagi.com",
+    "t": "video",
+    "r": 1,
+    "u": "/videos?q={{{s}}}",
+    "fmt": 2
+  },
+  {
+    "s": "Kagi Videos",
+    "d": "kagi.com",
+    "t": "videos",
+    "r": 1,
+    "u": "/videos?q={{{s}}}",
+    "fmt": 2
+  },
+  {
+    "s": "Kagi Videos",
+    "d": "kagi.com",
+    "t": "vids",
+    "r": 1,
+    "u": "/videos?q={{{s}}}",
+    "fmt": 2
+  },
+  {
+    "s": "Kagi Maps",
+    "d": "kagi.com",
+    "t": "m",
+    "r": 1,
+    "u": "/maps?q={{{s}}}",
+    "fmt": 2
+  },
+  {
+    "s": "Kagi Maps",
+    "d": "kagi.com",
+    "t": "map",
+    "r": 1,
+    "u": "/maps?q={{{s}}}",
+    "fmt": 2
+  },
+  {
+    "s": "Kagi Maps",
+    "d": "kagi.com",
+    "t": "maps",
+    "r": 1,
+    "u": "/maps?q={{{s}}}",
+    "fmt": 2
+  },
+  {
+    "s": "Kagi Images",
+    "d": "kagi.com",
+    "t": "i",
+    "r": 1,
+    "u": "/images?q={{{s}}}",
+    "fmt": 2
+  },
+  {
+    "s": "Kagi Images",
+    "d": "kagi.com",
+    "t": "image",
+    "r": 1,
+    "u": "/images?q={{{s}}}",
+    "fmt": 2
+  },
+  {
+    "s": "Kagi Images",
+    "d": "kagi.com",
+    "t": "images",
+    "r": 1,
+    "u": "/images?q={{{s}}}",
+    "fmt": 2
+  },
+  {
+    "s": "Kagi Images",
+    "d": "kagi.com",
+    "t": "img",
+    "r": 1,
+    "u": "/images?q={{{s}}}",
+    "fmt": 2
+  },
+  {
+    "s": "Kagi Images",
+    "d": "kagi.com",
+    "t": "imgs",
+    "r": 1,
+    "u": "/images?q={{{s}}}",
+    "fmt": 2
+  },
+  {
+    "s": "Kagi Images",
+    "d": "kagi.com",
+    "t": "pics",
+    "r": 1,
+    "u": "/images?q={{{s}}}",
+    "fmt": 2
+  },
+  {
+    "s": "Kagi Images",
+    "d": "kagi.com",
+    "t": "pictures",
+    "r": 1,
+    "u": "/images?q={{{s}}}",
+    "fmt": 2
+  },
+  {
+    "s": "Kagi Podcasts",
+    "d": "kagi.com",
+    "t": "p",
+    "r": 1,
+    "u": "/podcasts?q={{{s}}}",
+    "fmt": 7
+  },
+  {
+    "s": "Kagi Podcasts",
+    "d": "kagi.com",
+    "t": "podcast",
+    "r": 1,
+    "u": "/podcasts?q={{{s}}}",
+    "fmt": 7
+  },
+  {
+    "s": "Kagi Podcasts",
+    "d": "kagi.com",
+    "t": "podcasts",
+    "r": 1,
+    "u": "/podcasts?q={{{s}}}",
+    "fmt": 7
+  },
+  {
+    "s": "Kagi Quick Answer",
+    "d": "kagi.com",
+    "t": "answer",
+    "r": 1,
+    "u": "/search?q={{{s}}}&qa=true",
+    "fmt": 7
+  },
+  {
+    "s": "Kagi Discussion",
+    "d": "kagi.com",
+    "t": "discuss",
+    "r": 0,
+    "u": "/discussdoc?url={{{s}}}",
+    "fmt": 7
+  },
+  {
+    "s": "Kagi FastGPT",
+    "d": "kagi.com",
+    "t": "fast",
+    "r": 0,
+    "u": "/fastgpt?query={{{s}}}",
+    "fmt": 7
+  },
+  {
+    "s": "Kagi Quick Answer",
+    "d": "kagi.com",
+    "t": "q",
+    "r": 1,
+    "u": "/search?q={{{s}}}&qa=true",
+    "fmt": 7
+  },
+  {
+    "s": "Kagi Quick Answer",
+    "d": "kagi.com",
+    "t": "quick",
+    "r": 1,
+    "u": "/search?q={{{s}}}&qa=true",
+    "fmt": 7
+  },
+  {
+    "s": "Kagi Universal Summarizer",
+    "d": "kagi.com",
+    "t": "sum",
+    "r": 1,
+    "u": "https://kagi.com/summarizer?url={{{s}}}",
+    "fmt": 2
+  },
+  {
+    "s": "Kagi Universal Summarizer",
+    "d": "kagi.com",
+    "t": "summarize",
+    "r": 1,
+    "u": "https://kagi.com/summarizer?url={{{s}}}",
+    "fmt": 2
+  },
+  {
+    "s": "Kagi Universal Summarizer",
+    "d": "kagi.com",
+    "t": "summarise",
+    "r": 1,
+    "u": "https://kagi.com/summarizer?url={{{s}}}",
+    "fmt": 2
+  },
+  {
+    "s": "Kagi Universal Summarizer (Key Moments)",
+    "d": "kagi.com",
+    "t": "sumt",
+    "r": 2,
+    "u": "https://kagi.com/summarizer?url={{{s}}}&summary=takeaway",
+    "fmt": 2
+  },
+  {
+    "s": "Kagi Universal Summarizer (Key Moments)",
+    "d": "kagi.com",
+    "t": "sumk",
+    "r": 2,
+    "u": "https://kagi.com/summarizer?url={{{s}}}&summary=takeaway",
+    "fmt": 2
+  },
+  {
+    "s": "Kagi Universal Summarizer (Key Moments)",
+    "d": "kagi.com",
+    "t": "sumkey",
+    "r": 2,
+    "u": "https://kagi.com/summarizer?url={{{s}}}&summary=takeaway",
+    "fmt": 2
+  },
+  {
+    "s": "Kagi Universal Summarizer (Key Moments)",
+    "d": "kagi.com",
+    "t": "summarizekey",
+    "r": 2,
+    "u": "https://kagi.com/summarizer?url={{{s}}}&summary=takeaway",
+    "fmt": 2
+  },
+  {
+    "s": "Kagi Universal Summarizer (Key Moments)",
+    "d": "kagi.com",
+    "t": "summarisekey",
+    "r": 2,
+    "u": "https://kagi.com/summarizer?url={{{s}}}&summary=takeaway",
+    "fmt": 2
+  },
+  {
+    "s": "Kagi Universal Summarizer (Summary)",
+    "d": "kagi.com",
+    "t": "summ",
+    "r": 2,
+    "u": "https://kagi.com/summarizer?url={{{s}}}&summary=summary",
+    "fmt": 2
+  },
+  {
+    "s": "FedEx",
+    "d": "fedex.com",
+    "t": "fedex",
+    "r": 349,
+    "u": "https://www.fedex.com/fedextrack/?trknbr={{{s}}}",
+    "fmt": 7
+  },
+  {
+    "s": "Prisjakt (Norway)",
+    "d": "www.prisjakt.no",
+    "t": "pjno",
+    "r": 0,
+    "u": "https://www.prisjakt.no/search?search={{{s}}}",
+    "c": "Shopping",
+    "sc": "Online",
+    "fmt": 7
+  },
+  {
+    "s": "Search all !bangs",
+    "d": "duckduckgo.com",
+    "t": "bang",
+    "r": 1712,
+    "u": "https://duckduckgo.com/bang?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Search (DDG)",
+    "fmt": 7
+  },
+  {
+    "s": "Region search",
+    "d": "kagi.com",
+    "t": "reg",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=detected",
+    "fmt": 7
+  },
+  {
+    "s": "https://devhints.io/",
+    "d": "devhints.io",
+    "t": "cheat",
+    "r": 4,
+    "u": "https://devhints.io/?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Programming",
+    "fmt": 7
+  },
+  {
+    "s": "BBC Good Food",
+    "d": "www.bbcgoodfood.com",
+    "t": "bbcgf",
+    "r": 5,
+    "u": "https://www.bbcgoodfood.com/search/recipes?q={{{s}}}",
+    "c": "Research",
+    "sc": "Food",
+    "fmt": 7
+  },
+  {
+    "s": "PDFs",
+    "d": "kagi.com",
+    "t": "pdf",
+    "r": 213,
+    "u": "/search?q={{{s}}}+filetype:pdf",
+    "c": "Online Services",
+    "sc": "Search",
+    "fmt": 7
+  },
+  {
+    "s": "MongoDB",
+    "d": "docs.mongodb.org",
+    "t": "mongodb",
+    "r": 13,
+    "u": "https://docs.mongodb.org/search/?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Companies",
+    "fmt": 7
+  },
+  {
+    "s": "MongoDB",
+    "d": "docs.mongodb.org",
+    "t": "mongo",
+    "r": 7,
+    "u": "https://docs.mongodb.org/search/?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Programming",
+    "fmt": 7
+  },
+  {
+    "s": "Oxford Dictionary",
+    "d": "www.lexico.com",
+    "t": "ox",
+    "r": 84,
+    "u": "https://www.lexico.com/search?utf8=%E2%9C%93&filter=noad&dictionary=en&query={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words)",
+    "fmt": 7
+  },
+  {
+    "s": "Go Package Reference",
+    "d": "pkg.go.dev",
+    "t": "golang",
+    "r": 86,
+    "u": "https://pkg.go.dev/search?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Languages (go)",
+    "fmt": 7
+  },
+  {
+    "s": "Go Package Reference",
+    "d": "pkg.go.dev",
+    "t": "gopkg",
+    "r": 86,
+    "u": "https://pkg.go.dev/search?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Languages (go)",
+    "fmt": 7
+  },
+  {
+    "s": "Go Package Reference",
+    "d": "pkg.go.dev",
+    "t": "gpk",
+    "r": 86,
+    "u": "https://pkg.go.dev/search?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Languages (go)",
+    "fmt": 7
+  },
+  {
+    "s": "Google Maps",
+    "d": "maps.google.com",
+    "t": "gm",
+    "r": 1825,
+    "u": "https://maps.google.com/maps?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Google",
+    "fmt": 7
+  },
+  {
+    "s": "Google Maps",
+    "d": "maps.google.com",
+    "t": "gmap",
+    "r": 1825,
+    "u": "https://maps.google.com/maps?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Google",
+    "fmt": 7
+  },
+  {
+    "s": "Google Maps",
+    "d": "maps.google.com",
+    "t": "gmaps",
+    "r": 1825,
+    "u": "https://maps.google.com/maps?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Google",
+    "fmt": 7
+  },
+  {
+    "s": "Google Maps",
+    "d": "maps.google.com",
+    "t": "googlemap",
+    "r": 1825,
+    "u": "https://maps.google.com/maps?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Google",
+    "fmt": 7
+  },
+  {
+    "s": "Google Maps",
+    "d": "maps.google.com",
+    "t": "googlemaps",
+    "r": 1825,
+    "u": "https://maps.google.com/maps?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Google",
+    "fmt": 7
+  },
+  {
+    "s": "Google Maps",
+    "d": "www.google.it",
+    "t": "gmit",
+    "r": 1825,
+    "u": "https://www.google.it/maps?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Google",
+    "fmt": 7
+  },
+  {
+    "s": "Google Maps",
+    "d": "www.google.co.uk",
+    "t": "gmuk",
+    "r": 1825,
+    "u": "https://www.google.co.uk/maps?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Google",
+    "fmt": 7
+  },
+  {
+    "s": "die.net",
+    "d": "die.net",
+    "t": "man",
+    "r": 652,
+    "u": "https://www.die.net/search/?q={{{s}}}",
+    "c": "Man Page",
+    "sc": "Sysadmin",
+    "fmt": 7
+  },
+  {
+    "s": "die.net",
+    "d": "die.net",
+    "t": "manpage",
+    "r": 652,
+    "u": "https://www.die.net/search/?q={{{s}}}",
+    "c": "Man Page",
+    "sc": "Sysadmin",
+    "fmt": 7
+  },
+  {
+    "s": "Search in International",
+    "d": "kagi.com",
+    "t": "int",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=no_region",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Belarus",
+    "d": "kagi.com",
+    "t": "by",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=by",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Belize",
+    "d": "kagi.com",
+    "t": "bz",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=bz",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Benin",
+    "d": "kagi.com",
+    "t": "bj",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=bj",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Cayman Islands",
+    "d": "kagi.com",
+    "t": "ky",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=ky",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Central African Republic",
+    "d": "kagi.com",
+    "t": "cf",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=cf",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Christmas Island",
+    "d": "kagi.com",
+    "t": "cx",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=cx",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Colombia",
+    "d": "kagi.com",
+    "t": "co",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=co",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Croatia",
+    "d": "kagi.com",
+    "t": "hr",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=hr",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Cyprus",
+    "d": "kagi.com",
+    "t": "cy",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=cy",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Iran",
+    "d": "kagi.com",
+    "t": "ir",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=ir",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Iraq",
+    "d": "kagi.com",
+    "t": "iq",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=iq",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Isle of Man",
+    "d": "kagi.com",
+    "t": "im",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=im",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Kazakhstan",
+    "d": "kagi.com",
+    "t": "kz",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=kz",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Kenya",
+    "d": "kagi.com",
+    "t": "ke",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=ke",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Kiribati",
+    "d": "kagi.com",
+    "t": "ki",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=ki",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Kuwait",
+    "d": "kagi.com",
+    "t": "kw",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=kw",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Liberia",
+    "d": "kagi.com",
+    "t": "lr",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=lr",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Libya",
+    "d": "kagi.com",
+    "t": "ly",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=ly",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Madagascar",
+    "d": "kagi.com",
+    "t": "mg",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=mg",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Malaysia",
+    "d": "kagi.com",
+    "t": "my",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=my",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in New Zealand",
+    "d": "kagi.com",
+    "t": "nz",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=nz",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Norway",
+    "d": "kagi.com",
+    "t": "no",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=no",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Oman",
+    "d": "kagi.com",
+    "t": "om",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=om",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Qatar",
+    "d": "kagi.com",
+    "t": "qa",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=qa",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Réunion",
+    "d": "kagi.com",
+    "t": "re",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=re",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in South Africa",
+    "d": "kagi.com",
+    "t": "za",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=za",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Thailand",
+    "d": "kagi.com",
+    "t": "th",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=th",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Togo",
+    "d": "kagi.com",
+    "t": "tg",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=tg",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Tokelau",
+    "d": "kagi.com",
+    "t": "tk",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=tk",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Tonga",
+    "d": "kagi.com",
+    "t": "to",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=to",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in U.S. Virgin Islands",
+    "d": "kagi.com",
+    "t": "vi",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=vi",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Ukraine",
+    "d": "kagi.com",
+    "t": "ua",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=ua",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Uruguay",
+    "d": "kagi.com",
+    "t": "uy",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=uy",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Uzbekistan",
+    "d": "kagi.com",
+    "t": "uz",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=uz",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Vanuatu",
+    "d": "kagi.com",
+    "t": "vu",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=vu",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Vietnam",
+    "d": "kagi.com",
+    "t": "vn",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=vn",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Yemen",
+    "d": "kagi.com",
+    "t": "ye",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=ye",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Zambia",
+    "d": "kagi.com",
+    "t": "zm",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=zm",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Austria",
+    "d": "kagi.com",
+    "t": "at",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=at",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Belgium (nl)",
+    "d": "kagi.com",
+    "t": "be",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=be",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Belgium (fr)",
+    "d": "kagi.com",
+    "t": "be_fr",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=be_fr",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Canada (en)",
+    "d": "kagi.com",
+    "t": "ca",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=ca",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Canada (fr)",
+    "d": "kagi.com",
+    "t": "ca_fr",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=ca_fr",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Switzerland (de)",
+    "d": "kagi.com",
+    "t": "ch",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=ch",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Switzerland (fr)",
+    "d": "kagi.com",
+    "t": "ch_fr",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=ch_fr",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in China",
+    "d": "kagi.com",
+    "t": "cn",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=cn",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Germany",
+    "d": "kagi.com",
+    "t": "de",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=de",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Denmark",
+    "d": "kagi.com",
+    "t": "dk",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=dk",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Spain (es)",
+    "d": "kagi.com",
+    "t": "es",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=es",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Span (ca)",
+    "d": "kagi.com",
+    "t": "es_ca",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=es_ca",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in France",
+    "d": "kagi.com",
+    "t": "fr",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=fr",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in United Kingdom",
+    "d": "kagi.com",
+    "t": "gb",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=gb",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Hungary",
+    "d": "kagi.com",
+    "t": "hu",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=hu",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Italy",
+    "d": "kagi.com",
+    "t": "it",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=it",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Israel",
+    "d": "kagi.com",
+    "t": "il",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=il",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Japan",
+    "d": "kagi.com",
+    "t": "jp",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=jp",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Netherlands",
+    "d": "kagi.com",
+    "t": "nl",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=nl",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Poland",
+    "d": "kagi.com",
+    "t": "pl",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=pl",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Portugal",
+    "d": "kagi.com",
+    "t": "pt",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=pt",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Serbia",
+    "d": "kagi.com",
+    "t": "rs",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=rs",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in United States",
+    "d": "kagi.com",
+    "t": "us",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=us",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Slovenia",
+    "d": "kagi.com",
+    "t": "si",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=si",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Sweden",
+    "d": "kagi.com",
+    "t": "se",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=se",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Search in Brazil",
+    "d": "kagi.com",
+    "t": "br",
+    "r": 1,
+    "u": "/search?q={{{s}}}&r=br",
+    "c": "Region search",
+    "fmt": 7
+  },
+  {
+    "s": "Kagi Knowledgebase",
+    "d": "help.kagi.com",
+    "t": "help",
+    "r": 1,
+    "u": "https://help.kagi.com/kagi?search={{{s}}}",
+    "fmt": 2
+  },
+  {
+    "s": "Orion Knowledgebase",
+    "d": "help.kagi.com",
+    "t": "orion",
+    "r": 1,
+    "u": "https://help.kagi.com/orion?search={{{s}}}",
+    "fmt": 2
+  },
+  {
+    "s": "Wolfram Alpha",
+    "d": "wolframalpha.com",
+    "t": "wa",
+    "r": 1,
+    "u": "https://wolframalpha.com/input?i={{{s}}}",
+    "fmt": 7
+  },
+  {
+    "s": "Google",
+    "d": "google.com",
+    "t": "g",
+    "r": 1,
+    "u": "https://google.com/search?q={{{s}}}",
+    "fmt": 7
+  },
+  {
+    "s": "Bing",
+    "d": "bing.com",
+    "t": "b",
+    "r": 1,
+    "u": "https://bing.com/search?q={{{s}}}",
+    "fmt": 7
+  },
+  {
+    "s": "Wikipedia",
+    "d": "wikipedia.org",
+    "t": "w",
+    "r": 1,
+    "u": "https://wikipedia.org/w/index.php?search={{{s}}}",
+    "fmt": 7
+  },
+  {
+    "s": "Wikipedia (RU)",
+    "d": "ru.wikipedia.org",
+    "t": "wru",
+    "r": 353,
+    "u": "https://ru.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning",
+    "fmt": 7
+  },
+  {
+    "s": "Kagi",
+    "d": "kagi.com",
+    "t": "recent",
+    "r": 1,
+    "u": "/search?q={{{s}}}&dr=1",
+    "fmt": 7
+  },
+  {
+    "s": "Kagi",
+    "d": "kagi.com",
+    "t": "day",
+    "r": 1,
+    "u": "/search?q={{{s}}}&dr=1",
+    "fmt": 7
+  },
+  {
+    "s": "Kagi",
+    "d": "kagi.com",
+    "t": "week",
+    "r": 1,
+    "u": "/search?q={{{s}}}&dr=2",
+    "fmt": 7
+  },
+  {
+    "s": "Kagi",
+    "d": "kagi.com",
+    "t": "month",
+    "r": 1,
+    "u": "/search?q={{{s}}}&dr=3",
+    "fmt": 7
+  },
+  {
+    "s": "Kagi",
+    "d": "kagi.com",
+    "t": "calc",
+    "r": 1,
+    "u": "/search?q={{{s}}}",
+    "fmt": 7
+  },
+  {
+    "s": "Kagi",
+    "d": "kagi.com",
+    "t": "calculator",
+    "r": 1,
+    "u": "/search?q={{{s}}}",
+    "fmt": 7
+  },
+  {
+    "s": "Kagi",
+    "d": "kagi.com",
+    "t": "tim",
+    "r": 1,
+    "u": "/search?q=timer+{{{s}}}",
+    "fmt": 7
+  },
+  {
+    "s": "Kagi",
+    "d": "kagi.com",
+    "t": "timer",
+    "r": 1,
+    "u": "/search?q=timer+{{{s}}}",
+    "fmt": 7
+  },
+  {
+    "s": "Kagi Knowledgebase - Search API",
+    "d": "help.kagi.com",
+    "t": "api",
+    "r": 1,
+    "u": "https://help.kagi.com/kagi/search-api/overview.html",
+    "fmt": 7
+  },
+  {
+    "s": "MELPA",
+    "d": "melpa.milkbox.net",
+    "t": "melpa",
+    "r": 27,
+    "u": "http://melpa.org/#/?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Search",
+    "fmt": 7
+  },
+  {
+    "s": "Linux Packages Search",
+    "d": "pkgs.org",
+    "t": "pkgs",
+    "r": 65,
+    "u": "https://pkgs.org/search/?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Sysadmin",
+    "fmt": 7
+  },
+  {
+    "s": "Openverse Creative Commons Search",
+    "d": "openverse.org",
+    "t": "cc",
+    "r": 49,
+    "u": "https://openverse.org/search/?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Search",
+    "fmt": 7
+  },
+  {
+    "s": "Homebrew",
+    "d": "brew.sh",
+    "t": "brew",
+    "r": 48,
+    "u": "/search?q={{{s}}}+site%3Aformulae.brew.sh",
+    "c": "Tech",
+    "sc": "Downloads (software)",
+    "fmt": 7
+  },
+  {
+    "s": "NixOS options",
+    "d": "nixos.org",
+    "t": "nixopt",
+    "r": 225,
+    "u": "https://search.nixos.org/options?query={{{s}}}",
+    "c": "Tech",
+    "sc": "Sysadmin",
+    "fmt": 7
+  },
+  {
+    "s": "Crontab.guru",
+    "d": "crontab.guru",
+    "t": "cron",
+    "r": 9,
+    "u": "https://crontab.guru/#{{{s}}}",
+    "c": "Tech",
+    "sc": "Sysadmin",
+    "fmt": 3
+  },
+  {
+    "s": "Album of The Year",
+    "d": "www.albumoftheyear.org",
+    "t": "aoty",
+    "r": 39,
+    "u": "https://www.albumoftheyear.org/search?q={{{s}}}",
+    "c": "Multimedia",
+    "sc": "Music",
+    "fmt": 7
+  },
+  {
+    "s": "GOG.com",
+    "d": "www.gog.com",
+    "t": "gog",
+    "r": 211,
+    "u": "https://www.gog.com/games?query={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (general)",
+    "fmt": 7
+  },
+  {
+    "s": "Official Minecraft Wiki",
+    "d": "minecraft.wiki",
+    "t": "mcwiki",
+    "r": 316,
+    "u": "https://minecraft.wiki/?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (fun)",
+    "fmt": 7
+  },
+  {
+    "s": "Official Minecraft Wiki",
+    "d": "minecraft.wiki",
+    "t": "mcw",
+    "r": 316,
+    "u": "https://minecraft.wiki/?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (fun)",
+    "fmt": 7
+  },
+  {
+    "s": "Official Minecraft Wiki",
+    "d": "minecraft.wiki",
+    "t": "minecraft",
+    "r": 316,
+    "u": "https://minecraft.wiki/?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (fun)",
+    "fmt": 7
+  },
+  {
+    "s": "Official Minecraft Wiki",
+    "d": "minecraft.wiki",
+    "t": "minecraftwiki",
+    "r": 316,
+    "u": "https://minecraft.wiki/?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (fun)",
+    "fmt": 7
+  },
+  {
+    "s": "Minecraft Wiki (deutsch)",
+    "d": "de.minecraft.wiki",
+    "t": "mcde",
+    "r": 5,
+    "u": "https://de.minecraft.wiki/?search={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (Minecraft)",
+    "fmt": 7
+  },
+  {
+    "s": "Minecraft Wiki (deutsch)",
+    "d": "de.minecraft.wiki",
+    "t": "mcde",
+    "r": 5,
+    "u": "https://de.minecraft.wiki/?search={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (Minecraft)",
+    "fmt": 7
+  },
+  {
+    "s": "Minecraft Wiki (deutsch)",
+    "d": "de.minecraft.wiki",
+    "t": "mcde",
+    "r": 5,
+    "u": "https://de.minecraft.wiki/?search={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (Minecraft)",
+    "fmt": 7
+  },
+  {
+    "s": "Minecraft Wiki (deutsch)",
+    "d": "de.minecraft.wiki",
+    "t": "mcde",
+    "r": 5,
+    "u": "https://de.minecraft.wiki/?search={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (Minecraft)",
+    "fmt": 7
+  },
+  {
+    "s": "Minecraft Wiki FR",
+    "d": "fr.minecraft.wiki",
+    "t": "mcwikifr",
+    "r": 0,
+    "u": "https://fr.minecraft.wiki/?search={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (Minecraft)",
+    "fmt": 7
+  },
+  {
+    "s": "Minecraft Wiki (Chinese)",
+    "d": "zh.minecraft.wiki",
+    "t": "mcwikizh",
+    "r": 0,
+    "u": "https://zh.minecraft.wiki/?search={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (Minecraft)",
+    "fmt": 7
+  },
+  {
+    "s": "ru.minecraft.wiki",
+    "d": "ru.minecraft.wiki",
+    "t": "minecraft-ru",
+    "r": 0,
+    "u": "https://ru.minecraft.wiki/?search={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (Minecraft)",
+    "fmt": 7
+  },
+  {
+    "s": "Staples.com",
+    "d": "www.staples.com",
+    "t": "staples",
+    "r": 6,
+    "u": "https://www.staples.com/{{{s}}}/directory_{{{s}}}",
+    "c": "Shopping",
+    "sc": "Online",
+    "fmt": 7
+  },
+  {
+    "s": "Metacritic",
+    "d": "www.metacritic.com",
+    "t": "mc",
+    "r": 590,
+    "u": "https://www.metacritic.com/search/{{{s}}}/",
+    "c": "Online Services",
+    "sc": "Search",
+    "fmt": 3
+  }
+]

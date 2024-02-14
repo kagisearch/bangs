@@ -1,0 +1,20 @@
+on:
+  pull_request:
+    branches:
+      - main
+  push:
+    branches:
+      - main
+
+name: Validate bangs.json
+jobs:
+  validate_configurations:
+    name: Validate configurations
+    runs-on: ubuntu-latest
+    steps:
+      - name: Validate bangs.json
+        uses: snapcart/json-schema-validator@v1.0.0
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          json_schema: ./data/bangs.schema.json
+          json_path_pattern: ^bangs.json$

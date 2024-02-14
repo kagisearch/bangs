@@ -1,0 +1,10 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": [
+        "/bangs.json"
+      ],
+      "url": "./data/bangs.schema.json"
+    }
+  ]
+}

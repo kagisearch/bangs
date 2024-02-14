@@ -1,0 +1,44 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Generated schema for Root",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "c": {
+        "type": "string"
+      },
+      "d": {
+        "type": "string"
+      },
+      "r": {
+        "type": "integer",
+        "minimum": 0
+      },
+      "s": {
+        "type": "string"
+      },
+      "sc": {
+        "type": "string"
+      },
+      "t": {
+        "type": "string"
+      },
+      "u": {
+        "type": "string"
+      },
+      "fmt": {
+        "type": "integer",
+        "minimum": 0,
+        "exclusiveMaximum": 8
+      }
+    },
+    "required": [
+      "d",
+      "r",
+      "s",
+      "t",
+      "u"
+    ]
+  }
+}
