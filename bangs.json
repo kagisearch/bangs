@@ -5,7 +5,7 @@
     "t": "k",
     "r": 1,
     "u": "/search?q={{{s}}}",
-    "fmt": 8
+    "fmt": 7
   },
   {
     "s": "Kagi Search",
