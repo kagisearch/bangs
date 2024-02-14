@@ -13,9 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - name: Validate JSON
-        uses: ScratchAddons/validate-json-action@8f71e0683221310e32661c1b1634399858bde75f
+        uses: OrRosenblatt/validate-json-action@a4773333088b27448e122ccd2992d63383ec2342
         env:
-          schema: ./data/bangs.schema.json
-          jsons: |
-            ./bangs.json
-          separator: '\n'
+          INPUT_SCHEMA: ./data/bangs.schema.json
+          INPUT_JSONS: ./bangs.json
