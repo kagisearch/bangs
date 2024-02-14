@@ -11,9 +11,29 @@ jobs:
   validate-bangs-json:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v3
       - name: Validate JSON
-        uses: OrRosenblatt/validate-json-action@a4773333088b27448e122ccd2992d63383ec2342
-        env:
-          INPUT_SCHEMA: ./data/bangs.schema.json
-          INPUT_JSONS: ./bangs.json
+        uses: walbo/validate-json@v1.1.0
+        with:
+          files: ./bangs.json
+
+          # optional, defaults to `$schema` in your JSON file
+          schema: ./data/bangs.schema.json
+
+          # optional, default: draft-04
+          schema-version: draft-07
+
+          # optional, default: false
+          print-valid-files: true
+
+          # optional, default: false
+          fail-on-missing-schema: true
+
+          # optional, default: true
+          strict: true
+
+          # optional, default: false
+          allow-matching-properties: false
+
+          # optional, default: true
+          allow-union-types: true
