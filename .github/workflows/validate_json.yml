@@ -16,4 +16,6 @@ jobs:
         uses: ScratchAddons/validate-json-action@8f71e0683221310e32661c1b1634399858bde75f
         env:
           schema: ./data/bangs.schema.json
-          jsons: ./bangs.json
+          jsons: |
+            ./bangs.json
+          separator: '\n'
