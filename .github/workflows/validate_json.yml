@@ -8,13 +8,12 @@ on:
 
 name: Validate bangs.json
 jobs:
-  validate_configurations:
-    name: Validate configurations
+  validate-bangs-json:
     runs-on: ubuntu-latest
     steps:
-      - name: Validate bangs.json
-        uses: snapcart/json-schema-validator@v1.0.0
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          json_schema: ./data/bangs.schema.json
-          json_path_pattern: ^bangs.json$
+      - uses: actions/checkout@v1
+      - name: Validate JSON
+        uses: ScratchAddons/validate-json-action@8f71e0683221310e32661c1b1634399858bde75f
+        env:
+          schema: ./data/bangs.schema.json
+          jsons: ./bangs.json
