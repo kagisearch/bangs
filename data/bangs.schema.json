@@ -11,10 +11,6 @@
       "d": {
         "type": "string"
       },
-      "r": {
-        "type": "integer",
-        "minimum": 0
-      },
       "s": {
         "type": "string"
       },

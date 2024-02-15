@@ -11,7 +11,6 @@ This is a repository of bangs used by [Kagi Search](https://kagi.com). It does n
     "s": "Metacritic",          // Website name
     "d": "www.metacritic.com",  // Domain
     "t": "mc",                  // Trigger
-    "r": 590,                   // Rank
     "u": "https://www.metacritic.com/search/{{{s}}}/", // Template, `{{{s}}}` corresponds to the query
     "c": "Online Services",     // Category
     "sc": "Search",             // Subcategory

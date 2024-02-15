@@ -3,7 +3,6 @@
     "s": "Kagi Search",
     "d": "kagi.com",
     "t": "k",
-    "r": 1,
     "u": "/search?q={{{s}}}",
     "fmt": [
       "open_base_path",
@@ -15,7 +14,6 @@
     "s": "Kagi Search",
     "d": "kagi.com",
     "t": "kagi",
-    "r": 1,
     "u": "/search?q={{{s}}}",
     "fmt": [
       "open_base_path",
@@ -27,7 +25,6 @@
     "s": "Kagi News",
     "d": "kagi.com",
     "t": "n",
-    "r": 1,
     "u": "/news?q={{{s}}}",
     "fmt": [
       "url_encode_placeholder"
@@ -37,7 +34,6 @@
     "s": "Kagi News",
     "d": "kagi.com",
     "t": "news",
-    "r": 1,
     "u": "/news?q={{{s}}}",
     "fmt": [
       "url_encode_placeholder"
@@ -47,7 +43,6 @@
     "s": "Kagi Videos",
     "d": "kagi.com",
     "t": "v",
-    "r": 1,
     "u": "/videos?q={{{s}}}",
     "fmt": [
       "url_encode_placeholder"
@@ -57,7 +52,6 @@
     "s": "Kagi Videos",
     "d": "kagi.com",
     "t": "video",
-    "r": 1,
     "u": "/videos?q={{{s}}}",
     "fmt": [
       "url_encode_placeholder"
@@ -67,7 +61,6 @@
     "s": "Kagi Videos",
     "d": "kagi.com",
     "t": "videos",
-    "r": 1,
     "u": "/videos?q={{{s}}}",
     "fmt": [
       "url_encode_placeholder"
@@ -77,7 +70,6 @@
     "s": "Kagi Videos",
     "d": "kagi.com",
     "t": "vids",
-    "r": 1,
     "u": "/videos?q={{{s}}}",
     "fmt": [
       "url_encode_placeholder"
@@ -87,7 +79,6 @@
     "s": "Kagi Maps",
     "d": "kagi.com",
     "t": "m",
-    "r": 1,
     "u": "/maps?q={{{s}}}",
     "fmt": [
       "url_encode_placeholder"
@@ -97,7 +88,6 @@
     "s": "Kagi Maps",
     "d": "kagi.com",
     "t": "map",
-    "r": 1,
     "u": "/maps?q={{{s}}}",
     "fmt": [
       "url_encode_placeholder"
@@ -107,7 +97,6 @@
     "s": "Kagi Maps",
     "d": "kagi.com",
     "t": "maps",
-    "r": 1,
     "u": "/maps?q={{{s}}}",
     "fmt": [
       "url_encode_placeholder"
@@ -117,7 +106,6 @@
     "s": "Kagi Images",
     "d": "kagi.com",
     "t": "i",
-    "r": 1,
     "u": "/images?q={{{s}}}",
     "fmt": [
       "url_encode_placeholder"
@@ -127,7 +115,6 @@
     "s": "Kagi Images",
     "d": "kagi.com",
     "t": "image",
-    "r": 1,
     "u": "/images?q={{{s}}}",
     "fmt": [
       "url_encode_placeholder"
@@ -137,7 +124,6 @@
     "s": "Kagi Images",
     "d": "kagi.com",
     "t": "images",
-    "r": 1,
     "u": "/images?q={{{s}}}",
     "fmt": [
       "url_encode_placeholder"
@@ -147,7 +133,6 @@
     "s": "Kagi Images",
     "d": "kagi.com",
     "t": "img",
-    "r": 1,
     "u": "/images?q={{{s}}}",
     "fmt": [
       "url_encode_placeholder"
@@ -157,7 +142,6 @@
     "s": "Kagi Images",
     "d": "kagi.com",
     "t": "imgs",
-    "r": 1,
     "u": "/images?q={{{s}}}",
     "fmt": [
       "url_encode_placeholder"
@@ -167,7 +151,6 @@
     "s": "Kagi Images",
     "d": "kagi.com",
     "t": "pics",
-    "r": 1,
     "u": "/images?q={{{s}}}",
     "fmt": [
       "url_encode_placeholder"
@@ -177,7 +160,6 @@
     "s": "Kagi Images",
     "d": "kagi.com",
     "t": "pictures",
-    "r": 1,
     "u": "/images?q={{{s}}}",
     "fmt": [
       "url_encode_placeholder"
@@ -187,7 +169,6 @@
     "s": "Kagi Podcasts",
     "d": "kagi.com",
     "t": "p",
-    "r": 1,
     "u": "/podcasts?q={{{s}}}",
     "fmt": [
       "open_base_path",
@@ -199,7 +180,6 @@
     "s": "Kagi Podcasts",
     "d": "kagi.com",
     "t": "podcast",
-    "r": 1,
     "u": "/podcasts?q={{{s}}}",
     "fmt": [
       "open_base_path",
@@ -211,7 +191,6 @@
     "s": "Kagi Podcasts",
     "d": "kagi.com",
     "t": "podcasts",
-    "r": 1,
     "u": "/podcasts?q={{{s}}}",
     "fmt": [
       "open_base_path",
@@ -223,7 +202,6 @@
     "s": "Kagi Quick Answer",
     "d": "kagi.com",
     "t": "answer",
-    "r": 1,
     "u": "/search?q={{{s}}}&qa=true",
     "fmt": [
       "open_base_path",
@@ -235,7 +213,6 @@
     "s": "Kagi Discussion",
     "d": "kagi.com",
     "t": "discuss",
-    "r": 0,
     "u": "/discussdoc?url={{{s}}}",
     "fmt": [
       "open_base_path",
@@ -247,7 +224,6 @@
     "s": "Kagi FastGPT",
     "d": "kagi.com",
     "t": "fast",
-    "r": 0,
     "u": "/fastgpt?query={{{s}}}",
     "fmt": [
       "open_base_path",
@@ -259,7 +235,6 @@
     "s": "Kagi Quick Answer",
     "d": "kagi.com",
     "t": "q",
-    "r": 1,
     "u": "/search?q={{{s}}}&qa=true",
     "fmt": [
       "open_base_path",
@@ -271,7 +246,6 @@
     "s": "Kagi Quick Answer",
     "d": "kagi.com",
     "t": "quick",
-    "r": 1,
     "u": "/search?q={{{s}}}&qa=true",
     "fmt": [
       "open_base_path",
@@ -283,7 +257,6 @@
     "s": "Kagi Universal Summarizer",
     "d": "kagi.com",
     "t": "sum",
-    "r": 1,
     "u": "https://kagi.com/summarizer?url={{{s}}}",
     "fmt": [
       "url_encode_placeholder"
@@ -293,7 +266,6 @@
     "s": "Kagi Universal Summarizer",
     "d": "kagi.com",
     "t": "summarize",
-    "r": 1,
     "u": "https://kagi.com/summarizer?url={{{s}}}",
     "fmt": [
       "url_encode_placeholder"
@@ -303,7 +275,6 @@
     "s": "Kagi Universal Summarizer",
     "d": "kagi.com",
     "t": "summarise",
-    "r": 1,
     "u": "https://kagi.com/summarizer?url={{{s}}}",
     "fmt": [
       "url_encode_placeholder"
@@ -313,7 +284,6 @@
     "s": "Kagi Universal Summarizer (Key Moments)",
     "d": "kagi.com",
     "t": "sumt",
-    "r": 2,
     "u": "https://kagi.com/summarizer?url={{{s}}}&summary=takeaway",
     "fmt": [
       "url_encode_placeholder"
@@ -323,7 +293,6 @@
     "s": "Kagi Universal Summarizer (Key Moments)",
     "d": "kagi.com",
     "t": "sumk",
-    "r": 2,
     "u": "https://kagi.com/summarizer?url={{{s}}}&summary=takeaway",
     "fmt": [
       "url_encode_placeholder"
@@ -333,7 +302,6 @@
     "s": "Kagi Universal Summarizer (Key Moments)",
     "d": "kagi.com",
     "t": "sumkey",
-    "r": 2,
     "u": "https://kagi.com/summarizer?url={{{s}}}&summary=takeaway",
     "fmt": [
       "url_encode_placeholder"
@@ -343,7 +311,6 @@
     "s": "Kagi Universal Summarizer (Key Moments)",
     "d": "kagi.com",
     "t": "summarizekey",
-    "r": 2,
     "u": "https://kagi.com/summarizer?url={{{s}}}&summary=takeaway",
     "fmt": [
       "url_encode_placeholder"
@@ -353,7 +320,6 @@
     "s": "Kagi Universal Summarizer (Key Moments)",
     "d": "kagi.com",
     "t": "summarisekey",
-    "r": 2,
     "u": "https://kagi.com/summarizer?url={{{s}}}&summary=takeaway",
     "fmt": [
       "url_encode_placeholder"
@@ -363,7 +329,6 @@
     "s": "Kagi Universal Summarizer (Summary)",
     "d": "kagi.com",
     "t": "summ",
-    "r": 2,
     "u": "https://kagi.com/summarizer?url={{{s}}}&summary=summary",
     "fmt": [
       "url_encode_placeholder"
@@ -373,7 +338,6 @@
     "s": "FedEx",
     "d": "fedex.com",
     "t": "fedex",
-    "r": 349,
     "u": "https://www.fedex.com/fedextrack/?trknbr={{{s}}}",
     "fmt": [
       "open_base_path",
@@ -385,7 +349,6 @@
     "s": "Prisjakt (Norway)",
     "d": "www.prisjakt.no",
     "t": "pjno",
-    "r": 0,
     "u": "https://www.prisjakt.no/search?search={{{s}}}",
     "c": "Shopping",
     "sc": "Online",
@@ -399,7 +362,6 @@
     "s": "Search all !bangs",
     "d": "duckduckgo.com",
     "t": "bang",
-    "r": 1712,
     "u": "https://duckduckgo.com/bang?q={{{s}}}",
     "c": "Tech",
     "sc": "Search (DDG)",
@@ -413,7 +375,6 @@
     "s": "Region search",
     "d": "kagi.com",
     "t": "reg",
-    "r": 1,
     "u": "/search?q={{{s}}}&r=detected",
     "fmt": [
       "open_base_path",
@@ -425,7 +386,6 @@
     "s": "https://devhints.io/",
     "d": "devhints.io",
     "t": "cheat",
-    "r": 4,
     "u": "https://devhints.io/?q={{{s}}}",
     "c": "Tech",
     "sc": "Programming",
@@ -439,7 +399,6 @@
     "s": "BBC Good Food",
     "d": "www.bbcgoodfood.com",
     "t": "bbcgf",
-    "r": 5,
     "u": "https://www.bbcgoodfood.com/search/recipes?q={{{s}}}",
     "c": "Research",
     "sc": "Food",
@@ -453,7 +412,6 @@
     "s": "PDFs",
     "d": "kagi.com",
     "t": "pdf",
-    "r": 213,
     "u": "/search?q={{{s}}}+filetype:pdf",
     "c": "Online Services",
     "sc": "Search",
@@ -467,7 +425,6 @@
     "s": "MongoDB",
     "d": "docs.mongodb.org",
     "t": "mongodb",
-    "r": 13,
     "u": "https://docs.mongodb.org/search/?q={{{s}}}",
     "c": "Tech",
     "sc": "Companies",
@@ -481,7 +438,6 @@
     "s": "MongoDB",
     "d": "docs.mongodb.org",
     "t": "mongo",
-    "r": 7,
     "u": "https://docs.mongodb.org/search/?q={{{s}}}",
     "c": "Tech",
     "sc": "Programming",
@@ -495,7 +451,6 @@
     "s": "Oxford Dictionary",
     "d": "www.lexico.com",
     "t": "ox",
-    "r": 84,
     "u": "https://www.lexico.com/search?utf8=%E2%9C%93&filter=noad&dictionary=en&query={{{s}}}",
     "c": "Research",
     "sc": "Reference (words)",
@@ -509,7 +464,6 @@
     "s": "Go Package Reference",
     "d": "pkg.go.dev",
     "t": "golang",
-    "r": 86,
     "u": "https://pkg.go.dev/search?q={{{s}}}",
     "c": "Tech",
     "sc": "Languages (go)",
@@ -523,7 +477,6 @@
     "s": "Go Package Reference",
     "d": "pkg.go.dev",
     "t": "gopkg",
-    "r": 86,
     "u": "https://pkg.go.dev/search?q={{{s}}}",
     "c": "Tech",
     "sc": "Languages (go)",
@@ -537,7 +490,6 @@
     "s": "Go Package Reference",
     "d": "pkg.go.dev",
     "t": "gpk",
-    "r": 86,
     "u": "https://pkg.go.dev/search?q={{{s}}}",
     "c": "Tech",
     "sc": "Languages (go)",
@@ -551,7 +503,6 @@
     "s": "Google Maps",
     "d": "maps.google.com",
     "t": "gm",
-    "r": 1825,
     "u": "https://maps.google.com/maps?q={{{s}}}",
     "c": "Online Services",
     "sc": "Google",
@@ -565,7 +516,6 @@
     "s": "Google Maps",
     "d": "maps.google.com",
     "t": "gmap",
-    "r": 1825,
     "u": "https://maps.google.com/maps?q={{{s}}}",
     "c": "Online Services",
     "sc": "Google",
@@ -579,7 +529,6 @@
     "s": "Google Maps",
     "d": "maps.google.com",
     "t": "gmaps",
-    "r": 1825,
     "u": "https://maps.google.com/maps?q={{{s}}}",
     "c": "Online Services",
     "sc": "Google",
@@ -593,7 +542,6 @@
     "s": "Google Maps",
     "d": "maps.google.com",
     "t": "googlemap",
-    "r": 1825,
     "u": "https://maps.google.com/maps?q={{{s}}}",
     "c": "Online Services",
     "sc": "Google",
@@ -607,7 +555,6 @@
     "s": "Google Maps",
     "d": "maps.google.com",
     "t": "googlemaps",
-    "r": 1825,
     "u": "https://maps.google.com/maps?q={{{s}}}",
     "c": "Online Services",
     "sc": "Google",
@@ -621,7 +568,6 @@
     "s": "Google Maps",
     "d": "www.google.it",
     "t": "gmit",
-    "r": 1825,
     "u": "https://www.google.it/maps?q={{{s}}}",
     "c": "Online Services",
     "sc": "Google",
@@ -635,7 +581,6 @@
     "s": "Google Maps",
     "d": "www.google.co.uk",
     "t": "gmuk",
-    "r": 1825,
     "u": "https://www.google.co.uk/maps?q={{{s}}}",
     "c": "Online Services",
     "sc": "Google",
@@ -649,7 +594,6 @@
     "s": "die.net",
     "d": "die.net",
     "t": "man",
-    "r": 652,
     "u": "https://www.die.net/search/?q={{{s}}}",
     "c": "Man Page",
     "sc": "Sysadmin",
@@ -663,7 +607,6 @@
     "s": "die.net",
     "d": "die.net",
     "t": "manpage",
-    "r": 652,
     "u": "https://www.die.net/search/?q={{{s}}}",
     "c": "Man Page",
     "sc": "Sysadmin",
@@ -677,7 +620,6 @@
     "s": "Kagi Knowledgebase",
     "d": "help.kagi.com",
     "t": "help",
-    "r": 1,
     "u": "https://help.kagi.com/kagi?search={{{s}}}",
     "fmt": [
       "url_encode_placeholder"
@@ -687,7 +629,6 @@
     "s": "Orion Knowledgebase",
     "d": "help.kagi.com",
     "t": "orion",
-    "r": 1,
     "u": "https://help.kagi.com/orion?search={{{s}}}",
     "fmt": [
       "url_encode_placeholder"
@@ -697,7 +638,6 @@
     "s": "Wolfram Alpha",
     "d": "wolframalpha.com",
     "t": "wa",
-    "r": 1,
     "u": "https://wolframalpha.com/input?i={{{s}}}",
     "fmt": [
       "open_base_path",
@@ -709,7 +649,6 @@
     "s": "Google",
     "d": "google.com",
     "t": "g",
-    "r": 1,
     "u": "https://google.com/search?q={{{s}}}",
     "fmt": [
       "open_base_path",
@@ -721,7 +660,6 @@
     "s": "Bing",
     "d": "bing.com",
     "t": "b",
-    "r": 1,
     "u": "https://bing.com/search?q={{{s}}}",
     "fmt": [
       "open_base_path",
@@ -733,7 +671,6 @@
     "s": "Wikipedia",
     "d": "wikipedia.org",
     "t": "w",
-    "r": 1,
     "u": "https://wikipedia.org/w/index.php?search={{{s}}}",
     "fmt": [
       "open_base_path",
@@ -745,7 +682,6 @@
     "s": "Wikipedia (RU)",
     "d": "ru.wikipedia.org",
     "t": "wru",
-    "r": 353,
     "u": "https://ru.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Learning",
@@ -759,7 +695,6 @@
     "s": "Kagi",
     "d": "kagi.com",
     "t": "recent",
-    "r": 1,
     "u": "/search?q={{{s}}}&dr=1",
     "fmt": [
       "open_base_path",
@@ -771,7 +706,6 @@
     "s": "Kagi",
     "d": "kagi.com",
     "t": "day",
-    "r": 1,
     "u": "/search?q={{{s}}}&dr=1",
     "fmt": [
       "open_base_path",
@@ -783,7 +717,6 @@
     "s": "Kagi",
     "d": "kagi.com",
     "t": "week",
-    "r": 1,
     "u": "/search?q={{{s}}}&dr=2",
     "fmt": [
       "open_base_path",
@@ -795,7 +728,6 @@
     "s": "Kagi",
     "d": "kagi.com",
     "t": "month",
-    "r": 1,
     "u": "/search?q={{{s}}}&dr=3",
     "fmt": [
       "open_base_path",
@@ -807,7 +739,6 @@
     "s": "Kagi",
     "d": "kagi.com",
     "t": "calc",
-    "r": 1,
     "u": "/search?q={{{s}}}",
     "fmt": [
       "open_base_path",
@@ -819,7 +750,6 @@
     "s": "Kagi",
     "d": "kagi.com",
     "t": "calculator",
-    "r": 1,
     "u": "/search?q={{{s}}}",
     "fmt": [
       "open_base_path",
@@ -831,7 +761,6 @@
     "s": "Kagi",
     "d": "kagi.com",
     "t": "tim",
-    "r": 1,
     "u": "/search?q=timer+{{{s}}}",
     "fmt": [
       "open_base_path",
@@ -843,7 +772,6 @@
     "s": "Kagi",
     "d": "kagi.com",
     "t": "timer",
-    "r": 1,
     "u": "/search?q=timer+{{{s}}}",
     "fmt": [
       "open_base_path",
@@ -855,7 +783,6 @@
     "s": "Kagi Knowledgebase - Search API",
     "d": "help.kagi.com",
     "t": "api",
-    "r": 1,
     "u": "https://help.kagi.com/kagi/search-api/overview.html",
     "fmt": [
       "open_base_path",
@@ -867,7 +794,6 @@
     "s": "MELPA",
     "d": "melpa.milkbox.net",
     "t": "melpa",
-    "r": 27,
     "u": "http://melpa.org/#/?q={{{s}}}",
     "c": "Online Services",
     "sc": "Search",
@@ -881,7 +807,6 @@
     "s": "Linux Packages Search",
     "d": "pkgs.org",
     "t": "pkgs",
-    "r": 65,
     "u": "https://pkgs.org/search/?q={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin",
@@ -895,7 +820,6 @@
     "s": "Openverse Creative Commons Search",
     "d": "openverse.org",
     "t": "cc",
-    "r": 49,
     "u": "https://openverse.org/search/?q={{{s}}}",
     "c": "Online Services",
     "sc": "Search",
@@ -909,7 +833,6 @@
     "s": "Homebrew",
     "d": "brew.sh",
     "t": "brew",
-    "r": 48,
     "u": "/search?q={{{s}}}+site%3Aformulae.brew.sh",
     "c": "Tech",
     "sc": "Downloads (software)",
@@ -923,7 +846,6 @@
     "s": "NixOS options",
     "d": "nixos.org",
     "t": "nixopt",
-    "r": 225,
     "u": "https://search.nixos.org/options?query={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin",
@@ -937,7 +859,6 @@
     "s": "Crontab.guru",
     "d": "crontab.guru",
     "t": "cron",
-    "r": 9,
     "u": "https://crontab.guru/#{{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin",
@@ -950,7 +871,6 @@
     "s": "Album of The Year",
     "d": "www.albumoftheyear.org",
     "t": "aoty",
-    "r": 39,
     "u": "https://www.albumoftheyear.org/search?q={{{s}}}",
     "c": "Multimedia",
     "sc": "Music",
@@ -964,7 +884,6 @@
     "s": "GOG.com",
     "d": "www.gog.com",
     "t": "gog",
-    "r": 211,
     "u": "https://www.gog.com/games?query={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (general)",
@@ -978,7 +897,6 @@
     "s": "Official Minecraft Wiki",
     "d": "minecraft.wiki",
     "t": "mcwiki",
-    "r": 316,
     "u": "https://minecraft.wiki/?search={{{s}}}",
     "c": "Research",
     "sc": "Reference (fun)",
@@ -992,7 +910,6 @@
     "s": "Official Minecraft Wiki",
     "d": "minecraft.wiki",
     "t": "mcw",
-    "r": 316,
     "u": "https://minecraft.wiki/?search={{{s}}}",
     "c": "Research",
     "sc": "Reference (fun)",
@@ -1006,7 +923,6 @@
     "s": "Official Minecraft Wiki",
     "d": "minecraft.wiki",
     "t": "minecraft",
-    "r": 316,
     "u": "https://minecraft.wiki/?search={{{s}}}",
     "c": "Research",
     "sc": "Reference (fun)",
@@ -1020,7 +936,6 @@
     "s": "Official Minecraft Wiki",
     "d": "minecraft.wiki",
     "t": "minecraftwiki",
-    "r": 316,
     "u": "https://minecraft.wiki/?search={{{s}}}",
     "c": "Research",
     "sc": "Reference (fun)",
@@ -1034,7 +949,6 @@
     "s": "Minecraft Wiki (deutsch)",
     "d": "de.minecraft.wiki",
     "t": "mcde",
-    "r": 5,
     "u": "https://de.minecraft.wiki/?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (Minecraft)",
@@ -1048,7 +962,6 @@
     "s": "Minecraft Wiki (deutsch)",
     "d": "de.minecraft.wiki",
     "t": "mcde",
-    "r": 5,
     "u": "https://de.minecraft.wiki/?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (Minecraft)",
@@ -1062,7 +975,6 @@
     "s": "Minecraft Wiki (deutsch)",
     "d": "de.minecraft.wiki",
     "t": "mcde",
-    "r": 5,
     "u": "https://de.minecraft.wiki/?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (Minecraft)",
@@ -1076,7 +988,6 @@
     "s": "Minecraft Wiki (deutsch)",
     "d": "de.minecraft.wiki",
     "t": "mcde",
-    "r": 5,
     "u": "https://de.minecraft.wiki/?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (Minecraft)",
@@ -1090,7 +1001,6 @@
     "s": "Minecraft Wiki FR",
     "d": "fr.minecraft.wiki",
     "t": "mcwikifr",
-    "r": 0,
     "u": "https://fr.minecraft.wiki/?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (Minecraft)",
@@ -1104,7 +1014,6 @@
     "s": "Minecraft Wiki (Chinese)",
     "d": "zh.minecraft.wiki",
     "t": "mcwikizh",
-    "r": 0,
     "u": "https://zh.minecraft.wiki/?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (Minecraft)",
@@ -1118,7 +1027,6 @@
     "s": "ru.minecraft.wiki",
     "d": "ru.minecraft.wiki",
     "t": "minecraft-ru",
-    "r": 0,
     "u": "https://ru.minecraft.wiki/?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (Minecraft)",
@@ -1132,7 +1040,6 @@
     "s": "Staples.com",
     "d": "www.staples.com",
     "t": "staples",
-    "r": 6,
     "u": "https://www.staples.com/{{{s}}}/directory_{{{s}}}",
     "c": "Shopping",
     "sc": "Online",
@@ -1146,7 +1053,6 @@
     "s": "Metacritic",
     "d": "www.metacritic.com",
     "t": "mc",
-    "r": 590,
     "u": "https://www.metacritic.com/search/{{{s}}}/",
     "c": "Online Services",
     "sc": "Search",
