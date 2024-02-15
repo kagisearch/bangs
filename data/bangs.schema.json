@@ -28,9 +28,18 @@
         "type": "string"
       },
       "fmt": {
-        "type": "integer",
-        "minimum": 0,
-        "exclusiveMaximum": 8
+        "type": "array",
+        "uniqueItems": true,
+        "minItems": 0,
+        "maxItems": 3,
+        "items": {
+          "type": "string",
+          "enum": [
+            "open_base_path",
+            "url_encode_placeholder",
+            "url_encode_space_to_plus"
+          ]
+        }
       }
     },
     "required": [

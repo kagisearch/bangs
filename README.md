@@ -15,8 +15,11 @@ This is a repository of bangs used by [Kagi Search](https://kagi.com). It does n
     "u": "https://www.metacritic.com/search/{{{s}}}/", // Template, `{{{s}}}` corresponds to the query
     "c": "Online Services",     // Category
     "sc": "Search",             // Subcategory
-    "fmt": 3                    // Format, enum flags
-                                // (1 - open base path, 2 - url encode placeholder, 4 - url encode space to plus)
+    "fmt": [                    // Format, enum flags
+      "open_base_path",
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   }
 ]
 ```
