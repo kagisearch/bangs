@@ -12,8 +12,8 @@ This is a repository of bangs used by [Kagi Search](https://kagi.com). It does n
     "d": "www.metacritic.com",  // Domain
     "t": "mc",                  // Trigger
     "u": "https://www.metacritic.com/search/{{{s}}}/", // Template, `{{{s}}}` corresponds to the query
-    "c": "Online Services",     // Category
-    "sc": "Search",             // Subcategory
+    "c": "Online Services",     // Category (optional)
+    "sc": "Search",             // Subcategory (optional)
     "fmt": [                    // Format, enum flags
       "open_base_path",
       "url_encode_placeholder",
@@ -25,8 +25,11 @@ This is a repository of bangs used by [Kagi Search](https://kagi.com). It does n
 
 ## Contribution Guidelines
 
-New bangs are accepted if:
-- The trigger is not a proper word (except for brands/trademarks, i.e. "amazon")
+When adding a new bang:
+- The trigger must be specific to the website, not a generic term or word
+  (i.e., "amazon.com" can have "!amazon" but not "!groceries")
+- Each trigger must be unique
+- Category / subcategory are optional
 
 ## Categories
 
