@@ -6,7 +6,18 @@
     "type": "object",
     "properties": {
       "c": {
-        "type": "string"
+        "type": "string",
+        "enum": [
+          "Entertainment",
+          "Man Page",
+          "Multimedia",
+          "News",
+          "Online Services",
+          "Research",
+          "Shopping",
+          "Tech",
+          "Translation"
+        ]
       },
       "d": {
         "type": "string"
