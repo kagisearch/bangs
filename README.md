@@ -26,6 +26,7 @@ This is a repository of bangs used by [Kagi Search](https://kagi.com). It does n
 ## Contribution Guidelines
 
 When adding a new bang:
+- The website must be reasonably well-known and widely used
 - The trigger must be specific to the website, not a generic term or word
   (i.e., "amazon.com" can have "!amazon" but not "!groceries")
 - Each trigger must be unique
