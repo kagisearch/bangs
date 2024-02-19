@@ -25,16 +25,24 @@ This is a repository of bangs used by [Kagi Search](https://kagi.com). It does n
 
 ## Contribution Guidelines
 
-When adding a new bang:
-- The website must be reasonably well-known and widely used
-- The trigger must be specific to the website, not a generic term or word
-  (i.e., "amazon.com" can have "!amazon" but not "!groceries")
-- Each trigger must be unique
-- Category / subcategory are optional
+Kagi Staff and maintainers of this repo have final say, but a good bang submission should follow some basic guidelines.
+
+The website must be reasonably well-known and widely used.
+For example, popular commerical services and forums are OK.
+Low-traffic independent sites, such as startups, local businesses, or personal blogs, are not OK.
+
+The trigger must be specific to the website, not a generic term or word.
+For example, "amazon.com" can have "!amazon" but not "!groceries".
+
+Each trigger must be unique.
+You can test your trigger on Kagi to see if a bang already exists with that trigger.
+
+You can use the Categories list below to find the Category and Subcategory that fits best.
+If you cannot find one, it can be omitted, or we can consider adding a new one.
 
 ## Categories
 
-This is a list of possible categories, with their corresponding subcategories. New subcategories can be added as-needed.
+This is a list of possible categories, with their corresponding subcategories.
 
 - Entertainment:
   - Audio
