@@ -1060,5 +1060,57 @@
       "open_base_path",
       "url_encode_placeholder"
     ]
+  },
+  {
+    "s": "Tldr",
+    "d": "tldr.inbrowser.app",
+    "t": "tldr",
+    "u": "https://tldr.inbrowser.app/search?query={{{s}}}",
+    "c": "Online Services",
+    "sc": "Sysadmin",
+    "fmt": [
+      "open_base_path",
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Fedora Package Search",
+    "d": "packages.fedoraproject.org",
+    "t": "fps",
+    "u": "https://packages.fedoraproject.org/search?query={{{s}}}",
+    "c": "Tech",
+    "sc": "Sysadmin (Fedora)",
+    "fmt": [
+      "open_base_path",
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Fedora Package Search",
+    "d": "packages.fedoraproject.org",
+    "t": "fedpack",
+    "u": "https://packages.fedoraproject.org/search?query={{{s}}}",
+    "c": "Tech",
+    "sc": "Sysadmin (Fedora)",
+    "fmt": [
+      "open_base_path",
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Fedora Package Search",
+    "d": "packages.fedoraproject.org",
+    "t": "fedorapkg",
+    "u": "https://packages.fedoraproject.org/search?query={{{s}}}",
+    "c": "Tech",
+    "sc": "Sysadmin (Fedora)",
+    "fmt": [
+      "open_base_path",
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   }
 ]

@@ -94,6 +94,7 @@ This is a list of possible categories, with their corresponding subcategories. N
   - Social
   - Social (intl)
   - Social news/links
+  - Sysadmin
   - Tools
   - Tools (URLs)
   - Tools (fundraising)
