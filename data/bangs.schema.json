@@ -19,8 +19,7 @@
       "t": {
         "type": "string",
         "title": "Trigger",
-        "description": "The specific trigger word or phrase used to invoke the bang.",
-        "pattern": "^([a-zA-Z0-9\\-_\\.]+|\\?)$"
+        "description": "The specific trigger word or phrase used to invoke the bang."
       },
       "u": {
         "type": "string",

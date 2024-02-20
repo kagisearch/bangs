@@ -2,7 +2,7 @@
   "json.schemas": [
     {
       "fileMatch": [
-        "/bangs.json",
+        "/data/bangs.json",
         "/data/kagi_bangs.json"
       ],
       "url": "./data/bangs.schema.json"
