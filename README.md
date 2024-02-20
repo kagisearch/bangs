@@ -25,20 +25,40 @@ If you cannot find one, it can be omitted, or we can consider adding a new one.
 [
   // ...
   {
-    "s": "Metacritic",          // Website name
-    "d": "www.metacritic.com",  // Domain
-    "t": "mc",                  // Trigger
-    "u": "https://www.metacritic.com/search/{{{s}}}/", // Template, `{{{s}}}` corresponds to the query
-    "c": "Online Services",     // Category (optional)
-    "sc": "Search",             // Subcategory (optional)
-    "fmt": [                    // Format, enum flags
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "s": "Metacritic",
+    "d": "www.metacritic.com",
+    "t": "mc",
+    "u": "https://www.metacritic.com/search/{{{s}}}/",
+    "c": "Online Services",
+    "sc": "Search"
   }
 ]
 ```
+
+Key   | Description  | Required | Notes
+------|--------------|----------|------
+`s`   | Website name | yes      |
+`d`   | Domain       | yes      |
+`t`   | Trigger      | yes      | Letters and numbers only, no spaces or special characters
+`u`   | URL template | yes      | Use `{{{s}}}` for query placeholder.
+`c`   | Category     | no       |
+`sc`  | Subcategory  | no       |
+`fmt` | Format flags | no       | See below.
+
+### Format Flags
+
+The `fmt` field exists to tweak the behavior of how the bang is executed.
+For the majority of bangs, you do not need to specify this - we use defaults that work for 99.9% of bangs.
+But, it can be useful depending on the behavior of the website.
+
+Flag                       | Description
+---------------------------|----------------------
+`open_base_path`           | When the bang is invoked with no query, opens the base path of the URL (`/`) instead of any path given in the template (e.g., `/search`)
+`url_encode_placeholder`   | URL encode the search terms. Some sites do not work with this, so it can be disabled by omitting this.
+`url_encode_space_to_plus` | URL encodes spaces as `+`, instead of `%20`. Some sites only work correctly with one or the other.
+
+By default, all of these are enabled.
+If you specify `fmt`, you must exhaustively specify each options you would like enabled.
 
 ## Categories
 
