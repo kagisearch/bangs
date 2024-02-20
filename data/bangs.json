@@ -57915,10 +57915,10 @@
     "sc": "Programming"
   },
   {
-    "s": "die.net",
-    "d": "die.net",
+    "s": "Arch Linux man pages",
+    "d": "man.archlinux.org",
     "t": "man",
-    "u": "https://www.die.net/search/?q={{{s}}}",
+    "u": "https://man.archlinux.org/search?q={{{s}}}&go=Go",
     "c": "Man Page",
     "sc": "Sysadmin"
   },
@@ -57947,10 +57947,10 @@
     "sc": "Sysadmin (man)"
   },
   {
-    "s": "die.net",
-    "d": "die.net",
+    "s": "Arch Linux man pages",
+    "d": "man.archlinux.org",
     "t": "manpage",
-    "u": "https://www.die.net/search/?q={{{s}}}",
+    "u": "https://man.archlinux.org/search?q={{{s}}}&go=Go",
     "c": "Man Page",
     "sc": "Sysadmin"
   },
