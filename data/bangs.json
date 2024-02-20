@@ -108532,5 +108532,29 @@
     "u": "http://astronet.ge/?s={{{s}}}",
     "c": "News",
     "sc": "Online"
+  },
+  {
+    "d": "googlepatents.com",
+    "s": "Google Patents",
+    "t": "googlepat",
+    "u": "https://patents.google.com/?oq={{{s}}}",
+    "c": "Research",
+    "sc": "Law"
+  },
+  {
+    "d": "googlepatents.com",
+    "s": "Google Patents",
+    "t": "gpat",
+    "u": "https://patents.google.com/?oq={{{s}}}",
+    "c": "Research",
+    "sc": "Law"
+  },
+  {
+    "d": "googlepatents.com",
+    "s": "Google Patents",
+    "t": "gp",
+    "u": "https://patents.google.com/?oq={{{s}}}",
+    "c": "Research",
+    "sc": "Law"
   }
 ]
