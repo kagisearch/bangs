@@ -1,33 +1,29 @@
 # Kagi Bangs
 
-This is a repository of [bangs](https://help.kagi.com/kagi/features/bangs.html) created by [Kagi Search](https://kagi.com).
+Thi is open-source, community maintained, repository of [bangs](https://help.kagi.com/kagi/features/bangs.html) used by [Kagi Search](https://kagi.com).
 
-It includes bangs made specifically for Kagi products, as well as fixes and new bangs submitted by users.
+You can submit changes to improve accuracy of existing bangs as well as create new bangs for use in Kagi Search.
 
-> Did you know?
-> You can make your own custom bangs right now in the [Custom Bangs settings page](https://help.kagi.com/kagi/features/bangs.html#custom-bangs) or the [Search Shortcuts menu](https://help.kagi.com/kagi/features/search-shortcuts.html).
->
-> This repo is for adding new or fixing existing *global* bangs to Kagi.
 
 ## Contribution Guidelines
 
 Kagi Staff and maintainers of this repo have final say, but a good bang submission should follow some basic guidelines.
 
-The website must be reasonably well-known and widely used.
-For example, popular commerical services and forums are OK.
-Low-traffic independent sites, such as startups, local businesses, or personal blogs, are not OK.
+- The website must be reasonably well-known and widely used.
+  For example, popular commerical services and forums are OK.
+  Low-traffic independent sites, such as startups, local businesses, or personal blogs, are not OK.
 
-The trigger must be specific to the website, not a generic term or word.
-For example, "amazon.com" can have "!amazon" but not "!groceries".
+- The trigger must be specific to the website, not a generic term or word.
+  For example, "amazon.com" can have "!amazon" but not "!groceries".
 
-Each trigger must be unique.
-You can test your trigger on Kagi to see if a bang already exists with that trigger.
+- Each trigger must be unique.
+  You can test your trigger on Kagi to see if a bang already exists with that trigger.
 
-You can use the [Categories](#categories) list below to find the Category and Subcategory that fits best.
-If you cannot find one, it can be omitted, or we can consider adding a new one.
+- You can use the [Categories](#categories) list below to find the Category and Subcategory that fits best.
+  If you cannot find one, it can be omitted, or we can consider adding a new one.
 
-If the bang you wish to add does not fit the above criteria, you can still create a custom bang on your own Kagi account for your own use!
-See our [documentation](https://help.kagi.com/kagi/features/bangs.html#custom-bangs) for details.
+- If the bang you wish to add does not fit the above criteria, you can still create a custom bang on your own Kagi account for your own use!
+  See our [documentation](https://help.kagi.com/kagi/features/bangs.html#custom-bangs) for details.
 
 ## Bang Format
 
@@ -292,3 +288,16 @@ This is a list of possible categories, with their corresponding subcategories.
   - Google
 
 </details>
+
+## Did you know?
+
+You can make your own custom bangs right now in the [Custom Bangs settings page](https://help.kagi.com/kagi/features/bangs.html#custom-bangs) or the [Search Shortcuts menu](https://help.kagi.com/kagi/features/search-shortcuts.html). 
+
+These will be instantly avaialble to you and will override any global bangs.
+
+This repository is for adding new or fixing existing *global* bangs to Kagi.
+
+
+## Credits
+
+Kagi bangs are made possible by [DuckDuckGo](https://duckduckgo.com) which invented to concept in 2008. 
