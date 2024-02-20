@@ -1,6 +1,6 @@
 # Kagi Bangs
 
-Thi is open-source, community maintained, repository of [bangs](https://help.kagi.com/kagi/features/bangs.html) used by [Kagi Search](https://kagi.com).
+This is an open-source, community maintained repository of [bangs](https://help.kagi.com/kagi/features/bangs.html) used by [Kagi Search](https://kagi.com).
 
 You can submit changes to improve accuracy of existing bangs as well as create new bangs for use in Kagi Search.
 
