@@ -767,5 +767,17 @@
     "u": "https://packages.fedoraproject.org/search?query={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin (Fedora)"
+  },
+  {
+    "c": "Online Services",
+    "d": "jisho.org",
+    "s": "Jisho",
+    "sc": "Tools",
+    "t": "jisho",
+    "u": "http://jisho.org/search/{{{s}}}",
+    "fmt": [
+      "open_base_path",
+      "url_encode_placeholder"
+    ]
   }
 ]
