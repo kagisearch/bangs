@@ -285,6 +285,468 @@
     ]
   },
   {
+    "s": "Search in International",
+    "d": "kagi.com",
+    "t": "int",
+    "u": "/search?q={{{s}}}&r=no_region",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Belarus",
+    "d": "kagi.com",
+    "t": "by",
+    "u": "/search?q={{{s}}}&r=by",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Belize",
+    "d": "kagi.com",
+    "t": "bz",
+    "u": "/search?q={{{s}}}&r=bz",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Benin",
+    "d": "kagi.com",
+    "t": "bj",
+    "u": "/search?q={{{s}}}&r=bj",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Cayman Islands",
+    "d": "kagi.com",
+    "t": "ky",
+    "u": "/search?q={{{s}}}&r=ky",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Central African Republic",
+    "d": "kagi.com",
+    "t": "cf",
+    "u": "/search?q={{{s}}}&r=cf",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Christmas Island",
+    "d": "kagi.com",
+    "t": "cx",
+    "u": "/search?q={{{s}}}&r=cx",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Colombia",
+    "d": "kagi.com",
+    "t": "co",
+    "u": "/search?q={{{s}}}&r=co",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Czechia",
+    "d": "kagi.com",
+    "t": "cz",
+    "u": "/search?q={{{s}}}&r=cz",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Croatia",
+    "d": "kagi.com",
+    "t": "hr",
+    "u": "/search?q={{{s}}}&r=hr",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Cyprus",
+    "d": "kagi.com",
+    "t": "cy",
+    "u": "/search?q={{{s}}}&r=cy",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Iran",
+    "d": "kagi.com",
+    "t": "ir",
+    "u": "/search?q={{{s}}}&r=ir",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Iraq",
+    "d": "kagi.com",
+    "t": "iq",
+    "u": "/search?q={{{s}}}&r=iq",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Isle of Man",
+    "d": "kagi.com",
+    "t": "im",
+    "u": "/search?q={{{s}}}&r=im",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Kazakhstan",
+    "d": "kagi.com",
+    "t": "kz",
+    "u": "/search?q={{{s}}}&r=kz",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Kenya",
+    "d": "kagi.com",
+    "t": "ke",
+    "u": "/search?q={{{s}}}&r=ke",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Kiribati",
+    "d": "kagi.com",
+    "t": "ki",
+    "u": "/search?q={{{s}}}&r=ki",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Kuwait",
+    "d": "kagi.com",
+    "t": "kw",
+    "u": "/search?q={{{s}}}&r=kw",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Liberia",
+    "d": "kagi.com",
+    "t": "lr",
+    "u": "/search?q={{{s}}}&r=lr",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Libya",
+    "d": "kagi.com",
+    "t": "ly",
+    "u": "/search?q={{{s}}}&r=ly",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Madagascar",
+    "d": "kagi.com",
+    "t": "mg",
+    "u": "/search?q={{{s}}}&r=mg",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Malaysia",
+    "d": "kagi.com",
+    "t": "my",
+    "u": "/search?q={{{s}}}&r=my",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in New Zealand",
+    "d": "kagi.com",
+    "t": "nz",
+    "u": "/search?q={{{s}}}&r=nz",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Norway",
+    "d": "kagi.com",
+    "t": "no",
+    "u": "/search?q={{{s}}}&r=no",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Oman",
+    "d": "kagi.com",
+    "t": "om",
+    "u": "/search?q={{{s}}}&r=om",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Qatar",
+    "d": "kagi.com",
+    "t": "qa",
+    "u": "/search?q={{{s}}}&r=qa",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Réunion",
+    "d": "kagi.com",
+    "t": "re",
+    "u": "/search?q={{{s}}}&r=re",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in South Africa",
+    "d": "kagi.com",
+    "t": "za",
+    "u": "/search?q={{{s}}}&r=za",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Thailand",
+    "d": "kagi.com",
+    "t": "th",
+    "u": "/search?q={{{s}}}&r=th",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Togo",
+    "d": "kagi.com",
+    "t": "tg",
+    "u": "/search?q={{{s}}}&r=tg",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Tokelau",
+    "d": "kagi.com",
+    "t": "tk",
+    "u": "/search?q={{{s}}}&r=tk",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Tonga",
+    "d": "kagi.com",
+    "t": "to",
+    "u": "/search?q={{{s}}}&r=to",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in U.S. Virgin Islands",
+    "d": "kagi.com",
+    "t": "vi",
+    "u": "/search?q={{{s}}}&r=vi",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Ukraine",
+    "d": "kagi.com",
+    "t": "ua",
+    "u": "/search?q={{{s}}}&r=ua",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Uruguay",
+    "d": "kagi.com",
+    "t": "uy",
+    "u": "/search?q={{{s}}}&r=uy",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Uzbekistan",
+    "d": "kagi.com",
+    "t": "uz",
+    "u": "/search?q={{{s}}}&r=uz",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Vanuatu",
+    "d": "kagi.com",
+    "t": "vu",
+    "u": "/search?q={{{s}}}&r=vu",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Vietnam",
+    "d": "kagi.com",
+    "t": "vn",
+    "u": "/search?q={{{s}}}&r=vn",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Yemen",
+    "d": "kagi.com",
+    "t": "ye",
+    "u": "/search?q={{{s}}}&r=ye",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Zambia",
+    "d": "kagi.com",
+    "t": "zm",
+    "u": "/search?q={{{s}}}&r=zm",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Austria",
+    "d": "kagi.com",
+    "t": "at",
+    "u": "/search?q={{{s}}}&r=at",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Belgium (nl)",
+    "d": "kagi.com",
+    "t": "be",
+    "u": "/search?q={{{s}}}&r=be",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Belgium (fr)",
+    "d": "kagi.com",
+    "t": "be_fr",
+    "u": "/search?q={{{s}}}&r=be_fr",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Canada (en)",
+    "d": "kagi.com",
+    "t": "ca",
+    "u": "/search?q={{{s}}}&r=ca",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Canada (fr)",
+    "d": "kagi.com",
+    "t": "ca_fr",
+    "u": "/search?q={{{s}}}&r=ca_fr",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Switzerland (de)",
+    "d": "kagi.com",
+    "t": "ch",
+    "u": "/search?q={{{s}}}&r=ch",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Switzerland (fr)",
+    "d": "kagi.com",
+    "t": "ch_fr",
+    "u": "/search?q={{{s}}}&r=ch_fr",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in China",
+    "d": "kagi.com",
+    "t": "cn",
+    "u": "/search?q={{{s}}}&r=cn",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Germany",
+    "d": "kagi.com",
+    "t": "de",
+    "u": "/search?q={{{s}}}&r=de",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Denmark",
+    "d": "kagi.com",
+    "t": "dk",
+    "u": "/search?q={{{s}}}&r=dk",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Spain (es)",
+    "d": "kagi.com",
+    "t": "es",
+    "u": "/search?q={{{s}}}&r=es",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Span (ca)",
+    "d": "kagi.com",
+    "t": "es_ca",
+    "u": "/search?q={{{s}}}&r=es_ca",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in France",
+    "d": "kagi.com",
+    "t": "fr",
+    "u": "/search?q={{{s}}}&r=fr",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in United Kingdom",
+    "d": "kagi.com",
+    "t": "gb",
+    "u": "/search?q={{{s}}}&r=gb",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Hungary",
+    "d": "kagi.com",
+    "t": "hu",
+    "u": "/search?q={{{s}}}&r=hu",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Italy",
+    "d": "kagi.com",
+    "t": "it",
+    "u": "/search?q={{{s}}}&r=it",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Israel",
+    "d": "kagi.com",
+    "t": "il",
+    "u": "/search?q={{{s}}}&r=il",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Japan",
+    "d": "kagi.com",
+    "t": "jp",
+    "u": "/search?q={{{s}}}&r=jp",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Netherlands",
+    "d": "kagi.com",
+    "t": "nl",
+    "u": "/search?q={{{s}}}&r=nl",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Poland",
+    "d": "kagi.com",
+    "t": "pl",
+    "u": "/search?q={{{s}}}&r=pl",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Portugal",
+    "d": "kagi.com",
+    "t": "pt",
+    "u": "/search?q={{{s}}}&r=pt",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Serbia",
+    "d": "kagi.com",
+    "t": "rs",
+    "u": "/search?q={{{s}}}&r=rs",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in United States",
+    "d": "kagi.com",
+    "t": "us",
+    "u": "/search?q={{{s}}}&r=us",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Slovenia",
+    "d": "kagi.com",
+    "t": "si",
+    "u": "/search?q={{{s}}}&r=si",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Sweden",
+    "d": "kagi.com",
+    "t": "se",
+    "u": "/search?q={{{s}}}&r=se",
+    "c": "Region search"
+  },
+  {
+    "s": "Search in Brazil",
+    "d": "kagi.com",
+    "t": "br",
+    "u": "/search?q={{{s}}}&r=br",
+    "c": "Region search"
+  },
+  {
     "s": "FedEx",
     "d": "fedex.com",
     "t": "fedex",

@@ -20,7 +20,7 @@
         "type": "string",
         "title": "Trigger",
         "description": "The specific trigger word or phrase used to invoke the bang.",
-        "pattern": "^[a-zA-Z0-9-]+$"
+        "pattern": "^[a-zA-Z0-9\\-_]+$"
       },
       "u": {
         "type": "string",
@@ -37,6 +37,7 @@
           "Multimedia",
           "News",
           "Online Services",
+          "Region search",
           "Research",
           "Shopping",
           "Tech",
