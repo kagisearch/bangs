@@ -36,7 +36,7 @@ Key   | Description  | Required | Notes
 ------|--------------|----------|------
 `s`   | Website name | yes      |
 `d`   | Domain       | yes      |
-`t`   | Trigger      | yes      | Letters and numbers only, no spaces or special characters
+`t`   | Trigger      | yes      | May contain letters, numbers, and dashes (`-`). No spaces or other special characters.
 `u`   | URL template | yes      | Use `{{{s}}}` for query placeholder.
 `c`   | Category     | no       |
 `sc`  | Subcategory  | no       |
