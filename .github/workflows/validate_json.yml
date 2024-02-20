@@ -15,7 +15,7 @@ jobs:
       - name: Validate JSON
         uses: walbo/validate-json@v1.1.0
         with:
-          files: ./bangs.json
+          files: ./data/bangs.json
 
           # optional, defaults to `$schema` in your JSON file
           schema: ./data/bangs.schema.json
