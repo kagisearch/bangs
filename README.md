@@ -25,6 +25,8 @@ Kagi Staff and maintainers of this repo have final say, but a good bang submissi
 - If the bang you wish to add does not fit the above criteria, you can still create a custom bang on your own Kagi account for your own use!
   See our [documentation](https://help.kagi.com/kagi/features/bangs.html#custom-bangs) for details.
 
+- Any modifications to bangs should be made to `/data/bangs.json`. `/data/kagi_bangs.json` provides bangs internal to Kagi itself (i.e., image search, search in a specific region)
+
 ## Bang Format
 
 ```jsonc
