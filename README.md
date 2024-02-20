@@ -291,7 +291,7 @@ This is a list of possible categories, with their corresponding subcategories.
 
 ## Did you know?
 
-You can make your own custom bangs right now in the [Custom Bangs settings page](https://help.kagi.com/kagi/features/bangs.html#custom-bangs) or the [Search Shortcuts menu](https://help.kagi.com/kagi/features/search-shortcuts.html). 
+As a Kagi user, you can make your own custom bangs right now in the [Custom Bangs settings page](https://help.kagi.com/kagi/features/bangs.html#custom-bangs) or the [Search Shortcuts menu](https://help.kagi.com/kagi/features/search-shortcuts.html). 
 
 These will be instantly avaialble to you and will override any global bangs.
 
@@ -300,4 +300,4 @@ This repository is for adding new or fixing existing *global* bangs to Kagi.
 
 ## Credits
 
-Kagi bangs are made possible by [DuckDuckGo](https://duckduckgo.com) which invented to concept in 2008. 
+Kagi bangs are made possible by [DuckDuckGo](https://duckduckgo.com) which invented the concept in 2008. 
