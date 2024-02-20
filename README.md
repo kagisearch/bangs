@@ -64,7 +64,11 @@ If you specify `fmt`, you must exhaustively specify each options you would like 
 
 This is a list of possible categories, with their corresponding subcategories.
 
-- Entertainment:
+#### Entertainment
+
+<details>
+<summary>Subcategories</summary>
+
   - Audio
   - Blogs
   - Blogs (intl)
@@ -83,9 +87,23 @@ This is a list of possible categories, with their corresponding subcategories.
   - Radio
   - Sports
   - TV
-- Man Page:
+
+</details>
+
+#### Man Page
+
+<details>
+<summary>Subcategories</summary>
+
   - Sysadmin
-- Multimedia:
+
+</details>
+
+#### Multimedia
+
+<details>
+<summary>Subcategories</summary>
+
   - Books
   - Docs
   - Games (general)
@@ -96,7 +114,14 @@ This is a list of possible categories, with their corresponding subcategories.
   - Music (Folk)
   - Music (Lyrics)
   - Video
-- News:
+
+</details>
+
+#### News
+
+<details>
+<summary>Subcategories</summary>
+
   - Aggregators
   - Broadcast
   - Business
@@ -109,7 +134,14 @@ This is a list of possible categories, with their corresponding subcategories.
   - Online
   - Specialty
   - Weather
-- Online Services:
+
+</details>
+
+#### Online Services
+
+<details>
+<summary>Subcategories</summary>
+
   - Events
   - Google
   - Jobs
@@ -127,7 +159,14 @@ This is a list of possible categories, with their corresponding subcategories.
   - Tools (URLs)
   - Tools (fundraising)
   - Tracking
-- Research:
+
+</details>
+
+#### Research
+
+<details>
+<summary>Subcategories</summary>
+
   - Academic
   - Academic (biology)
   - Academic (math/cs)
@@ -147,7 +186,14 @@ This is a list of possible categories, with their corresponding subcategories.
   - Reference (words)
   - Topical
   - Travel
-- Shopping:
+
+</details>
+
+#### Shopping
+
+<details>
+<summary>Subcategories</summary>
+
   - Big box/department
   - Online
   - Online (deals)
@@ -156,7 +202,14 @@ This is a list of possible categories, with their corresponding subcategories.
   - Services
   - Tech
   - Tech (domains)
-- Tech:
+
+</details>
+
+#### Tech
+
+<details>
+<summary>Subcategories</summary>
+
   - Blogs
   - Blogs (intl)
   - Chakra
@@ -218,6 +271,15 @@ This is a list of possible categories, with their corresponding subcategories.
   - Sysadmin (packages)
   - Tools
   - Tools (URLs)
-- Translation:
+
+</details>
+
+#### Translation
+
+<details>
+<summary>Subcategories</summary>
+
   - General
   - Google
+
+</details>
