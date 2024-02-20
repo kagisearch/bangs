@@ -43,13 +43,15 @@ Key   | Description  | Required | Notes
 `u`   | URL template | yes      | Use `{{{s}}}` for query placeholder.
 `c`   | Category     | no       |
 `sc`  | Subcategory  | no       |
-`fmt` | Format flags | no       | See below.
+`fmt` | Format flags | no       | Array of strings; See below.
 
 ### Format Flags
 
 The `fmt` field exists to tweak the behavior of how the bang is executed.
 For the majority of bangs, you do not need to specify this - we use defaults that work for 99.9% of bangs.
 But, it can be useful depending on the behavior of the website.
+
+The field is an array of strings that act as a list of flags:
 
 Flag                       | Description
 ---------------------------|----------------------
