@@ -1,6 +1,8 @@
 # Kagi Bangs
 
-This is a repository of bangs used by [Kagi Search](https://kagi.com). It does not include unmodified DuckDuckGo bangs.
+This is a repository of [bangs](https://help.kagi.com/kagi/features/bangs.html) created by [Kagi Search](https://kagi.com).
+
+It includes bangs made specifically for Kagi products, as well as fixes and new bangs submitted by users.
 
 ## Contribution Guidelines
 
