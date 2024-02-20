@@ -3,23 +3,13 @@
     "s": "Kagi Search",
     "d": "kagi.com",
     "t": "k",
-    "u": "/search?q={{{s}}}",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "u": "/search?q={{{s}}}"
   },
   {
     "s": "Kagi Search",
     "d": "kagi.com",
     "t": "kagi",
-    "u": "/search?q={{{s}}}",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "u": "/search?q={{{s}}}"
   },
   {
     "s": "Kagi News",
@@ -169,89 +159,49 @@
     "s": "Kagi Podcasts",
     "d": "kagi.com",
     "t": "p",
-    "u": "/podcasts?q={{{s}}}",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "u": "/podcasts?q={{{s}}}"
   },
   {
     "s": "Kagi Podcasts",
     "d": "kagi.com",
     "t": "podcast",
-    "u": "/podcasts?q={{{s}}}",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "u": "/podcasts?q={{{s}}}"
   },
   {
     "s": "Kagi Podcasts",
     "d": "kagi.com",
     "t": "podcasts",
-    "u": "/podcasts?q={{{s}}}",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "u": "/podcasts?q={{{s}}}"
   },
   {
     "s": "Kagi Quick Answer",
     "d": "kagi.com",
     "t": "answer",
-    "u": "/search?q={{{s}}}&qa=true",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "u": "/search?q={{{s}}}&qa=true"
   },
   {
     "s": "Kagi Discussion",
     "d": "kagi.com",
     "t": "discuss",
-    "u": "/discussdoc?url={{{s}}}",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "u": "/discussdoc?url={{{s}}}"
   },
   {
     "s": "Kagi FastGPT",
     "d": "kagi.com",
     "t": "fast",
-    "u": "/fastgpt?query={{{s}}}",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "u": "/fastgpt?query={{{s}}}"
   },
   {
     "s": "Kagi Quick Answer",
     "d": "kagi.com",
     "t": "q",
-    "u": "/search?q={{{s}}}&qa=true",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "u": "/search?q={{{s}}}&qa=true"
   },
   {
     "s": "Kagi Quick Answer",
     "d": "kagi.com",
     "t": "quick",
-    "u": "/search?q={{{s}}}&qa=true",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "u": "/search?q={{{s}}}&qa=true"
   },
   {
     "s": "Kagi Universal Summarizer",
@@ -338,12 +288,7 @@
     "s": "FedEx",
     "d": "fedex.com",
     "t": "fedex",
-    "u": "https://www.fedex.com/fedextrack/?trknbr={{{s}}}",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "u": "https://www.fedex.com/fedextrack/?trknbr={{{s}}}"
   },
   {
     "s": "Prisjakt (Norway)",
@@ -351,12 +296,7 @@
     "t": "pjno",
     "u": "https://www.prisjakt.no/search?search={{{s}}}",
     "c": "Shopping",
-    "sc": "Online",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Online"
   },
   {
     "s": "Search all !bangs",
@@ -364,23 +304,13 @@
     "t": "bang",
     "u": "https://duckduckgo.com/bang?q={{{s}}}",
     "c": "Tech",
-    "sc": "Search (DDG)",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Search (DDG)"
   },
   {
     "s": "Region search",
     "d": "kagi.com",
     "t": "reg",
-    "u": "/search?q={{{s}}}&r=detected",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "u": "/search?q={{{s}}}&r=detected"
   },
   {
     "s": "https://devhints.io/",
@@ -388,12 +318,7 @@
     "t": "cheat",
     "u": "https://devhints.io/?q={{{s}}}",
     "c": "Tech",
-    "sc": "Programming",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Programming"
   },
   {
     "s": "BBC Good Food",
@@ -401,12 +326,7 @@
     "t": "bbcgf",
     "u": "https://www.bbcgoodfood.com/search/recipes?q={{{s}}}",
     "c": "Research",
-    "sc": "Food",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Food"
   },
   {
     "s": "PDFs",
@@ -414,12 +334,7 @@
     "t": "pdf",
     "u": "/search?q={{{s}}}+filetype:pdf",
     "c": "Online Services",
-    "sc": "Search",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Search"
   },
   {
     "s": "MongoDB",
@@ -427,12 +342,7 @@
     "t": "mongodb",
     "u": "https://docs.mongodb.org/search/?q={{{s}}}",
     "c": "Tech",
-    "sc": "Companies",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Companies"
   },
   {
     "s": "MongoDB",
@@ -440,12 +350,7 @@
     "t": "mongo",
     "u": "https://docs.mongodb.org/search/?q={{{s}}}",
     "c": "Tech",
-    "sc": "Programming",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Programming"
   },
   {
     "s": "Oxford Dictionary",
@@ -453,12 +358,7 @@
     "t": "ox",
     "u": "https://www.lexico.com/search?utf8=%E2%9C%93&filter=noad&dictionary=en&query={{{s}}}",
     "c": "Research",
-    "sc": "Reference (words)",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Reference (words)"
   },
   {
     "s": "Go Package Reference",
@@ -466,12 +366,7 @@
     "t": "golang",
     "u": "https://pkg.go.dev/search?q={{{s}}}",
     "c": "Tech",
-    "sc": "Languages (go)",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Languages (go)"
   },
   {
     "s": "Go Package Reference",
@@ -479,12 +374,7 @@
     "t": "gopkg",
     "u": "https://pkg.go.dev/search?q={{{s}}}",
     "c": "Tech",
-    "sc": "Languages (go)",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Languages (go)"
   },
   {
     "s": "Go Package Reference",
@@ -492,12 +382,7 @@
     "t": "gpk",
     "u": "https://pkg.go.dev/search?q={{{s}}}",
     "c": "Tech",
-    "sc": "Languages (go)",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Languages (go)"
   },
   {
     "s": "Google Maps",
@@ -505,12 +390,7 @@
     "t": "gm",
     "u": "https://maps.google.com/maps?q={{{s}}}",
     "c": "Online Services",
-    "sc": "Google",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Google"
   },
   {
     "s": "Google Maps",
@@ -518,12 +398,7 @@
     "t": "gmap",
     "u": "https://maps.google.com/maps?q={{{s}}}",
     "c": "Online Services",
-    "sc": "Google",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Google"
   },
   {
     "s": "Google Maps",
@@ -531,12 +406,7 @@
     "t": "gmaps",
     "u": "https://maps.google.com/maps?q={{{s}}}",
     "c": "Online Services",
-    "sc": "Google",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Google"
   },
   {
     "s": "Google Maps",
@@ -544,12 +414,7 @@
     "t": "googlemap",
     "u": "https://maps.google.com/maps?q={{{s}}}",
     "c": "Online Services",
-    "sc": "Google",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Google"
   },
   {
     "s": "Google Maps",
@@ -557,12 +422,7 @@
     "t": "googlemaps",
     "u": "https://maps.google.com/maps?q={{{s}}}",
     "c": "Online Services",
-    "sc": "Google",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Google"
   },
   {
     "s": "Google Maps",
@@ -570,12 +430,7 @@
     "t": "gmit",
     "u": "https://www.google.it/maps?q={{{s}}}",
     "c": "Online Services",
-    "sc": "Google",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Google"
   },
   {
     "s": "Google Maps",
@@ -583,12 +438,7 @@
     "t": "gmuk",
     "u": "https://www.google.co.uk/maps?q={{{s}}}",
     "c": "Online Services",
-    "sc": "Google",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Google"
   },
   {
     "s": "die.net",
@@ -596,12 +446,7 @@
     "t": "man",
     "u": "https://www.die.net/search/?q={{{s}}}",
     "c": "Man Page",
-    "sc": "Sysadmin",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Sysadmin"
   },
   {
     "s": "die.net",
@@ -609,12 +454,7 @@
     "t": "manpage",
     "u": "https://www.die.net/search/?q={{{s}}}",
     "c": "Man Page",
-    "sc": "Sysadmin",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Sysadmin"
   },
   {
     "s": "Kagi Knowledgebase",
@@ -638,45 +478,25 @@
     "s": "Wolfram Alpha",
     "d": "wolframalpha.com",
     "t": "wa",
-    "u": "https://wolframalpha.com/input?i={{{s}}}",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "u": "https://wolframalpha.com/input?i={{{s}}}"
   },
   {
     "s": "Google",
     "d": "google.com",
     "t": "g",
-    "u": "https://google.com/search?q={{{s}}}",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "u": "https://google.com/search?q={{{s}}}"
   },
   {
     "s": "Bing",
     "d": "bing.com",
     "t": "b",
-    "u": "https://bing.com/search?q={{{s}}}",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "u": "https://bing.com/search?q={{{s}}}"
   },
   {
     "s": "Wikipedia",
     "d": "wikipedia.org",
     "t": "w",
-    "u": "https://wikipedia.org/w/index.php?search={{{s}}}",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "u": "https://wikipedia.org/w/index.php?search={{{s}}}"
   },
   {
     "s": "Wikipedia (RU)",
@@ -684,111 +504,61 @@
     "t": "wru",
     "u": "https://ru.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
-    "sc": "Learning",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Learning"
   },
   {
     "s": "Kagi",
     "d": "kagi.com",
     "t": "recent",
-    "u": "/search?q={{{s}}}&dr=1",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "u": "/search?q={{{s}}}&dr=1"
   },
   {
     "s": "Kagi",
     "d": "kagi.com",
     "t": "day",
-    "u": "/search?q={{{s}}}&dr=1",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "u": "/search?q={{{s}}}&dr=1"
   },
   {
     "s": "Kagi",
     "d": "kagi.com",
     "t": "week",
-    "u": "/search?q={{{s}}}&dr=2",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "u": "/search?q={{{s}}}&dr=2"
   },
   {
     "s": "Kagi",
     "d": "kagi.com",
     "t": "month",
-    "u": "/search?q={{{s}}}&dr=3",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "u": "/search?q={{{s}}}&dr=3"
   },
   {
     "s": "Kagi",
     "d": "kagi.com",
     "t": "calc",
-    "u": "/search?q={{{s}}}",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "u": "/search?q={{{s}}}"
   },
   {
     "s": "Kagi",
     "d": "kagi.com",
     "t": "calculator",
-    "u": "/search?q={{{s}}}",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "u": "/search?q={{{s}}}"
   },
   {
     "s": "Kagi",
     "d": "kagi.com",
     "t": "tim",
-    "u": "/search?q=timer+{{{s}}}",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "u": "/search?q=timer+{{{s}}}"
   },
   {
     "s": "Kagi",
     "d": "kagi.com",
     "t": "timer",
-    "u": "/search?q=timer+{{{s}}}",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "u": "/search?q=timer+{{{s}}}"
   },
   {
     "s": "Kagi Knowledgebase - Search API",
     "d": "help.kagi.com",
     "t": "api",
-    "u": "https://help.kagi.com/kagi/search-api/overview.html",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "u": "https://help.kagi.com/kagi/search-api/overview.html"
   },
   {
     "s": "MELPA",
@@ -796,12 +566,7 @@
     "t": "melpa",
     "u": "http://melpa.org/#/?q={{{s}}}",
     "c": "Online Services",
-    "sc": "Search",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Search"
   },
   {
     "s": "Linux Packages Search",
@@ -809,12 +574,7 @@
     "t": "pkgs",
     "u": "https://pkgs.org/search/?q={{{s}}}",
     "c": "Tech",
-    "sc": "Sysadmin",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Sysadmin"
   },
   {
     "s": "Openverse Creative Commons Search",
@@ -822,12 +582,7 @@
     "t": "cc",
     "u": "https://openverse.org/search/?q={{{s}}}",
     "c": "Online Services",
-    "sc": "Search",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Search"
   },
   {
     "s": "Homebrew",
@@ -835,12 +590,7 @@
     "t": "brew",
     "u": "/search?q={{{s}}}+site%3Aformulae.brew.sh",
     "c": "Tech",
-    "sc": "Downloads (software)",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Downloads (software)"
   },
   {
     "s": "NixOS options",
@@ -848,12 +598,7 @@
     "t": "nixopt",
     "u": "https://search.nixos.org/options?query={{{s}}}",
     "c": "Tech",
-    "sc": "Sysadmin",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Sysadmin"
   },
   {
     "s": "Crontab.guru",
@@ -873,12 +618,7 @@
     "t": "aoty",
     "u": "https://www.albumoftheyear.org/search?q={{{s}}}",
     "c": "Multimedia",
-    "sc": "Music",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Music"
   },
   {
     "s": "GOG.com",
@@ -886,12 +626,7 @@
     "t": "gog",
     "u": "https://www.gog.com/games?query={{{s}}}",
     "c": "Entertainment",
-    "sc": "Games (general)",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Games (general)"
   },
   {
     "s": "Official Minecraft Wiki",
@@ -899,12 +634,7 @@
     "t": "mcwiki",
     "u": "https://minecraft.wiki/?search={{{s}}}",
     "c": "Research",
-    "sc": "Reference (fun)",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Reference (fun)"
   },
   {
     "s": "Official Minecraft Wiki",
@@ -912,12 +642,7 @@
     "t": "mcw",
     "u": "https://minecraft.wiki/?search={{{s}}}",
     "c": "Research",
-    "sc": "Reference (fun)",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Reference (fun)"
   },
   {
     "s": "Official Minecraft Wiki",
@@ -925,12 +650,7 @@
     "t": "minecraft",
     "u": "https://minecraft.wiki/?search={{{s}}}",
     "c": "Research",
-    "sc": "Reference (fun)",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Reference (fun)"
   },
   {
     "s": "Official Minecraft Wiki",
@@ -938,12 +658,7 @@
     "t": "minecraftwiki",
     "u": "https://minecraft.wiki/?search={{{s}}}",
     "c": "Research",
-    "sc": "Reference (fun)",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Reference (fun)"
   },
   {
     "s": "Minecraft Wiki (deutsch)",
@@ -951,12 +666,7 @@
     "t": "mcde",
     "u": "https://de.minecraft.wiki/?search={{{s}}}",
     "c": "Entertainment",
-    "sc": "Games (Minecraft)",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Games (Minecraft)"
   },
   {
     "s": "Minecraft Wiki (deutsch)",
@@ -964,12 +674,7 @@
     "t": "mcde",
     "u": "https://de.minecraft.wiki/?search={{{s}}}",
     "c": "Entertainment",
-    "sc": "Games (Minecraft)",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Games (Minecraft)"
   },
   {
     "s": "Minecraft Wiki (deutsch)",
@@ -977,12 +682,7 @@
     "t": "mcde",
     "u": "https://de.minecraft.wiki/?search={{{s}}}",
     "c": "Entertainment",
-    "sc": "Games (Minecraft)",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Games (Minecraft)"
   },
   {
     "s": "Minecraft Wiki (deutsch)",
@@ -990,12 +690,7 @@
     "t": "mcde",
     "u": "https://de.minecraft.wiki/?search={{{s}}}",
     "c": "Entertainment",
-    "sc": "Games (Minecraft)",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Games (Minecraft)"
   },
   {
     "s": "Minecraft Wiki FR",
@@ -1003,12 +698,7 @@
     "t": "mcwikifr",
     "u": "https://fr.minecraft.wiki/?search={{{s}}}",
     "c": "Entertainment",
-    "sc": "Games (Minecraft)",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Games (Minecraft)"
   },
   {
     "s": "Minecraft Wiki (Chinese)",
@@ -1016,12 +706,7 @@
     "t": "mcwikizh",
     "u": "https://zh.minecraft.wiki/?search={{{s}}}",
     "c": "Entertainment",
-    "sc": "Games (Minecraft)",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Games (Minecraft)"
   },
   {
     "s": "ru.minecraft.wiki",
@@ -1029,12 +714,7 @@
     "t": "minecraft-ru",
     "u": "https://ru.minecraft.wiki/?search={{{s}}}",
     "c": "Entertainment",
-    "sc": "Games (Minecraft)",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Games (Minecraft)"
   },
   {
     "s": "Staples.com",
@@ -1042,12 +722,7 @@
     "t": "staples",
     "u": "https://www.staples.com/{{{s}}}/directory_{{{s}}}",
     "c": "Shopping",
-    "sc": "Online",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Online"
   },
   {
     "s": "Metacritic",
@@ -1067,12 +742,7 @@
     "t": "tldr",
     "u": "https://tldr.inbrowser.app/search?query={{{s}}}",
     "c": "Online Services",
-    "sc": "Sysadmin",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Sysadmin"
   },
   {
     "s": "Fedora Package Search",
@@ -1080,12 +750,7 @@
     "t": "fps",
     "u": "https://packages.fedoraproject.org/search?query={{{s}}}",
     "c": "Tech",
-    "sc": "Sysadmin (Fedora)",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Sysadmin (Fedora)"
   },
   {
     "s": "Fedora Package Search",
@@ -1093,12 +758,7 @@
     "t": "fedpack",
     "u": "https://packages.fedoraproject.org/search?query={{{s}}}",
     "c": "Tech",
-    "sc": "Sysadmin (Fedora)",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Sysadmin (Fedora)"
   },
   {
     "s": "Fedora Package Search",
@@ -1106,11 +766,6 @@
     "t": "fedorapkg",
     "u": "https://packages.fedoraproject.org/search?query={{{s}}}",
     "c": "Tech",
-    "sc": "Sysadmin (Fedora)",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "sc": "Sysadmin (Fedora)"
   }
 ]
