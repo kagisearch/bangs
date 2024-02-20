@@ -18,7 +18,7 @@ For example, "amazon.com" can have "!amazon" but not "!groceries".
 Each trigger must be unique.
 You can test your trigger on Kagi to see if a bang already exists with that trigger.
 
-You can use the Categories list below to find the Category and Subcategory that fits best.
+You can use the [Categories](#categories) list below to find the Category and Subcategory that fits best.
 If you cannot find one, it can be omitted, or we can consider adding a new one.
 
 ## Bang Format
