@@ -58970,7 +58970,7 @@
     "s": "Minecraft Name History",
     "d": "namemc.com",
     "t": "mcname",
-    "u": "https://namemc.com/s?{{{s}}}",
+    "u": "https://namemc.com/search?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (Minecraft)"
   },
@@ -64044,7 +64044,7 @@
     "s": "NameMC",
     "d": "de.namemc.com",
     "t": "namemc",
-    "u": "https://de.namemc.com/s?{{{s}}}",
+    "u": "https://de.namemc.com/search?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (Minecraft)"
   },
@@ -66060,7 +66060,7 @@
     "s": "NameMC",
     "d": "namemc.com",
     "t": "nmc",
-    "u": "https://namemc.com/s?{{{s}}}",
+    "u": "https://namemc.com/search?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (Minecraft)"
   },
