@@ -4,6 +4,11 @@ This is a repository of [bangs](https://help.kagi.com/kagi/features/bangs.html) 
 
 It includes bangs made specifically for Kagi products, as well as fixes and new bangs submitted by users.
 
+> Did you know?
+> You can make your own custom bangs right now in the [Custom Bangs settings page](https://help.kagi.com/kagi/features/bangs.html#custom-bangs) or the [Search Shortcuts menu](https://help.kagi.com/kagi/features/search-shortcuts.html).
+>
+> This repo is for adding new or fixing existing *global* bangs to Kagi.
+
 ## Contribution Guidelines
 
 Kagi Staff and maintainers of this repo have final say, but a good bang submission should follow some basic guidelines.
@@ -20,6 +25,9 @@ You can test your trigger on Kagi to see if a bang already exists with that trig
 
 You can use the [Categories](#categories) list below to find the Category and Subcategory that fits best.
 If you cannot find one, it can be omitted, or we can consider adding a new one.
+
+If the bang you wish to add does not fit the above criteria, you can still create a custom bang on your own Kagi account for your own use!
+See our [documentation](https://help.kagi.com/kagi/features/bangs.html#custom-bangs) for details.
 
 ## Bang Format
 
