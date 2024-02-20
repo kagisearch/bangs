@@ -22,17 +22,14 @@ If you cannot find one, it can be omitted, or we can consider adding a new one.
 ## Bang Format
 
 ```jsonc
-[
-  // ...
-  {
-    "s": "Metacritic",
-    "d": "www.metacritic.com",
-    "t": "mc",
-    "u": "https://www.metacritic.com/search/{{{s}}}/",
-    "c": "Online Services",
-    "sc": "Search"
-  }
-]
+{
+  "s": "Metacritic",
+  "d": "www.metacritic.com",
+  "t": "mc",
+  "u": "https://www.metacritic.com/search/{{{s}}}/",
+  "c": "Online Services",
+  "sc": "Search"
+}
 ```
 
 Key   | Description  | Required | Notes
