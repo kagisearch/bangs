@@ -66248,9 +66248,9 @@
   },
   {
     "s": "Noita Wiki",
-    "d": "noita.gamepedia.com",
+    "d": "noita.wiki.gg",
     "t": "noita",
-    "u": "https://noita.gamepedia.com/{{{s}}}",
+    "u": "https://noita.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
