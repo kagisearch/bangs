@@ -44629,17 +44629,19 @@
   },
   {
     "s": "Hollow Knight Wiki",
-    "d": "hollowknight.wikia.com",
+    "d": "hollowknight.wiki",
     "t": "hkw",
-    "u": "http://hollowknight.wikia.com/wiki/Special:Search?query={{{s}}}",
+    "u": "https://hollowknight.wiki/mw/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
   {
-    "s": "Hollow Knight Wikia",
-    "d": "hollowknight.wikia.com",
-    "t": "hkwikia",
-    "u": "http://hollowknight.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search&ns0=1&ns14=1"
+    "s": "Hollow Knight Wiki",
+    "d": "hollowknight.wiki",
+    "t": "hkwiki",
+    "u": "https://hollowknight.wiki/mw/index.php?search={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (specific)"
   },
   {
     "s": "How Long to Beat",
