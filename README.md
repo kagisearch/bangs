@@ -299,7 +299,7 @@ No corresponding subcategories.
 
 As a Kagi user, you can make your own custom bangs right now in the [Custom Bangs settings page](https://help.kagi.com/kagi/features/bangs.html#custom-bangs) or the [Search Shortcuts menu](https://help.kagi.com/kagi/features/search-shortcuts.html).
 
-These will be instantly avaialble to you and will override any global bangs.
+These will be instantly available to you and will override any global bangs.
 
 This repository is for adding new or fixing existing *global* bangs to Kagi.
 
