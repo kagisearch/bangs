@@ -62802,7 +62802,7 @@
     "s": "Meteo Suisse / Schweiz",
     "d": "www.meteoswiss.admin.ch",
     "t": "msui",
-    "u": "https://www.meteoswiss.admin.ch/home/search.html?query={{{s}}} ",
+    "u": "https://www.meteoswiss.admin.ch/search.html#query={{{s}}} ",
     "c": "News",
     "sc": "Weather"
   },
