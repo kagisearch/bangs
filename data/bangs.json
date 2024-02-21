@@ -23691,9 +23691,9 @@
   },
   {
     "s": "Dungeons and Dragons Wiki",
-    "d": "dungeons.wikia.com",
+    "d": "dnd-wiki.org",
     "t": "dndwiki",
-    "u": "http://dungeons.wikia.com/wiki/Special:Search?search={{{s}}}",
+    "u": "https://dnd-wiki.org/w/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
