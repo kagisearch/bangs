@@ -108544,5 +108544,13 @@
     "u": "http://astronet.ge/?s={{{s}}}",
     "c": "News",
     "sc": "Online"
+  },
+  {
+    "s": "Aviation Weather Center",
+    "d": "aviationweather.gov",
+    "t": "awc",
+    "u": "https://aviationweather.gov/data/metar/?id={{{s}}}&hours=0&include_taf=ye",
+    "c": "Research",
+    "sc": "Travel"
   }
 ]
