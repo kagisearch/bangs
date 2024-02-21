@@ -43917,9 +43917,17 @@
   },
   {
     "s": "Hearthstone Wiki",
-    "d": "hearthstone.gamepedia.com",
+    "d": "hearthstone.wiki.gg",
     "t": "hearthstone",
-    "u": "http://hearthstone.gamepedia.com/?search={{{s}}}",
+    "u": "https://hearthstone.wiki.gg/index.php?search={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (specific)"
+  },
+  {
+    "s": "Hearthstone Wiki",
+    "d": "hearthstone.wiki.gg",
+    "t": "hswiki",
+    "u": "https://hearthstone.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
@@ -45514,14 +45522,6 @@
     "u": "http://computer.howstuffworks.com/search.php?terms={{{s}}}",
     "c": "Research",
     "sc": "Reference"
-  },
-  {
-    "s": "Hearthstone: Heroes of Warcraft Wiki",
-    "d": "hearthstone.gamepedia.com",
-    "t": "hswiki",
-    "u": "http://hearthstone.gamepedia.com/index.php?search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
   },
   {
     "s": "HookTube",
