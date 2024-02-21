@@ -75636,9 +75636,9 @@
   },
   {
     "s": "PLAYERUNKNOWN'S BATTLEGROUNDS Wiki",
-    "d": "pubg.gamepedia.com",
+    "d": "pubg.wiki.gg",
     "t": "pubgwiki",
-    "u": "https://pubg.gamepedia.com/index.php?search={{{s}}}",
+    "u": "https://pubg.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
