@@ -50286,9 +50286,9 @@
   },
   {
     "s": "JoJo's Bizarre Encyclopedia",
-    "d": "jojo.wikia.com",
+    "d": "jojowiki.com",
     "t": "jojo",
-    "u": "http://jojo.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search",
+    "u": "https://jojowiki.com/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Comics"
   },
