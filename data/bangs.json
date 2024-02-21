@@ -94446,9 +94446,9 @@
   },
   {
     "s": "Toontown Rewritten",
-    "d": "toontownrewritten.wikia.com",
+    "d": "toontownrewritten.wiki",
     "t": "ttr",
-    "u": "http://toontownrewritten.wikia.com/wiki/Special:Search?search={{{s}}}",
+    "u": "https://toontownrewritten.wiki/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
