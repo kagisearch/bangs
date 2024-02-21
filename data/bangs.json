@@ -52349,10 +52349,10 @@
     "sc": "Movies"
   },
   {
-    "s": "KOEI Wiki",
-    "d": "koei.wikia.com",
+    "s": "Koei Tecmo Wiki",
+    "d": "koeitecmo.wiki",
     "t": "koei",
-    "u": "http://koei.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search",
+    "u": "https://koeitecmo.wiki/w/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (offline)"
   },
