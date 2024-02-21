@@ -77777,10 +77777,18 @@
     "sc": "Online"
   },
   {
-    "s": "RECAP the law",
-    "d": "archive.recapthelaw.org",
+    "s": "CourtListener - RECAP Archive",
+    "d": "www.courtlistener.com",
     "t": "recap",
-    "u": "http://archive.recapthelaw.org/search/advanced/?q={{{s}}}&x=0&y=0&court=&docket_number=&case_name=&pacer_case_number=&date_filed=&date_filed_end=&date_terminated=&date_terminated_end=&date_last_filing=&date_last_filing_end=",
+    "u": "https://www.courtlistener.com/?type=r&q={{{s}}}&order_by=score%20desc",
+    "c": "Research",
+    "sc": "Law"
+  },
+  {
+    "s": "CourtListener - Case Law",
+    "d": "www.courtlistener.com",
+    "t": "courtlistener",
+    "u": "https://www.courtlistener.com/?type=o&q={{{s}}}&order_by=score%20desc",
     "c": "Research",
     "sc": "Law"
   },
