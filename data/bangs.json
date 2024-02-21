@@ -24138,10 +24138,18 @@
     "sc": "Online (marketplace)"
   },
   {
-    "s": "http://dont-starve-game.wikia.com/wiki/Don%27t_Starve_Wiki",
-    "d": "dont-starve-game.wikia.com",
+    "s": "Don't Starve Wiki",
+    "d": "dontstarve.wiki.gg",
     "t": "dontstarve",
-    "u": "http://dont-starve-game.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search",
+    "u": "https://dontstarve.wiki.gg/index.php?search={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (specific)"
+  },
+  {
+    "s": "Don't Starve Wiki",
+    "d": "dontstarve.wiki.gg",
+    "t": "dstarve",
+    "u": "https://dontstarve.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
@@ -25172,14 +25180,6 @@
     "u": "http://snapshot.debian.org/package/?src={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin (debian)"
-  },
-  {
-    "s": "Don't Starve Wiki",
-    "d": "dont-starve-game.wikia.com",
-    "t": "dstarve",
-    "u": "http://dont-starve-game.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search",
-    "c": "Entertainment",
-    "sc": "Games (general)"
   },
   {
     "s": "Debian Security Tracker",
