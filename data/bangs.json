@@ -23691,9 +23691,9 @@
   },
   {
     "s": "Dungeons and Dragons Wiki",
-    "d": "dungeons.wikia.com",
+    "d": "dnd-wiki.org",
     "t": "dndwiki",
-    "u": "http://dungeons.wikia.com/wiki/Special:Search?search={{{s}}}",
+    "u": "https://dnd-wiki.org/w/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
@@ -24138,10 +24138,18 @@
     "sc": "Online (marketplace)"
   },
   {
-    "s": "http://dont-starve-game.wikia.com/wiki/Don%27t_Starve_Wiki",
-    "d": "dont-starve-game.wikia.com",
+    "s": "Don't Starve Wiki",
+    "d": "dontstarve.wiki.gg",
     "t": "dontstarve",
-    "u": "http://dont-starve-game.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search",
+    "u": "https://dontstarve.wiki.gg/index.php?search={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (specific)"
+  },
+  {
+    "s": "Don't Starve Wiki",
+    "d": "dontstarve.wiki.gg",
+    "t": "dstarve",
+    "u": "https://dontstarve.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
@@ -25172,14 +25180,6 @@
     "u": "http://snapshot.debian.org/package/?src={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin (debian)"
-  },
-  {
-    "s": "Don't Starve Wiki",
-    "d": "dont-starve-game.wikia.com",
-    "t": "dstarve",
-    "u": "http://dont-starve-game.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search",
-    "c": "Entertainment",
-    "sc": "Games (general)"
   },
   {
     "s": "Debian Security Tracker",
@@ -43917,9 +43917,17 @@
   },
   {
     "s": "Hearthstone Wiki",
-    "d": "hearthstone.gamepedia.com",
+    "d": "hearthstone.wiki.gg",
     "t": "hearthstone",
-    "u": "http://hearthstone.gamepedia.com/?search={{{s}}}",
+    "u": "https://hearthstone.wiki.gg/index.php?search={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (specific)"
+  },
+  {
+    "s": "Hearthstone Wiki",
+    "d": "hearthstone.wiki.gg",
+    "t": "hswiki",
+    "u": "https://hearthstone.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
@@ -45514,14 +45522,6 @@
     "u": "http://computer.howstuffworks.com/search.php?terms={{{s}}}",
     "c": "Research",
     "sc": "Reference"
-  },
-  {
-    "s": "Hearthstone: Heroes of Warcraft Wiki",
-    "d": "hearthstone.gamepedia.com",
-    "t": "hswiki",
-    "u": "http://hearthstone.gamepedia.com/index.php?search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
   },
   {
     "s": "HookTube",
@@ -50286,9 +50286,9 @@
   },
   {
     "s": "JoJo's Bizarre Encyclopedia",
-    "d": "jojo.wikia.com",
+    "d": "jojowiki.com",
     "t": "jojo",
-    "u": "http://jojo.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search",
+    "u": "https://jojowiki.com/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Comics"
   },
@@ -52349,10 +52349,10 @@
     "sc": "Movies"
   },
   {
-    "s": "KOEI Wiki",
-    "d": "koei.wikia.com",
+    "s": "Koei Tecmo Wiki",
+    "d": "koeitecmo.wiki",
     "t": "koei",
-    "u": "http://koei.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search",
+    "u": "https://koeitecmo.wiki/w/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (offline)"
   },
@@ -66248,9 +66248,9 @@
   },
   {
     "s": "Noita Wiki",
-    "d": "noita.gamepedia.com",
+    "d": "noita.wiki.gg",
     "t": "noita",
-    "u": "https://noita.gamepedia.com/{{{s}}}",
+    "u": "https://noita.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
@@ -73621,14 +73621,6 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "Path of Exile Gamepedia",
-    "d": "pathofexile.gamepedia.com",
-    "t": "poegp",
-    "u": "https://pathofexile.gamepedia.com/index.php?search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
-  },
-  {
     "s": "PoemHunter",
     "d": "www.poemhunter.com",
     "t": "poem",
@@ -73646,19 +73638,19 @@
   },
   {
     "s": "Path of Exile page",
-    "d": "pathofexile.gamepedia.com",
+    "d": "www.poewiki.net",
     "t": "poepage",
-    "u": "http://pathofexile.gamepedia.com/{{{s}}}",
+    "u": "https://www.poewiki.net/wiki/{{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
   {
     "s": "Path of Exile Wiki",
-    "d": "pathofexile.gamepedia.com",
+    "d": "www.poewiki.net",
     "t": "poe",
-    "u": "http://pathofexile.gamepedia.com/index.php?search={{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools"
+    "u": "https://www.poewiki.net/index.php?search={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (specific)"
   },
   {
     "s": "Path of Exile Subreddit",
@@ -75636,9 +75628,9 @@
   },
   {
     "s": "PLAYERUNKNOWN'S BATTLEGROUNDS Wiki",
-    "d": "pubg.gamepedia.com",
+    "d": "pubg.wiki.gg",
     "t": "pubgwiki",
-    "u": "https://pubg.gamepedia.com/index.php?search={{{s}}}",
+    "u": "https://pubg.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
@@ -79716,9 +79708,9 @@
   },
   {
     "s": "Risk of Rain 2 Wiki",
-    "d": "riskofrain2.fandom.com",
+    "d": "riskofrain2.wiki.gg",
     "t": "ror2",
-    "u": "https://riskofrain2.fandom.com/wiki/Special:Search?query={{{s}}}",
+    "u": "https://riskofrain2.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
@@ -91118,19 +91110,11 @@
   },
   {
     "s": "Official Terraria Wiki",
-    "d": "terraria.gamepedia.com",
+    "d": "terraria.wiki.gg",
     "t": "terraria",
-    "u": "https://terraria.gamepedia.com/index.php?title=Special%3ASearch&profile=default&search={{{s}}}&fulltext=Search",
+    "u": "https://terraria.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
-  },
-  {
-    "s": "Terraria Gamepedia Wiki",
-    "d": "terraria.gamepedia.com",
-    "t": "terrg",
-    "u": "http://terraria.gamepedia.com/index.php?search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (general)"
   },
   {
     "s": "TYPO3 Extension repository",
@@ -92118,9 +92102,9 @@
   },
   {
     "s": "Official Thorium Mod Wiki",
-    "d": "thoriummod.gamepedia.com",
+    "d": "thoriummod.wiki.gg",
     "t": "thoriummod",
-    "u": "https://thoriummod.gamepedia.com/index.php?search={{{s}}}",
+    "u": "https://thoriummod.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (general)"
   },
@@ -94454,9 +94438,9 @@
   },
   {
     "s": "Toontown Rewritten",
-    "d": "toontownrewritten.wikia.com",
+    "d": "toontownrewritten.wiki",
     "t": "ttr",
-    "u": "http://toontownrewritten.wikia.com/wiki/Special:Search?search={{{s}}}",
+    "u": "https://toontownrewritten.wiki/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
@@ -107812,14 +107796,6 @@
     "sc": "Newspaper"
   },
   {
-    "s": "Zeldapedia",
-    "d": "zelda.wikia.com",
-    "t": "zeldapedia",
-    "u": "http://zelda.wikia.com/wiki/Special:Search?search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
-  },
-  {
     "s": "Zelda Universe",
     "d": "www.zeldauniverse.net",
     "t": "zeldauniverse",
@@ -107829,9 +107805,25 @@
   },
   {
     "s": "Zelda Wiki",
-    "d": "zelda.gamepedia.com",
+    "d": "zeldawiki.wiki",
     "t": "zeldawiki",
-    "u": "https://zelda.gamepedia.com/index.php?search={{{s}}}",
+    "u": "https://zeldawiki.wiki/w/index.php?search={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (specific)"
+  },
+  {
+    "s": "Zelda Wiki",
+    "d": "zeldawiki.wiki",
+    "t": "zw",
+    "u": "https://zeldawiki.wiki/w/index.php?search={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (specific)"
+  },
+  {
+    "s": "Zelda Wiki",
+    "d": "zeldawiki.wiki",
+    "t": "zeldapedia",
+    "u": "https://zeldawiki.wiki/w/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
@@ -108194,14 +108186,6 @@
     "u": "https://www.zalando.de/katalog/?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
-  },
-  {
-    "s": "Zelda Wiki",
-    "d": "zelda.gamepedia.com",
-    "t": "zw",
-    "u": "https://zelda.gamepedia.com/index.php?search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
   },
   {
     "s": "Zephyr Cross Reference",
