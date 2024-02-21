@@ -79716,9 +79716,9 @@
   },
   {
     "s": "Risk of Rain 2 Wiki",
-    "d": "riskofrain2.fandom.com",
+    "d": "riskofrain2.wiki.gg",
     "t": "ror2",
-    "u": "https://riskofrain2.fandom.com/wiki/Special:Search?query={{{s}}}",
+    "u": "https://riskofrain2.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
