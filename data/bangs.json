@@ -73621,14 +73621,6 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "Path of Exile Gamepedia",
-    "d": "pathofexile.gamepedia.com",
-    "t": "poegp",
-    "u": "https://pathofexile.gamepedia.com/index.php?search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
-  },
-  {
     "s": "PoemHunter",
     "d": "www.poemhunter.com",
     "t": "poem",
@@ -73646,19 +73638,19 @@
   },
   {
     "s": "Path of Exile page",
-    "d": "pathofexile.gamepedia.com",
+    "d": "www.poewiki.net",
     "t": "poepage",
-    "u": "http://pathofexile.gamepedia.com/{{{s}}}",
+    "u": "https://www.poewiki.net/wiki/{{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
   {
     "s": "Path of Exile Wiki",
-    "d": "pathofexile.gamepedia.com",
+    "d": "www.poewiki.net",
     "t": "poe",
-    "u": "http://pathofexile.gamepedia.com/index.php?search={{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools"
+    "u": "https://www.poewiki.net/index.php?search={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (specific)"
   },
   {
     "s": "Path of Exile Subreddit",
