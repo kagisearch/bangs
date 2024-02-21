@@ -91118,19 +91118,11 @@
   },
   {
     "s": "Official Terraria Wiki",
-    "d": "terraria.gamepedia.com",
+    "d": "terraria.wiki.gg",
     "t": "terraria",
-    "u": "https://terraria.gamepedia.com/index.php?title=Special%3ASearch&profile=default&search={{{s}}}&fulltext=Search",
+    "u": "https://terraria.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
-  },
-  {
-    "s": "Terraria Gamepedia Wiki",
-    "d": "terraria.gamepedia.com",
-    "t": "terrg",
-    "u": "http://terraria.gamepedia.com/index.php?search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (general)"
   },
   {
     "s": "TYPO3 Extension repository",
