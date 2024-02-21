@@ -107804,14 +107804,6 @@
     "sc": "Newspaper"
   },
   {
-    "s": "Zeldapedia",
-    "d": "zelda.wikia.com",
-    "t": "zeldapedia",
-    "u": "http://zelda.wikia.com/wiki/Special:Search?search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
-  },
-  {
     "s": "Zelda Universe",
     "d": "www.zeldauniverse.net",
     "t": "zeldauniverse",
@@ -107821,9 +107813,25 @@
   },
   {
     "s": "Zelda Wiki",
-    "d": "zelda.gamepedia.com",
+    "d": "zeldawiki.wiki",
     "t": "zeldawiki",
-    "u": "https://zelda.gamepedia.com/index.php?search={{{s}}}",
+    "u": "https://zeldawiki.wiki/w/index.php?search={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (specific)"
+  },
+  {
+    "s": "Zelda Wiki",
+    "d": "zeldawiki.wiki",
+    "t": "zw",
+    "u": "https://zeldawiki.wiki/w/index.php?search={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (specific)"
+  },
+  {
+    "s": "Zelda Wiki",
+    "d": "zeldawiki.wiki",
+    "t": "zeldapedia",
+    "u": "https://zeldawiki.wiki/w/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
@@ -108186,14 +108194,6 @@
     "u": "https://www.zalando.de/katalog/?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
-  },
-  {
-    "s": "Zelda Wiki",
-    "d": "zelda.gamepedia.com",
-    "t": "zw",
-    "u": "https://zelda.gamepedia.com/index.php?search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
   },
   {
     "s": "Zephyr Cross Reference",
