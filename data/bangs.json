@@ -49988,7 +49988,11 @@
     "t": "ji",
     "u": "https://jisho.org/search/{{{s}}}",
     "c": "Research",
-    "sc": "Reference (words intl)"
+    "sc": "Reference (words intl)",
+    "fmt": [
+      "open_base_path",
+      "url_encode_placeholder"
+    ]
   },
   {
     "s": "Jisho (kanji search)",
@@ -49996,7 +50000,11 @@
     "t": "jik",
     "u": "https://jisho.org/search/%23kanji%20{{{s}}}",
     "c": "Research",
-    "sc": "Learning (intl)"
+    "sc": "Learning (intl)",
+    "fmt": [
+      "open_base_path",
+      "url_encode_placeholder"
+    ]
   },
   {
     "s": "Jimm's",
@@ -50020,7 +50028,11 @@
     "t": "jisho",
     "u": "http://jisho.org/search/{{{s}}}",
     "c": "Online Services",
-    "sc": "Tools"
+    "sc": "Tools",
+    "fmt": [
+      "open_base_path",
+      "url_encode_placeholder"
+    ]
   },
   {
     "s": "Jobintree",
