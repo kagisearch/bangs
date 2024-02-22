@@ -2592,7 +2592,7 @@
     "sc": "Blogs"
   },
   {
-    "s": "Aiden Promtions",
+    "s": "Aiden Promotions",
     "d": "aidenpromotions.com",
     "t": "aiden",
     "u": "https://aidenpromotions.com/blog/?s=phones {{{s}}}",
@@ -6346,7 +6346,7 @@
     "sc": "Misc"
   },
   {
-    "s": "The Collection at the Minneapois Insitute of Arts",
+    "s": "The Collection at the Minneapois Institute of Arts",
     "d": "collections.artsmia.org",
     "t": "artsmia",
     "u": "https://collections.artsmia.org/index.php?page=search#query={{{s}}}",
@@ -9208,7 +9208,7 @@
     "sc": "Design"
   },
   {
-    "s": "Beind the name - Surnames",
+    "s": "Behind the name - Surnames",
     "d": "surnames.behindthename.com",
     "t": "behindsurname",
     "u": "http://surnames.behindthename.com/name/{{{s}}} ",
@@ -11608,7 +11608,7 @@
     "sc": "Languages (c++)"
   },
   {
-    "s": "Boostrap",
+    "s": "Bootstrap",
     "d": "getbootstrap.com",
     "t": "boot",
     "u": "https://getbootstrap.com/docs/4.0/components/{{{s}}}/",
@@ -17056,7 +17056,7 @@
     "sc": "Events"
   },
   {
-    "s": "Colorado State Universtiy library",
+    "s": "Colorado State University library",
     "d": "colostate-primo.hosted.exlibrisgroup.com",
     "t": "Cololib",
     "u": "https://colostate-primo.hosted.exlibrisgroup.com/primo-explore/search?vid=01COLSU&lang=en_US&primoQueryTemp=d&search_field=any&search_scope=Everything&query=any,contains,{{{s}}}",
@@ -36118,7 +36118,7 @@
     "sc": "Music"
   },
   {
-    "s": "Librery Genesis",
+    "s": "Library Genesis",
     "d": "gen.lib.rus.ec",
     "t": "genesis",
     "u": "http://gen.lib.rus.ec/search.php?req={{{s}}}&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def",
@@ -36262,7 +36262,7 @@
     "sc": "Reference"
   },
   {
-    "s": "NCBI Gene Expresion Omnibus",
+    "s": "NCBI Gene Expression Omnibus",
     "d": "www.ncbi.nlm.nih.gov",
     "t": "geo",
     "u": "http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc={{{s}}}",
@@ -49513,7 +49513,7 @@
     "sc": "Languages (java)"
   },
   {
-    "s": "Java Oracle documenation",
+    "s": "Java Oracle documentation",
     "d": "docs.oracle.com",
     "t": "java9",
     "u": "http://docs.oracle.com/apps/search/search.jsp?category=java&q={{{s}}}",
