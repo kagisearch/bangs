@@ -30600,8 +30600,16 @@
   {
     "s": "Fallout Wikia",
     "d": "fallout.wikia.com",
-    "t": "fallout",
+    "t": "fallout-wikia",
     "u": "http://fallout.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search",
+    "c": "Entertainment",
+    "sc": "Games (specific)"
+  },
+  {
+    "s": "Fallout Wiki",
+    "d": "fallout.wiki",
+    "t": "fallout",
+    "u": "http://fallout.wiki/wiki/Special:Search?search={{{s}}}&fulltext=Search",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
