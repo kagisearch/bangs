@@ -84607,14 +84607,6 @@
     "sc": "Audio"
   },
   {
-    "s": "SKS Keyservers",
-    "d": "sks-keyservers.net",
-    "t": "sks",
-    "u": "https://sks-keyservers.net/pks/lookup?op=vindex&search={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin"
-  },
-  {
     "s": "sketchappsources",
     "d": "www.sketchappsources.com",
     "t": "sktr",
@@ -84637,14 +84629,6 @@
     "u": "http://community.skype.com/t5/forums/searchpage/tab/message?filter=labels%2Clocation&location=category%3AEnglish&q={{{s}}} ",
     "c": "Tech",
     "sc": "Companies"
-  },
-  {
-    "s": "SkyRock",
-    "d": "www.skyrock.com",
-    "t": "skyrock",
-    "u": "http://www.skyrock.com/search/people/?q={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Music"
   },
   {
     "s": "Kagi Search",
@@ -84911,14 +84895,6 @@
     "sc": "Blogs"
   },
   {
-    "s": "Slote Pimousse",
-    "d": "slote.me",
-    "t": "slote",
-    "u": "http://slote.me/?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Blogs"
-  },
-  {
     "s": "Slovenské slovníky",
     "d": "slovniky.korpus.sk",
     "t": "slovak",
@@ -84989,14 +84965,6 @@
     "u": "http://katalogbeta.slub-dresden.de/?tx_find_find[q][default]={{{s}}} ",
     "c": "Research",
     "sc": "Academic"
-  },
-  {
-    "s": "SludgeFeed",
-    "d": "sludgefeed.com",
-    "t": "sludgefeed",
-    "u": "https://sludgefeed.com/?s={{{s}}}",
-    "c": "News",
-    "sc": "Business"
   },
   {
     "s": "Second Life Wiki",
@@ -85173,14 +85141,6 @@
     "u": "http://www.smh.com.au/search?text={{{s}}}",
     "c": "News",
     "sc": "Newspaper"
-  },
-  {
-    "s": "https://st-sm.com/sante-et-minceur/",
-    "d": "st-sm.com",
-    "t": "s&m",
-    "u": "https://st-sm.com/sante-et-minceur/en/search?s={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online (deals)"
   },
   {
     "s": "Amazon Smile",
