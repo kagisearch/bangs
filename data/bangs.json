@@ -69589,14 +69589,6 @@
     "sc": "Maps"
   },
   {
-    "s": "OpenLinkMap",
-    "d": "www.openlinkmap.org",
-    "t": "osmlink",
-    "u": "http://www.openlinkmap.org/?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Maps"
-  },
-  {
     "s": "OpenStreetMap Node",
     "d": "www.openstreetmap.org",
     "t": "osmnode",
