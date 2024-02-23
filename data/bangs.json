@@ -36126,10 +36126,34 @@
     "sc": "Music"
   },
   {
-    "s": "Library Genesis",
-    "d": "gen.lib.rus.ec",
+    "s": "Library Genesis (Non-Fiction)",
+    "d": "libgen.rs",
     "t": "genesis",
-    "u": "http://gen.lib.rus.ec/search.php?req={{{s}}}&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def",
+    "u": "https://libgen.rs/search.php?req={{{s}}}",
+    "c": "Research",
+    "sc": "Academic"
+  },
+  {
+    "s": "Library Genesis (Non-Fiction)",
+    "d": "libgen.rs",
+    "t": "libg",
+    "u": "https://libgen.rs/search.php?req={{{s}}}",
+    "c": "Research",
+    "sc": "Academic"
+  },
+  {
+    "s": "Library Genesis (Fiction)",
+    "d": "libgen.rs",
+    "t": "libgfic",
+    "u": "https://libgen.rs/fiction/?q={{{s}}}",
+    "c": "Multimedia",
+    "sc": "Books"
+  },
+  {
+    "s": "Library Genesis (Scientific Articles)",
+    "d": "libgen.rs",
+    "t": "libgsci",
+    "u": "https://libgen.rs/scimag/?q={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
