@@ -83191,6 +83191,14 @@
     "sc": "Social"
   },
   {
+    "s": "Serienjunkies",
+    "d": "serienjunkies.org",
+    "t": "serienjunkies",
+    "u": "https://serienjunkies.org/serie/search?q={{{s}}}",
+    "c": "Multimedia",
+    "sc": "Video"
+  },
+  {
     "s": "Serious Eats",
     "d": "www.seriouseats.com",
     "t": "seriouseats",
