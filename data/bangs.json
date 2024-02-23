@@ -66495,6 +66495,14 @@
     "sc": "Newspaper"
   },
   {
+    "s": "Nox",
+    "d": "nox.to",
+    "t": "nox",
+    "u": "https://nox.to/Search?q={{{s}}}",
+    "c": "Multimedia",
+    "sc": "Video"
+  },
+  {
     "s": "Neue Osnabrücker Zeitung",
     "d": "www.noz.de",
     "t": "noz",
