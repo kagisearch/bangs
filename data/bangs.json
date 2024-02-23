@@ -20936,6 +20936,14 @@
     "sc": "Music"
   },
   {
+    "s": "DDL-Warez",
+    "d": "ddl-warez.cc",
+    "t": "ddlwarez",
+    "u": "https://ddl-warez.cc/?s={{{s}}}&cat=0",
+    "c": "Multimedia",
+    "sc": "Video"
+  },
+  {
     "s": "Kagi Search",
     "d": "kagi.com",
     "t": "ddms",
