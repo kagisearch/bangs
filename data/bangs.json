@@ -43860,6 +43860,14 @@
     "sc": "Programming"
   },
   {
+    "s": "HD-World",
+    "d": "hd-world.cc",
+    "t": "hdworld",
+    "u": "https://hd-world.cc/?s={{{s}}}",
+    "c": "Multimedia",
+    "sc": "Video"
+  },
+  {
     "s": "Home Depot",
     "d": "www.homedepot.com",
     "t": "hdx",
