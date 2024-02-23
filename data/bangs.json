@@ -72,7 +72,7 @@
     "sc": "Search"
   },
   {
-    "s": "1177 V\u00e5rdguiden",
+    "s": "1177 Vårdguiden",
     "d": "www.1177.se",
     "t": "1177",
     "u": "https://www.1177.se/Sok/?q={{{s}}}",
@@ -104,7 +104,7 @@
     "sc": "Sports"
   },
   {
-    "s": "11\ubc88\uac00",
+    "s": "11번가",
     "d": "search.11st.co.kr",
     "t": "11st",
     "u": "https://search.11st.co.kr/SearchPrdAction.tmall?method=getTotalSearchSeller&kwd={{{s}}}",
@@ -320,7 +320,7 @@
     "sc": "Maps"
   },
   {
-    "s": "2gis \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+    "s": "2gis Санкт-Петербург",
     "d": "2gis.ru",
     "t": "2gissbp",
     "u": "https://2gis.ru/spb/search/{{{s}}}",
@@ -328,7 +328,7 @@
     "sc": "Maps"
   },
   {
-    "s": "2GIS \u0423\u0444\u0430",
+    "s": "2GIS Уфа",
     "d": "2gis.ru",
     "t": "2gisufa",
     "u": "https://2gis.ru/ufa/search/{{{s}}}",
@@ -400,7 +400,7 @@
     "sc": "Downloads"
   },
   {
-    "s": "360\u56fe\u7247",
+    "s": "360图片",
     "d": "image.so.com",
     "t": "360iso",
     "u": "https://image.so.com/i?q={{{s}}}",
@@ -408,7 +408,7 @@
     "sc": "Search"
   },
   {
-    "s": "360\u641c\u7d22",
+    "s": "360搜索",
     "d": "www.so.com",
     "t": "360so",
     "u": "https://www.so.com/s?q={{{s}}}",
@@ -456,7 +456,7 @@
     "sc": "Blogs (intl)"
   },
   {
-    "s": "Dassault Syst\u00e8mes",
+    "s": "Dassault Systèmes",
     "d": "www.3ds.com",
     "t": "3ds",
     "u": "https://www.3ds.com/search/?q={{{s}}}",
@@ -480,7 +480,7 @@
     "sc": "Reference"
   },
   {
-    "s": "Tr\u00f3jmiasto",
+    "s": "Trójmiasto",
     "d": "www.trojmiasto.pl",
     "t": "3m",
     "u": "https://www.trojmiasto.pl/s/{{{s}}}/",
@@ -808,7 +808,7 @@
     "sc": "Services"
   },
   {
-    "s": "5\u3061\u3083\u3093\u306d\u308b",
+    "s": "5ちゃんねる",
     "d": "find.5ch.net",
     "t": "5ch",
     "u": "https://find.5ch.net/search?q={{{s}}}",
@@ -992,7 +992,7 @@
     "sc": "Tech"
   },
   {
-    "s": "\u81ed\u3044\u5973\u6027\u304b\u3089\u5352\u696d\u5ba3\u8a00",
+    "s": "臭い女性から卒業宣言",
     "d": "931women.com",
     "t": "931women",
     "u": "https://931women.com/?s={{{s}}}: ",
@@ -1120,7 +1120,7 @@
     "sc": "Jobs"
   },
   {
-    "s": "Akt\u00fcel Adam",
+    "s": "Aktüel Adam",
     "d": "aktueladam.com",
     "t": "a.a",
     "u": "https://aktueladam.com/?s={{{s}}} ",
@@ -1224,7 +1224,7 @@
     "sc": "Online"
   },
   {
-    "s": "Art & Architecture Thesaurus\u00ae Online",
+    "s": "Art & Architecture Thesaurus® Online",
     "d": "www.getty.edu",
     "t": "aat",
     "u": "https://www.getty.edu/vow/AATServlet?english=N&find={{{s}}}&logic=AND&page=1&note=",
@@ -1250,7 +1250,7 @@
   {
     "s": "Album Art Exchange",
     "d": "www.albumartexchange.com",
-    "t": "\u00e0ax",
+    "t": "àax",
     "u": "https://www.albumartexchange.com/covers?fltr=ALL&sort=TITLE&q={{{s}}}",
     "c": "Multimedia",
     "sc": "Music"
@@ -1480,7 +1480,7 @@
     "sc": "Online"
   },
   {
-    "s": "\u00c1bretelibro",
+    "s": "Ábretelibro",
     "d": "www.abretelibro.com",
     "t": "abretelibro",
     "u": "https://www.abretelibro.com/foro/search.php?keywords={{{s}}}&sf=titleonly",
@@ -1560,7 +1560,7 @@
     "sc": "Academic"
   },
   {
-    "s": "Allocin\u00e9",
+    "s": "Allociné",
     "d": "www.allocine.fr",
     "t": "ac",
     "u": "https://www.allocine.fr/recherche/?q={{{s}}}",
@@ -1944,7 +1944,7 @@
     "sc": "Online (intl)"
   },
   {
-    "s": "Amazon.de Fremdsprachige B\u00fccher",
+    "s": "Amazon.de Fremdsprachige Bücher",
     "d": "www.amazon.de",
     "t": "adefb",
     "u": "https://www.amazon.de/s?k={{{s}}}&i=english-books",
@@ -1952,7 +1952,7 @@
     "sc": "Online"
   },
   {
-    "s": "Adelung: Grammatisch-Kritisches W\u00f6rterbuch der Hochdeutschen Mundart",
+    "s": "Adelung: Grammatisch-Kritisches Wörterbuch der Hochdeutschen Mundart",
     "d": "woerterbuchnetz.de",
     "t": "adelung",
     "u": "https://woerterbuchnetz.de/Adelung/?lemma={{{s}}}",
@@ -2496,7 +2496,7 @@
     "sc": "Online (marketplace)"
   },
   {
-    "s": "Agri-R\u00e9seau",
+    "s": "Agri-Réseau",
     "d": "www.agrireseau.net",
     "t": "agri",
     "u": "https://www.agrireseau.net/documents?r={{{s}}}",
@@ -2552,7 +2552,7 @@
     "sc": "Programming"
   },
   {
-    "s": "Ahmet \u00c7ad\u0131rc\u0131",
+    "s": "Ahmet Çadırcı",
     "d": "ahmetcadirci.com.tr",
     "t": "ahmetcadirci",
     "u": "https://ahmetcadirci.com.tr/search/?q={{{s}}}",
@@ -2880,7 +2880,7 @@
     "sc": "Tools"
   },
   {
-    "s": "Akak\u00e7e",
+    "s": "Akakçe",
     "d": "www.akakce.com",
     "t": "akakce",
     "u": "http://www.akakce.com/arama/?q={{{s}}}",
@@ -2920,7 +2920,7 @@
     "sc": "Newspaper"
   },
   {
-    "s": "Aktu\u00e1ln\u011b.cz",
+    "s": "Aktuálně.cz",
     "d": "www.aktualne.cz",
     "t": "aktualne",
     "u": "https://www.aktualne.cz/hledani/?query={{{s}}}",
@@ -2936,7 +2936,7 @@
     "sc": "Online (intl)"
   },
   {
-    "s": "Cat\u00e0leg de la Xarxa de Biblioteques Municipals de la Diputaci\u00f3 de Barcelona",
+    "s": "Catàleg de la Xarxa de Biblioteques Municipals de la Diputació de Barcelona",
     "d": "aladi.diba.cat",
     "t": "aladi",
     "u": "https://aladi.diba.cat/search*cat/-{{{s}}}",
@@ -3112,7 +3112,7 @@
     "sc": "Downloads (software)"
   },
   {
-    "s": "AlexShoes Cal\u00e7ados",
+    "s": "AlexShoes Calçados",
     "d": "www.alexshoes.com.br",
     "t": "alexshoes",
     "u": "https://www.alexshoes.com.br/buscacomfab.asp?chaves={{{s}}}",
@@ -3184,7 +3184,7 @@
     "sc": "Online"
   },
   {
-    "s": "\u00c1brete libro",
+    "s": "Ábrete libro",
     "d": "www.abretelibro.com",
     "t": "alibro",
     "u": "https://www.abretelibro.com/foro/search.php?keywords={{{s}}}&sf=titleonly",
@@ -3192,7 +3192,7 @@
     "sc": "Forum"
   },
   {
-    "s": "\u00c1brete libro",
+    "s": "Ábrete libro",
     "d": "www.abretelibro.com",
     "t": "alibros",
     "u": "https://www.abretelibro.com/foro/search.php?keywords={{{s}}}",
@@ -3400,7 +3400,7 @@
     "sc": "Misc"
   },
   {
-    "s": "Allocin\u00e9",
+    "s": "Allociné",
     "d": "www.allocine.fr",
     "t": "allo",
     "u": "https://www.allocine.fr/recherche/?q={{{s}}}",
@@ -3416,9 +3416,9 @@
     "sc": "Movies"
   },
   {
-    "s": "Allocin\u00e9",
+    "s": "Allociné",
     "d": "www.allocine.fr",
-    "t": "allocin\u00e9",
+    "t": "allociné",
     "u": "https://www.allocine.fr/recherche/?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Movies"
@@ -3544,7 +3544,7 @@
     "sc": "Tools"
   },
   {
-    "s": "Alternate Belgi\u00eb",
+    "s": "Alternate België",
     "d": "www.alternate.be",
     "t": "altbe",
     "u": "https://www.alternate.be/html/search.html?query={{{s}}}",
@@ -3848,7 +3848,7 @@
     "sc": "Online (intl)"
   },
   {
-    "s": "Amazon M\u00e9xico",
+    "s": "Amazon México",
     "d": "www.amazon.com.mx",
     "t": "amazonmx",
     "u": "https://www.amazon.com.mx/s?k={{{s}}}",
@@ -4256,7 +4256,7 @@
     "sc": "Online"
   },
   {
-    "s": "Amazon M\u00e9xico",
+    "s": "Amazon México",
     "d": "www.amazon.com.mx",
     "t": "amx",
     "u": "https://www.amazon.com.mx/s?k={{{s}}}",
@@ -4710,9 +4710,9 @@
     "u": "https://www.apertium.org/index.eng.html?dir=nld-afr&q={{{s}}}"
   },
   {
-    "s": "Nedir S\u00f6zl\u00fck",
+    "s": "Nedir Sözlük",
     "d": "nedir-sozluk.com",
-    "t": "anlam\u0131",
+    "t": "anlamı",
     "u": "http://nedir-sozluk.com/ara/{{{s}}}",
     "c": "Online Services",
     "sc": "Search"
@@ -4742,7 +4742,7 @@
     "sc": "Comics"
   },
   {
-    "s": "\u306a\u3093\u307d\u308b\u3068\u3053\u308f\u5225\u9928",
+    "s": "なんぽるとこわ別館",
     "d": "annex.931women.com",
     "t": "annex.931women",
     "u": "https://annex.931women.com/?s={{{s}}}: ",
@@ -4878,7 +4878,7 @@
     "sc": "Tools"
   },
   {
-    "s": "Ant\u00f4nimos.com.br",
+    "s": "Antônimos.com.br",
     "d": "www.antonimos.com.br",
     "t": "antonimos",
     "u": "https://www.antonimos.com.br/busca.php?q={{{s}}}",
@@ -5356,7 +5356,7 @@
     "sc": "Online"
   },
   {
-    "s": "\u5c0f\u4f17\u8f6f\u4ef6",
+    "s": "小众软件",
     "d": "search.appinn.com",
     "t": "appinn",
     "u": "https://search.appinn.com/cse/search?q={{{s}}}&s=5999676002387380177&source=www.appinn.com",
@@ -5716,7 +5716,7 @@
     "sc": "Programming"
   },
   {
-    "s": "Agentur f\u00fcr Arbeit",
+    "s": "Agentur für Arbeit",
     "d": "con.arbeitsagentur.de",
     "t": "arbeitsagentur",
     "u": "https://con.arbeitsagentur.de/prod/jobboerse/jobsuche-ui/?VOLLTEXT={{{s}}}&FCT.ANGEBOTSART=ARBEIT&FCT.AKTUALITAET=100&FCT.BEHINDERUNG=AUS&page=1&size=10&sort=Relevanz&s=5",
@@ -5962,10 +5962,10 @@
     "sc": "Languages (other)"
   },
   {
-    "s": "Wiki Fran\u00e7ais Archlinux",
+    "s": "Wiki Français Archlinux",
     "d": "wiki.archlinux.fr",
     "t": "archlinuxfr",
-    "u": "https://wiki.archlinux.fr/index.php?title=Sp\u00e9cial%3ARecherche&profile=default&fulltext=Search&search={{{s}}}",
+    "u": "https://wiki.archlinux.fr/index.php?title=Spécial%3ARecherche&profile=default&fulltext=Search&search={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin (Arch)"
   },
@@ -6098,7 +6098,7 @@
     "sc": "Social"
   },
   {
-    "s": "\u00c1rG\u00e9p",
+    "s": "ÁrGép",
     "d": "www.argep.hu",
     "t": "argep",
     "u": "http://www.argep.hu/main.aspx?suche={{{s}}}&x=0&y=0",
@@ -6386,7 +6386,7 @@
     "sc": "Misc"
   },
   {
-    "s": "\u00c1rukeres\u0151",
+    "s": "Árukereső",
     "d": "www.arukereso.hu",
     "t": "aru",
     "u": "https://www.arukereso.hu/CategorySearch.php?st={{{s}}}",
@@ -6434,7 +6434,7 @@
     "sc": "Sysadmin"
   },
   {
-    "s": "\u671d\u65e5\u65b0\u805e",
+    "s": "朝日新聞",
     "d": "sitesearch.asahi.com",
     "t": "asahi",
     "u": "https://sitesearch.asahi.com/.cgi/sitesearch/sitesearch.pl?Keywords={{{s}}}",
@@ -6562,7 +6562,7 @@
     "sc": "Movies"
   },
   {
-    "s": "As\u00edHablamos",
+    "s": "AsíHablamos",
     "d": "www.asihablamos.com",
     "t": "asi",
     "u": "https://www.asihablamos.com/www/significado/palabra/{{{s}}}",
@@ -6882,7 +6882,7 @@
     "sc": "Reference (religion)"
   },
   {
-    "s": "Acad\u00e9mie Fran\u00e7aise",
+    "s": "Académie Française",
     "d": "academie.atilf.fr",
     "t": "atilf",
     "u": "https://academie.atilf.fr/9/consulter/{{{s}}}?page=1",
@@ -7250,7 +7250,7 @@
     "sc": "Online (marketplace)"
   },
   {
-    "s": "iDicion\u00e1rio Aulete",
+    "s": "iDicionário Aulete",
     "d": "www.aulete.com.br",
     "t": "aulete",
     "u": "https://www.aulete.com.br/{{{s}}}",
@@ -7698,9 +7698,9 @@
     "sc": "Libraries/Frameworks"
   },
   {
-    "s": "Levykauppa \u00c4x",
+    "s": "Levykauppa Äx",
     "d": "www.levykauppax.fi",
-    "t": "\u00e4x",
+    "t": "äx",
     "u": "https://www.levykauppax.fi/search/?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
@@ -8170,7 +8170,7 @@
     "sc": "Online"
   },
   {
-    "s": "\u0410\u043d\u0435\u043a\u0434\u043e\u0442\u044b \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 \u0411",
+    "s": "Анекдоты категории Б",
     "d": "baneks.site",
     "t": "baneks",
     "u": "https://baneks.site/search/{{{s}}}",
@@ -8197,7 +8197,7 @@
     "s": "Pons",
     "d": "de.pons.com",
     "t": "banglg",
-    "u": "https://de.pons.com/\u00fcbersetzung?q={{{s}}}&l=dela&in=&lf=de",
+    "u": "https://de.pons.com/übersetzung?q={{{s}}}&l=dela&in=&lf=de",
     "c": "Research",
     "sc": "Learning"
   },
@@ -8234,7 +8234,7 @@
     "sc": "Online"
   },
   {
-    "s": "Biblioth\u00e8que et Archives Nationales du Qu\u00e9bec",
+    "s": "Bibliothèque et Archives Nationales du Québec",
     "d": "www.banq.qc.ca",
     "t": "banq",
     "u": "https://www.banq.qc.ca/techno/recherche/rms.html?keyword={{{s}}}&Recherche=tout&fonction=chercher&afficherPortail=checked&afficherIris=checked&afficherPistard=checked&afficherColNum=checked",
@@ -8450,7 +8450,7 @@
     "sc": "Programming"
   },
   {
-    "s": "Bazo\u0161.cz",
+    "s": "Bazoš.cz",
     "d": "www.bazos.cz",
     "t": "bazos",
     "u": "https://www.bazos.cz/search.php?hledat={{{s}}}",
@@ -8624,7 +8624,7 @@
     "sc": "Programming"
   },
   {
-    "s": "Biblioteca Brasiliana Guita e Jos\u00e9 Mindlin",
+    "s": "Biblioteca Brasiliana Guita e José Mindlin",
     "d": "digital.bbm.usp.br",
     "t": "bbm",
     "u": "https://digital.bbm.usp.br/simple-search?location=&query={{{s}}}",
@@ -8632,7 +8632,7 @@
     "sc": "Academic"
   },
   {
-    "s": "BestBuy M\u00e9xico",
+    "s": "BestBuy México",
     "d": "www.bestbuy.com.mx",
     "t": "bbmx",
     "u": "https://www.bestbuy.com.mx/c/buscar-best-buy/buscar?query={{{s}}}",
@@ -8688,7 +8688,7 @@
     "sc": "Programming"
   },
   {
-    "s": "Biblioteca Brasiliana Guita e Jos\u00e9 Mindiin",
+    "s": "Biblioteca Brasiliana Guita e José Mindiin",
     "d": "digital.bbm.usp.br",
     "t": "bbusp",
     "u": "https://digital.bbm.usp.br/simple-search?location=&query= {{{s}}} &rpp=100",
@@ -8896,7 +8896,7 @@
     "sc": "Search"
   },
   {
-    "s": "\u767e\u5ea6\u767e\u79d1",
+    "s": "百度百科",
     "d": "baike.baidu.com",
     "t": "bdbaike",
     "u": "https://baike.baidu.com/item/{{{s}}}",
@@ -8968,7 +8968,7 @@
     "sc": "Blogs"
   },
   {
-    "s": "Bing \u8bcd\u5178",
+    "s": "Bing 词典",
     "d": "cn.bing.com",
     "t": "bdi",
     "u": "https://cn.bing.com/dict/search?q={{{s}}}",
@@ -8992,7 +8992,7 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "\u767e\u5ea6\u56fe\u7247",
+    "s": "百度图片",
     "d": "image.baidu.com",
     "t": "bdimg",
     "u": "https://image.baidu.com/search/index?tn=baiduimage&ipn=r&ct=201326592&cl=2&lm=-1&st=-1&fm=index&fr=&hs=0&xthttps=111111&sf=1&fmq=&pv=&ic=0&nc=1&z=&se=1&showtab=0&fb=0&width=&height=&face=0&istype=2&ie=utf-8&word={{{s}}}&oq=test&rsp=-1",
@@ -9000,7 +9000,7 @@
     "sc": "Images"
   },
   {
-    "s": "Banque de d\u00e9pannage linguistique",
+    "s": "Banque de dépannage linguistique",
     "d": "bdl.oqlf.gouv.qc.ca",
     "t": "bdl",
     "u": "https://bdl.oqlf.gouv.qc.ca/bdl/gabarit_bdl.asp?T1={{{s}}}&T3.x=0&T3.y=0",
@@ -9016,7 +9016,7 @@
     "sc": "Academic (math/cs)"
   },
   {
-    "s": "B\u00e9d\u00e9th\u00e8que",
+    "s": "Bédéthèque",
     "d": "www.bedetheque.com",
     "t": "bdt",
     "u": "https://www.bedetheque.com/search/tout?RechTexte={{{s}}}&RechWhere=0",
@@ -9024,7 +9024,7 @@
     "sc": "Comics"
   },
   {
-    "s": "\u767e\u5ea6\u7ffb\u8bd1",
+    "s": "百度翻译",
     "d": "fanyi.baidu.com",
     "t": "bdtr",
     "u": "https://fanyi.baidu.com/#en/zh/{{{s}}}",
@@ -9120,7 +9120,7 @@
     "sc": "Online"
   },
   {
-    "s": "Bedeth\u00e8que",
+    "s": "Bedethèque",
     "d": "www.bedetheque.com",
     "t": "bedetheque",
     "u": "https://www.bedetheque.com/search/tout?RechTexte={{{s}}}&RechWhere=0",
@@ -9227,7 +9227,7 @@
     "s": "beinsa.bg",
     "d": "beinsa.bg",
     "t": "beinsa",
-    "u": "https://beinsa.bg/search.php?q={{{s}}}&submit=\u0422\u042a\u0420\u0421\u0418&s_type=all&id=&status=1",
+    "u": "https://beinsa.bg/search.php?q={{{s}}}&submit=ТЪРСИ&s_type=all&id=&status=1",
     "c": "Multimedia",
     "sc": "Books"
   },
@@ -9378,7 +9378,7 @@
     "sc": "Newspaper"
   },
   {
-    "s": "Berlin.de \u2013 Stadtplan",
+    "s": "Berlin.de – Stadtplan",
     "d": "www.berlin.de",
     "t": "berlinmap",
     "u": "https://www.berlin.de/stadtplan/?ADR_STREET={{{s}}}",
@@ -9541,7 +9541,7 @@
     "s": "babelfish.de",
     "d": "www.babelfish.de",
     "t": "bfde",
-    "u": "https://www.babelfish.de/dict?query={{{s}}}&src=auto&dst=en&submit=\u00fcbersetzen",
+    "u": "https://www.babelfish.de/dict?query={{{s}}}&src=auto&dst=en&submit=übersetzen",
     "c": "Research",
     "sc": "Reference (words intl)"
   },
@@ -9634,7 +9634,7 @@
     "sc": "Services"
   },
   {
-    "s": "Bangumi \u756a\u7ec4\u8ba1\u5212",
+    "s": "Bangumi 番组计划",
     "d": "bgm.tv",
     "t": "bgm",
     "u": "https://bgm.tv/subject_search/{{{s}}}?cat=all",
@@ -9754,7 +9754,7 @@
     "sc": "Reference (religion)"
   },
   {
-    "s": "Katalog der Universit\u00e4ts- und Forschungsbibliothek Erfurt/Gotha",
+    "s": "Katalog der Universitäts- und Forschungsbibliothek Erfurt/Gotha",
     "d": "opac.uni-erfurt.de",
     "t": "biberfurt",
     "u": "http://opac.uni-erfurt.de/DB=1/SET=3/TTL=11/CMD?ACT=SRCHA&IKT=1016&SRT=YOP&TRM={{{s}}}",
@@ -9882,7 +9882,7 @@
     "sc": "Reference"
   },
   {
-    "s": "K\u00e4vlinge Bibliotek",
+    "s": "Kävlinge Bibliotek",
     "d": "bibliotek.kavlinge.se",
     "t": "bibliotekkavlinge",
     "u": "https://bibliotek.kavlinge.se/search?query={{{s}}}",
@@ -9906,7 +9906,7 @@
     "sc": "Tools"
   },
   {
-    "s": "catalogue des biblioth\u00e8ques de Paris",
+    "s": "catalogue des bibliothèques de Paris",
     "d": "bibliotheques.paris.fr",
     "t": "bibparis",
     "u": "https://bibliotheques.paris.fr/Default/search.aspx?SC=CATALOGUE&QUERY={{{s}}}",
@@ -9970,7 +9970,7 @@
     "sc": "Online"
   },
   {
-    "s": "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u044f",
+    "s": "Большая российская энциклопедия",
     "d": "bigenc.ru",
     "t": "bigenc",
     "u": "https://bigenc.ru/search?q={{{s}}}",
@@ -10162,7 +10162,7 @@
     "sc": "Images"
   },
   {
-    "s": "Beygingarl\u00fdsing \u00edslensks n\u00fat\u00edmam\u00e1ls",
+    "s": "Beygingarlýsing íslensks nútímamáls",
     "d": "bin.arnastofnun.is",
     "t": "bin",
     "u": "https://bin.arnastofnun.is/leit/?q={{{s}}}",
@@ -10538,7 +10538,7 @@
     "sc": "Newspaper"
   },
   {
-    "s": "\u535a\u5ba2\u4f86",
+    "s": "博客來",
     "d": "search.books.com.tw",
     "t": "bkl",
     "u": "http://search.books.com.tw/search/query/key/{{{s}}}/cat/all",
@@ -10658,7 +10658,7 @@
     "sc": "Reference (religion)"
   },
   {
-    "s": "\u54d4\u54e9\u54d4\u54e9\u5f39\u5e55\u7f51",
+    "s": "哔哩哔哩弹幕网",
     "d": "www.bilibili.com",
     "t": "blbl",
     "u": "https://www.bilibili.com/search?keyword={{{s}}}",
@@ -10797,7 +10797,7 @@
     "s": "Booklooker",
     "d": "www.booklooker.de",
     "t": "blk",
-    "u": "https://www.booklooker.de/B\u00fccher/Angebote/infotext={{{s}}}",
+    "u": "https://www.booklooker.de/Bücher/Angebote/infotext={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
@@ -11104,7 +11104,7 @@
     "sc": "Search"
   },
   {
-    "s": "Banco de la Naci\u00f3n Argentina",
+    "s": "Banco de la Nación Argentina",
     "d": "www.bna.com.ar",
     "t": "bna",
     "u": "https://www.bna.com.ar/Buscador?q={{{s}}}",
@@ -11330,7 +11330,7 @@
   {
     "s": "http://ordbok.uib.no/",
     "d": "ordbok.uib.no",
-    "t": "bokm\u00e5lsordboka",
+    "t": "bokmålsordboka",
     "u": "https://ordbok.uib.no/perl/ordbok.cgi?OPP=+{{{s}}}&ant_bokmaal=5&ant_nynorsk=5&bokmaal=+&ordbok=bokmaal",
     "c": "Research",
     "sc": "Reference (words)"
@@ -11392,7 +11392,7 @@
     "sc": "Movies"
   },
   {
-    "s": "Bom Neg\u00f3cio",
+    "s": "Bom Negócio",
     "d": "www.bomnegocio.com",
     "t": "bomnegocio",
     "u": "http://www.bomnegocio.com/brasil?q={{{s}}}",
@@ -11512,7 +11512,7 @@
     "sc": "Online"
   },
   {
-    "s": "Booking Espa\u00f1a",
+    "s": "Booking España",
     "d": "www.booking.com",
     "t": "bookinges",
     "u": "https://www.booking.com/search.es.html?ss={{{s}}}",
@@ -11744,7 +11744,7 @@
     "sc": "Blogs"
   },
   {
-    "s": "Bundeszentrale f\u00fcr politische Bildung",
+    "s": "Bundeszentrale für politische Bildung",
     "d": "www.bpb.de",
     "t": "bpb",
     "u": "https://www.bpb.de/suche/?suchwort={{{s}}}&suchen=Suchen",
@@ -11824,7 +11824,7 @@
     "sc": "Tracking"
   },
   {
-    "s": "Biblioth\u00e8ques de pr\u00eat de la Ville de Paris",
+    "s": "Bibliothèques de prêt de la Ville de Paris",
     "d": "bibliotheques.paris.fr",
     "t": "bpp",
     "u": "https://bibliotheques.paris.fr/Default/search.aspx?SC=CATALOGUE&QUERY={{{s}}}&QUERY_LABEL=",
@@ -12227,7 +12227,7 @@
     "s": "Brown University Library",
     "d": "search.library.brown.edu",
     "t": "brown",
-    "u": "https://search.library.brown.edu/?utf8=\u2713&q={{{s}}}",
+    "u": "https://search.library.brown.edu/?utf8=✓&q={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -12243,12 +12243,12 @@
     "s": "Brown University Library",
     "d": "search.library.brown.edu",
     "t": "brownlib",
-    "u": "https://search.library.brown.edu/?utf8=\u2713&q={{{s}}}",
+    "u": "https://search.library.brown.edu/?utf8=✓&q={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
   {
-    "s": "Br\u00f8nn\u00f8ysundregistrene",
+    "s": "Brønnøysundregistrene",
     "d": "w2.brreg.no",
     "t": "brreg",
     "u": "http://w2.brreg.no/enhet/sok/treffliste.jsp?navn={{{s}}} &orgform=0&fylke=0&kommune=0",
@@ -12328,7 +12328,7 @@
     "sc": "Reference (religion)"
   },
   {
-    "s": "Bremer Stra\u00dfenbahn AG",
+    "s": "Bremer Straßenbahn AG",
     "d": "www.bsag.de",
     "t": "bsag",
     "u": "https://www.bsag.de/index.php?q={{{s}}}",
@@ -12720,7 +12720,7 @@
     "sc": "Comics"
   },
   {
-    "s": "Bund f\u00fcr Umwelt und Naturschutz",
+    "s": "Bund für Umwelt und Naturschutz",
     "d": "www.bund.net",
     "t": "bund",
     "u": "https://www.bund.net/service/suchergebnis/?L=0&q={{{s}}}",
@@ -12784,7 +12784,7 @@
     "sc": "Big box/department"
   },
   {
-    "s": "Universit\u00e9 Paris 8 (Biblioth\u00e8que)",
+    "s": "Université Paris 8 (Bibliothèque)",
     "d": "catalogue.bu.univ-paris8.fr",
     "t": "bup8",
     "u": "https://catalogue.bu.univ-paris8.fr/cgi-bin/koha/opac-search.pl?idx=&q={{{s}}}",
@@ -12803,7 +12803,7 @@
     "s": "Burst",
     "d": "burst.shopify.com",
     "t": "burst",
-    "u": "https://burst.shopify.com/photos/search?utf8=\u2713&q={{{s}}}",
+    "u": "https://burst.shopify.com/photos/search?utf8=✓&q={{{s}}}",
     "c": "Multimedia",
     "sc": "Images"
   },
@@ -12816,7 +12816,7 @@
     "sc": "Specialty"
   },
   {
-    "s": "Buscap\u00e9",
+    "s": "Buscapé",
     "d": "www.buscape.com.br",
     "t": "buscape",
     "u": "https://www.buscape.com.br/cprocura?produto={{{s}}}",
@@ -12928,7 +12928,7 @@
     "sc": "Search"
   },
   {
-    "s": "Biblioteca Virtual em Sa\u00fade",
+    "s": "Biblioteca Virtual em Saúde",
     "d": "pesquisa.bvsalud.org",
     "t": "bvs",
     "u": "https://pesquisa.bvsalud.org/regional/?q={{{s}}}",
@@ -13936,7 +13936,7 @@
     "sc": "Tools"
   },
   {
-    "s": "\u010ceskoslovensk\u00e1 bibliografick\u00e1 datab\u00e1ze",
+    "s": "Československá bibliografická databáze",
     "d": "cbdb.cz",
     "t": "cbdbcz",
     "u": "https://cbdb.cz/hledat?text={{{s}}}",
@@ -14587,7 +14587,7 @@
     "s": "CDP (Carbon Disclosure Project)",
     "d": "www.cdp.net",
     "t": "cdp",
-    "u": "https://www.cdp.net/en/responses?utf8=\u2713&queries[name]={{{s}}}",
+    "u": "https://www.cdp.net/en/responses?utf8=✓&queries[name]={{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
   },
@@ -15440,7 +15440,7 @@
     "sc": "Academic"
   },
   {
-    "s": "La chaine m\u00e9t\u00e9o",
+    "s": "La chaine météo",
     "d": "www.lachainemeteo.com",
     "t": "chm",
     "u": "https://www.lachainemeteo.com/synthese-previsions-meteo-{{{s}}}",
@@ -15672,7 +15672,7 @@
     "sc": "Law"
   },
   {
-    "s": "Ciberd\u00favidas da L\u00edngua Portuguesa",
+    "s": "Ciberdúvidas da Língua Portuguesa",
     "d": "ciberduvidas.iscte-iul.pt",
     "t": "ciberduvidas",
     "u": "https://ciberduvidas.iscte-iul.pt/pesquisa?termo={{{s}}}",
@@ -15792,7 +15792,7 @@
     "sc": "Companies"
   },
   {
-    "s": "Cat\u00e1logo Cisne UCM",
+    "s": "Catálogo Cisne UCM",
     "d": "cisne.sim.ucm.es",
     "t": "cisne",
     "u": "https://cisne.sim.ucm.es/search*spi~S/X?SEARCH={{{s}}}",
@@ -15832,7 +15832,7 @@
     "sc": "Learning"
   },
   {
-    "s": "Citizen Espa\u00f1a",
+    "s": "Citizen España",
     "d": "www.citizen.es",
     "t": "citizenes",
     "u": "https://www.citizen.es/search?s={{{s}}}",
@@ -15976,7 +15976,7 @@
     "sc": "Online (marketplace)"
   },
   {
-    "s": "Seznam \u010cl\u00e1nky",
+    "s": "Seznam Články",
     "d": "clanky.seznam.cz",
     "t": "clanky",
     "u": "https://clanky.seznam.cz/?q={{{s}}}",
@@ -15984,7 +15984,7 @@
     "sc": "Search (non-US)"
   },
   {
-    "s": "Clar\u00edn",
+    "s": "Clarín",
     "d": "www.clarin.com",
     "t": "clarin",
     "u": "https://www.clarin.com/buscador/?q={{{s}}}",
@@ -16192,7 +16192,7 @@
     "sc": "Weather"
   },
   {
-    "s": "Climed Sevi\u00e7os de Saude",
+    "s": "Climed Seviços de Saude",
     "d": "www.climedweb.com",
     "t": "climed",
     "u": "https://www.climedweb.com/wp/?s=",
@@ -16368,7 +16368,7 @@
     "sc": "Sysadmin"
   },
   {
-    "s": "\u6771\u4eac\u90fd\u306e\u56f3\u66f8\u9928\u6a2a\u65ad\u691c\u7d22 | \u30ab\u30fc\u30ea\u30eb",
+    "s": "東京都の図書館横断検索 | カーリル",
     "d": "calil.jp",
     "t": "clt",
     "u": "https://calil.jp/local/search?csid=tokyo&q={{{s}}}",
@@ -16544,7 +16544,7 @@
     "sc": "Blogs"
   },
   {
-    "s": "CNET en espa\u00f1ol",
+    "s": "CNET en español",
     "d": "www.cnet.com",
     "t": "cnete",
     "u": "https://www.cnet.com/es/busqueda/?query={{{s}}}",
@@ -16584,7 +16584,7 @@
     "sc": "Broadcast"
   },
   {
-    "s": "CNN en espa\u00f1ol",
+    "s": "CNN en español",
     "d": "cnnespanol.cnn.com",
     "t": "cnne",
     "u": "https://cnnespanol.cnn.com/?s={{{s}}}",
@@ -16624,7 +16624,7 @@
     "sc": "Tools"
   },
   {
-    "s": "cnrtl d\u00e9finitions",
+    "s": "cnrtl définitions",
     "d": "www.cnrtl.fr",
     "t": "cnrtld",
     "u": "https://www.cnrtl.fr/definition/{{{s}}}",
@@ -16632,7 +16632,7 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "cnrtl \u00e9tymologie",
+    "s": "cnrtl étymologie",
     "d": "www.cnrtl.fr",
     "t": "cnrtle",
     "u": "https://www.cnrtl.fr/etymologie/{{{s}}}",
@@ -16736,7 +16736,7 @@
     "sc": "Law"
   },
   {
-    "s": "C\u1ed1c C\u1ed1c",
+    "s": "Cốc Cốc",
     "d": "coccoc.com",
     "t": "coccoc",
     "u": "https://coccoc.com/search#query={{{s}}}",
@@ -17216,7 +17216,7 @@
     "sc": "Google"
   },
   {
-    "s": "Le Comptoir S\u00e9cu",
+    "s": "Le Comptoir Sécu",
     "d": "www.comptoirsecu.fr",
     "t": "comptoirsecu",
     "u": "https://www.comptoirsecu.fr/?s={{{s}}}",
@@ -17358,7 +17358,7 @@
     "sc": "Search (non-US)"
   },
   {
-    "s": "conjuga\u00e7\u00e3o.com.br",
+    "s": "conjugação.com.br",
     "d": "www.conjugacao.com.br",
     "t": "conjugacao",
     "u": "https://www.conjugacao.com.br/busca.php?q={{{s}}}",
@@ -17470,7 +17470,7 @@
     "sc": "Big box/department"
   },
   {
-    "s": "Conversa de Sof\u00e1",
+    "s": "Conversa de Sofá",
     "d": "www.conversadesofa.com",
     "t": "conversa",
     "u": "https://www.conversadesofa.com/?s={{{s}}}",
@@ -17566,7 +17566,7 @@
     "sc": "Downloads (apps)"
   },
   {
-    "s": "Coolblue Belgi\u00eb",
+    "s": "Coolblue België",
     "d": "www.coolblue.be",
     "t": "coolbluebe",
     "u": "https://www.coolblue.be/zoeken?query={{{s}}}",
@@ -17774,7 +17774,7 @@
     "sc": "Tracking"
   },
   {
-    "s": "Localizados Correos de Espa\u00f1a",
+    "s": "Localizados Correos de España",
     "d": "www.correos.es",
     "t": "correos",
     "u": "https://www.correos.es/ss/Satellite/site/aplicacion-4000003383089-herramientas_y_apps/detalle_app-sidioma=es_ES?numero={{{s}}}",
@@ -17886,7 +17886,7 @@
     "sc": "Search"
   },
   {
-    "s": "\ucfe0\ud321",
+    "s": "쿠팡",
     "d": "www.coupang.com",
     "t": "coupang",
     "u": "https://www.coupang.com/np/search?component=&q={{{s}}}",
@@ -18150,7 +18150,7 @@
     "sc": "Languages (c++)"
   },
   {
-    "s": "C++\u200bSamples",
+    "s": "C++​Samples",
     "d": "www.cppsamples.com",
     "t": "cppsamples",
     "u": "https://www.cppsamples.com/#/search/{{{s}}}",
@@ -18738,7 +18738,7 @@
     "sc": "Specialty"
   },
   {
-    "s": "\u010cSFD",
+    "s": "ČSFD",
     "d": "www.csfd.cz",
     "t": "csfd",
     "u": "https://www.csfd.cz/hledat/?q={{{s}}}",
@@ -18810,7 +18810,7 @@
     "sc": "Aggregators"
   },
   {
-    "s": "Cat\u00e1logo cisne UCM",
+    "s": "Catálogo cisne UCM",
     "d": "cisne.sim.ucm.es",
     "t": "csn",
     "u": "https://cisne.sim.ucm.es/search*spi~S/X?SEARCH={{{s}}}&sort=D",
@@ -19018,7 +19018,7 @@
     "sc": "Broadcast"
   },
   {
-    "s": "Cu\u00e1nto Cabr\u00f3n",
+    "s": "Cuánto Cabrón",
     "d": "www.cuantocabron.com",
     "t": "cuantocabron",
     "u": "https://www.cuantocabron.com/busqueda/0/{{{s}}}",
@@ -19218,7 +19218,7 @@
     "sc": "Learning"
   },
   {
-    "s": "C\u00faspide",
+    "s": "Cúspide",
     "d": "www.cuspide.com",
     "t": "cuspide",
     "u": "https://www.cuspide.com/resultados.aspx?c={{{s}}}",
@@ -19418,7 +19418,7 @@
     "sc": "Online"
   },
   {
-    "s": "\u041a\u0438\u0431\u0435\u0440\u043b\u0435\u043d\u0438\u043d\u043a\u0430",
+    "s": "Киберленинка",
     "d": "cyberleninka.ru",
     "t": "cybl",
     "u": "https://cyberleninka.ru/search?q={{{s}}}",
@@ -19634,7 +19634,7 @@
     "sc": "Search"
   },
   {
-    "s": "\u041f\u0430\u043f\u0430 \u0437\u043d\u0430\u0435\u0442",
+    "s": "Папа знает",
     "d": "daddyknows.ru",
     "t": "daddyknows",
     "u": "https://daddyknows.ru/?s={{{s}}}",
@@ -19986,7 +19986,7 @@
     "sc": "Music"
   },
   {
-    "s": "Datab\u00e1ze her",
+    "s": "Databáze her",
     "d": "www.databaze-her.cz",
     "t": "databaze-her",
     "u": "https://www.databaze-her.cz/hledani/?fraze={{{s}}}",
@@ -20106,7 +20106,7 @@
     "sc": "Search (non-US)"
   },
   {
-    "s": "Daum \uc5b4\ud559\uc0ac\uc804",
+    "s": "Daum 어학사전",
     "d": "dic.daum.net",
     "t": "daumdic",
     "u": "https://dic.daum.net/search.do?q={{{s}}}",
@@ -20114,9 +20114,9 @@
     "sc": "Learning"
   },
   {
-    "s": "Daum \uc5b4\ud559\uc0ac\uc804",
+    "s": "Daum 어학사전",
     "d": "dic.daum.net",
-    "t": "\ub2e4\uc74c\uc0ac\uc804",
+    "t": "다음사전",
     "u": "https://dic.daum.net/search.do?q={{{s}}}",
     "c": "Research",
     "sc": "Learning"
@@ -20138,7 +20138,7 @@
     "sc": "Social"
   },
   {
-    "s": "davetiye bask\u0131",
+    "s": "davetiye baskı",
     "d": "www.davetiyebaski.net",
     "t": "davetiyebaski",
     "u": "https://www.davetiyebaski.net/arama?q={{{s}}}",
@@ -20202,7 +20202,7 @@
     "sc": "Sysadmin"
   },
   {
-    "s": "Den Bl\u00e5 Avis",
+    "s": "Den Blå Avis",
     "d": "www.dba.dk",
     "t": "dba",
     "u": "https://www.dba.dk/soeg/?soeg={{{s}}}",
@@ -20544,7 +20544,7 @@
     "sc": "Specialty"
   },
   {
-    "s": "Rutgers University \u2013 Digital Classroom Services",
+    "s": "Rutgers University – Digital Classroom Services",
     "d": "dcs.rutgers.edu",
     "t": "dcs",
     "u": "https://dcs.rutgers.edu/search/node/{{{s}}}",
@@ -20640,7 +20640,7 @@
     "sc": "Blogs"
   },
   {
-    "s": "DuckDuckGo Am\u00e9rica Latina con Pale Moon",
+    "s": "DuckDuckGo América Latina con Pale Moon",
     "d": "duckduckgo.com",
     "t": "ddgal",
     "u": "https://duckduckgo.com/?t=palemoon&kl=xl-es&ko=1&k1=1&q={{{s}}}",
@@ -20907,7 +20907,7 @@
     "s": "Diaspora*",
     "d": "www.joindiaspora.com",
     "t": "d*",
-    "u": "https://www.joindiaspora.com/people?utf8=\u2713&q={{{s}}}",
+    "u": "https://www.joindiaspora.com/people?utf8=✓&q={{{s}}}",
     "c": "Online Services",
     "sc": "Social"
   },
@@ -21280,7 +21280,7 @@
     "sc": "Online"
   },
   {
-    "s": "Decathlon Espa\u00f1a",
+    "s": "Decathlon España",
     "d": "www.decathlon.es",
     "t": "decathlones",
     "u": "https://www.decathlon.es/Comprar/{{{s}}}",
@@ -21328,7 +21328,7 @@
     "sc": "Online"
   },
   {
-    "s": "Decoraci\u00f3n 2.0",
+    "s": "Decoración 2.0",
     "d": "decoracion2.com",
     "t": "deco",
     "u": "https://decoracion2.com/search/{{{s}}}",
@@ -21352,7 +21352,7 @@
     "sc": "Academic"
   },
   {
-    "s": "Dedalus - Cat\u00e1logo Geral",
+    "s": "Dedalus - Catálogo Geral",
     "d": "dedalus.usp.br",
     "t": "ded",
     "u": "https://dedalus.usp.br/F/2GT4AME1FV9M25Q886NF9PCLB2BK39NF8XMFRXNHCQIL1JX5IG-19193?func=find-b&request={{{s}}}&find_code=WRD&adjacent=N&local_base=USP01&x=39&y=11&filter_code_1=WLN&filter_request_1=&filter_code_2=WYR&filter_request_2=&filter_code_3=WYR&filter_request_3=&filter_code_4=WMA&filter_request_4=&filter_code_5=WBA&filter_request_5=",
@@ -21576,7 +21576,7 @@
     "sc": "Programming"
   },
   {
-    "s": "dict.cc Deutsch-Franz\u00f6sisch",
+    "s": "dict.cc Deutsch-Französisch",
     "d": "defr.dict.cc",
     "t": "defr",
     "u": "https://defr.dict.cc/?s={{{s}}}",
@@ -21806,7 +21806,7 @@
     "sc": "Learning (intl)"
   },
   {
-    "s": "Le D\u00e9nicheur",
+    "s": "Le Dénicheur",
     "d": "ledenicheur.fr",
     "t": "denicheur",
     "u": "https://ledenicheur.fr/#rparams=ss={{{s}}} ",
@@ -21814,7 +21814,7 @@
     "sc": "Online (deals)"
   },
   {
-    "s": "Dict.cc Deutsch-Niederl\u00e4ndisch",
+    "s": "Dict.cc Deutsch-Niederländisch",
     "d": "denl.dict.cc",
     "t": "denl",
     "u": "https://denl.dict.cc/?s={{{s}}}",
@@ -21893,7 +21893,7 @@
     "s": "Derpibooru.org",
     "d": "derpibooru.org",
     "t": "derpibooruorg",
-    "u": "https://derpibooru.org/search?utf8=\u2713&sbq= {{{s}}}",
+    "u": "https://derpibooru.org/search?utf8=✓&sbq= {{{s}}}",
     "c": "Multimedia",
     "sc": "Images"
   },
@@ -22010,7 +22010,7 @@
     "sc": "Newspaper"
   },
   {
-    "s": "Deutsch-T\u00fcrkisch.net",
+    "s": "Deutsch-Türkisch.net",
     "d": "deutsch-tuerkisch.net",
     "t": "deuturk",
     "u": "https://deutsch-tuerkisch.net/suche/{{{s}}}",
@@ -22306,7 +22306,7 @@
     "sc": "Tools"
   },
   {
-    "s": "Dicion\u00e1rio Hist\u00f3rico e Biogr\u00e1fico Brasileiro do CPDOC",
+    "s": "Dicionário Histórico e Biográfico Brasileiro do CPDOC",
     "d": "www.fgv.br",
     "t": "dhbb",
     "u": "http://www.fgv.br/cpdoc/acervo/arquivo?busca= {{{s}}} &TipoUD=0&MacroTipoUD=0&nItens=100",
@@ -22386,7 +22386,7 @@
     "sc": "Tracking"
   },
   {
-    "s": "La Derni\u00e8re Heure",
+    "s": "La Dernière Heure",
     "d": "www.dhnet.be",
     "t": "dhnet",
     "u": "https://www.dhnet.be/search/?query={{{s}}}",
@@ -22466,7 +22466,7 @@
     "sc": "Academic"
   },
   {
-    "s": "Dicion\u00e1rio Informal",
+    "s": "Dicionário Informal",
     "d": "www.dicionarioinformal.com.br",
     "t": "dicinfo",
     "u": "https://www.dicionarioinformal.com.br/{{{s}}}/",
@@ -22482,7 +22482,7 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "\u30cb\u30b3\u30cb\u30b3\u5927\u767e\u79d1",
+    "s": "ニコニコ大百科",
     "d": "dic.nicovideo.jp",
     "t": "dicnico",
     "u": "https://dic.nicovideo.jp/a/{{{s}}}",
@@ -22546,7 +22546,7 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "Dicion\u00e1rio Infop\u00e9dia da L\u00edngua Portuguesa",
+    "s": "Dicionário Infopédia da Língua Portuguesa",
     "d": "www.infopedia.pt",
     "t": "dicpt",
     "u": "https://www.infopedia.pt/dicionarios/lingua-portuguesa/{{{s}}}",
@@ -22642,7 +22642,7 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "Encyclop\u00e9die de Diderot et d'Alembert",
+    "s": "Encyclopédie de Diderot et d'Alembert",
     "d": "portail.atilf.fr",
     "t": "diddal",
     "u": "https://portail.atilf.fr/cgi-bin/search2e?title={{{s}}}&author=&class=&speech=&objtype=&word=&CONJUNCT=PHRASE&PROXY=moins+de&DISTANCE=3&OUTPUT=conc&SYSTEM_DIR=%2Fvar%2Fartfla%2Fencyclopedie%2Ftextdata%2FIMAGE%2F",
@@ -22882,7 +22882,7 @@
     "sc": "Academic"
   },
   {
-    "s": "Dicion\u00e1rio inFormal",
+    "s": "Dicionário inFormal",
     "d": "www.dicionarioinformal.com.br",
     "t": "din",
     "u": "https://www.dicionarioinformal.com.br/{{{s}}}",
@@ -22930,7 +22930,7 @@
     "sc": "Music"
   },
   {
-    "s": "Diren\u00e7.net",
+    "s": "Direnç.net",
     "d": "www.direnc.net",
     "t": "direncnet",
     "u": "https://www.direnc.net/arama?q={{{s}}}",
@@ -23146,7 +23146,7 @@
     "sc": "Academic"
   },
   {
-    "s": "Divazus \u00ae",
+    "s": "Divazus ®",
     "d": "divazus.com",
     "t": "divazus",
     "u": "https://divazus.com/?s={{{s}}}",
@@ -23434,7 +23434,7 @@
     "sc": "Sports"
   },
   {
-    "s": "Diccionario de la lengua espa\u00f1ola, 23.\u00aa Edici\u00f3n, RAE",
+    "s": "Diccionario de la lengua española, 23.ª Edición, RAE",
     "d": "dle.rae.es",
     "t": "dle",
     "u": "https://dle.rae.es/?w={{{s}}}",
@@ -23586,7 +23586,7 @@
     "sc": "Online"
   },
   {
-    "s": "DMM\u82f1\u4f1a\u8a71\u306a\u3093\u3066uKnow?",
+    "s": "DMM英会話なんてuKnow?",
     "d": "eikaiwa.dmm.com",
     "t": "dme",
     "u": "https://eikaiwa.dmm.com/uknow/search/?keyword={{{s}}}",
@@ -23594,7 +23594,7 @@
     "sc": "Tools"
   },
   {
-    "s": "Dictionnaire du Moyen Fran\u00e7ais",
+    "s": "Dictionnaire du Moyen Français",
     "d": "www.cnrtl.fr",
     "t": "dmf",
     "u": "https://www.cnrtl.fr/definition/dmf/{{{s}}}",
@@ -23749,12 +23749,12 @@
     "s": "Norwegian Trekking Association",
     "d": "www.dnt.no",
     "t": "dnt",
-    "u": "https://www.dnt.no/s\u00f8k/?q={{{s}}}",
+    "u": "https://www.dnt.no/søk/?q={{{s}}}",
     "c": "News",
     "sc": "Specialty"
   },
   {
-    "s": "Diccionari Normatiu Valenci\u00e0",
+    "s": "Diccionari Normatiu Valencià",
     "d": "www.avl.gva.es",
     "t": "dnv",
     "u": "https://www.avl.gva.es/lexicval/dnv?paraula={{{s}}}",
@@ -23794,7 +23794,7 @@
     "sc": "Sports"
   },
   {
-    "s": "Dobr\u00e9 Knihy.cz",
+    "s": "Dobré Knihy.cz",
     "d": "www.dobre-knihy.cz",
     "t": "dobreknihy",
     "u": "https://www.dobre-knihy.cz/vyhledavani/?q={{{s}}}",
@@ -23954,7 +23954,7 @@
     "sc": "Sysadmin"
   },
   {
-    "s": "Das \u00d6rtliche",
+    "s": "Das Örtliche",
     "d": "www.dasoertliche.de",
     "t": "doe",
     "u": "https://www.dasoertliche.de/Controller?form_name=search_inv&page=5&context=4&action=43&ph={{{s}}}",
@@ -24202,9 +24202,9 @@
     "sc": "Music"
   },
   {
-    "s": "B\u00fccher D\u00f6rner Onlineshop",
+    "s": "Bücher Dörner Onlineshop",
     "d": "buecher-doerner.buchhandlung.de",
-    "t": "d\u00f6rner",
+    "t": "dörner",
     "u": "https://buecher-doerner.buchhandlung.de/shop/quickSearch?searchString={{{s}}}",
     "c": "Multimedia",
     "sc": "Books"
@@ -24450,7 +24450,7 @@
     "sc": "Programming"
   },
   {
-    "s": "Diccionario panhisp\u00e1nico de dudas",
+    "s": "Diccionario panhispánico de dudas",
     "d": "lema.rae.es",
     "t": "dpd",
     "u": "https://lema.rae.es/dpd/?key={{{s}}}",
@@ -24509,7 +24509,7 @@
     "s": "Digital Public Library of America",
     "d": "dp.la",
     "t": "dpla",
-    "u": "https://dp.la/search?utf8=\u2713&q={{{s}}}",
+    "u": "https://dp.la/search?utf8=✓&q={{{s}}}",
     "c": "Multimedia",
     "sc": "General"
   },
@@ -24542,7 +24542,7 @@
     "sc": "Languages (d)"
   },
   {
-    "s": "Dicion\u00e1rio de Pron\u00fancia da L\u00edngua Galega",
+    "s": "Dicionário de Pronúncia da Língua Galega",
     "d": "ilg.usc.es",
     "t": "dplg",
     "u": "https://ilg.usc.es/pronuncia/?pq=&q={{{s}}}&l=1&c[]=0",
@@ -24654,7 +24654,7 @@
     "sc": "Broadcast"
   },
   {
-    "s": "Diccionario de la Lengua Espa\u00f1ola",
+    "s": "Diccionario de la Lengua Española",
     "d": "dle.rae.es",
     "t": "drae",
     "u": "https://dle.rae.es/srv/fetch?w={{{s}}}&m=30",
@@ -24710,7 +24710,7 @@
     "sc": "Blogs"
   },
   {
-    "s": "\u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u062f\u0631\u0627\u0631\u0643\u0629 \u0628\u0631\u064a\u0633",
+    "s": "جريدة الدراركة بريس",
     "d": "www.drargapress.com",
     "t": "drargapress",
     "u": "http://www.drargapress.com/?s={{{s}}}",
@@ -25022,7 +25022,7 @@
     "sc": "Libraries/Frameworks"
   },
   {
-    "s": "Deutsches Rechtsw\u00f6rterbuch",
+    "s": "Deutsches Rechtswörterbuch",
     "d": "drw-www.adw.uni-heidelberg.de",
     "t": "drw",
     "u": "https://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?term={{{s}}}&index=lemmata",
@@ -25081,7 +25081,7 @@
     "s": "Debian Screenshots",
     "d": "screenshots.debian.net",
     "t": "dsc",
-    "u": "https://screenshots.debian.net/packages?utf8=\u2713&search={{{s}}}",
+    "u": "https://screenshots.debian.net/packages?utf8=✓&search={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin"
   },
@@ -25134,7 +25134,7 @@
     "sc": "Events"
   },
   {
-    "s": "Dansk Sprogn\u00e6vn",
+    "s": "Dansk Sprognævn",
     "d": "dsn.dk",
     "t": "dsn",
     "u": "https://dsn.dk/?retskriv={{{s}}}&ae=0",
@@ -25422,7 +25422,7 @@
     "sc": "Search (DDG)"
   },
   {
-    "s": "Duck Duck Go Espa\u00f1ol",
+    "s": "Duck Duck Go Español",
     "d": "duckduckgo.com",
     "t": "duckgoes",
     "u": "https://duckduckgo.com/?q={{{s}}}&kp=-1&k5=1&kah=wt-wt&kl=xl-es&kad=es_ES",
@@ -25638,7 +25638,7 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "Deutsches W\u00f6rterbuch von Jacob Grimm und Wilhelm Grimm",
+    "s": "Deutsches Wörterbuch von Jacob Grimm und Wilhelm Grimm",
     "d": "woerterbuchnetz.de",
     "t": "dwb",
     "u": "https://woerterbuchnetz.de/DWB/?lemma={{{s}}}",
@@ -25678,7 +25678,7 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "DW - Actualidad en espa\u00f1ol",
+    "s": "DW - Actualidad en español",
     "d": "www.dw.com",
     "t": "dwe",
     "u": "https://www.dw.com/search/es?languageCode=es&item={{{s}}}",
@@ -25822,7 +25822,7 @@
     "sc": "Forum"
   },
   {
-    "s": " \u0410\u043d\u0433\u043b\u0456\u0439\u0441\u044c\u043a\u043e-\u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0441\u043b\u043e\u0432\u043d\u0438\u043a\u0438",
+    "s": " Англійсько-українські словники",
     "d": "e2u.org.ua",
     "t": "e2u",
     "u": "https://e2u.org.ua/s?w={{{s}}}&dicts=all&highlight=on",
@@ -26894,7 +26894,7 @@
     "sc": "Magazine"
   },
   {
-    "s": "El Digital Panam\u00e1",
+    "s": "El Digital Panamá",
     "d": "eldigitalpanama.com",
     "t": "edpanama",
     "u": "https://eldigitalpanama.com/?s={{{s}}}",
@@ -26902,7 +26902,7 @@
     "sc": "Newspaper (intl)"
   },
   {
-    "s": "Educalingo Fran\u00e7ais",
+    "s": "Educalingo Français",
     "d": "educalingo.com",
     "t": "educalingofr",
     "u": "https://educalingo.com/fr/dic-fr/{{{s}}}",
@@ -27174,7 +27174,7 @@
     "sc": "Online (marketplace)"
   },
   {
-    "s": "\u82f1\u8f9e\u90ce on the WEB",
+    "s": "英辞郎 on the WEB",
     "d": "eow.alc.co.jp",
     "t": "eijirou",
     "u": "https://eow.alc.co.jp/search?q={{{s}}}",
@@ -27193,12 +27193,12 @@
     "s": "GitHub",
     "d": "github.com",
     "t": "eips",
-    "u": "https://github.com/ethereum/EIPs/issues?utf8=\u2713&q={{{s}}}",
+    "u": "https://github.com/ethereum/EIPs/issues?utf8=✓&q={{{s}}}",
     "c": "Tech",
     "sc": "Cryptocurrency"
   },
   {
-    "s": "Encyclop\u00e6dia Iranica",
+    "s": "Encyclopædia Iranica",
     "d": "www.iranicaonline.org",
     "t": "eir",
     "u": "https://www.iranicaonline.org/articles/search/keywords:{{{s}}}",
@@ -27302,7 +27302,7 @@
     "sc": "Online (marketplace)"
   },
   {
-    "s": "ebay Kleinanzeigen K\u00f6ln",
+    "s": "ebay Kleinanzeigen Köln",
     "d": "www.ebay-kleinanzeigen.de",
     "t": "ekk",
     "u": "https://www.ebay-kleinanzeigen.de/s-koeln/{{{s}}}/k0l945",
@@ -27318,7 +27318,7 @@
     "sc": "Online (marketplace)"
   },
   {
-    "s": "eBay Kleinanzeigen M\u00fcnchen",
+    "s": "eBay Kleinanzeigen München",
     "d": "www.ebay-kleinanzeigen.de",
     "t": "ekm",
     "u": "https://www.ebay-kleinanzeigen.de/s-muenchen/{{{s}}}/k0l6411",
@@ -27326,9 +27326,9 @@
     "sc": "Online (marketplace)"
   },
   {
-    "s": "Ek\u015fi S\u00f6zl\u00fck",
+    "s": "Ekşi Sözlük",
     "d": "eksisozluk.com",
-    "t": "ek\u015fi",
+    "t": "ekşi",
     "u": "https://eksisozluk.com/?q={{{s}}}",
     "c": "News",
     "sc": "Newspaper"
@@ -27342,7 +27342,7 @@
     "sc": "Forum"
   },
   {
-    "s": "Ek\u015fi S\u00f6zl\u00fck",
+    "s": "Ekşi Sözlük",
     "d": "www.eksisozluk.com",
     "t": "eksisozluk",
     "u": "https://www.eksisozluk.com/show.asp?t={{{s}}}",
@@ -27358,7 +27358,7 @@
     "sc": "Newspaper"
   },
   {
-    "s": "Eesti keele seletav s\u00f5naraamat",
+    "s": "Eesti keele seletav sõnaraamat",
     "d": "www.eki.ee",
     "t": "ekss",
     "u": "https://www.eki.ee/dict/ekss/index.cgi?Q={{{s}}}&F=M",
@@ -27406,7 +27406,7 @@
     "sc": "Topical"
   },
   {
-    "s": "El Comercio Per\u00fa",
+    "s": "El Comercio Perú",
     "d": "elcomercio.pe",
     "t": "elcomercio",
     "u": "https://elcomercio.pe/buscar/?query={{{s}}}",
@@ -27758,7 +27758,7 @@
     "sc": "Jobs"
   },
   {
-    "s": "\u0392\u03b9\u03ba\u03b9\u03c0\u03b1\u03af\u03b4\u03b5\u03b9\u03b1",
+    "s": "Βικιπαίδεια",
     "d": "el.wikipedia.org",
     "t": "elw",
     "u": "https://el.wikipedia.org/w/index.php?search={{{s}}}&title=%CE%95%CE%B9%CE%B4%CE%B9%CE%BA%CF%8C%3A%CE%91%CE%BD%CE%B1%CE%B6%CE%AE%CF%84%CE%B7%CF%83%CE%B7&go=%CE%9C%CE%B5%CF%84%CE%AC%CE%B2%CE%B1%CF%83%CE%B7",
@@ -27950,7 +27950,7 @@
     "sc": "Jobs"
   },
   {
-    "s": "Jobillico Montr\u00e9al",
+    "s": "Jobillico Montréal",
     "d": "www.jobillico.com",
     "t": "emploismtl",
     "u": "https://www.jobillico.com/recherche-emploi?skwd={{{s}}}&scty=Montr%C3%A9al%2C%20QC&icty=6185&ipc=0&sil=&sjdpl=&sdl=&imc1=0&imc2=0&flat=45.509828&flng=-73.6715&mfil=byCity&ipg=1&clr=1",
@@ -28270,7 +28270,7 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "Focl\u00f3ir ",
+    "s": "Foclóir ",
     "d": "www.focloir.ie",
     "t": "enfoc",
     "u": "https://www.focloir.ie/en/dictionary/ei/{{{s}}}?advSearch=1&q={{{s}}}&inlanguage=en",
@@ -28302,7 +28302,7 @@
     "sc": "Online"
   },
   {
-    "s": "Engadget en espa\u00f1ol",
+    "s": "Engadget en español",
     "d": "es.engadget.com",
     "t": "enges",
     "u": "https://es.engadget.com/search/?q={{{s}}}",
@@ -28638,7 +28638,7 @@
     "sc": "International"
   },
   {
-    "s": "glosbe eo \u203a en",
+    "s": "glosbe eo › en",
     "d": "glosbe.com",
     "t": "eo2en",
     "u": "https://glosbe.com/eo/en/{{{s}}}",
@@ -28710,7 +28710,7 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "Base de donn\u00e9es d'\u00c9orz\u00e9a",
+    "s": "Base de données d'Éorzéa",
     "d": "fr.finalfantasyxiv.com",
     "t": "eorfr",
     "u": "https://fr.finalfantasyxiv.com/lodestone/playguide/db/search/?q={{{s}}}",
@@ -28726,7 +28726,7 @@
     "sc": "Forum"
   },
   {
-    "s": "\u82f1\u8f9e\u90ce on the WEB Pro",
+    "s": "英辞郎 on the WEB Pro",
     "d": "eowp.alc.co.jp",
     "t": "eow",
     "u": "https://eowp.alc.co.jp/search?q={{{s}}}",
@@ -29337,7 +29337,7 @@
     "s": "Estante Virtual",
     "d": "www.estantevirtual.com.br",
     "t": "estantevirtual",
-    "u": "https://www.estantevirtual.com.br/busca?utf8=\u2713&type=q&new=&q={{{s}}}",
+    "u": "https://www.estantevirtual.com.br/busca?utf8=✓&type=q&new=&q={{{s}}}",
     "c": "Shopping",
     "sc": "Online (marketplace)"
   },
@@ -29502,7 +29502,7 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "ETNet \u7d93\u6fdf\u901a",
+    "s": "ETNet 經濟通",
     "d": "etnet.com.hk",
     "t": "etnet",
     "u": "https://etnet.com.hk/?q={{{s}}}",
@@ -30070,7 +30070,7 @@
     "sc": "Movies"
   },
   {
-    "s": "IT\u7528\u8a9e\u8f9e\u5178 e-Words",
+    "s": "IT用語辞典 e-Words",
     "d": "e-words.jp",
     "t": "e-words",
     "u": "https://e-words.jp/?cx=partner-pub-1175263777233757%3Axelkt7-c6j8&cof=FORID%3A10&ie=Shift_JIS&q={{{s}}}&sa=%88%EA%92v%82%B7%82%E9%97p%8C%EA%82%F0%95%5C%8E%A6&siteurl=e-words.jp%2F&ref=e-words.jp%2Fw%2FE382B9E3839AE383BCE382B9.html&ss=1193j290715j7",
@@ -30182,7 +30182,7 @@
     "sc": "Search"
   },
   {
-    "s": "\u03b5xodus Privacy",
+    "s": "εxodus Privacy",
     "d": "reports.exodus-privacy.eu.org",
     "t": "exodus",
     "u": "https://reports.exodus-privacy.eu.org/reports/search/{{{s}}}",
@@ -30278,7 +30278,7 @@
     "sc": "Business"
   },
   {
-    "s": "Expressio Fran\u00e7ais",
+    "s": "Expressio Français",
     "d": "www.expressio.fr",
     "t": "expressio",
     "u": "https://www.expressio.fr/search.php?q={{{s}}}&lang=",
@@ -30758,7 +30758,7 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u044f \u0424\u0430\u043d\u0442\u0430\u0441\u0442\u0438\u043a\u0438",
+    "s": "Лаборатория Фантастики",
     "d": "fantlab.ru",
     "t": "fantlab",
     "u": "https://fantlab.ru/searchmain?searchstr={{{s}}}",
@@ -30870,7 +30870,7 @@
     "sc": "Misc"
   },
   {
-    "s": "Fass allm\u00e4nhet",
+    "s": "Fass allmänhet",
     "d": "www.fass.se",
     "t": "fass",
     "u": "https://www.fass.se/m/sok/{{{s}}}/public",
@@ -30878,7 +30878,7 @@
     "sc": "Search (non-US)"
   },
   {
-    "s": "Fass V\u00e5rdpersonal",
+    "s": "Fass Vårdpersonal",
     "d": "www.fass.se",
     "t": "fassv",
     "u": "https://www.fass.se/LIF/result?userType=0&query={{{s}}}",
@@ -30958,7 +30958,7 @@
     "sc": "Newspaper (intl)"
   },
   {
-    "s": "Fund\u00e9u BBVA",
+    "s": "Fundéu BBVA",
     "d": "www.fundeu.es",
     "t": "fbbva",
     "u": "https://www.fundeu.es/?s={{{s}}}",
@@ -31086,7 +31086,7 @@
     "sc": "Sports"
   },
   {
-    "s": "FC Bayern M\u00fcnchen",
+    "s": "FC Bayern München",
     "d": "www.fcbayern.de",
     "t": "fcbes",
     "u": "http://www.fcbayern.de/es/search#search={{{s}}}&chronology=chrono",
@@ -31094,7 +31094,7 @@
     "sc": "Sports"
   },
   {
-    "s": "FC Bayern M\u00fcnchen",
+    "s": "FC Bayern München",
     "d": "www.fcbayern.de",
     "t": "fcb",
     "u": "http://www.fcbayern.de/de/search#search={{{s}}}&chronology=chrono",
@@ -31206,7 +31206,7 @@
     "sc": "Government"
   },
   {
-    "s": "Filmov\u00e1 Datab\u00e1ze",
+    "s": "Filmová Databáze",
     "d": "www.fdb.cz",
     "t": "fdb",
     "u": "https://www.fdb.cz/vyhledavani.php?co=vsechno&hledat={{{s}}}",
@@ -31225,7 +31225,7 @@
     "s": "fdb.pl",
     "d": "fdb.pl",
     "t": "fdbpl",
-    "u": "https://fdb.pl/szukaj?utf8=\u2713&query={{{s}}}",
+    "u": "https://fdb.pl/szukaj?utf8=✓&query={{{s}}}",
     "c": "Entertainment",
     "sc": "Movies"
   },
@@ -31484,7 +31484,7 @@
     "sc": "Academic (math/cs)"
   },
   {
-    "s": "Eesti fraseologismide elektrooniline aluss\u00f5nastik",
+    "s": "Eesti fraseologismide elektrooniline alussõnastik",
     "d": "www.folklore.ee",
     "t": "fes",
     "u": "https://www.folklore.ee/justkui/sonastik/?otsing={{{s}}}&paring=Otsi",
@@ -31548,7 +31548,7 @@
     "sc": "Downloads (add-ons)"
   },
   {
-    "s": "F\u00fcrstenfeldbruck ist bunt!",
+    "s": "Fürstenfeldbruck ist bunt!",
     "d": "ffbbunt.wordpress.com",
     "t": "ffbbunt",
     "u": "https://ffbbunt.wordpress.com/?s={{{s}}}",
@@ -31564,7 +31564,7 @@
     "sc": "Movies"
   },
   {
-    "s": "admin.ch - Feuille f\u00e9d\u00e9rale",
+    "s": "admin.ch - Feuille fédérale",
     "d": "www.admin.ch",
     "t": "ffch",
     "u": "https://www.admin.ch/opc/search/?lang=fr&language[]=fr&product[]=fg&text={{{s}}}&lang=fr",
@@ -31588,7 +31588,7 @@
     "sc": "Search (non-US)"
   },
   {
-    "s": "\ud30c\ud31014 \uc778\ubca4",
+    "s": "파판14 인벤",
     "d": "ff14.inven.co.kr",
     "t": "ffinv",
     "u": "https://ff14.inven.co.kr/dataninfo/item/?itemname={{{s}}}&datagroup=search",
@@ -31900,7 +31900,7 @@
     "sc": "Reference"
   },
   {
-    "s": "filmaffinity espa\u00f1a",
+    "s": "filmaffinity españa",
     "d": "m.filmaffinity.com",
     "t": "filmaffinityes",
     "u": "https://m.filmaffinity.com/es/search.php?stext={{{s}}}",
@@ -32132,7 +32132,7 @@
     "sc": "Food"
   },
   {
-    "s": "Finf-Forum (Forum des Fachrats Informatik der Leibniz Universit\u00e4t Hannover)",
+    "s": "Finf-Forum (Forum des Fachrats Informatik der Leibniz Universität Hannover)",
     "d": "forum.finf.uni-hannover.de",
     "t": "finf",
     "u": "https://forum.finf.uni-hannover.de/index.php?form=Search&q={{{s}}}",
@@ -33532,7 +33532,7 @@
     "sc": "International"
   },
   {
-    "s": "Slovarji In\u0161tituta za slovenski jezik Frana Ramov\u0161a ZRC SAZU",
+    "s": "Slovarji Inštituta za slovenski jezik Frana Ramovša ZRC SAZU",
     "d": "www.fran.si",
     "t": "fran",
     "u": "http://www.fran.si/iskanje?View=2&Query= {{{s}}} ",
@@ -33540,7 +33540,7 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "Fr\u00e1vega",
+    "s": "Frávega",
     "d": "www.fravega.com",
     "t": "fravega",
     "u": "https://www.fravega.com/{{{s}}}",
@@ -33564,7 +33564,7 @@
     "sc": "General"
   },
   {
-    "s": "Frag C\u00e4sar",
+    "s": "Frag Cäsar",
     "d": "www.frag-caesar.de",
     "t": "frc",
     "u": "https://www.frag-caesar.de/lateinwoerterbuch/{{{s}}}-uebersetzung.html",
@@ -33572,7 +33572,7 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "Frag C\u00e4sar",
+    "s": "Frag Cäsar",
     "d": "www.frag-caesar.de",
     "t": "frcs",
     "u": "https://www.frag-caesar.de/lateinwoerterbuch/{{{s}}}-uebersetzung.html",
@@ -33652,7 +33652,7 @@
     "sc": "Blogs"
   },
   {
-    "s": "\u514d\u8cbb\u8cc7\u6e90\u7db2\u8def\u793e\u7fa4",
+    "s": "免費資源網路社群",
     "d": "free.com.tw",
     "t": "freegroup",
     "u": "https://free.com.tw/?s={{{s}}}",
@@ -34004,7 +34004,7 @@
     "sc": "Games (general)"
   },
   {
-    "s": "Wiktionary Fran\u00e7ais",
+    "s": "Wiktionary Français",
     "d": "fr.wiktionary.org",
     "t": "fr.wiktionary",
     "u": "https://fr.wiktionary.org/wiki/{{{s}}}",
@@ -34296,7 +34296,7 @@
     "sc": "Online (intl)"
   },
   {
-    "s": "Fund\u00e9u BBVA",
+    "s": "Fundéu BBVA",
     "d": "www.fundeu.es",
     "t": "fundeu",
     "u": "https://www.fundeu.es/?s={{{s}}}",
@@ -34416,7 +34416,7 @@
     "sc": "Sports"
   },
   {
-    "s": "BKK Fut\u00e1r",
+    "s": "BKK Futár",
     "d": "futar.bkk.hu",
     "t": "futar",
     "u": "https://futar.bkk.hu/?toCoord={{{s}}}&toName={{{s}}}&toSubName={{{s}}}&layers=GSVB",
@@ -34728,7 +34728,7 @@
     "sc": "Google"
   },
   {
-    "s": "F\u00f3clair.ie New English-Irish Dictionary",
+    "s": "Fóclair.ie New English-Irish Dictionary",
     "d": "www.focloir.ie",
     "t": "gael",
     "u": "https://www.focloir.ie/en/spellcheck/ei/?q={{{s}}}",
@@ -34744,7 +34744,7 @@
     "sc": "Google"
   },
   {
-    "s": "Gaffiot latin -> fran\u00e7ais",
+    "s": "Gaffiot latin -> français",
     "d": "www.lexilogos.com",
     "t": "gaf",
     "u": "https://www.lexilogos.com/latin/gaffiot.php?q={{{s}}}",
@@ -34752,7 +34752,7 @@
     "sc": "Learning (intl)"
   },
   {
-    "s": "Focl\u00f3ir",
+    "s": "Foclóir",
     "d": "www.focloir.ie",
     "t": "gafoc",
     "u": "https://www.focloir.ie/en/dictionary/ei/{{{s}}}?advSearch=1&q={{{s}}}&inlanguage=ga",
@@ -34768,7 +34768,7 @@
     "sc": "Social"
   },
   {
-    "s": "Graf-Anton-G\u00fcnther Schule",
+    "s": "Graf-Anton-Günther Schule",
     "d": "gymnasium-gag.de",
     "t": "gagol",
     "u": "https://gymnasium-gag.de/?s={{{s}}}",
@@ -35070,7 +35070,7 @@
     "sc": "Big box/department"
   },
   {
-    "s": "Librer\u00edas Gandhi",
+    "s": "Librerías Gandhi",
     "d": "www.gandhi.com.mx",
     "t": "gandhi",
     "u": "https://www.gandhi.com.mx/catalogsearch/result/?q={{{s}}}",
@@ -35422,7 +35422,7 @@
     "sc": "Programming"
   },
   {
-    "s": "Gamers Caf\u00e9",
+    "s": "Gamers Café",
     "d": "www.gamerscafe.com.br",
     "t": "gcafe",
     "u": "https://www.gamerscafe.com.br/pesquisa/{{{s}}}/",
@@ -35766,7 +35766,7 @@
     "sc": "Academic"
   },
   {
-    "s": "\u9ad8\u5fb7\u5730\u56fe",
+    "s": "高德地图",
     "d": "ditu.amap.com",
     "t": "gdmaps",
     "u": "https://ditu.amap.com/search?query={{{s}}}",
@@ -35846,7 +35846,7 @@
     "sc": "Google"
   },
   {
-    "s": "G\u00f6ttinger Digitalsieriungszentrum",
+    "s": "Göttinger Digitalsieriungszentrum",
     "d": "gdz.sub.uni-goettingen.de",
     "t": "gdz",
     "u": "https://gdz.sub.uni-goettingen.de/en/dms/suche/?tx_goobit3_search[formquery]={{{s}}}&tx_goobit3_search[order]=1&tx_goobit3_search[default]=METADATA&tx_goobit3_search[orderfield]=BYCREATOR&tx_goobit3_search[link]=0",
@@ -36700,7 +36700,7 @@
     "sc": "Google"
   },
   {
-    "s": "gulden r\u00f6ttger rechtsanw\u00e4lte - wir sch\u00e4tzen die Kraft achtsamer Kommunikation in Wort und Bild",
+    "s": "gulden röttger rechtsanwälte - wir schätzen die Kraft achtsamer Kommunikation in Wort und Bild",
     "d": "ggr-law.com",
     "t": "ggrlaw",
     "u": "https://ggr-law.com/suche/?id=1843&tx_kesearch_pi1%5Bsword%5D={{{s}}}",
@@ -36732,7 +36732,7 @@
     "sc": "International"
   },
   {
-    "s": "Geizhals \u00d6sterreich",
+    "s": "Geizhals Österreich",
     "d": "geizhals.at",
     "t": "ghat",
     "u": "https://geizhals.at/?in=&fs={{{s}}}",
@@ -36743,7 +36743,7 @@
     "s": "GitHub Code",
     "d": "github.com",
     "t": "ghc",
-    "u": "https://github.com/search?utf8=\u2713&q={{{s}}}&type=Code",
+    "u": "https://github.com/search?utf8=✓&q={{{s}}}&type=Code",
     "c": "Tech",
     "sc": "Programming"
   },
@@ -36751,7 +36751,7 @@
     "s": "Github (code search)",
     "d": "github.com",
     "t": "ghcode",
-    "u": "https://github.com/search?utf8=\u2713&q={{{s}}}&type=Code",
+    "u": "https://github.com/search?utf8=✓&q={{{s}}}&type=Code",
     "c": "Tech",
     "sc": "Programming"
   },
@@ -37372,7 +37372,7 @@
     "sc": "Search"
   },
   {
-    "s": "Gizmodo en espa\u00f1ol",
+    "s": "Gizmodo en español",
     "d": "es.gizmodo.com",
     "t": "gizes",
     "u": "https://es.gizmodo.com/search?q={{{s}}}",
@@ -37439,7 +37439,7 @@
     "s": "GitLab",
     "d": "gitlab.com",
     "t": "glab",
-    "u": "https://gitlab.com/search?utf8=\u2713&search={{{s}}}",
+    "u": "https://gitlab.com/search?utf8=✓&search={{{s}}}",
     "c": "Tech",
     "sc": "Programming"
   },
@@ -37660,7 +37660,7 @@
     "sc": "Google"
   },
   {
-    "s": "Carla\u2019s Gluten Free Recipe Box",
+    "s": "Carla’s Gluten Free Recipe Box",
     "d": "glutenfreerecipebox.com",
     "t": "glutenfreerecipebox",
     "u": "https://glutenfreerecipebox.com/?s={{{s}}}",
@@ -38020,7 +38020,7 @@
     "sc": "Search"
   },
   {
-    "s": "Google news Belgi\u00eb",
+    "s": "Google news België",
     "d": "news.google.com",
     "t": "gnbe",
     "u": "https://news.google.com/news/search/section/q/{{{s}}}/?gl=BE&ned=nl_be&hl=nl",
@@ -38292,7 +38292,7 @@
     "sc": "Domains"
   },
   {
-    "s": "goo \u8f9e\u66f8 \u82f1\u548c/\u548c\u82f1",
+    "s": "goo 辞書 英和/和英",
     "d": "dictionary.goo.ne.jp",
     "t": "gode",
     "u": "https://dictionary.goo.ne.jp/word/en/{{{s}}}/",
@@ -38308,7 +38308,7 @@
     "sc": "Audio"
   },
   {
-    "s": "goo \u8f9e\u66f8 \u82f1\u548c/\u548c\u82f1",
+    "s": "goo 辞書 英和/和英",
     "d": "dictionary.goo.ne.jp",
     "t": "godj",
     "u": "https://dictionary.goo.ne.jp/srch/jn/{{{s}}}/m1u/",
@@ -38340,7 +38340,7 @@
     "sc": "Libraries/Frameworks"
   },
   {
-    "s": "goo \u8f9e\u66f8 \u985e\u8a9e",
+    "s": "goo 辞書 類語",
     "d": "dictionary.goo.ne.jp",
     "t": "gods",
     "u": "https://dictionary.goo.ne.jp/thsrs/3913/meaning/m1u/{{{s}}}/",
@@ -38356,7 +38356,7 @@
     "sc": "Games (general)"
   },
   {
-    "s": "Stadtportal G\u00f6ttingen",
+    "s": "Stadtportal Göttingen",
     "d": "www.goettingen.de",
     "t": "goe",
     "u": "https://www.goettingen.de/portalsuche.html?keyword={{{s}}}",
@@ -38364,7 +38364,7 @@
     "sc": "Specialty"
   },
   {
-    "s": "Wiki G\u00f6ttingen",
+    "s": "Wiki Göttingen",
     "d": "www.wiki-goettingen.de",
     "t": "goettingen",
     "u": "http://www.wiki-goettingen.de/index.php?search={{{s}}}",
@@ -38772,7 +38772,7 @@
     "sc": "Google"
   },
   {
-    "s": "goo\u691c\u7d22",
+    "s": "goo検索",
     "d": "search.goo.ne.jp",
     "t": "goo",
     "u": "https://search.goo.ne.jp/web.jsp?MT={{{s}}}&IE=UTF-8&OE=UTF-8",
@@ -38796,7 +38796,7 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "Goo\u56fd\u8a9e\u8f9e\u5178\u691c\u7d22",
+    "s": "Goo国語辞典検索",
     "d": "dictionary.goo.ne.jp",
     "t": "gookokugo",
     "u": "https://dictionary.goo.ne.jp/srch/jn/{{{s}}} /m0u/",
@@ -39535,7 +39535,7 @@
     "s": "goodreads",
     "d": "www.goodreads.com",
     "t": "greads",
-    "u": "https://www.goodreads.com/search?utf8=\u2713&query={{{s}}}",
+    "u": "https://www.goodreads.com/search?utf8=✓&query={{{s}}}",
     "c": "Multimedia",
     "sc": "Books"
   },
@@ -42580,7 +42580,7 @@
     "sc": "Online (deals)"
   },
   {
-    "s": "G\u00fcnstiger.de",
+    "s": "Günstiger.de",
     "d": "www.guenstiger.de",
     "t": "guenstiger",
     "u": "http://www.guenstiger.de/Katalog/Preis.pl?suche={{{s}}}",
@@ -42948,7 +42948,7 @@
     "sc": "Games (general)"
   },
   {
-    "s": "Guild Wars 2 Wiki Fran\u00e7ais",
+    "s": "Guild Wars 2 Wiki Français",
     "d": "wiki-fr.guildwars2.com",
     "t": "gw2fr",
     "u": "https://wiki-fr.guildwars2.com/index.php?search={{{s}}}",
@@ -43028,7 +43028,7 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "Games Workshop Webstore Espa\u00f1a",
+    "s": "Games Workshop Webstore España",
     "d": "www.games-workshop.com",
     "t": "gwes",
     "u": "https://www.games-workshop.com/es-ES/searchResults?_dyncharset=UTF-8&_dynSessConf=7453102396832862391&qty=&sorting=&view=&Ntt={{{s}}}",
@@ -43172,7 +43172,7 @@
     "sc": "Google"
   },
   {
-    "s": "Gyakorik\u00e9rd\u00e9sek.hu",
+    "s": "Gyakorikérdések.hu",
     "d": "www.gyakorikerdesek.hu",
     "t": "gyk",
     "u": "https://www.gyakorikerdesek.hu/kereses.php?keres={{{s}}}",
@@ -43540,7 +43540,7 @@
     "sc": "Food"
   },
   {
-    "s": "Hapshoe.com | Akl\u0131ndaki Ayakkab\u0131, T\u0131kla Aya\u011f\u0131na Gelsin !",
+    "s": "Hapshoe.com | Aklındaki Ayakkabı, Tıkla Ayağına Gelsin !",
     "d": "www.hapshoe.com",
     "t": "hapshoe",
     "u": "https://www.hapshoe.com/Arama?1&kelime={{{s}}}",
@@ -43828,7 +43828,7 @@
     "sc": "Downloads (software)"
   },
   {
-    "s": "LES MISCELLAN\u00c9ES NUM\u00c9RIQUES",
+    "s": "LES MISCELLANÉES NUMÉRIQUES",
     "d": "hdrapin.com",
     "t": "hdrapin",
     "u": "https://hdrapin.com/?s={{{s}}}",
@@ -43988,7 +43988,7 @@
     "sc": "Comics"
   },
   {
-    "s": "Universit\u00e4tsbibliothek Heiedelberg OPAC",
+    "s": "Universitätsbibliothek Heiedelberg OPAC",
     "d": "katalog.ub.uni-heidelberg.de",
     "t": "heidi",
     "u": "https://katalog.ub.uni-heidelberg.de/cgi-bin/search.cgi?fsubmit=1&query= {{{s}}}",
@@ -44415,7 +44415,7 @@
     "s": "Highfive",
     "d": "success.highfive.com",
     "t": "highfive",
-    "u": "https://success.highfive.com/hc/en-us/search?utf8=\u2713&query={{{s}}}",
+    "u": "https://success.highfive.com/hc/en-us/search?utf8=✓&query={{{s}}}",
     "c": "Tech",
     "sc": "Companies"
   },
@@ -44551,7 +44551,7 @@
     "s": "Hitta.se",
     "d": "www.hitta.se",
     "t": "hitta",
-    "u": "https://www.hitta.se/s\u00f6k?vad={{{s}}}",
+    "u": "https://www.hitta.se/sök?vad={{{s}}}",
     "c": "Online Services",
     "sc": "Search"
   },
@@ -44740,7 +44740,7 @@
     "sc": "Maps"
   },
   {
-    "s": "\u521d\u97f3\u30df\u30af Wiki",
+    "s": "初音ミク Wiki",
     "d": "www5.atwiki.jp",
     "t": "hmiku",
     "u": "https://www5.atwiki.jp/hmiku/?cmd=search&keyword={{{s}}}",
@@ -45052,7 +45052,7 @@
     "sc": "Online"
   },
   {
-    "s": "Horormag\u00f3ria",
+    "s": "Horormagória",
     "d": "horormagoria.sk",
     "t": "horor",
     "u": "https://horormagoria.sk/?s={{{s}}}",
@@ -45060,7 +45060,7 @@
     "sc": "Magazine"
   },
   {
-    "s": "Horormag\u00f3ria",
+    "s": "Horormagória",
     "d": "horormagoria.sk",
     "t": "horormagoria",
     "u": "https://horormagoria.sk/?s={{{s}}}",
@@ -45068,7 +45068,7 @@
     "sc": "Magazine"
   },
   {
-    "s": "Horormag\u00f3ria",
+    "s": "Horormagória",
     "d": "horormagoria.sk",
     "t": "horory",
     "u": "https://horormagoria.sk/?s={{{s}}}",
@@ -45794,7 +45794,7 @@
     "sc": "Video"
   },
   {
-    "s": "L'Humanit\u00e9",
+    "s": "L'Humanité",
     "d": "www.humanite.fr",
     "t": "huma",
     "u": "https://www.humanite.fr/search/{{{s}}}",
@@ -45933,7 +45933,7 @@
     "s": "Hindi Wikipedia",
     "d": "hi.wikipedia.org",
     "t": "hwiki",
-    "u": "https://hi.wikipedia.org/w/index.php?search={{{s}}}&title=\u0935\u093f\u0936\u0947\u0937%3A\u0916\u094b\u091c&go=\u091c\u093e\u090f\u0901&ns0=1",
+    "u": "https://hi.wikipedia.org/w/index.php?search={{{s}}}&title=विशेष%3Aखोज&go=जाएँ&ns0=1",
     "c": "Research",
     "sc": "Learning"
   },
@@ -46138,7 +46138,7 @@
     "sc": "Social (intl)"
   },
   {
-    "s": "Cat\u00e1logo Iacobus - Universidade de Santiago de Compostela",
+    "s": "Catálogo Iacobus - Universidade de Santiago de Compostela",
     "d": "iacobus.usc.es",
     "t": "iacobus",
     "u": "http://iacobus.usc.es/search*gag/?searchtype=Y&SORT=D&searcharg={{{s}}} ",
@@ -46173,7 +46173,7 @@
     "sc": "Tools"
   },
   {
-    "s": "Inde \u00e0 Paris",
+    "s": "Inde à Paris",
     "d": "indeaparis.com",
     "t": "iap",
     "u": "https://indeaparis.com/component/finder/search?q={{{s}}} ",
@@ -46429,7 +46429,7 @@
     "sc": "Movies"
   },
   {
-    "s": "\u7231\u8bcd\u9738",
+    "s": "爱词霸",
     "d": "www.iciba.com",
     "t": "iciba",
     "u": "https://www.iciba.com/{{{s}}}",
@@ -46680,7 +46680,7 @@
     "s": "I Do Imaging",
     "d": "idoimaging.com",
     "t": "idi",
-    "u": "https://idoimaging.com/programs/fulltext?utf8=\u2713&Program[fulltext]={{{s}}}",
+    "u": "https://idoimaging.com/programs/fulltext?utf8=✓&Program[fulltext]={{{s}}}",
     "c": "Tech",
     "sc": "Downloads (apps)"
   },
@@ -46957,7 +46957,7 @@
     "sc": "Tools (fundraising)"
   },
   {
-    "s": "Imgur \u2014\u00a0gifs",
+    "s": "Imgur — gifs",
     "d": "imgur.com",
     "t": "igif",
     "u": "https://imgur.com/search/score?q=ext%3Agif+{{{s}}}",
@@ -47053,7 +47053,7 @@
     "sc": "Companies"
   },
   {
-    "s": "Internetov\u00e1 jazykov\u00e1 p\u0159\u00edru\u010dka",
+    "s": "Internetová jazyková příručka",
     "d": "prirucka.ujc.cas.cz",
     "t": "ijp",
     "u": "https://prirucka.ujc.cas.cz/?slovo={{{s}}}",
@@ -47208,7 +47208,7 @@
     "s": "Ikso Kantaro",
     "d": "kantaro.ikso.net",
     "t": "ikso",
-    "u": "https://kantaro.ikso.net/?do=search&id={{{s}}}&fulltext=Ser\u0109o",
+    "u": "https://kantaro.ikso.net/?do=search&id={{{s}}}&fulltext=Serĉo",
     "c": "Multimedia",
     "sc": "Music (Lyrics)"
   },
@@ -47395,7 +47395,7 @@
     "sc": "Games (general)"
   },
   {
-    "s": "Images des math\u00e9matiques",
+    "s": "Images des mathématiques",
     "d": "images.math.cnrs.fr",
     "t": "imaths",
     "u": "https://images.math.cnrs.fr/spip.php?page=recherche&page=recherche&recherche={{{s}}}",
@@ -47643,7 +47643,7 @@
     "sc": "Online (deals)"
   },
   {
-    "s": "Instituto Nacional de Antropolog\u00eda e Historia",
+    "s": "Instituto Nacional de Antropología e Historia",
     "d": "www.inah.gob.mx",
     "t": "inah",
     "u": "https://www.inah.gob.mx/buscador?searchword={{{s}}}",
@@ -47859,7 +47859,7 @@
     "sc": "Learning"
   },
   {
-    "s": "Infop\u00e9dia",
+    "s": "Infopédia",
     "d": "www.infopedia.pt",
     "t": "infopedia",
     "u": "http://www.infopedia.pt/dicionarios/lingua-portuguesa/{{{s}}}",
@@ -47963,7 +47963,7 @@
     "sc": "Misc"
   },
   {
-    "s": "Inkeri Klubi \u2013 \u041a\u043b\u0443\u0431 \u0418\u043d\u0433\u0440\u0438\u044f",
+    "s": "Inkeri Klubi – Клуб Ингрия",
     "d": "inkeri-klubi.radioviola.net",
     "t": "inkeri",
     "u": "http://inkeri-klubi.radioviola.net/system/app/pages/search?scope=search-site&q={{{s}}}",
@@ -48859,7 +48859,7 @@
     "sc": "Reference (religion)"
   },
   {
-    "s": "\u0130slam Ansiklopedisi",
+    "s": "İslam Ansiklopedisi",
     "d": "islamansiklopedisi.org.tr",
     "t": "isl",
     "u": "https://islamansiklopedisi.org.tr/arama/?q={{{s}}}&p=m",
@@ -49073,7 +49073,7 @@
     "sc": "Google"
   },
   {
-    "s": "IT-NEWS: \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442\u0430",
+    "s": "IT-NEWS: Новости Интернета",
     "d": "it-news.press",
     "t": "itnews",
     "u": "https://it-news.press/search?searchword={{{s}}}",
@@ -49353,9 +49353,9 @@
     "sc": "Blogs"
   },
   {
-    "s": "J\u00e1.is",
+    "s": "Já.is",
     "d": "ja.is",
-    "t": "j\u00e1",
+    "t": "já",
     "u": "https://ja.is/?q={{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
@@ -49457,7 +49457,7 @@
     "sc": "Languages (java)"
   },
   {
-    "s": "Le Jargon Fran\u00e7ais",
+    "s": "Le Jargon Français",
     "d": "jargonf.org",
     "t": "jargonf",
     "u": "https://jargonf.org/index.php?search={{{s}}}",
@@ -49697,7 +49697,7 @@
     "sc": "Languages (java)"
   },
   {
-    "s": "Le Journal du Bien \u00eatre",
+    "s": "Le Journal du Bien être",
     "d": "www.lejournaldubienetre.com",
     "t": "jdbe",
     "u": "https://www.lejournaldubienetre.com/search?tag={{{s}}}",
@@ -49777,7 +49777,7 @@
     "sc": "Local"
   },
   {
-    "s": "\u4eac\u4e1c\u7f51\u4e0a\u5546\u57ce",
+    "s": "京东网上商城",
     "d": "search.jd.com",
     "t": "jd",
     "u": "https://search.jd.com/Search?keyword={{{s}}}&enc=utf-8",
@@ -49972,7 +49972,7 @@
     "s": "Johns Hopkins University Library",
     "d": "catalyst.library.jhu.edu",
     "t": "jhulib",
-    "u": "https://catalyst.library.jhu.edu/multi_search?utf8=\u2713&search_field=all_fields&q={{{s}}}",
+    "u": "https://catalyst.library.jhu.edu/multi_search?utf8=✓&search_field=all_fields&q={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -50093,7 +50093,7 @@
     "sc": "Online"
   },
   {
-    "s": "Jean-Luc M\u00e9lenchon",
+    "s": "Jean-Luc Mélenchon",
     "d": "www.jean-luc-melenchon.fr",
     "t": "jlm",
     "u": "http://www.jean-luc-melenchon.fr/?s={{{s}}}",
@@ -50269,7 +50269,7 @@
     "sc": "Blogs"
   },
   {
-    "s": "J\u00f3fog\u00e1s",
+    "s": "Jófogás",
     "d": "www.jofogas.hu",
     "t": "jofogas",
     "u": "https://www.jofogas.hu/magyarorszag?q={{{s}}}",
@@ -50349,7 +50349,7 @@
     "sc": "Online"
   },
   {
-    "s": "Jornal da Para\u00edba",
+    "s": "Jornal da Paraíba",
     "d": "www.jornaldaparaiba.com.br",
     "t": "jornaldaparaiba",
     "u": "https://www.jornaldaparaiba.com.br/?s={{{s}}}",
@@ -50509,7 +50509,7 @@
     "sc": "Languages (javascript)"
   },
   {
-    "s": "IDS JMK \u2013 j\u00edzdn\u00ed \u0159\u00e1dy Brno a Jihomoravsk\u00fd kraj",
+    "s": "IDS JMK – jízdní řády Brno a Jihomoravský kraj",
     "d": "www.idsjmk.cz",
     "t": "jrady",
     "u": "https://www.idsjmk.cz/jrady/{{{s}}}.pdf",
@@ -50813,7 +50813,7 @@
     "sc": "Law"
   },
   {
-    "s": "Justice - obchodn\u00ed rejst\u0159\u00edk",
+    "s": "Justice - obchodní rejstřík",
     "d": "or.justice.cz",
     "t": "justice",
     "u": "https://or.justice.cz/ias/ui/rejstrik-$firma?jenPlatne=PLATNE&nazev={{{s}}}",
@@ -50933,7 +50933,7 @@
     "sc": "Online (intl)"
   },
   {
-    "s": "Jehovas Zeugen \u2014 Offizielle Website: jw.org",
+    "s": "Jehovas Zeugen — Offizielle Website: jw.org",
     "d": "www.jw.org",
     "t": "jwde",
     "u": "https://www.jw.org/de/suche/?q={{{s}}}",
@@ -50941,10 +50941,10 @@
     "sc": "Specialty"
   },
   {
-    "s": "Sitio oficial de los testigos de Jehov\u00e1: jw.org",
+    "s": "Sitio oficial de los testigos de Jehová: jw.org",
     "d": "www.jw.org",
     "t": "jwes",
-    "u": "https://www.jw.org/es/b\u00fasquedas/?q={{{s}}}:",
+    "u": "https://www.jw.org/es/búsquedas/?q={{{s}}}:",
     "c": "News",
     "sc": "International"
   },
@@ -51085,7 +51085,7 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "\u041a\u0430\u043a\u043e \u0441\u0435 \u043f\u0438\u0448\u0435",
+    "s": "Како се пише",
     "d": "kakosepise.com",
     "t": "kakosepise",
     "u": "https://kakosepise.com/?s={{{s}}}",
@@ -51357,7 +51357,7 @@
     "sc": "Blogs"
   },
   {
-    "s": "Kuldne B\u00f6rs",
+    "s": "Kuldne Börs",
     "d": "kuldnebors.ee",
     "t": "kbors",
     "u": "http://kuldnebors.ee/search/search.mec?search_evt=onsearch&pob_action=search&search_O_string={{{s}}}",
@@ -51469,7 +51469,7 @@
     "sc": "Blogs"
   },
   {
-    "s": "e-keelen\u00f5u",
+    "s": "e-keelenõu",
     "d": "kn.eki.ee",
     "t": "keel",
     "u": "https://kn.eki.ee/?Q={{{s}}}",
@@ -51565,7 +51565,7 @@
     "sc": "Languages (python)"
   },
   {
-    "s": "Gyakorik\u00e9rd\u00e9sek",
+    "s": "Gyakorikérdések",
     "d": "www.gyakorikerdesek.hu",
     "t": "kerdes",
     "u": "https://www.gyakorikerdesek.hu/kereses.php?keres={{{s}}}",
@@ -51600,7 +51600,7 @@
     "s": "Ketab",
     "d": "ketab.io",
     "t": "ketab",
-    "u": "https://ketab.io/search?submit=\u062c\u0633\u062a\u062c\u0648&q={{{s}}}",
+    "u": "https://ketab.io/search?submit=جستجو&q={{{s}}}",
     "c": "Multimedia",
     "sc": "Books"
   },
@@ -51648,7 +51648,7 @@
     "s": "KDE GitLab",
     "d": "invent.kde.org",
     "t": "kgitlab",
-    "u": "https://invent.kde.org/search?utf8=\u2713&snippets=&scope=&search={{{s}}}",
+    "u": "https://invent.kde.org/search?utf8=✓&snippets=&scope=&search={{{s}}}",
     "c": "Tech",
     "sc": "Downloads (code)"
   },
@@ -51669,10 +51669,10 @@
     "sc": "Audio"
   },
   {
-    "s": "Khamsat | \u062e\u0645\u0633\u0627\u062a",
+    "s": "Khamsat | خمسات",
     "d": "khamsat.com",
     "t": "khamsat",
-    "u": "https://khamsat.com/search?utf8=\u2713&q={{{s}}}",
+    "u": "https://khamsat.com/search?utf8=✓&q={{{s}}}",
     "c": "Online Services",
     "sc": "Jobs"
   },
@@ -51744,7 +51744,7 @@
     "s": "Kickstarter",
     "d": "www.kickstarter.com",
     "t": "kickstarter",
-    "u": "https://www.kickstarter.com/projects/search?utf8=\u2713&term={{{s}}}",
+    "u": "https://www.kickstarter.com/projects/search?utf8=✓&term={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
@@ -51981,7 +51981,7 @@
     "sc": "Books"
   },
   {
-    "s": "Krajowa Izba Radc\u00f3w Prawnych",
+    "s": "Krajowa Izba Radców Prawnych",
     "d": "kirp.pl",
     "t": "kirp",
     "u": "https://kirp.pl/?s={{{s}}}",
@@ -52077,7 +52077,7 @@
     "sc": "Tech"
   },
   {
-    "s": "\u6f22\u5b57\u8f9e\u5178\u30aa\u30f3\u30e9\u30a4\u30f3 (Online kanji dictionary)",
+    "s": "漢字辞典オンライン (Online kanji dictionary)",
     "d": "kanji.jitenon.jp",
     "t": "kji",
     "u": "https://kanji.jitenon.jp/cat/search.php?getdata={{{s}}}",
@@ -52109,7 +52109,7 @@
     "sc": "Tools (fundraising)"
   },
   {
-    "s": "K\u00f8benhavns Biblioteker ( Copenhagen Libraries)",
+    "s": "Københavns Biblioteker ( Copenhagen Libraries)",
     "d": "bibliotek.kk.dk",
     "t": "kkbib",
     "u": "https://bibliotek.kk.dk/search/ting/{{{s}}}",
@@ -52125,7 +52125,7 @@
     "sc": "Music"
   },
   {
-    "s": "KingKong Bruce\u8a18\u4e8b",
+    "s": "KingKong Bruce記事",
     "d": "www.google.com",
     "t": "kkbruce",
     "u": "https://www.google.com/cse?cx=002209521788924011185:wzz9w-qvlhi&q={{{s}}}",
@@ -52405,9 +52405,9 @@
     "sc": "Sysadmin (Fedora)"
   },
   {
-    "s": "K\u00f6ket",
+    "s": "Köket",
     "d": "www.koket.se",
-    "t": "k\u00f6ket",
+    "t": "köket",
     "u": "https://www.koket.se/search?searchtext={{{s}}}",
     "c": "Entertainment",
     "sc": "Misc"
@@ -52573,7 +52573,7 @@
     "sc": "Misc"
   },
   {
-    "s": "Slovensk\u00e9 slovn\u00edky",
+    "s": "Slovenské slovníky",
     "d": "slovniky.korpus.sk",
     "t": "korpus",
     "u": "https://slovniky.korpus.sk/?w={{{s}}}",
@@ -52645,7 +52645,7 @@
     "sc": "Languages (other)"
   },
   {
-    "s": "\u30b3\u30c8\u30d0\u30f3\u30af",
+    "s": "コトバンク",
     "d": "kotobank.jp",
     "t": "kotoba",
     "u": "https://kotobank.jp/word/{{{s}}}",
@@ -52653,7 +52653,7 @@
     "sc": "Search (non-US)"
   },
   {
-    "s": "\u30b3\u30c8\u30d0\u30f3\u30af\u7528\u8a9e\u691c\u7d22",
+    "s": "コトバンク用語検索",
     "d": "kotobank.jp",
     "t": "kotobank",
     "u": "https://kotobank.jp/word/{{{s}}} ",
@@ -52816,7 +52816,7 @@
     "s": "Kickstarter",
     "d": "www.kickstarter.com",
     "t": "ks",
-    "u": "http://www.kickstarter.com/projects/search?utf8=\u2713&term={{{s}}}+",
+    "u": "http://www.kickstarter.com/projects/search?utf8=✓&term={{{s}}}+",
     "c": "Online Services",
     "sc": "Tools (fundraising)"
   },
@@ -53117,7 +53117,7 @@
     "sc": "Music"
   },
   {
-    "s": "\ubb3b\uc9c0\ub9c8 \uac80\uc0c9",
+    "s": "묻지마 검색",
     "d": "kwzf.net",
     "t": "kwzf",
     "u": "http://kwzf.net/#search={{{s}}}&page=1",
@@ -53245,7 +53245,7 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "LAEC.fr \u2013 Le programme de Jean-Luc M\u00e9lenchon en ligne \u2013 L'Avenir En Commun",
+    "s": "LAEC.fr – Le programme de Jean-Luc Mélenchon en ligne – L'Avenir En Commun",
     "d": "laec.fr",
     "t": "laec",
     "u": "https://laec.fr/recherche?termes={{{s}}}",
@@ -53309,7 +53309,7 @@
     "sc": "Search"
   },
   {
-    "s": "\u0644\u0645\u062d\u0629 \u062a\u0643",
+    "s": "لمحة تك",
     "d": "www.lamhatech.com",
     "t": "lamhatech",
     "u": "https://www.lamhatech.com/search?q={{{s}}}",
@@ -53349,7 +53349,7 @@
     "sc": "Online"
   },
   {
-    "s": "La Naci\u00f3n",
+    "s": "La Nación",
     "d": "buscar.lanacion.com.ar",
     "t": "lanacion",
     "u": "https://buscar.lanacion.com.ar/{{{s}}}/sort-new",
@@ -53493,7 +53493,7 @@
     "sc": "General"
   },
   {
-    "s": "Larousse (Fran\u00e7ais)",
+    "s": "Larousse (Français)",
     "d": "www.larousse.fr",
     "t": "lar",
     "u": "https://www.larousse.fr/dictionnaires/francais/{{{s}}}",
@@ -53837,7 +53837,7 @@
     "sc": "Images"
   },
   {
-    "s": "Let\u2019s CC",
+    "s": "Let’s CC",
     "d": "eng.letscc.net",
     "t": "lcc",
     "u": "http://eng.letscc.net/?t=all&k={{{s}}}",
@@ -54306,7 +54306,7 @@
     "s": "LEO Dictionary French",
     "d": "dict.leo.org",
     "t": "leofr",
-    "u": "https://dict.leo.org/franz\u00f6sisch-deutsch/{{{s}}}",
+    "u": "https://dict.leo.org/französisch-deutsch/{{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
   },
@@ -54425,7 +54425,7 @@
     "sc": "Tools"
   },
   {
-    "s": "Les Num\u00e9riques",
+    "s": "Les Numériques",
     "d": "www.lesnumeriques.com",
     "t": "lesnumeriques",
     "u": "https://www.lesnumeriques.com/recherche.html?q={{{s}}}&cx=partner-pub-8349656358827352%3A8590362607&cof=FORID%3A10&ie=UTF-8&hl=fr",
@@ -54433,7 +54433,7 @@
     "sc": "Blogs"
   },
   {
-    "s": "Les Num\u00e9riques",
+    "s": "Les Numériques",
     "d": "www.lesnumeriques.com",
     "t": "lesnum",
     "u": "https://www.lesnumeriques.com/recherche?q={{{s}}}",
@@ -54569,7 +54569,7 @@
     "sc": "Tools"
   },
   {
-    "s": "\u039b\u03b5\u03be\u03b9\u03ba\u03cc \u03a4\u03c1\u03b9\u03b1\u03bd\u03c4\u03b1\u03c6\u03c5\u03bb\u03bb\u03af\u03b4\u03b7",
+    "s": "Λεξικό Τριανταφυλλίδη",
     "d": "www.greek-language.gr",
     "t": "lext",
     "u": "https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq={{{s}}}",
@@ -54689,7 +54689,7 @@
     "sc": "Government"
   },
   {
-    "s": "Lib\u00e9ration",
+    "s": "Libération",
     "d": "www.liberation.fr",
     "t": "libe",
     "u": "https://www.liberation.fr/recherche/?q={{{s}}}",
@@ -54753,7 +54753,7 @@
     "sc": "Music"
   },
   {
-    "s": "\ub9ac\ube0c\ub808 \uc704\ud0a4",
+    "s": "리브레 위키",
     "d": "librewiki.net",
     "t": "libre",
     "u": "https://librewiki.net/wiki/Special:Search?search={{{s}}}&go=Go",
@@ -54849,7 +54849,7 @@
     "sc": "Programming"
   },
   {
-    "s": "\uc790\uc720\uc778\uc0ac\uc804(Licentium Wiki)",
+    "s": "자유인사전(Licentium Wiki)",
     "d": "licentium.net",
     "t": "licentium",
     "u": "https://licentium.net/w/index.php?search={{{s}}}",
@@ -54873,7 +54873,7 @@
     "sc": "Tools"
   },
   {
-    "s": "Linguee Deutsch <-> Fran\u00e7ais (German  <-> French)",
+    "s": "Linguee Deutsch <-> Français (German  <-> French)",
     "d": "www.linguee.de",
     "t": "lidf",
     "u": "https://www.linguee.de/deutsch-franzoesisch/search?source=auto&query={{{s}}}",
@@ -54929,7 +54929,7 @@
     "sc": "Tools"
   },
   {
-    "s": "Linguee Fran\u00e7ais <-> Deutsch (German <-> French) with French interface",
+    "s": "Linguee Français <-> Deutsch (German <-> French) with French interface",
     "d": "www.linguee.fr",
     "t": "lifd",
     "u": "https://www.linguee.fr/francais-allemand/search?source=auto&query={{{s}}}",
@@ -55265,7 +55265,7 @@
     "sc": "Tools"
   },
   {
-    "s": "Linguee (en fran\u00e7ais)",
+    "s": "Linguee (en français)",
     "d": "www.linguee.fr",
     "t": "lingfr",
     "u": "https://www.linguee.fr/francais-anglais/search?source=auto&query={{{s}}}",
@@ -55689,7 +55689,7 @@
     "sc": "Online (marketplace)"
   },
   {
-    "s": "Dictionnaire Littr\u00e9",
+    "s": "Dictionnaire Littré",
     "d": "www.littre.org",
     "t": "littre",
     "u": "https://www.littre.org/definition/{{{s}}}",
@@ -55697,7 +55697,7 @@
     "sc": "Books"
   },
   {
-    "s": "Link\u00f6ping University",
+    "s": "Linköping University",
     "d": "search.liu.se",
     "t": "liu",
     "u": "https://search.liu.se/en/?query={{{s}}}",
@@ -55841,7 +55841,7 @@
     "sc": "Music"
   },
   {
-    "s": "Les ma\u00eetres composeurs",
+    "s": "Les maîtres composeurs",
     "d": "les-maitres-composeurs.fr",
     "t": "lmc",
     "u": "https://les-maitres-composeurs.fr/?s={{{s}}}&post_type=product",
@@ -55905,7 +55905,7 @@
     "sc": "Games (offline)"
   },
   {
-    "s": "Universit\u00e4tsbibliothek der Ludwig-Maximilians-Universit\u00e4t (LMU) M\u00fcnchen",
+    "s": "Universitätsbibliothek der Ludwig-Maximilians-Universität (LMU) München",
     "d": "opac.ub.uni-muenchen.de",
     "t": "lmu",
     "u": "https://opac.ub.uni-muenchen.de/TouchPoint/start.do?View=sunrise&Language=de&Query=-1=%22{{{s}}}%22",
@@ -55929,7 +55929,7 @@
     "sc": "General"
   },
   {
-    "s": "Linio M\u00e9xico",
+    "s": "Linio México",
     "d": "www.linio.com.mx",
     "t": "lmx",
     "u": "https://www.linio.com.mx/search?q={{{s}}}",
@@ -55961,7 +55961,7 @@
     "sc": "Specialty"
   },
   {
-    "s": "Linn\u00e9universitetet Bibliotek LNU",
+    "s": "Linnéuniversitetet Bibliotek LNU",
     "d": "lnu-se-primo.hosted.exlibrisgroup.com",
     "t": "lnu",
     "u": "https://lnu-se-primo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,{{{s}}}&search_scope=default_scope&sortby=rank&vid=primo-custom-lnu&pcAvailability=false&lang=sv_SE",
@@ -56353,7 +56353,7 @@
     "sc": "Law"
   },
   {
-    "s": "L\u00d6VE2D",
+    "s": "LÖVE2D",
     "d": "www.love2d.org",
     "t": "love2d",
     "u": "https://www.love2d.org/w/index.php?search={{{s}}}",
@@ -56377,7 +56377,7 @@
     "sc": "Comics"
   },
   {
-    "s": "L\u00d6VE",
+    "s": "LÖVE",
     "d": "love2d.org",
     "t": "love",
     "u": "https://love2d.org/w/index.php?title=Special%3ASearch&search={{{s}}}&go=Go",
@@ -56393,7 +56393,7 @@
     "sc": "Online"
   },
   {
-    "s": "L\u00d6VE Wiki",
+    "s": "LÖVE Wiki",
     "d": "love2d.org",
     "t": "lovewiki",
     "u": "https://love2d.org/w/index.php?search={{{s}}}",
@@ -56481,7 +56481,7 @@
     "sc": "Languages (c++)"
   },
   {
-    "s": "La Pol\u00edtica Online",
+    "s": "La Política Online",
     "d": "www.lapoliticaonline.com",
     "t": "lpo",
     "u": "https://www.lapoliticaonline.com/0/buscar/index.vnc?id={{{s}}}",
@@ -56545,7 +56545,7 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "La sombra del helic\u00f3ptero",
+    "s": "La sombra del helicóptero",
     "d": "lasombradelhelicoptero.com",
     "t": "lsdh",
     "u": "https://lasombradelhelicoptero.com/?s={{{s}}}",
@@ -56569,7 +56569,7 @@
     "sc": "Tools"
   },
   {
-    "s": "Librer\u00edas Santa Fe",
+    "s": "Librerías Santa Fe",
     "d": "www.lsf.com.ar",
     "t": "lsf",
     "u": "http://www.lsf.com.ar/resulta.aspx?key={{{s}}}",
@@ -56841,15 +56841,15 @@
     "sc": "Tools"
   },
   {
-    "s": "Kubbealt\u0131 Lugati",
+    "s": "Kubbealtı Lugati",
     "d": "lugatim.com",
-    "t": "lugat\u0131m",
+    "t": "lugatım",
     "u": "http://lugatim.com/s/{{{s}}}",
     "c": "Research",
     "sc": "Reference"
   },
   {
-    "s": "Kubbealt\u0131 Lugat\u0131",
+    "s": "Kubbealtı Lugatı",
     "d": "www.lugatim.com",
     "t": "lugat",
     "u": "http://www.lugatim.com/s/{{{s}}}",
@@ -56892,7 +56892,7 @@
     "s": "LumenDatabase",
     "d": "lumendatabase.org",
     "t": "lumen",
-    "u": "https://lumendatabase.org/notices/search?utf8=\u2713&term={{{s}}}",
+    "u": "https://lumendatabase.org/notices/search?utf8=✓&term={{{s}}}",
     "c": "Research",
     "sc": "Law"
   },
@@ -56969,7 +56969,7 @@
     "sc": "Academic"
   },
   {
-    "s": "Knihkupectv\u00ed NeoLuxor",
+    "s": "Knihkupectví NeoLuxor",
     "d": "neoluxor.cz",
     "t": "luxor",
     "u": "http://neoluxor.cz/vyhledavani/?query={{{s}}}",
@@ -57233,7 +57233,7 @@
     "sc": "Online"
   },
   {
-    "s": "\u7f51\u6613\u4e91\u97f3\u4e50",
+    "s": "网易云音乐",
     "d": "music.163.com",
     "t": "m163",
     "u": "https://music.163.com/#/search/m/?s={{{s}}}",
@@ -57265,7 +57265,7 @@
     "sc": "Downloads (software)"
   },
   {
-    "s": "\u0645\u0639\u0627\u062c\u0645",
+    "s": "معاجم",
     "d": "www.maajim.com",
     "t": "maajim",
     "u": "https://www.maajim.com/dictionary/{{{s}}}",
@@ -57745,7 +57745,7 @@
     "sc": "TV"
   },
   {
-    "s": "M\u00e1li\u00f0",
+    "s": "Málið",
     "d": "malid.is",
     "t": "malid",
     "u": "https://malid.is/leit/{{{s}}}",
@@ -57993,7 +57993,7 @@
     "sc": "Search"
   },
   {
-    "s": "M\u0101ori Dictionary",
+    "s": "Māori Dictionary",
     "d": "maoridictionary.co.nz",
     "t": "maoridictionary",
     "u": "https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords={{{s}}}",
@@ -58001,7 +58001,7 @@
     "sc": "Reference"
   },
   {
-    "s": "M\u0101ori Dictionary",
+    "s": "Māori Dictionary",
     "d": "maoridictionary.co.nz",
     "t": "maori",
     "u": "https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords={{{s}}}",
@@ -58009,9 +58009,9 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "M\u0101ori Dictionary",
+    "s": "Māori Dictionary",
     "d": "maoridictionary.co.nz",
-    "t": "m\u0101ori",
+    "t": "māori",
     "u": "https://maoridictionary.co.nz/search?keywords={{{s}}}",
     "c": "Research",
     "sc": "Reference (words intl)"
@@ -58257,7 +58257,7 @@
     "sc": "Online (marketplace)"
   },
   {
-    "s": "marmaris tekne turlar\u0131",
+    "s": "marmaris tekne turları",
     "d": "www.marmarisreservation.com",
     "t": "marmaris",
     "u": "https://www.marmarisreservation.com/?s={{{s}}}",
@@ -59365,7 +59365,7 @@
     "sc": "Aggregators"
   },
   {
-    "s": "Manual do Usu\u00e1rio",
+    "s": "Manual do Usuário",
     "d": "manualdousuario.net",
     "t": "mdu",
     "u": "https://manualdousuario.net/?s={{{s}}}",
@@ -59413,7 +59413,7 @@
     "sc": "Health"
   },
   {
-    "s": "Mechanical Engineering \u00bb Discussion Forum \u00bb Questions & Answers",
+    "s": "Mechanical Engineering » Discussion Forum » Questions & Answers",
     "d": "mechanicalsite.com",
     "t": "medf",
     "u": "https://mechanicalsite.com/?s={{{s}}}",
@@ -59837,7 +59837,7 @@
     "sc": "Reference (fun)"
   },
   {
-    "s": "Men\u00e9ame",
+    "s": "Menéame",
     "d": "www.meneame.net",
     "t": "meneame",
     "u": "https://www.meneame.net/search?q={{{s}}}",
@@ -59885,7 +59885,7 @@
     "sc": "Online"
   },
   {
-    "s": "Mercadolibre M\u00e9xico",
+    "s": "Mercadolibre México",
     "d": "listado.mercadolibre.com.mx",
     "t": "mercadolibremx",
     "u": "https://listado.mercadolibre.com.mx/{{{s}}}"
@@ -60211,7 +60211,7 @@
     "sc": "Weather"
   },
   {
-    "s": "M\u00e9t\u00e9o-France",
+    "s": "Météo-France",
     "d": "www.meteofrance.com",
     "t": "meteofr",
     "u": "https://www.meteofrance.com/recherche/resultats?facet=previsions&lieuId=&lieuType=&search-type=previsions&query={{{s}}}",
@@ -60291,7 +60291,7 @@
     "sc": "Social"
   },
   {
-    "s": "Meyers Gro\u00dfes Konversationslexikon",
+    "s": "Meyers Großes Konversationslexikon",
     "d": "woerterbuchnetz.de",
     "t": "meyers",
     "u": "https://woerterbuchnetz.de/Meyers/?lemme={{{s}}}",
@@ -60379,7 +60379,7 @@
     "sc": "Academic"
   },
   {
-    "s": "T\u00fcrkiye Cumhuriyeti Orman ve Su \u0130\u015fleri Bakanl\u0131\u011f\u0131 Meteoroloji Genel M\u00fcd\u00fcrl\u00fc\u011f\u00fc",
+    "s": "Türkiye Cumhuriyeti Orman ve Su İşleri Bakanlığı Meteoroloji Genel Müdürlüğü",
     "d": "www.mgm.gov.tr",
     "t": "mgm",
     "u": "https://www.mgm.gov.tr/tahmin/il-ve-ilceler.aspx?il={{{s}}}",
@@ -60451,7 +60451,7 @@
     "sc": "Tools"
   },
   {
-    "s": "Michaelis - Portugu\u00eas - Ingl\u00eas",
+    "s": "Michaelis - Português - Inglês",
     "d": "michaelis.uol.com.br",
     "t": "michaelis",
     "u": "https://michaelis.uol.com.br/busca?r=1&f=0&t=1&palavra={{{s}}}",
@@ -60963,7 +60963,7 @@
     "sc": "Online (marketplace)"
   },
   {
-    "s": "M\u011bstsk\u00e1 knihovna v Praze",
+    "s": "Městská knihovna v Praze",
     "d": "search.mlp.cz",
     "t": "mkp",
     "u": "https://search.mlp.cz/cz/?query={{{s}}}&kde=all#/c_s_ol=query-eq:{{{s}}}",
@@ -62057,7 +62057,7 @@
     "sc": "Blogs (intl)"
   },
   {
-    "s": "Mostaql | \u0645\u0633\u062a\u0642\u0644",
+    "s": "Mostaql | مستقل",
     "d": "mostaql.com",
     "t": "mostaql",
     "u": "https://mostaql.com/freelancers?keyword={{{s}}}",
@@ -62132,7 +62132,7 @@
     "s": "Moviepilot Mobile",
     "d": "m.moviepilot.de",
     "t": "moviepilotm",
-    "u": "https://m.moviepilot.de/suche?utf8=\u2713&q={{{s}}}",
+    "u": "https://m.moviepilot.de/suche?utf8=✓&q={{{s}}}",
     "c": "Entertainment",
     "sc": "Movies"
   },
@@ -62140,7 +62140,7 @@
     "s": "Moviepilot",
     "d": "www.moviepilot.de",
     "t": "moviepilot",
-    "u": "https://www.moviepilot.de/suche?utf8=\u2713&q={{{s}}}",
+    "u": "https://www.moviepilot.de/suche?utf8=✓&q={{{s}}}",
     "c": "Entertainment",
     "sc": "Movies"
   },
@@ -62169,7 +62169,7 @@
     "sc": "Movies"
   },
   {
-    "s": "\u0645\u0648\u06a9\u0633\u0648",
+    "s": "موکسو",
     "d": "www.moxo.ir",
     "t": "moxo.ir",
     "u": "http://www.moxo.ir/?s={{{s}}} ",
@@ -62361,7 +62361,7 @@
     "sc": "Sports"
   },
   {
-    "s": "Medienp\u00e4dagogik Praxis-Blog",
+    "s": "Medienpädagogik Praxis-Blog",
     "d": "www.medienpaedagogik-praxis.de",
     "t": "mppb",
     "u": "https://www.medienpaedagogik-praxis.de/?s={{{s}}}",
@@ -62473,7 +62473,7 @@
     "sc": "Movies"
   },
   {
-    "s": "MRW Espa\u00f1a",
+    "s": "MRW España",
     "d": "www.mrw.es",
     "t": "mrw",
     "u": "https://www.mrw.es/seguimiento_envios/MRW_resultados_consultas.asp?modo=nacional&envio={{{s}}}",
@@ -62564,7 +62564,7 @@
     "s": "MSD Manual Japanese",
     "d": "www.msdmanuals.com",
     "t": "msdjp",
-    "u": "https://www.msdmanuals.com/ja-jp/\u30db\u30fc\u30e0/SearchResults?query={{{s}}}",
+    "u": "https://www.msdmanuals.com/ja-jp/ホーム/SearchResults?query={{{s}}}",
     "c": "Research",
     "sc": "Health"
   },
@@ -63188,7 +63188,7 @@
     "s": "Muragon",
     "d": "muragon.com",
     "t": "muragon",
-    "u": "https://muragon.com/search/?ie=UTF-8&q={{{s}}}&sa=\u691c\u7d22",
+    "u": "https://muragon.com/search/?ie=UTF-8&q={{{s}}}&sa=検索",
     "c": "Online Services",
     "sc": "Social"
   },
@@ -63465,7 +63465,7 @@
     "sc": "Libraries/Frameworks"
   },
   {
-    "s": "M\u00fcnchner Verkehrs- und Tarifbund (MVV)",
+    "s": "Münchner Verkehrs- und Tarifbund (MVV)",
     "d": "efa.mvv-muenchen.de",
     "t": "mvv",
     "u": "https://efa.mvv-muenchen.de/index.html?name_destination={{{s}}}",
@@ -63823,7 +63823,7 @@
     "sc": "Online"
   },
   {
-    "s": "Medios y Opini\u00f3n",
+    "s": "Medios y Opinión",
     "d": "www.plazademayo.com",
     "t": "myo",
     "u": "http://www.plazademayo.com/mediosyopinion/?s={{{s}}}",
@@ -64103,7 +64103,7 @@
     "sc": "Academic"
   },
   {
-    "s": "NAOB \u2013 Det Norske Akademis ordbok",
+    "s": "NAOB – Det Norske Akademis ordbok",
     "d": "www.naob.no",
     "t": "naob",
     "u": "https://www.naob.no/s%C3%B8k/{{{s}}}",
@@ -64111,10 +64111,10 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "N\u00e3o Intendo",
+    "s": "Não Intendo",
     "d": "www.naointendo.com.br",
     "t": "naointendo",
-    "u": "https://www.naointendo.com.br/blog/busca?utf8=\u2713&q={{{s}}}",
+    "u": "https://www.naointendo.com.br/blog/busca?utf8=✓&q={{{s}}}",
     "c": "Entertainment",
     "sc": "Blogs"
   },
@@ -64135,7 +64135,7 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "\ub098\uc624\ub77c",
+    "s": "나오라",
     "d": "www.naora.me",
     "t": "naora",
     "u": "https://www.naora.me/web?q={{{s}}}",
@@ -64287,7 +64287,7 @@
     "sc": "Images"
   },
   {
-    "s": "Naturvin \u2013 The Sound of Soil",
+    "s": "Naturvin – The Sound of Soil",
     "d": "naturvin.wordpress.com",
     "t": "naturvin",
     "u": "https://naturvin.wordpress.com/?s={{{s}}}",
@@ -64329,7 +64329,7 @@
   {
     "s": "Naver",
     "d": "search.naver.com",
-    "t": "\u3134",
+    "t": "ㄴ",
     "u": "https://search.naver.com/search.naver?query={{{s}}}",
     "c": "Online Services",
     "sc": "Search (non-US)"
@@ -64415,7 +64415,7 @@
     "sc": "Blogs"
   },
   {
-    "s": "Norwegian Bokm\u00e5l Dictionary",
+    "s": "Norwegian Bokmål Dictionary",
     "d": "ordbokene.no",
     "t": "nbd",
     "u": "https://ordbokene.no/bm/search?scope=ei&perPage=20&q={{{s}}}",
@@ -64719,7 +64719,7 @@
     "sc": "Misc"
   },
   {
-    "s": "Nedir S\u00f6zl\u00fck",
+    "s": "Nedir Sözlük",
     "d": "nedir-sozluk.com",
     "t": "nedir",
     "u": "http://nedir-sozluk.com/ara/{{{s}}}",
@@ -64759,7 +64759,7 @@
     "sc": "Online"
   },
   {
-    "s": "\u7f51\u6613\u4e91\u97f3\u4e50(NeteaseMusic)",
+    "s": "网易云音乐(NeteaseMusic)",
     "d": "music.163.com",
     "t": "nem",
     "u": "https://music.163.com/#/search/m/?s={{{s}}}",
@@ -65383,7 +65383,7 @@
     "sc": "Specialty"
   },
   {
-    "s": "DuckDuckGo Actualit\u00e9",
+    "s": "DuckDuckGo Actualité",
     "d": "duckduckgo.com",
     "t": "nfr",
     "u": "https://duckduckgo.com/?q={{{s}}}&iar=news&ia=news&kl=fr-fr",
@@ -65495,9 +65495,9 @@
     "sc": "Tracking"
   },
   {
-    "s": "NG\u00dc auf Bibleserver",
+    "s": "NGÜ auf Bibleserver",
     "d": "www.bibleserver.com",
-    "t": "ng\u00fc",
+    "t": "ngü",
     "u": "https://www.bibleserver.com/search/NG%C3%9C/{{{s}}}",
     "c": "Research",
     "sc": "Reference (religion)"
@@ -65687,7 +65687,7 @@
     "sc": "Government"
   },
   {
-    "s": "\u65e5\u7d4c\u65b0\u805e",
+    "s": "日経新聞",
     "d": "r.nikkei.com",
     "t": "nikkei",
     "u": "https://r.nikkei.com/search?keyword={{{s}}}",
@@ -65799,7 +65799,7 @@
     "sc": "Downloads"
   },
   {
-    "s": "Ni\u015fanyan Etimolojik S\u00f6zl\u00fck",
+    "s": "Nişanyan Etimolojik Sözlük",
     "d": "www.nisanyansozluk.com",
     "t": "nisanyan",
     "u": "https://www.nisanyansozluk.com/?k={{{s}}}",
@@ -66066,7 +66066,7 @@
     "s": "Nolife-Wiki",
     "d": "nolife-wiki.fr",
     "t": "nlw",
-    "u": "https://nolife-wiki.fr/index.php?title=Sp\u00e9cial%3ARecherche&go=Lire&search={{{s}}}",
+    "u": "https://nolife-wiki.fr/index.php?title=Spécial%3ARecherche&go=Lire&search={{{s}}}",
     "c": "Research",
     "sc": "Reference"
   },
@@ -66239,7 +66239,7 @@
     "sc": "Google"
   },
   {
-    "s": "CCF NOI \u5b98\u7f51",
+    "s": "CCF NOI 官网",
     "d": "www.noi.cn",
     "t": "noi",
     "u": "https://www.noi.cn/search.html?q={{{s}}}",
@@ -66247,7 +66247,7 @@
     "sc": "Domains"
   },
   {
-    "s": "\u30ce\u30a4\u30ba\u30ec\u30b9\u30b5\u30fc\u30c1",
+    "s": "ノイズレスサーチ",
     "d": "pasokatu.com",
     "t": "noiseless",
     "u": "http://pasokatu.com/nsearch#gsc.q={{{s}}}",
@@ -66346,12 +66346,12 @@
     "s": "Norid",
     "d": "www.norid.no",
     "t": "norid",
-    "u": "https://www.norid.no/index.html?charset=UTF-8&page=index&sok=S\u00f8k&query={{{s}}}",
+    "u": "https://www.norid.no/index.html?charset=UTF-8&page=index&sok=Søk&query={{{s}}}",
     "c": "Tech",
     "sc": "Domains"
   },
   {
-    "s": "Nynorskordboka og Bokm\u00e5lsordboka",
+    "s": "Nynorskordboka og Bokmålsordboka",
     "d": "ordbok.uib.no",
     "t": "norsk",
     "u": "https://ordbok.uib.no/perl/ordbok.cgi?OPP={{{s}}}&ant_bokmaal=5&ant_nynorsk=5&begge=+&ordbok=begge",
@@ -66383,7 +66383,7 @@
     "sc": "Search (DDG)"
   },
   {
-    "s": "NosD\u00e9put\u00e9s.Fr",
+    "s": "NosDéputés.Fr",
     "d": "www.nosdeputes.fr",
     "t": "nosdeputes",
     "u": "https://www.nosdeputes.fr/recherche/{{{s}}}",
@@ -66495,7 +66495,7 @@
     "sc": "Newspaper"
   },
   {
-    "s": "Neue Osnabr\u00fccker Zeitung",
+    "s": "Neue Osnabrücker Zeitung",
     "d": "www.noz.de",
     "t": "noz",
     "u": "https://www.noz.de/suche/?q={{{s}}}",
@@ -67199,7 +67199,7 @@
     "sc": "Search"
   },
   {
-    "s": "Neue Z\u00fcrcher Zeitung",
+    "s": "Neue Zürcher Zeitung",
     "d": "www.nzz.ch",
     "t": "nzz",
     "u": "https://www.nzz.ch/suche?form%5Bq%5D={{{s}}}",
@@ -67255,7 +67255,7 @@
     "sc": "Programming"
   },
   {
-    "s": "Offres \u00e0 Saisir",
+    "s": "Offres à Saisir",
     "d": "www.offresasaisir.fr",
     "t": "oas",
     "u": "https://www.offresasaisir.fr/recherche?q={{{s}}}",
@@ -67319,7 +67319,7 @@
     "sc": "Design"
   },
   {
-    "s": "Seznam Obr\u00e1zky",
+    "s": "Seznam Obrázky",
     "d": "www.obrazky.cz",
     "t": "obrazky",
     "u": "https://www.obrazky.cz/?q={{{s}}}",
@@ -67599,10 +67599,10 @@
     "sc": "Academic"
   },
   {
-    "s": "Odpiralni \u010dasi",
+    "s": "Odpiralni časi",
     "d": "odpiralnicasi.com",
     "t": "odpiralni",
-    "u": "https://odpiralnicasi.com/spots?utf8=\u2713&q={{{s}}}",
+    "u": "https://odpiralnicasi.com/spots?utf8=✓&q={{{s}}}",
     "c": "Online Services",
     "sc": "Search (non-US)"
   },
@@ -67631,9 +67631,9 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "Eesti \u00f5igekeelsuss\u00f5naraamat",
+    "s": "Eesti õigekeelsussõnaraamat",
     "d": "www.eki.ee",
-    "t": "\u00f5",
+    "t": "õ",
     "u": "https://www.eki.ee/dict/qs/index.cgi?Q={{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
@@ -68023,7 +68023,7 @@
     "sc": "Downloads (software)"
   },
   {
-    "s": "Ol\u00e9",
+    "s": "Olé",
     "d": "buscador.ole.com.ar",
     "t": "ole",
     "u": "http://buscador.ole.com.ar/{{{s}}}",
@@ -68623,7 +68623,7 @@
     "sc": "Academic"
   },
   {
-    "s": "Universit\u00e4tsbibliothek Humboldt (Grimmzentrum)",
+    "s": "Universitätsbibliothek Humboldt (Grimmzentrum)",
     "d": "hu-berlin.hosted.exlibrisgroup.com",
     "t": "opachu",
     "u": "https://hu-berlin.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,{{{s}}}&search_scope=default_scope&displayField=all&pcAvailabiltyMode=false&dum=true&vid=hub_ub&displayMode=full&bulkSize=30&mode=Basic&tab=default_tab&highlight=true&institution=HUB_UB&sortby=rank&lang=de_DE",
@@ -68631,7 +68631,7 @@
     "sc": "Academic"
   },
   {
-    "s": "Universit\u00e4tsbibliothek Potsdam",
+    "s": "Universitätsbibliothek Potsdam",
     "d": "opac.ub.uni-potsdam.de",
     "t": "opacp",
     "u": "https://opac.ub.uni-potsdam.de/DB=1/SET=4/TTL=1/CMD?ACT=SRCHA&IKT=1016&SRT=YOP&TRM={{{s}}}",
@@ -69189,7 +69189,7 @@
     "sc": "Companies"
   },
   {
-    "s": "O\u00f9QuoiComment",
+    "s": "OùQuoiComment",
     "d": "www.ouquoicomment.ch",
     "t": "oqc",
     "u": "https://www.ouquoicomment.ch/?s={{{s}}}&search_by=all",
@@ -69237,7 +69237,7 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "Bokm\u00e5lsordboka | Nynorskordboka",
+    "s": "Bokmålsordboka | Nynorskordboka",
     "d": "ordbok.uib.no",
     "t": "ordbok",
     "u": "https://ordbok.uib.no/perl/ordbok.cgi?OPP=+{{{s}}}&ant_bokmaal=5&ant_nynorsk=5&begge=+&ordbok=begge",
@@ -69256,7 +69256,7 @@
     "s": "Ordguru",
     "d": "www.ordguru.se",
     "t": "ordguru",
-    "u": "https://www.ordguru.se/synonymer/s\u00f6k?q={{{s}}}",
+    "u": "https://www.ordguru.se/synonymer/sök?q={{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
   },
@@ -69285,7 +69285,7 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "Norstedts ordb\u00f6cker",
+    "s": "Norstedts ordböcker",
     "d": "ne.ord.se",
     "t": "ord",
     "u": "https://ne.ord.se/ordbok/svenska/engelska/s%C3%B6k/{{{s}}}",
@@ -69333,7 +69333,7 @@
     "sc": "Programming"
   },
   {
-    "s": "Orell F\u00fcssli",
+    "s": "Orell Füssli",
     "d": "www.orellfuessli.ch",
     "t": "orell",
     "u": "https://www.orellfuessli.ch/suche?utf8=%E2%9C%93&filterPATHROOT=&sq={{{s}}}",
@@ -69421,7 +69421,7 @@
     "sc": "Online"
   },
   {
-    "s": "Obchodn\u00ed rejst\u0159\u00edk \u2013 Ministerstvo spravedlnosti \u010cesk\u00e9 republiky",
+    "s": "Obchodní rejstřík – Ministerstvo spravedlnosti České republiky",
     "d": "or.justice.cz",
     "t": "or",
     "u": "https://or.justice.cz/ias/ui/rejstrik-$firma?jenPlatne=PLATNE&nazev={{{s}}}&polozek=50&typHledani=STARTS_WITH",
@@ -69453,7 +69453,7 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "\u00d6rebro University",
+    "s": "Örebro University",
     "d": "www.oru.se",
     "t": "oru",
     "u": "https://www.oru.se/funktioner/sokresultat/?query={{{s}}}",
@@ -69464,7 +69464,7 @@
     "s": "OSAA Wiki",
     "d": "osaa.dk",
     "t": "osaa",
-    "u": "https://osaa.dk/wiki/index.php?title=Speciel%3ASearch&search={{{s}}}&go=G\u00e5+til",
+    "u": "https://osaa.dk/wiki/index.php?title=Speciel%3ASearch&search={{{s}}}&go=Gå+til",
     "c": "Tech",
     "sc": "Blogs"
   },
@@ -69509,9 +69509,9 @@
     "sc": "Programming"
   },
   {
-    "s": "Eesti \u00d5igekeelsuss\u00f5naraamat",
+    "s": "Eesti Õigekeelsussõnaraamat",
     "d": "www.eki.ee",
-    "t": "\u00f5s",
+    "t": "õs",
     "u": "https://www.eki.ee/dict/qs/index.cgi?Q={{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
@@ -69656,7 +69656,7 @@
     "s": "openSUSE",
     "d": "software.opensuse.org",
     "t": "os",
-    "u": "https://software.opensuse.org/search?utf8=\u2713&q={{{s}}}&search_devel=false&search_unsupported=false&baseproject=openSUSE:13.1",
+    "u": "https://software.opensuse.org/search?utf8=✓&q={{{s}}}&search_devel=false&search_unsupported=false&baseproject=openSUSE:13.1",
     "c": "Tech",
     "sc": "Sysadmin (RedHat)"
   },
@@ -70629,7 +70629,7 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "Moje Pa\u0144stwo",
+    "s": "Moje Państwo",
     "d": "mojepanstwo.pl",
     "t": "panstwo",
     "u": "https://mojepanstwo.pl/?q={{{s}}}",
@@ -70669,7 +70669,7 @@
     "sc": "Sports"
   },
   {
-    "s": "P\u00e1ginas Amarillas",
+    "s": "Páginas Amarillas",
     "d": "www.paginasamarillas.es",
     "t": "pa",
     "u": "https://www.paginasamarillas.es/search/all-ac/all-ma/all-pr/all-is/all-ci/all-ba/all-pu/all-nc/1?what={{{s}}}",
@@ -71021,7 +71021,7 @@
     "sc": "Sysadmin (Arch)"
   },
   {
-    "s": "P\u00e1xinas Galegas",
+    "s": "Páxinas Galegas",
     "d": "www.paxinasgalegas.es",
     "t": "paxgal",
     "u": "https://www.paxinasgalegas.es/resultados.aspx?tipo=0&texto={{{s}}}",
@@ -71181,7 +71181,7 @@
     "sc": "Online"
   },
   {
-    "s": "Plan\u00e8te Casio",
+    "s": "Planète Casio",
     "d": "www.planet-casio.com",
     "t": "pcasio",
     "u": "https://www.planet-casio.com/Fr/aide/recherche.php?q={{{s}}}",
@@ -71192,7 +71192,7 @@
     "s": "Princeton University Library Catalog",
     "d": "catalog.princeton.edu",
     "t": "pcat",
-    "u": "https://catalog.princeton.edu/catalog?utf8=\u2713&search_field=all_fields&q={{{s}}}",
+    "u": "https://catalog.princeton.edu/catalog?utf8=✓&search_field=all_fields&q={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -71597,7 +71597,7 @@
     "sc": "Academic"
   },
   {
-    "s": "Dicion\u00e1rio Porto Editora",
+    "s": "Dicionário Porto Editora",
     "d": "www.infopedia.pt",
     "t": "pe",
     "u": "https://www.infopedia.pt/dicionarios/pesquisa/{{{s}}}",
@@ -71869,7 +71869,7 @@
     "sc": "Books"
   },
   {
-    "s": "Pers\u00e9e",
+    "s": "Persée",
     "d": "www.persee.fr",
     "t": "persee",
     "u": "https://www.persee.fr/search?q={{{s}}}",
@@ -71885,7 +71885,7 @@
     "sc": "Libraries/Frameworks"
   },
   {
-    "s": "Per\u00fa21",
+    "s": "Perú21",
     "d": "peru21.pe",
     "t": "peru21",
     "u": "https://peru21.pe/buscar/?query={{{s}}}",
@@ -72861,7 +72861,7 @@
     "sc": "Tracking"
   },
   {
-    "s": "Pok\u00e9mon Central Wiki",
+    "s": "Pokémon Central Wiki",
     "d": "wiki.pokemoncentral.it",
     "t": "pkmce",
     "u": "https://wiki.pokemoncentral.it/index.php?search={{{s}}}",
@@ -72925,7 +72925,7 @@
     "sc": "Law"
   },
   {
-    "s": "Plan\u00e8te BD",
+    "s": "Planète BD",
     "d": "www.planetebd.com",
     "t": "planetebd",
     "u": "https://www.planetebd.com/recherche?mot-clef={{{s}}}",
@@ -73013,7 +73013,7 @@
     "sc": "Music"
   },
   {
-    "s": "Plattdeutsch-Hochdeutsches W\u00f6rterbuch",
+    "s": "Plattdeutsch-Hochdeutsches Wörterbuch",
     "d": "www.platt-wb.de",
     "t": "platt",
     "u": "https://www.platt-wb.de/platt-hoch/?term={{{s}}}",
@@ -73373,7 +73373,7 @@
     "sc": "Search"
   },
   {
-    "s": "Pale Moon forum en espa\u00f1ol",
+    "s": "Pale Moon forum en español",
     "d": "forum.palemoon.org",
     "t": "pmfe",
     "u": "https://forum.palemoon.org/search.php?keywords={{{s}}}&fid[0]=9",
@@ -73533,7 +73533,7 @@
     "sc": "Social news/links"
   },
   {
-    "s": "Pok\u00e9mon Central Wiki",
+    "s": "Pokémon Central Wiki",
     "d": "wiki.pokemoncentral.it",
     "t": "pocewiki",
     "u": "https://wiki.pokemoncentral.it/index.php?search={{{s}}}",
@@ -73685,7 +73685,7 @@
     "sc": "Games (general)"
   },
   {
-    "s": "Pok\u00e9mon Brick Bronze Wikia",
+    "s": "Pokémon Brick Bronze Wikia",
     "d": "brickbronze.wikia.com",
     "t": "pokebrickbronze",
     "u": "https://brickbronze.wikia.com/wiki/Special:Search?query={{{s}}}",
@@ -73693,7 +73693,7 @@
     "sc": "Games (Pokemon)"
   },
   {
-    "s": "Pok\u00e9community",
+    "s": "Pokécommunity",
     "d": "www.pokecommunity.com",
     "t": "pokecommunity",
     "u": "https://www.pokecommunity.com/search.php?do=q{{{s}}}",
@@ -73725,7 +73725,7 @@
     "sc": "Games (Pokemon)"
   },
   {
-    "s": "Pok\u00e9mon Database",
+    "s": "Pokémon Database",
     "d": "pokemondb.net",
     "t": "pokemondb",
     "u": "https://pokemondb.net/search?q={{{s}}}",
@@ -73741,7 +73741,7 @@
     "sc": "Games (Pokemon)"
   },
   {
-    "s": "Pok\u00e9Wiki",
+    "s": "PokéWiki",
     "d": "www.pokewiki.de",
     "t": "pokewiki",
     "u": "https://www.pokewiki.de/index.php?search={{{s}}}&button=&title=Spezial%3ASuche",
@@ -73925,7 +73925,7 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "Pons Online-W\u00f6rterbuch Latein",
+    "s": "Pons Online-Wörterbuch Latein",
     "d": "de.pons.com",
     "t": "ponsdela",
     "u": "https://de.pons.com/%C3%BCbersetzung?q={{{s}}}&l=dela",
@@ -74006,7 +74006,7 @@
     "s": "Pons it<>pl",
     "d": "pl.pons.com",
     "t": "ponsitpl",
-    "u": "https://pl.pons.com/t\u0142umaczenie?q={{{s}}}&l=itpl",
+    "u": "https://pl.pons.com/tłumaczenie?q={{{s}}}&l=itpl",
     "c": "Online Services",
     "sc": "Search"
   },
@@ -74014,7 +74014,7 @@
     "s": "Pons pl-de",
     "d": "pl.pons.com",
     "t": "ponsplde",
-    "u": "https://pl.pons.com/t\u0142umaczenie?q={{{s}}}&l=depl&in=&lf=de",
+    "u": "https://pl.pons.com/tłumaczenie?q={{{s}}}&l=depl&in=&lf=de",
     "c": "Online Services",
     "sc": "Search"
   },
@@ -74131,7 +74131,7 @@
     "sc": "Online"
   },
   {
-    "s": "Poradnia J\u0119zyka Polskiego",
+    "s": "Poradnia Języka Polskiego",
     "d": "sjp.pwn.pl",
     "t": "por",
     "u": "https://sjp.pwn.pl/poradnia/szukaj/{{{s}}}.html",
@@ -74571,7 +74571,7 @@
     "sc": "Newspaper"
   },
   {
-    "s": "Pravidla \u010desk\u00e9ho pravopisu",
+    "s": "Pravidla českého pravopisu",
     "d": "www.pravidla.cz",
     "t": "pravidla",
     "u": "https://www.pravidla.cz/hledej/?qr={{{s}}}",
@@ -74974,7 +74974,7 @@
     "s": "Proff",
     "d": "www.proff.no",
     "t": "proff",
-    "u": "https://www.proff.no/rolles\u00f8k?q={{{s}}}",
+    "u": "https://www.proff.no/rollesøk?q={{{s}}}",
     "c": "Tech",
     "sc": "Companies"
   },
@@ -75699,7 +75699,7 @@
     "sc": "Misc"
   },
   {
-    "s": "PUC-SP - Pontif\u00edcia Universidade Cat\u00f3lica de S\u00e3o Paulo",
+    "s": "PUC-SP - Pontifícia Universidade Católica de São Paulo",
     "d": "www.pucsp.br",
     "t": "pucsp",
     "u": "https://www.pucsp.br/buscar?search_api_fulltext={{{s}}}&field_area_de_conhecimento=All&field_escola=&type=All",
@@ -76251,7 +76251,7 @@
     "sc": "Academic"
   },
   {
-    "s": "Qui conna\u00eet un bon : Bruxelles",
+    "s": "Qui connaît un bon : Bruxelles",
     "d": "www.qcunbon.be",
     "t": "qcubbrux",
     "u": "https://www.qcunbon.be/bruxelles?q={{{s}}}",
@@ -76267,7 +76267,7 @@
     "sc": "Misc"
   },
   {
-    "s": "Quora Espa\u00f1ol",
+    "s": "Quora Español",
     "d": "es.quora.com",
     "t": "qes",
     "u": "https://es.quora.com/search?q={{{s}}}",
@@ -76283,7 +76283,7 @@
     "sc": "Programming"
   },
   {
-    "s": "Qu\u00e9bec Info Musique",
+    "s": "Québec Info Musique",
     "d": "www.qim.com",
     "t": "qimalbum",
     "u": "http://www.qim.com/albums/albums.asp?search={{{s}}}",
@@ -76291,7 +76291,7 @@
     "sc": "Music"
   },
   {
-    "s": "Qu\u00e9bec Info Musique",
+    "s": "Québec Info Musique",
     "d": "www.qim.com",
     "t": "qima",
     "u": "http://www.qim.com/albums/albums.asp?search={{{s}}}",
@@ -76299,7 +76299,7 @@
     "sc": "Music"
   },
   {
-    "s": "Qu\u00e9bec Info Musique",
+    "s": "Québec Info Musique",
     "d": "www.qim.com",
     "t": "qimartiste",
     "u": "http://www.qim.com/artistes/artiste.asp?search={{{s}}}",
@@ -76307,7 +76307,7 @@
     "sc": "Music"
   },
   {
-    "s": "Qu\u00e9bec Info Musique",
+    "s": "Québec Info Musique",
     "d": "www.qim.com",
     "t": "qim",
     "u": "http://www.qim.com/artistes/artiste.asp?search={{{s}}}",
@@ -76539,7 +76539,7 @@
     "sc": "Programming"
   },
   {
-    "s": "Qu\u00e9bec Info Musique",
+    "s": "Québec Info Musique",
     "d": "www.qim.com",
     "t": "quebecinfomusique",
     "u": "http://www.qim.com/artistes/artiste.asp?search={{{s}}}",
@@ -76595,7 +76595,7 @@
     "sc": "Social"
   },
   {
-    "s": "\u7fa4\u70b9\u79d1\u6280",
+    "s": "群点科技",
     "d": "qunwang6.github.io",
     "t": "qun",
     "u": "https://qunwang6.github.io/?q={{{s}}}",
@@ -76779,7 +76779,7 @@
     "sc": "Travel"
   },
   {
-    "s": "\u0420\u043e\u0441\u0456\u0439\u0441\u044c\u043a\u043e-\u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0441\u043b\u043e\u0432\u043d\u0438\u043a\u0438",
+    "s": "Російсько-українські словники",
     "d": "www.r2u.org.ua",
     "t": "r2u",
     "u": "http://www.r2u.org.ua/s?w={{{s}}}&scope=all&dicts=all&highlight=on",
@@ -76902,7 +76902,7 @@
     "s": "Radiopaedia",
     "d": "radiopaedia.org",
     "t": "rad",
-    "u": "https://radiopaedia.org/search?utf8=\u2713&q={{{s}}}&scope=all",
+    "u": "https://radiopaedia.org/search?utf8=✓&q={{{s}}}&scope=all",
     "c": "Multimedia",
     "sc": "General"
   },
@@ -77067,7 +77067,7 @@
     "sc": "Magazine (car)"
   },
   {
-    "s": "Reliable Aftermarket Parts, Inc\u00ae",
+    "s": "Reliable Aftermarket Parts, Inc®",
     "d": "www.reliableaftermarketparts.com",
     "t": "raparts",
     "u": "https://www.reliableaftermarketparts.com/search?q={{{s}}}",
@@ -77435,7 +77435,7 @@
     "sc": "Tools"
   },
   {
-    "s": "RCF, Radio Chr\u00e9tienne Francophone",
+    "s": "RCF, Radio Chrétienne Francophone",
     "d": "rcf.fr",
     "t": "rcf",
     "u": "https://rcf.fr/rechercher/{{{s}}}",
@@ -77803,7 +77803,7 @@
     "sc": "Blogs (intl)"
   },
   {
-    "s": "Recettes du Qu\u00e9bec",
+    "s": "Recettes du Québec",
     "d": "www.recettes.qc.ca",
     "t": "recettesqc",
     "u": "https://www.recettes.qc.ca/recettes/recherche?search[query]={{{s}}}&search[sort]=",
@@ -78358,7 +78358,7 @@
     "s": "context.reverso.net",
     "d": "context.reverso.net",
     "t": "renpl",
-    "u": "https://context.reverso.net/t\u0142umaczenie/angielski-polski/{{{s}}}",
+    "u": "https://context.reverso.net/tłumaczenie/angielski-polski/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words intl)"
   },
@@ -78371,7 +78371,7 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "\u9023\u60f3\u985e\u8a9e\u8f9e\u5178",
+    "s": "連想類語辞典",
     "d": "renso-ruigo.com",
     "t": "rensoruigo",
     "u": "https://renso-ruigo.com/word/{{{s}}}",
@@ -78563,7 +78563,7 @@
     "sc": "Forum"
   },
   {
-    "s": "Dansk Sprogn\u00e6vn",
+    "s": "Dansk Sprognævn",
     "d": "dsn.dk",
     "t": "retskriv",
     "u": "https://dsn.dk/?retskriv={{{s}}}&ae=0",
@@ -78803,7 +78803,7 @@
     "sc": "Online"
   },
   {
-    "s": "REX \u2013 The Royal Library and Copenhagen University Library Service",
+    "s": "REX – The Royal Library and Copenhagen University Library Service",
     "d": "rex.kb.dk",
     "t": "rex",
     "u": "https://rex.kb.dk/primo_library/libweb/action/search.do?fn=search&vl%28freeText0%29={{{s}}}",
@@ -79243,7 +79243,7 @@
     "sc": "Business"
   },
   {
-    "s": "\u0420\u043e\u0441\u043a\u043e\u043c\u0441\u0432\u043e\u0431\u043e\u0434\u0430 (rublacklist)",
+    "s": "Роскомсвобода (rublacklist)",
     "d": "reestr.rublacklist.net",
     "t": "rkn",
     "u": "https://reestr.rublacklist.net/search/?q={{{s}}}",
@@ -79932,7 +79932,7 @@
     "s": "context.reverso.net",
     "d": "context.reverso.net",
     "t": "rplen",
-    "u": "https://context.reverso.net/t\u0142umaczenie/polski-angielski/{{{s}}}",
+    "u": "https://context.reverso.net/tłumaczenie/polski-angielski/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words intl)"
   },
@@ -80065,7 +80065,7 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "admin.ch -  Recueil syst\u00e9matique ",
+    "s": "admin.ch -  Recueil systématique ",
     "d": "www.admin.ch",
     "t": "rsch",
     "u": "https://www.admin.ch/opc/search/?text={{{s}}}&lang=fr&product[]=cc&date_range_min=&date_range_max=&d_compilation=both&d_is_in_force=yes&thesaurus=1",
@@ -80361,7 +80361,7 @@
     "sc": "Programming"
   },
   {
-    "s": "Raidi\u00f3 Teilif\u00eds \u00c9ireann",
+    "s": "Raidió Teilifís Éireann",
     "d": "www.rte.ie",
     "t": "rte",
     "u": "https://www.rte.ie/search/?query={{{s}}}",
@@ -80369,7 +80369,7 @@
     "sc": "TV"
   },
   {
-    "s": "RT en Espa\u00f1ol",
+    "s": "RT en Español",
     "d": "actualidad.rt.com",
     "t": "rtes",
     "u": "https://actualidad.rt.com/search?q={{{s}}}",
@@ -80473,7 +80473,7 @@
     "sc": "Video"
   },
   {
-    "s": "Radio t\u00e9l\u00e9vision suisse",
+    "s": "Radio télévision suisse",
     "d": "www.rts.ch",
     "t": "rts",
     "u": "https://www.rts.ch/services/recherche/?q={{{s}}}",
@@ -80489,7 +80489,7 @@
     "sc": "Tracking"
   },
   {
-    "s": "Corporaci\u00f3n de Radio y Televisi\u00f3n Espa\u00f1ola",
+    "s": "Corporación de Radio y Televisión Española",
     "d": "www.rtve.es",
     "t": "rtve",
     "u": "https://www.rtve.es/buscador/?q={{{s}}}",
@@ -80556,7 +80556,7 @@
     "s": "Ruby Toolbox",
     "d": "www.ruby-toolbox.com",
     "t": "rubytoolbox",
-    "u": "https://www.ruby-toolbox.com/search?utf8=\u2713&q={{{s}}}",
+    "u": "https://www.ruby-toolbox.com/search?utf8=✓&q={{{s}}}",
     "c": "Tech",
     "sc": "Languages (ruby)"
   },
@@ -80700,7 +80700,7 @@
     "s": "Rust RFC GitHub.com",
     "d": "github.com",
     "t": "rustrfc",
-    "u": "https://github.com/rust-lang/rfcs/issues?utf8=\u2713&q={{{s}}}",
+    "u": "https://github.com/rust-lang/rfcs/issues?utf8=✓&q={{{s}}}",
     "c": "Tech",
     "sc": "Programming"
   },
@@ -80753,7 +80753,7 @@
     "sc": "Video"
   },
   {
-    "s": "Russian Wikipedia (\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f)",
+    "s": "Russian Wikipedia (Википедия)",
     "d": "ru.wikipedia.org",
     "t": "ruwiki",
     "u": "https://ru.wikipedia.org/w/index.php?search={{{s}}} ",
@@ -81041,7 +81041,7 @@
     "sc": "Reference (religion)"
   },
   {
-    "s": "Sackm\u00fchle",
+    "s": "Sackmühle",
     "d": "www.sackmuehle.de",
     "t": "sack",
     "u": "https://www.sackmuehle.de/?s=({{{s}}})",
@@ -81169,7 +81169,7 @@
     "sc": "Online"
   },
   {
-    "s": "\u6700\u5b89\u5024.com",
+    "s": "最安値.com",
     "d": "www.saiyasune.com",
     "t": "saiyasune",
     "u": "https://www.saiyasune.com/I1W{{{s}}}.html",
@@ -81385,7 +81385,7 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "Svenska Akademiens Ordb\u00f6cker",
+    "s": "Svenska Akademiens Ordböcker",
     "d": "svenska.se",
     "t": "saob",
     "u": "https://svenska.se/tre/?sok={{{s}}}&pz=1",
@@ -81759,7 +81759,7 @@
     "sc": "Sysadmin (packages)"
   },
   {
-    "s": "slounik.org: \u0431\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0456\u044f \u0441\u043b\u043e\u045e\u043d\u0456\u043a\u0456 \u0456 \u044d\u043d\u0446\u044b\u043a\u043b\u044f\u043f\u044d\u0434\u044b\u0456",
+    "s": "slounik.org: беларускія слоўнікі і энцыкляпэдыі",
     "d": "www.slounik.org",
     "t": "sbrm",
     "u": "https://www.slounik.org/search?dict=&search={{{s}}}",
@@ -81919,7 +81919,7 @@
     "sc": "Government"
   },
   {
-    "s": "Statistiska centralbyr\u00e5n",
+    "s": "Statistiska centralbyrån",
     "d": "www.sverigeisiffror.scb.se",
     "t": "scb",
     "u": "http://www.sverigeisiffror.scb.se/hitta-statistik/sok/?query={{{s}}}",
@@ -81951,7 +81951,7 @@
     "sc": "Academic"
   },
   {
-    "s": "SCD de l'Universit\u00e9 de Poitiers (biblioth\u00e8ques universitaires)",
+    "s": "SCD de l'Université de Poitiers (bibliothèques universitaires)",
     "d": "scd.summon.serialssolutions.com",
     "t": "scdpo",
     "u": "https://scd.summon.serialssolutions.com/search?s.q={{{s}}}",
@@ -82495,7 +82495,7 @@
     "sc": "Online"
   },
   {
-    "s": "ABZ.cz: slovn\u00edk ciz\u00edch slov",
+    "s": "ABZ.cz: slovník cizích slov",
     "d": "slovnik-cizich-slov.abz.cz",
     "t": "scz",
     "u": "https://slovnik-cizich-slov.abz.cz/web.php/hledat?typ_hledani=prefix&cizi_slovo={{{s}}}",
@@ -82506,7 +82506,7 @@
     "s": "syntaxdb.com",
     "d": "syntaxdb.com",
     "t": "sdb",
-    "u": "https://syntaxdb.com/reference/search?utf8=\u2713&search={{{s}}}",
+    "u": "https://syntaxdb.com/reference/search?utf8=✓&search={{{s}}}",
     "c": "Tech",
     "sc": "Programming"
   },
@@ -83239,7 +83239,7 @@
     "sc": "Government"
   },
   {
-    "s": "Sesli S\u00f6zl\u00fck",
+    "s": "Sesli Sözlük",
     "d": "www.seslisozluk.net",
     "t": "sesli",
     "u": "https://www.seslisozluk.net/?ssQBy=0&word={{{s}}}",
@@ -83247,7 +83247,7 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "sesli s\u00f6zl\u00fck",
+    "s": "sesli sözlük",
     "d": "www.seslisozluk.com",
     "t": "seslisozluk",
     "u": "http://www.seslisozluk.com/?word={{{s}}}",
@@ -83311,7 +83311,7 @@
     "sc": "Search (non-US)"
   },
   {
-    "s": "Seznam.cz Slovn\u00edk En-Cz",
+    "s": "Seznam.cz Slovník En-Cz",
     "d": "slovnik.seznam.cz",
     "t": "sezs",
     "u": "https://slovnik.seznam.cz/en-cz/word/?q={{{s}}}",
@@ -83775,7 +83775,7 @@
     "sc": "Online (marketplace)"
   },
   {
-    "s": "shopee \u8766\u76ae",
+    "s": "shopee 蝦皮",
     "d": "shopee.tw",
     "t": "shopee",
     "u": "https://shopee.tw/search/?keyword={{{s}}}",
@@ -83887,7 +83887,7 @@
     "sc": "Blogs"
   },
   {
-    "s": "Pok\u00e9mon Showdown",
+    "s": "Pokémon Showdown",
     "d": "dex.pokemonshowdown.com",
     "t": "showdown",
     "u": "https://dex.pokemonshowdown.com/?q={{{s}}}",
@@ -83991,7 +83991,7 @@
     "sc": "Online"
   },
   {
-    "s": "Sin\u00f2nims - Institut d'Estudis Catalans",
+    "s": "Sinònims - Institut d'Estudis Catalans",
     "d": "sinonims.iec.cat",
     "t": "siec",
     "u": "https://sinonims.iec.cat/sinonims_cerca_sin.asp?pclau2={{{s}}}&button=Cerca+arreu",
@@ -84095,7 +84095,7 @@
     "sc": "Tools"
   },
   {
-    "s": "Simplicit\u00e9.io",
+    "s": "Simplicité.io",
     "d": "www.simplicite.io",
     "t": "simplicite",
     "u": "https://www.simplicite.io/resources/search?q={{{s}}}",
@@ -84135,7 +84135,7 @@
     "sc": "TV"
   },
   {
-    "s": "Dicion\u00e1rio de Sin\u00f4nimos",
+    "s": "Dicionário de Sinônimos",
     "d": "www.sinonimos.com.br",
     "t": "sin",
     "u": "https://www.sinonimos.com.br/{{{s}}}",
@@ -84191,7 +84191,7 @@
     "sc": "Tools"
   },
   {
-    "s": "Sin\u00f4mimos.com.br",
+    "s": "Sinômimos.com.br",
     "d": "www.sinonimos.com.br",
     "t": "sinonimos",
     "u": "https://www.sinonimos.com.br/{{{s}}}",
@@ -84231,7 +84231,7 @@
     "sc": "Downloads"
   },
   {
-    "s": "\u767d\u3054\u306f\u3093.com",
+    "s": "白ごはん.com",
     "d": "www.sirogohan.com",
     "t": "sirogohan",
     "u": "https://www.sirogohan.com/recipe/index/keyword: {{{s}}}",
@@ -84359,7 +84359,7 @@
     "sc": "Social news/links"
   },
   {
-    "s": "S\u0142ownik J\u0119zyka Polskiego",
+    "s": "Słownik Języka Polskiego",
     "d": "sjp.pwn.pl",
     "t": "sjp",
     "u": "https://sjp.pwn.pl/szukaj/{{{s}}}.html",
@@ -84383,7 +84383,7 @@
     "sc": "Tools"
   },
   {
-    "s": "Sk1er\u2019s Stats",
+    "s": "Sk1er’s Stats",
     "d": "sk1er.club",
     "t": "sk1",
     "u": "https://sk1er.club/stats/{{{s}}}",
@@ -84439,7 +84439,7 @@
     "sc": "Programming"
   },
   {
-    "s": "Slovensk\u00e9 slovn\u00edky",
+    "s": "Slovenské slovníky",
     "d": "slovniky.korpus.sk",
     "t": "skd",
     "u": "https://slovniky.korpus.sk/?w={{{s}}}",
@@ -84903,7 +84903,7 @@
     "sc": "Blogs"
   },
   {
-    "s": "Slovensk\u00e9 slovn\u00edky",
+    "s": "Slovenské slovníky",
     "d": "slovniky.korpus.sk",
     "t": "slovak",
     "u": "https://slovniky.korpus.sk/?w={{{s}}}",
@@ -84919,7 +84919,7 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "Seznam Slovn\u00edk",
+    "s": "Seznam Slovník",
     "d": "slovnik.seznam.cz",
     "t": "slovnik",
     "u": "https://slovnik.seznam.cz/en/?q={{{s}}}",
@@ -84927,7 +84927,7 @@
     "sc": "Learning"
   },
   {
-    "s": "Slovensk\u00e9 slovn\u00edky",
+    "s": "Slovenské slovníky",
     "d": "slovniky.korpus.sk",
     "t": "slovniky",
     "u": "https://slovniky.korpus.sk/?w={{{s}}}",
@@ -85351,7 +85351,7 @@
     "sc": "Games (general)"
   },
   {
-    "s": "\u4ec0\u4e48\u503c\u5f97\u4e70",
+    "s": "什么值得买",
     "d": "search.smzdm.com",
     "t": "smzdm",
     "u": "https://search.smzdm.com/?c=home&s={{{s}}}",
@@ -85823,7 +85823,7 @@
     "sc": "General"
   },
   {
-    "s": "\u641c\u72d7",
+    "s": "搜狗",
     "d": "www.sogou.com",
     "t": "sogou",
     "u": "https://www.sogou.com/web?query={{{s}}}",
@@ -85855,7 +85855,7 @@
     "sc": "Languages (javascript)"
   },
   {
-    "s": "Sokr.ru - \u0441\u043b\u043e\u0432\u0430\u0440\u044c \u0441\u043e\u043a\u0440\u0430\u0449\u0435\u043d\u0438\u0439",
+    "s": "Sokr.ru - словарь сокращений",
     "d": "sokr.ru",
     "t": "sokr",
     "u": "https://sokr.ru/{{{s}}}/",
@@ -85951,7 +85951,7 @@
     "sc": "Programming"
   },
   {
-    "s": "S\u00f5naveeb",
+    "s": "Sõnaveeb",
     "d": "sonaveeb.ee",
     "t": "sonaveeb",
     "u": "https://sonaveeb.ee/search/est-est/detail/{{{s}}}/",
@@ -86085,7 +86085,7 @@
     "sc": "Sysadmin"
   },
   {
-    "s": "Stack Overflow em Portugu\u00eas",
+    "s": "Stack Overflow em Português",
     "d": "pt.stackoverflow.com",
     "t": "sopt",
     "u": "https://pt.stackoverflow.com/search?q={{{s}}}",
@@ -87269,7 +87269,7 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "Slovn\u00edk spisovn\u00e9ho jazyka \u010desk\u00e9ho",
+    "s": "Slovník spisovného jazyka českého",
     "d": "ssjc.ujc.cas.cz",
     "t": "ssjc",
     "u": "https://ssjc.ujc.cas.cz/search.php?heslo={{{s}}}",
@@ -87349,7 +87349,7 @@
     "sc": "Search (DDG)"
   },
   {
-    "s": "\u5c11\u6570\u6d3e",
+    "s": "少数派",
     "d": "sspai.com",
     "t": "sspai",
     "u": "https://sspai.com/search/article?q={{{s}}}",
@@ -87488,7 +87488,7 @@
     "s": "Stack Social",
     "d": "stacksocial.com",
     "t": "stacksocial",
-    "u": "https://stacksocial.com/search?utf8=\u2713&query={{{s}}}",
+    "u": "https://stacksocial.com/search?utf8=✓&query={{{s}}}",
     "c": "Shopping",
     "sc": "Tech"
   },
@@ -88224,12 +88224,12 @@
     "s": "Strava",
     "d": "www.strava.com",
     "t": "strava",
-    "u": "https://www.strava.com/athletes/search?utf8=\u2713&text={{{s}}}&gsf=1",
+    "u": "https://www.strava.com/athletes/search?utf8=✓&text={{{s}}}&gsf=1",
     "c": "Online Services",
     "sc": "Social"
   },
   {
-    "s": "Internetov\u00e1 televize Stream",
+    "s": "Internetová televize Stream",
     "d": "www.stream.cz",
     "t": "stream",
     "u": "https://www.stream.cz/vyhledavani?dotaz={{{s}}}",
@@ -88245,7 +88245,7 @@
     "sc": "Services"
   },
   {
-    "s": "Strefa S\u0142uchu",
+    "s": "Strefa Słuchu",
     "d": "www.strefasluchu.pl",
     "t": "strefasluchu",
     "u": "https://www.strefasluchu.pl/?s={{{s}}}",
@@ -88581,7 +88581,7 @@
     "sc": "Blogs"
   },
   {
-    "s": "s\u00fcddeutsche.de",
+    "s": "süddeutsche.de",
     "d": "www.sueddeutsche.de",
     "t": "sued",
     "u": "https://www.sueddeutsche.de/news?search={{{s}}}",
@@ -88629,7 +88629,7 @@
     "sc": "Government"
   },
   {
-    "s": "Dictionary of Ukrainian Language (\u0421\u043b\u043e\u0432\u043d\u0438\u043a \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u043c\u043e\u0432\u0438)",
+    "s": "Dictionary of Ukrainian Language (Словник української мови)",
     "d": "sum.in.ua",
     "t": "sum",
     "u": "https://sum.in.ua/?swrd={{{s}}} ",
@@ -88816,7 +88816,7 @@
     "s": "openSUSE",
     "d": "software.opensuse.org",
     "t": "sus",
-    "u": "https://software.opensuse.org/search?utf8=\u2713&q={{{s}}}&search_devel=false&search_unsupported=false&baseproject=openSUSE:13.1",
+    "u": "https://software.opensuse.org/search?utf8=✓&q={{{s}}}&search_devel=false&search_unsupported=false&baseproject=openSUSE:13.1",
     "c": "Tech",
     "sc": "Sysadmin"
   },
@@ -88853,7 +88853,7 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "Staats- und Universit\u00e4tsbibliothek Bremen",
+    "s": "Staats- und Universitätsbibliothek Bremen",
     "d": "suche.suub.uni-bremen.de",
     "t": "suub",
     "u": "https://suche.suub.uni-bremen.de/cgi-bin/CiXbase/brewis/CiXbase_search?act=search&INDEXINFO=awCN&LAN=DE&ORDER=&IHITS=15&FHITS=15&PRECISION=220&RELEVANCE=40&NO_RBITS=&n_dtyp=1LZ&n_rtyp=ceEdX&index=L&XML_STYLE=%2Fstyles%2Fcns-DE.xml%3F20130610&dtyp=&mtyp=&section=&term={{{s}}}&CID=&x=0&y=0",
@@ -88869,7 +88869,7 @@
     "sc": "Academic"
   },
   {
-    "s": "Svenska Akademiens Ordb\u00f6cker",
+    "s": "Svenska Akademiens Ordböcker",
     "d": "svenska.se",
     "t": "svao",
     "u": "https://svenska.se/tre/?sok={{{s}}}",
@@ -88917,7 +88917,7 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "Svenska Akademiens Ordb\u00f6cker",
+    "s": "Svenska Akademiens Ordböcker",
     "d": "svenska.se",
     "t": "svenska",
     "u": "https://svenska.se/tre/?sok={{{s}}}&pz=1",
@@ -89005,7 +89005,7 @@
     "sc": "Forum"
   },
   {
-    "s": "Stardew Valley Wiki Espa\u00f1ol",
+    "s": "Stardew Valley Wiki Español",
     "d": "es.stardewvalleywiki.com",
     "t": "svwe",
     "u": "https://es.stardewvalleywiki.com/ {{{s}}}",
@@ -89168,7 +89168,7 @@
     "s": "Stanford SearchWorks",
     "d": "searchworks.stanford.edu",
     "t": "sworks",
-    "u": "https://searchworks.stanford.edu/?utf8=\u2713&search_field=search&q={{{s}}}",
+    "u": "https://searchworks.stanford.edu/?utf8=✓&search_field=search&q={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -89341,7 +89341,7 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "CRISCO \u2013 Dictionnaire des synonymes",
+    "s": "CRISCO – Dictionnaire des synonymes",
     "d": "www.crisco.unicaen.fr",
     "t": "synf",
     "u": "http://www.crisco.unicaen.fr/des/synonymes/{{{s}}}",
@@ -89365,7 +89365,7 @@
     "sc": "Tools"
   },
   {
-    "s": "ABZ slovn\u00edk \u010desk\u00fdch synonym",
+    "s": "ABZ slovník českých synonym",
     "d": "www.slovnik-synonym.cz",
     "t": "synonyma",
     "u": "https://www.slovnik-synonym.cz/web.php/hledat?typ_hledani=prefix&cizi_slovo={{{s}}}",
@@ -89469,7 +89469,7 @@
     "sc": "Audio"
   },
   {
-    "s": "S\u00fcnon\u00fc\u00fcmis\u00f5nastik",
+    "s": "Sünonüümisõnastik",
     "d": "www.eki.ee",
     "t": "sys",
     "u": "https://www.eki.ee/dict/sys/index.cgi?Q={{{s}}}&F=M&C06=en",
@@ -89517,7 +89517,7 @@
     "sc": "Big box/department"
   },
   {
-    "s": "slovnik.seznam.cz n\u011bm\u010dina",
+    "s": "slovnik.seznam.cz němčina",
     "d": "slovnik.seznam.cz",
     "t": "sznsde",
     "u": "https://slovnik.seznam.cz/de/?q={{{s}}}",
@@ -89533,7 +89533,7 @@
     "sc": "Search"
   },
   {
-    "s": "Seznam.cz slovn\u00edk Fr-Cz",
+    "s": "Seznam.cz slovník Fr-Cz",
     "d": "slovnik.seznam.cz",
     "t": "sznsfr",
     "u": "https://slovnik.seznam.cz/fr-cz/?q={{{s}}}",
@@ -89549,7 +89549,7 @@
     "sc": "Tools"
   },
   {
-    "s": "Sz\u00f3t\u00e1r.net",
+    "s": "Szótár.net",
     "d": "www.szotar.net",
     "t": "szotar",
     "u": "https://www.szotar.net/mind/{{{s}}}/",
@@ -89557,7 +89557,7 @@
     "sc": "Tools"
   },
   {
-    "s": "Seznam Zpr\u00e1vy",
+    "s": "Seznam Zprávy",
     "d": "www.seznam.cz",
     "t": "szpravy",
     "u": "https://www.seznam.cz/zpravy/hledani?q={{{s}}}&search--active=1",
@@ -89565,7 +89565,7 @@
     "sc": "Newspaper (intl)"
   },
   {
-    "s": "S\u00fcddeutsche Zeitung",
+    "s": "Süddeutsche Zeitung",
     "d": "suche.sueddeutsche.de",
     "t": "sz",
     "u": "https://suche.sueddeutsche.de/news?search={{{s}}}",
@@ -89573,7 +89573,7 @@
     "sc": "Newspaper"
   },
   {
-    "s": "SZTAKI Sz\u00f3t\u00e1r",
+    "s": "SZTAKI Szótár",
     "d": "szotar.sztaki.hu",
     "t": "sztaki",
     "u": "https://szotar.sztaki.hu/search?searchWord={{{s}}}",
@@ -89773,9 +89773,9 @@
     "sc": "Newspaper"
   },
   {
-    "s": "T\u00e5ginformation Sverige (Trafikverket)",
+    "s": "Tåginformation Sverige (Trafikverket)",
     "d": "www.trafikverket.se",
-    "t": "t\u00e5g",
+    "t": "tåg",
     "u": "https://www.trafikverket.se/trafikinformation/tag/?&TrainOrStation={{{s}}}",
     "c": "Research",
     "sc": "Travel"
@@ -90392,7 +90392,7 @@
     "s": "The Conversation",
     "d": "theconversation.com",
     "t": "tcv",
-    "u": "https://theconversation.com/global/search?utf8=\u2713&q={{{s}}}",
+    "u": "https://theconversation.com/global/search?utf8=✓&q={{{s}}}",
     "c": "News",
     "sc": "Aggregators"
   },
@@ -90429,7 +90429,7 @@
     "sc": "Games (offline)"
   },
   {
-    "s": "Tribune de Gen\u00e8ve",
+    "s": "Tribune de Genève",
     "d": "www.tdg.ch",
     "t": "tdg",
     "u": "https://www.tdg.ch/services/recherche/?order=date&q={{{s}}}&submitSearch=Chercher&date=alle",
@@ -90437,7 +90437,7 @@
     "sc": "Aggregators"
   },
   {
-    "s": "T\u00fcrk Dil Kurumu",
+    "s": "Türk Dil Kurumu",
     "d": "sozluk.gov.tr",
     "t": "tdk",
     "u": "https://sozluk.gov.tr/?kelime={{{s}}}",
@@ -90712,7 +90712,7 @@
     "s": "TedEd",
     "d": "ed.ted.com",
     "t": "teded",
-    "u": "https://ed.ted.com/search?utf8=\u2713&qs={{{s}}}",
+    "u": "https://ed.ted.com/search?utf8=✓&qs={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -90869,7 +90869,7 @@
     "sc": "International"
   },
   {
-    "s": "T\u00e9l\u00e9rama",
+    "s": "Télérama",
     "d": "www.telerama.fr",
     "t": "telerama",
     "u": "https://www.telerama.fr/recherche/recherche.php?query={{{s}}}",
@@ -90981,7 +90981,7 @@
     "sc": "Google"
   },
   {
-    "s": "tenki.jp(\u65e5\u672c\u6c17\u8c61\u5354\u4f1a/)",
+    "s": "tenki.jp(日本気象協会/)",
     "d": "www.tenki.jp",
     "t": "tenkijp",
     "u": "https://www.tenki.jp/search/zip/?keyword={{{s}}}",
@@ -91109,7 +91109,7 @@
     "sc": "Magazine"
   },
   {
-    "s": "Tesoro lexicogr\u00e1fico del espa\u00f1ol de Puerto Rico",
+    "s": "Tesoro lexicográfico del español de Puerto Rico",
     "d": "tesoro.pr",
     "t": "tesoro",
     "u": "https://tesoro.pr/busqueda?q={{{s}}}",
@@ -91141,7 +91141,7 @@
     "sc": "Music (Lyrics)"
   },
   {
-    "s": "\u0422\u0435\u043f\u043b\u0438\u0446\u0430 \u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0445 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439",
+    "s": "Теплица социальных технологий",
     "d": "te-st.ru",
     "t": "te-st",
     "u": "https://te-st.ru/?s={{{s}}}",
@@ -91229,7 +91229,7 @@
     "sc": "Blogs"
   },
   {
-    "s": "T\u0113zaurs",
+    "s": "Tēzaurs",
     "d": "tezaurs.lv",
     "t": "tezaurs",
     "u": "https://tezaurs.lv/#/sv/?{{{s}}}",
@@ -91837,7 +91837,7 @@
     "sc": "Academic"
   },
   {
-    "s": "TEL - Th\u00e8ses en ligne",
+    "s": "TEL - Thèses en ligne",
     "d": "tel.archives-ouvertes.fr",
     "t": "thesetel",
     "u": "https://tel.archives-ouvertes.fr/search/index/?q={{{s}}}",
@@ -92013,7 +92013,7 @@
     "sc": "Academic"
   },
   {
-    "s": "Thomann en Espa\u00f1ol",
+    "s": "Thomann en Español",
     "d": "www.thomann.de",
     "t": "thme",
     "u": "https://www.thomann.de/es/search_dir.html?sw={{{s}}}&smcs=80cfba",
@@ -92037,7 +92037,7 @@
     "sc": "Online"
   },
   {
-    "s": "TH N\u00fcrnberg",
+    "s": "TH Nürnberg",
     "d": "www.th-nuernberg.de",
     "t": "thnuernberg",
     "u": "https://www.th-nuernberg.de/suche/?id=1&L=0&q={{{s}}}",
@@ -92213,7 +92213,7 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "TIB/UB-OPAC (Library of Leibniz Universit\u00e4t Hannover)",
+    "s": "TIB/UB-OPAC (Library of Leibniz Universität Hannover)",
     "d": "opac.tib.uni-hannover.de",
     "t": "tib",
     "u": "https://opac.tib.uni-hannover.de/DB=1/CHARSET=UTF-8/SRCH?IKT=1016&TRM={{{s}}}",
@@ -92277,7 +92277,7 @@
     "sc": "Music"
   },
   {
-    "s": "\u8d34\u5427id",
+    "s": "贴吧id",
     "d": "passport.baidu.com",
     "t": "tiebaid",
     "u": "https://passport.baidu.com/v2/?regnamesugg&username={{{s}}}",
@@ -92285,7 +92285,7 @@
     "sc": "Forum"
   },
   {
-    "s": "\u767e\u5ea6\u8d34\u5427",
+    "s": "百度贴吧",
     "d": "tieba.baidu.com",
     "t": "tieba",
     "u": "https://tieba.baidu.com/f?ie=utf-8&kw={{{s}}}",
@@ -92749,7 +92749,7 @@
     "sc": "Search"
   },
   {
-    "s": "Tr\u00e9sor de la Langue Fran\u00e7aise informatis\u00e9",
+    "s": "Trésor de la Langue Française informatisé",
     "d": "www.cnrtl.fr",
     "t": "tlfi",
     "u": "https://www.cnrtl.fr/definition/{{{s}}}",
@@ -92837,7 +92837,7 @@
     "sc": "Games (general)"
   },
   {
-    "s": "\u5929\u732b",
+    "s": "天猫",
     "d": "list.tmall.com",
     "t": "tmall",
     "u": "https://list.tmall.com/search_product.htm?q={{{s}}}",
@@ -92917,7 +92917,7 @@
     "sc": "Programming"
   },
   {
-    "s": "Tem\u00e1tika",
+    "s": "Temátika",
     "d": "www.tematika.com",
     "t": "tmk",
     "u": "https://www.tematika.com/buscar.do?txtencoded={{{s}}}&idSeccionPropia=0&optSeleccionada=DuckDuckGo.com&idSeccion=0&seccionDeBusqueda=DuckDuckGo.com&texto={{{s}}}",
@@ -94509,7 +94509,7 @@
     "sc": "Food"
   },
   {
-    "s": "\u571f\u8c46\u7f51",
+    "s": "土豆网",
     "d": "so.tudou.com",
     "t": "tudou",
     "u": "http://so.tudou.com/nisearch.do?kw={{{s}}}",
@@ -94647,7 +94647,7 @@
   {
     "s": "tuerenmarkt24",
     "d": "tuerenmarkt24.de",
-    "t": "t\u00fcren",
+    "t": "türen",
     "u": "https://tuerenmarkt24.de/suche?controller=search&orderby=position&orderway=desc&search_query=deur{{{s}}}",
     "c": "Shopping",
     "sc": "Online"
@@ -94677,7 +94677,7 @@
     "sc": "Social"
   },
   {
-    "s": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438 TUT.BY / TUT.BY news",
+    "s": "Новости TUT.BY / TUT.BY news",
     "d": "news.tut.by",
     "t": "tutnews",
     "u": "http://news.tut.by/search/?str={{{s}}}",
@@ -94704,7 +94704,7 @@
     "s": "Tuts+",
     "d": "hub.tutsplus.com",
     "t": "tuts",
-    "u": "https://hub.tutsplus.com/search?utf8=\u2713&view=grid&search%5Bkeywords%5D={{{s}}}",
+    "u": "https://hub.tutsplus.com/search?utf8=✓&view=grid&search%5Bkeywords%5D={{{s}}}",
     "c": "Tech",
     "sc": "Design"
   },
@@ -94752,7 +94752,7 @@
     "s": "TUW Library",
     "d": "catalogplus.tuwien.ac.at",
     "t": "tuwlib",
-    "u": "https://catalogplus.tuwien.ac.at/primo_library/libweb/action/dlSearch.do?queryfield=&x=0&y=0&institution=UTW&vid=UTW&tab=default_tab&search_scope=UTW&mode=Basic&indx=1&bulkSize=10&dum=true&highlight=true&pcAvailabiltyMode=false&prefLang=en_US&dummyChar=\u2665&query=any%2Ccontains%2C{{{s}}}&displayField=title",
+    "u": "https://catalogplus.tuwien.ac.at/primo_library/libweb/action/dlSearch.do?queryfield=&x=0&y=0&institution=UTW&vid=UTW&tab=default_tab&search_scope=UTW&mode=Basic&indx=1&bulkSize=10&dum=true&highlight=true&pcAvailabiltyMode=false&prefLang=en_US&dummyChar=♥&query=any%2Ccontains%2C{{{s}}}&displayField=title",
     "c": "Research",
     "sc": "Academic"
   },
@@ -95205,7 +95205,7 @@
     "sc": "Weather"
   },
   {
-    "s": "\u30c4\u30a4\u30d7\u30ed",
+    "s": "ツイプロ",
     "d": "twpro.jp",
     "t": "twpro",
     "u": "https://twpro.jp/search?word={{{s}}}",
@@ -95285,7 +95285,7 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "Tyda.\u200bse Dictionary (Swedish-Latin)",
+    "s": "Tyda.​se Dictionary (Swedish-Latin)",
     "d": "tyda.se",
     "t": "tydala",
     "u": "https://tyda.se/search/{{{s}}}?lang%5B0%5D=la&lang%5B1%5D=sv",
@@ -95411,7 +95411,7 @@
     "sc": "Sysadmin"
   },
   {
-    "s": "Universit\u00e4tsbibliothek Freiburg",
+    "s": "Universitätsbibliothek Freiburg",
     "d": "katalog.ub.uni-freiburg.de",
     "t": "ubfr",
     "u": "https://katalog.ub.uni-freiburg.de/opac/RDSIndex/Search?lookfor={{{s}}}&source=homepage",
@@ -95419,7 +95419,7 @@
     "sc": "Academic"
   },
   {
-    "s": "G\u00f6teborgs universitetsbibliotek / University of Gothenburg library",
+    "s": "Göteborgs universitetsbibliotek / University of Gothenburg library",
     "d": "gu-se-primo.hosted.exlibrisgroup.com",
     "t": "ub",
     "u": "https://gu-se-primo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,{{{s}}}&tab=default_tab&search_scope=default_scope&vid=46GUB_VU1&lang=sv_SE&offset=0",
@@ -95427,7 +95427,7 @@
     "sc": "Academic"
   },
   {
-    "s": "Universit\u00e4tsbibliothek Heidelberg",
+    "s": "Universitätsbibliothek Heidelberg",
     "d": "www.ub.uni-heidelberg.de",
     "t": "ubhd",
     "u": "https://www.ub.uni-heidelberg.de/suche/suche.html?cx=009778813800417314295%3Af3s5sfjqeck&cof=FORID%3A10&ie=UTF-8&q={{{s}}}&sa=Suche",
@@ -95467,7 +95467,7 @@
     "sc": "Sysadmin (network)"
   },
   {
-    "s": "Universit\u00e4tsbibliothek Mainz",
+    "s": "Universitätsbibliothek Mainz",
     "d": "hds.hebis.de",
     "t": "ubjgu",
     "u": "https://hds.hebis.de/ubmz/Search/Results?lookfor={{{s}}}&trackSearchEvent=Einfache+Suche&type=allfields&search=new&submit=Suchen",
@@ -95475,7 +95475,7 @@
     "sc": "Academic"
   },
   {
-    "s": "Universit\u00e4tsbibliothek Kassel",
+    "s": "Universitätsbibliothek Kassel",
     "d": "hds.hebis.de",
     "t": "ubks",
     "u": "https://hds.hebis.de/ubks/Discover/EBSCO?lookfor={{{s}}} ",
@@ -95483,7 +95483,7 @@
     "sc": "Academic"
   },
   {
-    "s": "Universit\u00e4tsbibliothek Leipzig",
+    "s": "Universitätsbibliothek Leipzig",
     "d": "katalog.ub.uni-leipzig.de",
     "t": "ubl",
     "u": "https://katalog.ub.uni-leipzig.de/Search/Results?lookfor={{{s}}}",
@@ -95499,7 +95499,7 @@
     "sc": "Sysadmin (Ubuntu)"
   },
   {
-    "s": "Universit\u00e4tsbibliothek T\u00fcbingen",
+    "s": "Universitätsbibliothek Tübingen",
     "d": "rds-tue.ibs-bw.de",
     "t": "ubt",
     "u": "https://rds-tue.ibs-bw.de/opac/RDSIndex/Search?lookfor={{{s}}}",
@@ -95555,7 +95555,7 @@
     "sc": "Sysadmin (packages)"
   },
   {
-    "s": "Ubuntu T\u00fcrkiye",
+    "s": "Ubuntu Türkiye",
     "d": "forum.ubuntu-tr.net",
     "t": "ubuntutr",
     "u": "https://forum.ubuntu-tr.net/index.php?action=search;q={{{s}}}",
@@ -95771,7 +95771,7 @@
     "sc": "Sports"
   },
   {
-    "s": "u:find - Universit\u00e4t Wien",
+    "s": "u:find - Universität Wien",
     "d": "ufind.univie.ac.at",
     "t": "ufind",
     "u": "https://ufind.univie.ac.at/de/search.html?filter=all&query={{{s}}}",
@@ -95779,7 +95779,7 @@
     "sc": "Academic"
   },
   {
-    "s": "U-\u30d5\u30ec\u30c3\u30c8",
+    "s": "U-フレット",
     "d": "www.ufret.jp",
     "t": "ufret",
     "u": "https://www.ufret.jp/search.php?key={{{s}}}",
@@ -95811,7 +95811,7 @@
     "sc": "Games (general)"
   },
   {
-    "s": "UGO decoraci\u00f3n",
+    "s": "UGO decoración",
     "d": "www.ugodecoracion.com",
     "t": "ugo",
     "u": "https://www.ugodecoracion.com/buscar?controller=search&orderby=position&orderway=desc&search-cat-select=0&search_query={{{s}}}&submit_search=",
@@ -95851,7 +95851,7 @@
     "sc": "Jobs"
   },
   {
-    "s": "Bokm\u00e5lsordboka og Nynorskordboka",
+    "s": "Bokmålsordboka og Nynorskordboka",
     "d": "ordbok.uib.no",
     "t": "uib",
     "u": "https://ordbok.uib.no/perl/ordbok.cgi?OPP={{{s}}}&ant_bokmaal=5&ant_nynorsk=5&begge=+&ordbok=begge",
@@ -95867,7 +95867,7 @@
     "sc": "Learning"
   },
   {
-    "s": "UiO emnes\u00f8k",
+    "s": "UiO emnesøk",
     "d": "www.uio.no",
     "t": "uio",
     "u": "https://www.uio.no/studier/emner/?course-query={{{s}}}&vrtx=search&searchMode=emne",
@@ -95899,7 +95899,7 @@
     "sc": "Tools"
   },
   {
-    "s": "Universidad de Ja\u00e9n",
+    "s": "Universidad de Jaén",
     "d": "www.ujaen.es",
     "t": "uja",
     "u": "https://www.ujaen.es/search?s={{{s}}}",
@@ -95907,7 +95907,7 @@
     "sc": "Academic"
   },
   {
-    "s": "Internetov\u00e1 jazykov\u00e1 p\u0159\u00edru\u010dka",
+    "s": "Internetová jazyková příručka",
     "d": "prirucka.ujc.cas.cz",
     "t": "ujc",
     "u": "https://prirucka.ujc.cas.cz/?slovo={{{s}}}&Hledej=Hledej",
@@ -96035,7 +96035,7 @@
     "sc": "Online"
   },
   {
-    "s": "Biblioth\u00e8ques de l'Universit\u00e9 Libre de Bruxelles",
+    "s": "Bibliothèques de l'Université Libre de Bruxelles",
     "d": "cibleplus.ulb.ac.be",
     "t": "ulb",
     "u": "https://cibleplus.ulb.ac.be/primo-explore/search?query=any,contains,{{{s}}}&tab=default_tab&search_scope=default_scope&vid=32ULB_VU1&lang=fr_FR&offset=0",
@@ -96051,7 +96051,7 @@
     "sc": "Local"
   },
   {
-    "s": " Universit\u00e4tsbibliothek D\u00fcsseldorf",
+    "s": " Universitätsbibliothek Düsseldorf",
     "d": "katalog.ulb.hhu.de",
     "t": "ulbd",
     "u": "https://katalog.ulb.hhu.de/Search/Results?lookfor={{{s}}}&type=AllFields",
@@ -96107,7 +96107,7 @@
     "sc": "Games (general)"
   },
   {
-    "s": "uluda\u011f s\u00f6zl\u00fck",
+    "s": "uludağ sözlük",
     "d": "www.uludagsozluk.com",
     "t": "uludagsozluk",
     "u": "https://www.uludagsozluk.com/?q={{{s}}}",
@@ -96227,7 +96227,7 @@
     "sc": "Tech"
   },
   {
-    "s": "Universidade de Bras\u00edlia / Reposit\u00f3rio Institucional",
+    "s": "Universidade de Brasília / Repositório Institucional",
     "d": "repositorio.unb.br",
     "t": "unbri",
     "u": "http://repositorio.unb.br/simple-search?query={{{s}}}&submit=Ir",
@@ -96361,9 +96361,9 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "Georg-August-Universit\u00e4t G\u00f6ttingen",
+    "s": "Georg-August-Universität Göttingen",
     "d": "www.uni-goettingen.de",
-    "t": "unig\u00f6",
+    "t": "unigö",
     "u": "https://www.uni-goettingen.de/de/suche.html?query={{{s}}}",
     "c": "Research",
     "sc": "Academic"
@@ -96385,7 +96385,7 @@
     "sc": "Academic"
   },
   {
-    "s": "Universit\u00e0 degli Studi di Macerata",
+    "s": "Università degli Studi di Macerata",
     "d": "www.unimc.it",
     "t": "unimc",
     "u": "https://www.unimc.it/@@search?SearchableText={{{s}}}",
@@ -96481,7 +96481,7 @@
     "sc": "Programming"
   },
   {
-    "s": "Encyclop\u00e6dia Universalis",
+    "s": "Encyclopædia Universalis",
     "d": "www.universalis.fr",
     "t": "universalis",
     "u": "https://www.universalis.fr/recherche/q/{{{s}}}",
@@ -96529,7 +96529,7 @@
     "sc": "Search (non-US)"
   },
   {
-    "s": "\u30a2\u30f3\u30b5\u30a4\u30af\u30ed\u30da\u30c7\u30a3\u30a2",
+    "s": "アンサイクロペディア",
     "d": "ja.uncyclopedia.info",
     "t": "unja",
     "u": "http://ja.uncyclopedia.info/wiki/{{{s}}}",
@@ -96636,7 +96636,7 @@
     "s": "unsplash.com",
     "d": "unsplash.com",
     "t": "unsplash",
-    "u": "https://unsplash.com/search?utf8=\u2713&keyword={{{s}}}",
+    "u": "https://unsplash.com/search?utf8=✓&keyword={{{s}}}",
     "c": "Multimedia",
     "sc": "Images"
   },
@@ -96652,7 +96652,7 @@
     "s": "Unsplash",
     "d": "unsplash.com",
     "t": "unspl",
-    "u": "https://unsplash.com/search?utf8=\u2713&keyword={{{s}}}",
+    "u": "https://unsplash.com/search?utf8=✓&keyword={{{s}}}",
     "c": "Multimedia",
     "sc": "Images"
   },
@@ -97009,7 +97009,7 @@
     "sc": "Tools (URLs)"
   },
   {
-    "s": "Universit\u00e4t Regensburg",
+    "s": "Universität Regensburg",
     "d": "suche.uni-regensburg.de",
     "t": "ur",
     "u": "https://suche.uni-regensburg.de/index.php?q={{{s}}}",
@@ -97044,7 +97044,7 @@
     "s": "USA.gov",
     "d": "search.usa.gov",
     "t": "usa",
-    "u": "https://search.usa.gov/search?utf8=\u2713&affiliate=usagov&query={{{s}}}",
+    "u": "https://search.usa.gov/search?utf8=✓&affiliate=usagov&query={{{s}}}",
     "c": "Research",
     "sc": "Government"
   },
@@ -97513,7 +97513,7 @@
     "sc": "Search (non-US)"
   },
   {
-    "s": "Ein Templatesystem F\u00fcr Templatesysteme",
+    "s": "Ein Templatesystem Für Templatesysteme",
     "d": "uxul.de",
     "t": "uxul",
     "u": "https://uxul.de/find?search={{{s}}}",
@@ -97783,7 +97783,7 @@
     "sc": "Magazine"
   },
   {
-    "s": "Varl\u0117",
+    "s": "Varlė",
     "d": "www.varle.lt",
     "t": "varle",
     "u": "https://www.varle.lt/search/?q={{{s}}}",
@@ -97799,7 +97799,7 @@
     "sc": "Academic"
   },
   {
-    "s": "V\u00e5rtOslo",
+    "s": "VårtOslo",
     "d": "www.vartoslo.no",
     "t": "vartoslo",
     "u": "https://www.vartoslo.no/?s={{{s}}} ",
@@ -97903,7 +97903,7 @@
     "sc": "Reference (religion)"
   },
   {
-    "s": "VCP Sanit\u00e4rfachhandel",
+    "s": "VCP Sanitärfachhandel",
     "d": "shop.vcp-san.at",
     "t": "vcp",
     "u": "https://shop.vcp-san.at/index.php?main_page=advanced_search_result&search_in_description=1&keyword={{{s}}}",
@@ -97943,7 +97943,7 @@
     "sc": "Programming"
   },
   {
-    "s": "Vandale fran\u00e7ais-n\u00e9erlandais",
+    "s": "Vandale français-néerlandais",
     "d": "www.vandale.nl",
     "t": "vdfn",
     "u": "https://www.vandale.nl/opzoeken?pattern={{{s}}}&lang=fn",
@@ -97951,7 +97951,7 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "\u5fae\u76d8",
+    "s": "微盘",
     "d": "vdisk.weibo.com",
     "t": "vdisk",
     "u": "https://vdisk.weibo.com/search/?type=public&keyword={{{s}}}",
@@ -98103,7 +98103,7 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "VERBES - Conjugaison fran\u00e7aise",
+    "s": "VERBES - Conjugaison française",
     "d": "www.les-verbes.com",
     "t": "verbes",
     "u": "http://www.les-verbes.com/conjuguer.php?verbe={{{s}}}",
@@ -98159,7 +98159,7 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "Catal\u00e0, verbs i conjugaci\u00f3",
+    "s": "Català, verbs i conjugació",
     "d": "www.verbs.cat",
     "t": "verbs",
     "u": "https://www.verbs.cat/ca/conjugacio.html?infinitive={{{s}}}",
@@ -98359,7 +98359,7 @@
     "sc": "Audio"
   },
   {
-    "s": "Ver\u00adkehrs\u00adver\u00adbund Gro\u00df\u00adraum N\u00fcrn\u00adberg",
+    "s": "Ver­kehrs­ver­bund Groß­raum Nürn­berg",
     "d": "www.vgn.de",
     "t": "vgn",
     "u": "https://www.vgn.de/verbindungen/?td={{{s}}}",
@@ -98735,7 +98735,7 @@
     "sc": "Online (deals)"
   },
   {
-    "s": "Viquip\u00e8dia",
+    "s": "Viquipèdia",
     "d": "ca.wikipedia.org",
     "t": "viquipedia",
     "u": "https://ca.wikipedia.org/w/index.php?search={{{s}}}&title=Especial%3ACerca&go=V%C3%A9s-hi",
@@ -98879,7 +98879,7 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "Vicol\u2019s Journey \u2013 Free Photography",
+    "s": "Vicol’s Journey – Free Photography",
     "d": "vjphotos.net",
     "t": "vj",
     "u": "http://vjphotos.net/?s={{{s}}}",
@@ -99434,7 +99434,7 @@
     "s": "Vulgum Techus",
     "d": "www.vulgumtechus.com",
     "t": "vt",
-    "u": "https://www.vulgumtechus.com/index.php?title=Sp\u00e9cial:Recherche&search={{{s}}}",
+    "u": "https://www.vulgumtechus.com/index.php?title=Spécial:Recherche&search={{{s}}}",
     "c": "Tech",
     "sc": "Blogs"
   },
@@ -99551,7 +99551,7 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "Verslo \u017einios",
+    "s": "Verslo žinios",
     "d": "www.vz.lt",
     "t": "vz",
     "u": "https://www.vz.lt/section/?template=search&search={{{s}}}",
@@ -99623,7 +99623,7 @@
     "sc": "Search (DDG)"
   },
   {
-    "s": "w3school\u4e2d\u6587",
+    "s": "w3school中文",
     "d": "www.google.com",
     "t": "w3scn",
     "u": "https://www.google.com/search?q={{{s}}}+site:w3school.com.cn",
@@ -99671,7 +99671,7 @@
     "sc": "Maps"
   },
   {
-    "s": "We Are All Pok\u00e9mon Trainers Wiki",
+    "s": "We Are All Pokémon Trainers Wiki",
     "d": "waapt.wiki.tropi.us",
     "t": "waapt",
     "u": "https://waapt.wiki.tropi.us/wiki/Special:Search/{{{s}}}",
@@ -99951,7 +99951,7 @@
     "sc": "Reference"
   },
   {
-    "s": "Waschb\u00e4r",
+    "s": "Waschbär",
     "d": "www.waschbaer.de",
     "t": "waschbaer",
     "u": "https://www.waschbaer.de/shop/frontend/search/result?q={{{s}}}",
@@ -100164,7 +100164,7 @@
     "s": "Wikibooks JP",
     "d": "ja.wikibooks.org",
     "t": "wbj",
-    "u": "https://ja.wikibooks.org/w/index.php?search={{{s}}}&title=\u7279\u5225%3A\u691c\u7d22&go=\u8868\u793a",
+    "u": "https://ja.wikibooks.org/w/index.php?search={{{s}}}&title=特別%3A検索&go=表示",
     "c": "Research",
     "sc": "Learning"
   },
@@ -100255,7 +100255,7 @@
     "sc": "Misc"
   },
   {
-    "s": "Viquip\u00e8dia",
+    "s": "Viquipèdia",
     "d": "ca.wikipedia.org",
     "t": "wcat",
     "u": "https://ca.wikipedia.org/w/index.php?search={{{s}}}",
@@ -100618,7 +100618,7 @@
     "sc": "Tech"
   },
   {
-    "s": "weblio \u82f1\u548c\u8f9e\u5178",
+    "s": "weblio 英和辞典",
     "d": "ejje.weblio.jp",
     "t": "weblioe",
     "u": "https://ejje.weblio.jp/content/{{{s}}}",
@@ -100981,7 +100981,7 @@
     "s": "Wesleyan Library OneSearch",
     "d": "wesleyan.summon.serialssolutions.com",
     "t": "wes1",
-    "u": "https://wesleyan.summon.serialssolutions.com/search?utf8=\u2713&s.q={{{s}}}",
+    "u": "https://wesleyan.summon.serialssolutions.com/search?utf8=✓&s.q={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -100989,7 +100989,7 @@
     "s": "Wesleyan Library OneSearch",
     "d": "wesleyan.summon.serialssolutions.com",
     "t": "weslib",
-    "u": "https://wesleyan.summon.serialssolutions.com/search?utf8=\u2713&s.q={{{s}}}",
+    "u": "https://wesleyan.summon.serialssolutions.com/search?utf8=✓&s.q={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -101090,7 +101090,7 @@
     "sc": "Reference"
   },
   {
-    "s": "Webford\u00edt\u00e1s de-hu",
+    "s": "Webfordítás de-hu",
     "d": "www.webforditas.hu",
     "t": "wfdehu",
     "u": "https://www.webforditas.hu/szotar.php?S={{{s}}}&l1=de&l2=hu",
@@ -101130,7 +101130,7 @@
     "sc": "Images"
   },
   {
-    "s": "Webford\u00edt\u00e1s en-hu",
+    "s": "Webfordítás en-hu",
     "d": "www.webforditas.hu",
     "t": "wfenhu",
     "u": "https://www.webforditas.hu/szotar.php?S={{{s}}}&l1=en&l2=hu",
@@ -101154,7 +101154,7 @@
     "sc": "Search (non-US)"
   },
   {
-    "s": "Webford\u00edt\u00e1s hu-de",
+    "s": "Webfordítás hu-de",
     "d": "www.webforditas.hu",
     "t": "wfhude",
     "u": "https://www.webforditas.hu/szotar.php?S={{{s}}}&l1=hu&l2=de",
@@ -101162,7 +101162,7 @@
     "sc": "Tools"
   },
   {
-    "s": "Webford\u00edt\u00e1s hu-en",
+    "s": "Webfordítás hu-en",
     "d": "www.webforditas.hu",
     "t": "wfhuen",
     "u": "https://www.webforditas.hu/szotar.php?S= {{{s}}}&l1=hu&l2=en",
@@ -101410,7 +101410,7 @@
     "sc": "Search"
   },
   {
-    "s": "Wikihow Espa\u00f1ol",
+    "s": "Wikihow Español",
     "d": "es.wikihow.com",
     "t": "whes",
     "u": "https://es.wikihow.com/wikiHowTo?search={{{s}}}",
@@ -101642,7 +101642,7 @@
     "sc": "Sports"
   },
   {
-    "s": "wikiHow Espa\u00f1ol",
+    "s": "wikiHow Español",
     "d": "es.wikihow.com",
     "t": "whowes",
     "u": "https://es.wikihow.com/wikiHowTo?search={{{s}}}",
@@ -101770,7 +101770,7 @@
     "sc": "Reference"
   },
   {
-    "s": "Wiktionary (Fran\u00e7ais)",
+    "s": "Wiktionary (Français)",
     "d": "fr.wiktionary.org",
     "t": "wifr",
     "u": "https://fr.wiktionary.org/wiki/{{{s}}}",
@@ -101846,7 +101846,7 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "Wikip\u00e9dia Brasil",
+    "s": "Wikipédia Brasil",
     "d": "pt.wikipedia.org",
     "t": "wikibr",
     "u": "https://pt.wikipedia.org/wiki/{{{s}}}",
@@ -102014,7 +102014,7 @@
     "sc": "International"
   },
   {
-    "s": "Wikilengua del espa\u00f1ol",
+    "s": "Wikilengua del español",
     "d": "www.wikilengua.org",
     "t": "wikilengua",
     "u": "https://www.wikilengua.org/index.php/Especial:Buscar?search={{{s}}}&fulltext=Buscar",
@@ -102126,7 +102126,7 @@
     "sc": "Learning"
   },
   {
-    "s": "Wikip\u00e9dia PT",
+    "s": "Wikipédia PT",
     "d": "pt.wikipedia.org",
     "t": "wikipt",
     "u": "https://pt.wikipedia.org/wiki/{{{s}}}",
@@ -102286,7 +102286,7 @@
     "sc": "Travel"
   },
   {
-    "s": "Wikivoyage (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac)",
+    "s": "Wikivoyage (Ελληνικά)",
     "d": "el.wikivoyage.org",
     "t": "wikivoyageel",
     "u": "https://el.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go",
@@ -102302,7 +102302,7 @@
     "sc": "Travel"
   },
   {
-    "s": "Wikivoyage (Espa\u00f1ol)",
+    "s": "Wikivoyage (Español)",
     "d": "es.wikivoyage.org",
     "t": "wikivoyagees",
     "u": "https://es.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go",
@@ -102310,7 +102310,7 @@
     "sc": "Travel"
   },
   {
-    "s": "Wikivoyage (fran\u00e7ais)",
+    "s": "Wikivoyage (français)",
     "d": "fr.wikivoyage.org",
     "t": "wikivoyagefr",
     "u": "https://fr.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go",
@@ -102318,7 +102318,7 @@
     "sc": "Travel"
   },
   {
-    "s": "Wikivoyage (\u05e2\u05d1\u05e8\u05d9\u05ea)",
+    "s": "Wikivoyage (עברית)",
     "d": "he.wikivoyage.org",
     "t": "wikivoyagehe",
     "u": "https://he.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go",
@@ -102350,7 +102350,7 @@
     "sc": "Travel"
   },
   {
-    "s": "Wikivoyage (portugu\u00eas)",
+    "s": "Wikivoyage (português)",
     "d": "pt.wikivoyage.org",
     "t": "wikivoyagept",
     "u": "https://pt.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go",
@@ -102358,7 +102358,7 @@
     "sc": "Travel"
   },
   {
-    "s": "Wikivoyage (Rom\u00e2n\u0103)",
+    "s": "Wikivoyage (Română)",
     "d": "ro.wikivoyage.org",
     "t": "wikivoyagero",
     "u": "https://ro.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go",
@@ -102366,7 +102366,7 @@
     "sc": "Travel"
   },
   {
-    "s": "Wikivoyage (\u0420\u0443\u0441\u0441\u043a\u0438\u0439)",
+    "s": "Wikivoyage (Русский)",
     "d": "ru.wikivoyage.org",
     "t": "wikivoyageru",
     "u": "https://ru.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go",
@@ -102382,7 +102382,7 @@
     "sc": "Travel"
   },
   {
-    "s": "Wikivoyage (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430)",
+    "s": "Wikivoyage (Українська)",
     "d": "uk.wikivoyage.org",
     "t": "wikivoyageuk",
     "u": "https://uk.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go",
@@ -102390,7 +102390,7 @@
     "sc": "Travel"
   },
   {
-    "s": "Wikivoyage (Ti\u1ebfng Vi\u1ec7t)",
+    "s": "Wikivoyage (Tiếng Việt)",
     "d": "vi.wikivoyage.org",
     "t": "wikivoyagevi",
     "u": "https://vi.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go",
@@ -102406,7 +102406,7 @@
     "sc": "Travel"
   },
   {
-    "s": "Wikivoyage (\u4e2d\u6587)",
+    "s": "Wikivoyage (中文)",
     "d": "zh.wikivoyage.org",
     "t": "wikivoyagezh",
     "u": "https://zh.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go",
@@ -102446,7 +102446,7 @@
     "sc": "Tools"
   },
   {
-    "s": "\u0412\u0438\u043a\u0438\u0441\u043b\u043e\u0432\u0430\u0440\u044c",
+    "s": "Викисловарь",
     "d": "ru.wiktionary.org",
     "t": "wikru",
     "u": "https://ru.wiktionary.org/w/index.php?search={{{s}}}",
@@ -102462,7 +102462,7 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "Wiktionary, das freie W\u00f6rterbuch",
+    "s": "Wiktionary, das freie Wörterbuch",
     "d": "de.wiktionary.org",
     "t": "wiktde",
     "u": "https://de.wiktionary.org/wiki/Special:Search?search={{{s}}}&go=Go",
@@ -102546,7 +102546,7 @@
     "sc": "Search"
   },
   {
-    "s": "\uc704\ud0a4\ub0b1\ub9d0\uc0ac\uc804",
+    "s": "위키낱말사전",
     "d": "ko.wiktionary.org",
     "t": "wiktko",
     "u": "https://ko.wiktionary.org/wiki/{{{s}}}",
@@ -102578,7 +102578,7 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "Wikcion\u00e1rio (PT)",
+    "s": "Wikcionário (PT)",
     "d": "pt.wiktionary.org",
     "t": "wiktpt",
     "u": "https://pt.wiktionary.org/wiki/{{{s}}}",
@@ -102901,7 +102901,7 @@
     "s": "Wiki de JV Flux",
     "d": "wiki.jvflux.com",
     "t": "wjvf",
-    "u": "https://wiki.jvflux.com/index.php?title=Sp\u00e9cial:Recherche&search={{{s}}}",
+    "u": "https://wiki.jvflux.com/index.php?title=Spécial:Recherche&search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
@@ -102962,7 +102962,7 @@
     "sc": "Reference"
   },
   {
-    "s": "Lithuanian Wiktionary (Viki\u017eodynas)",
+    "s": "Lithuanian Wiktionary (Vikižodynas)",
     "d": "lt.wiktionary.org",
     "t": "wklt",
     "u": "https://lt.wiktionary.org/w/index.php?search={{{s}}}",
@@ -103386,7 +103386,7 @@
     "sc": "Online (intl)"
   },
   {
-    "s": "W\u00f6rterbuchnetz",
+    "s": "Wörterbuchnetz",
     "d": "woerterbuchnetz.de",
     "t": "woerterbuchnetz",
     "u": "https://woerterbuchnetz.de/cgi-bin/WBNetz/startGlobalSearch.tcl?stichwort={{{s}}}",
@@ -103970,7 +103970,7 @@
     "sc": "Games (WOW)"
   },
   {
-    "s": "Wowhead (Espa\u00f1ol)",
+    "s": "Wowhead (Español)",
     "d": "es.wowhead.com",
     "t": "wowhes",
     "u": "https://es.wowhead.com/search?q={{{s}}}",
@@ -104210,7 +104210,7 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "Wikiquote Espa\u00f1ol",
+    "s": "Wikiquote Español",
     "d": "es.wikiquote.org",
     "t": "wqes",
     "u": "https://es.wikiquote.org/w/?search={{{s}}}",
@@ -104229,7 +104229,7 @@
     "s": "Wikiquote Polish",
     "d": "pl.wikiquote.org",
     "t": "wqpl",
-    "u": "https://pl.wikiquote.org/w/index.php?search={{{s}}}&title=Specjalna:Szukaj&go=Przejd\u017a",
+    "u": "https://pl.wikiquote.org/w/index.php?search={{{s}}}&title=Specjalna:Szukaj&go=Przejdź",
     "c": "Research",
     "sc": "Reference"
   },
@@ -104474,7 +104474,7 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "WordReference.com sin\u00f3nimos en espa\u00f1ol",
+    "s": "WordReference.com sinónimos en español",
     "d": "www.wordreference.com",
     "t": "wressin",
     "u": "https://www.wordreference.com/sinonimos/{{{s}}}",
@@ -104658,7 +104658,7 @@
     "sc": "Learning (intl)"
   },
   {
-    "s": "WordReference Portugu\u00eas-Espa\u00f1ol",
+    "s": "WordReference Português-Español",
     "d": "www.wordreference.com",
     "t": "wrptes",
     "u": "https://www.wordreference.com/ptes/{{{s}}}",
@@ -104794,7 +104794,7 @@
     "sc": "Academic"
   },
   {
-    "s": "Wikipedia \u2013 Friddje diehtos\u00e1tnegirji",
+    "s": "Wikipedia – Friddje diehtosátnegirji",
     "d": "se.wikipedia.org",
     "t": "wse",
     "u": "https://se.wikipedia.org/w/index.php?search={{{s}}}",
@@ -104866,7 +104866,7 @@
     "sc": "Business"
   },
   {
-    "s": "Wielki S\u0142ownik J\u0119zyka Polskiego",
+    "s": "Wielki Słownik Języka Polskiego",
     "d": "wsjp.pl",
     "t": "wsjp",
     "u": "https://wsjp.pl/index.php?szukaj={{{s}}}&pwh=0",
@@ -104882,7 +104882,7 @@
     "sc": "Newspaper"
   },
   {
-    "s": "Wikip\u00e9dia Sloven\u010dina",
+    "s": "Wikipédia Slovenčina",
     "d": "sk.wikipedia.org",
     "t": "wsk",
     "u": "https://sk.wikipedia.org/wiki/Special:Search?search={{{s}}}",
@@ -104978,7 +104978,7 @@
     "sc": "Sports"
   },
   {
-    "s": "\u0423\u0438\u043a\u0438\u0440\u0435\u0447\u043d\u0438\u043a",
+    "s": "Уикиречник",
     "d": "bg.wiktionary.org",
     "t": "wtbg",
     "u": "https://bg.wiktionary.org/wiki/{{{s}}}",
@@ -105238,7 +105238,7 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "\u0bb5\u0bbf\u0b95\u0bcd\u0b9a\u0ba9\u0bb0\u0bbf (Wiktionary Tamil)",
+    "s": "விக்சனரி (Wiktionary Tamil)",
     "d": "ta.wiktionary.org",
     "t": "wtta",
     "u": "https://ta.wiktionary.org/wiki/Special:Search?search={{{s}}}&go=Go",
@@ -105270,7 +105270,7 @@
     "sc": "Reference"
   },
   {
-    "s": "Wiktionary ti\u1ebfng Vi\u1ec7t",
+    "s": "Wiktionary tiếng Việt",
     "d": "vi.wiktionary.org",
     "t": "wtvi",
     "u": "https://vi.wiktionary.org/w/index.php?search={{{s}}}",
@@ -105422,7 +105422,7 @@
     "sc": "Learning"
   },
   {
-    "s": "Wikivoyage espa\u00f1ol",
+    "s": "Wikivoyage español",
     "d": "es.wikivoyage.org",
     "t": "wves",
     "u": "https://es.wikivoyage.org/w/index.php?search={{{s}}}",
@@ -105430,7 +105430,7 @@
     "sc": "Travel"
   },
   {
-    "s": "Wikivoyage Fran\u00e7ais",
+    "s": "Wikivoyage Français",
     "d": "fr.wikivoyage.org",
     "t": "wvfr",
     "u": "https://fr.wikivoyage.org/w/index.php?search={{{s}}}",
@@ -105470,7 +105470,7 @@
     "sc": "Learning"
   },
   {
-    "s": "Wikivoyage Portugu\u00eas",
+    "s": "Wikivoyage Português",
     "d": "pt.wikivoyage.org",
     "t": "wvpt",
     "u": "https://pt.wikivoyage.org/w/index.php?search={{{s}}}",
@@ -105542,7 +105542,7 @@
     "sc": "Reference"
   },
   {
-    "s": "WikiWand en Espa\u00f1ol",
+    "s": "WikiWand en Español",
     "d": "www.wikiwand.com",
     "t": "wwes",
     "u": "https://www.wikiwand.com/es/{{{s}}}",
@@ -105612,7 +105612,7 @@
     "sc": "Music"
   },
   {
-    "s": "Wikiwand em Portug\u00eas",
+    "s": "Wikiwand em Portugês",
     "d": "www.wikiwand.com",
     "t": "wwpt",
     "u": "https://www.wikiwand.com/pt/{{{s}}}",
@@ -105620,7 +105620,7 @@
     "sc": "Academic"
   },
   {
-    "s": "WikiWand T\u00fcrk\u00e7e",
+    "s": "WikiWand Türkçe",
     "d": "www.wikiwand.com",
     "t": "wwtr",
     "u": "https://www.wikiwand.com/tr/{{{s}}}",
@@ -105628,7 +105628,7 @@
     "sc": "Search"
   },
   {
-    "s": "Porno \u0130zle",
+    "s": "Porno İzle",
     "d": "www.89porno.com",
     "t": "www.89porno.com",
     "u": "https://www.89porno.com/?s={{{s}}}",
@@ -106444,7 +106444,7 @@
     "sc": "Search"
   },
   {
-    "s": "Yahoo!\u8f9e\u66f8",
+    "s": "Yahoo!辞書",
     "d": "dic.search.yahoo.co.jp",
     "t": "ydic",
     "u": "http://dic.search.yahoo.co.jp/search?ei=UTF-8&p={{{s}}}&stype=full&fr=dic",
@@ -106820,7 +106820,7 @@
     "sc": "Misc"
   },
   {
-    "s": "\u8aad\u307f\u65b9\u306f\uff1f",
+    "s": "読み方は？",
     "d": "yomikatawa.com",
     "t": "yomikata",
     "u": "https://yomikatawa.com/kanji/{{{s}}}",
@@ -106852,7 +106852,7 @@
     "sc": "Tools"
   },
   {
-    "s": "\u6709\u9053\u8bcd\u5178",
+    "s": "有道词典",
     "d": "dict.youdao.com",
     "t": "youdaod",
     "u": "https://dict.youdao.com/search?q={{{s}}}",
@@ -106884,7 +106884,7 @@
     "sc": "Movies"
   },
   {
-    "s": "Youla / \u042e\u043b\u0430",
+    "s": "Youla / Юла",
     "d": "youla.ru",
     "t": "youla",
     "u": "https://youla.ru/?q={{{s}}}",
@@ -107076,7 +107076,7 @@
     "sc": "TV"
   },
   {
-    "s": "\u042f\u043d\u0434\u0435\u043a\u0441.\u0421\u043b\u043e\u0432\u0430\u0440\u0438",
+    "s": "Яндекс.Словари",
     "d": "slovari.yandex.ru",
     "t": "ys",
     "u": "https://slovari.yandex.ru/{{{s}}}",
@@ -107356,7 +107356,7 @@
     "sc": "TV"
   },
   {
-    "s": "Yahoo\u5947\u6469\u5b57\u5178",
+    "s": "Yahoo奇摩字典",
     "d": "tw.dictionary.search.yahoo.com",
     "t": "ytwd",
     "u": "https://tw.dictionary.search.yahoo.com/search?p={{{s}}}",
@@ -107516,7 +107516,7 @@
     "sc": "Search"
   },
   {
-    "s": "Z\u00e1kony pre \u013eud\u00ed",
+    "s": "Zákony pre ľudí",
     "d": "www.zakonypreludi.sk",
     "t": "zakony",
     "u": "https://www.zakonypreludi.sk/main/search.aspx?text={{{s}}}",
@@ -107636,7 +107636,7 @@
     "sc": "Online"
   },
   {
-    "s": "\u0417\u0430\u0439\u0446\u0435\u0432.\u043d\u0435\u0442!",
+    "s": "Зайцев.нет!",
     "d": "zaycev.net",
     "t": "zaycev",
     "u": "https://zaycev.net/search.html?query_search={{{s}}}",
@@ -107652,7 +107652,7 @@
     "sc": "Academic (math/cs)"
   },
   {
-    "s": "Zbo\u017e\u00ed.cz",
+    "s": "Zboží.cz",
     "d": "www.zbozi.cz",
     "t": "zbozi",
     "u": "https://www.zbozi.cz/hledani/?q={{{s}}}",
@@ -107676,7 +107676,7 @@
     "sc": "Video"
   },
   {
-    "s": "\u6c49\u5178",
+    "s": "汉典",
     "d": "www.zdic.net",
     "t": "zdic",
     "u": "https://www.zdic.net/search/?q={{{s}}}",
@@ -107871,7 +107871,7 @@
     "s": "Zurb Foundation Forum",
     "d": "foundation.zurb.com",
     "t": "zff",
-    "u": "https://foundation.zurb.com/forum/posts?utf8=\u2713&search={{{s}}}&button=",
+    "u": "https://foundation.zurb.com/forum/posts?utf8=✓&search={{{s}}}&button=",
     "c": "Tech",
     "sc": "Libraries/Frameworks"
   },
@@ -107892,7 +107892,7 @@
     "sc": "Tools"
   },
   {
-    "s": "\u77e5\u4e4e",
+    "s": "知乎",
     "d": "www.zhihu.com",
     "t": "zhihu",
     "u": "https://www.zhihu.com/search?type=content&q={{{s}}}",
@@ -107900,7 +107900,7 @@
     "sc": "Search (non-US)"
   },
   {
-    "s": "\u77e5\u4e4e",
+    "s": "知乎",
     "d": "www.zhihu.com",
     "t": "zhi",
     "u": "https://www.zhihu.com/search?q= {{{s}}} &type=question",
@@ -107980,7 +107980,7 @@
     "sc": "Games (general)"
   },
   {
-    "s": "ZLI Z\u00fcrich",
+    "s": "ZLI Zürich",
     "d": "www.zli.ch",
     "t": "zli",
     "u": "https://www.zli.ch/service/suche/?q={{{s}}}",
@@ -108180,41 +108180,41 @@
     "sc": "Sports"
   },
   {
-    "s": "\u0635\u062d\u064a\u0641\u0629 \u062a\u064a\u0641\u064a",
+    "s": "صحيفة تيفي",
     "d": "www.sahifatv.com",
-    "t": "\u0627\u0644\u0627\u062e\u0628\u0627\u0631",
+    "t": "الاخبار",
     "u": "https://www.sahifatv.com/category/{{{s}}}",
     "c": "News",
     "sc": "Newspaper"
   },
   {
-    "s": "\u0634\u0631\u06a9\u062a \u067e\u062e\u0634 \u0633\u062a\u0627\u0631\u0647",
+    "s": "شرکت پخش ستاره",
     "d": "setareh-co.com",
-    "t": "\u067e\u062e\u0634\u0633\u062a\u0627\u0631\u0647",
+    "t": "پخشستاره",
     "u": "https://setareh-co.com/?s={{{s}}}&submit=",
     "c": "Shopping",
     "sc": "Online (marketplace)"
   },
   {
-    "s": "\u0645\u0648\u0642\u0639 \u062a\u0628\u0633\u064a\u0637",
+    "s": "موقع تبسيط",
     "d": "tapseet.com",
-    "t": "\u062a\u0628\u0633\u064a\u0637",
+    "t": "تبسيط",
     "u": "https://tapseet.com/?s={{{s}}}",
     "c": "Tech",
     "sc": "Blogs"
   },
   {
-    "s": "\u0623\u0643\u0627\u062f\u064a\u0645\u064a\u0629 \u0627\u0644\u0645\u0648\u0628\u0627\u064a\u0644",
+    "s": "أكاديمية الموبايل",
     "d": "mobilesacademy.com",
-    "t": "\u0645\u0648\u0628\u0627\u064a\u0644",
+    "t": "موبايل",
     "u": "https://mobilesacademy.com/?s={{{s}}}",
     "c": "Shopping",
     "sc": "Tech"
   },
   {
-    "s": "\u0648\u064a\u0643\u064a\u0628\u064a\u062f\u064a\u0627 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    "s": "ويكيبيديا العربية",
     "d": "ar.wikipedia.org",
-    "t": "\u0648",
+    "t": "و",
     "u": "https://ar.wikipedia.org/wiki/Special:Search?search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
@@ -108222,7 +108222,7 @@
   {
     "s": "Google Israel",
     "d": "www.google.co.il",
-    "t": "\u05d2",
+    "t": "ג",
     "u": "https://www.google.co.il/{{{s}}}",
     "c": "Research",
     "sc": "Academic (math/cs)"
@@ -108230,39 +108230,39 @@
   {
     "s": "Hebrew wikipedia",
     "d": "he.wikipedia.org",
-    "t": "\u05d5\u05d9\u05e7\u05d9",
-    "u": "https://he.wikipedia.org/w/index.php?search={{{s}}}&title=\u05de\u05d9\u05d5\u05d7\u05d3%3A\u05d7\u05d9\u05e4\u05d5\u05e9&go=\u05dc\u05e2\u05e8\u05da",
+    "t": "ויקי",
+    "u": "https://he.wikipedia.org/w/index.php?search={{{s}}}&title=מיוחד%3Aחיפוש&go=לערך",
     "c": "Research",
     "sc": "Academic"
   },
   {
     "s": "Israeli Open Law project at Hebrew Wikisource",
     "d": "he.wikisource.org",
-    "t": "\u05d7\u05d5\u05e7",
-    "u": "https://he.wikisource.org/w/index.php?search=\u05d7\u05d5\u05e7+{{{s}}}",
+    "t": "חוק",
+    "u": "https://he.wikisource.org/w/index.php?search=חוק+{{{s}}}",
     "c": "Research",
     "sc": "Law"
   },
   {
-    "s": "\u05de\u05d5\u05e8\u05e4\u05d9\u05e7\u05e1",
+    "s": "מורפיקס",
     "d": "www.morfix.co.il",
-    "t": "\u05de\u05d5\u05e8\u05e4\u05d9\u05e7\u05e1",
+    "t": "מורפיקס",
     "u": "https://www.morfix.co.il/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
   },
   {
-    "s": "\u05e4\u05e8\u05d5\u05d8\u05d5\u05e7\u05d5\u05dc",
+    "s": "פרוטוקול",
     "d": "www.protocol.co.il",
-    "t": "\u05e4\u05e8\u05d5\u05d8\u05d5\u05e7\u05d5\u05dc",
+    "t": "פרוטוקול",
     "u": "https://www.protocol.co.il/?s={{{s}}}",
     "c": "News",
     "sc": "Business"
   },
   {
-    "s": "\u0392\u03b9\u03ba\u03b9\u03c0\u03b1\u03af\u03b4\u03b5\u03b9\u03b1 ",
+    "s": "Βικιπαίδεια ",
     "d": "el.m.wikipedia.org",
-    "t": "\u0392\u03b9\u03ba\u03b9",
+    "t": "Βικι",
     "u": "https://el.m.wikipedia.org/wiki/{{{s}}}",
     "c": "Research",
     "sc": "Academic"
@@ -108270,15 +108270,15 @@
   {
     "s": "https://www.google.gr/?gws_rd=ssl",
     "d": "www.google.gr",
-    "t": "\u03b3",
+    "t": "γ",
     "u": "https://www.google.gr/?gws_rd=ssl#q={{{s}}}",
     "c": "Online Services",
     "sc": "Google"
   },
   {
-    "s": "\u039b\u03b5\u03be\u03b9\u03ba\u03cc ",
+    "s": "Λεξικό ",
     "d": "el.m.wiktionary.org",
-    "t": "\u039b\u03b5\u03be\u03b9\u03ba\u03cc",
+    "t": "Λεξικό",
     "u": "https://el.m.wiktionary.org/wiki/{{{s}}}",
     "c": "Research",
     "sc": "Academic"
@@ -108286,7 +108286,7 @@
   {
     "s": "greek wikipedia",
     "d": "el.wikipedia.org",
-    "t": "\u03c2\u03b3\u03c1",
+    "t": "ςγρ",
     "u": "https://el.wikipedia.org/wiki/?search={{{s}}}",
     "c": "Online Services",
     "sc": "Search"
@@ -108294,15 +108294,15 @@
   {
     "s": "Youtube",
     "d": "www.youtube.com",
-    "t": "\u03c5\u03c4",
+    "t": "υτ",
     "u": "https://www.youtube.com/results?search_query={{{s}}}",
     "c": "Multimedia",
     "sc": "Video"
   },
   {
-    "s": "\u0412\u0438\u043a\u0438-\u0443\u0447\u0435\u0431\u043d\u0438\u043a \u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u042f\u0437\u044b\u043a\u0430",
+    "s": "Вики-учебник Английского Языка",
     "d": "engramm.su",
-    "t": "\u0430\u043d\u0433\u043b\u044f\u0437",
+    "t": "англяз",
     "u": "https://engramm.su/start?do=search&id={{{s}}}",
     "c": "Research",
     "sc": "Learning"
@@ -108310,31 +108310,31 @@
   {
     "s": "Wikipedia",
     "d": "uk.m.wikipedia.org",
-    "t": "\u0432",
+    "t": "в",
     "u": "https://uk.m.wikipedia.org/wiki/{{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
   {
-    "s": "\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f",
+    "s": "Википедия",
     "d": "ru.wikipedia.org",
-    "t": "\u0432\u0438\u043a\u0438",
+    "t": "вики",
     "u": "https://ru.wikipedia.org/w/index.php?search={{{s}}}&",
     "c": "Multimedia",
     "sc": "Docs"
   },
   {
-    "s": "\u0432\u0438\u043a\u0438\u043d\u043e\u0432\u043e\u0441\u0442\u0438",
+    "s": "викиновости",
     "d": "ru.wikinews.org",
-    "t": "\u0432\u043d",
+    "t": "вн",
     "u": "https://ru.wikinews.org/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA?search={{{s}}}",
     "c": "News",
     "sc": "Newspaper"
   },
   {
-    "s": "\u0412\u0438\u043a\u0438\u0441\u043b\u043e\u0432\u0430\u0440\u044c",
+    "s": "Викисловарь",
     "d": "ru.wiktionary.org",
-    "t": "\u0432\u0441",
+    "t": "вс",
     "u": "https://ru.wiktionary.org/w/index.php?search={{{s}}}&ns0=1",
     "c": "Research",
     "sc": "Reference (words)"
@@ -108342,7 +108342,7 @@
   {
     "s": "Google Ru",
     "d": "google.com",
-    "t": "\u0433",
+    "t": "г",
     "u": "https://google.com/search?hl=ru&q={{{s}}}",
     "c": "Online Services",
     "sc": "Google"
@@ -108350,7 +108350,7 @@
   {
     "s": "Google BG",
     "d": "www.google.bg",
-    "t": "\u0433\u0431\u0433",
+    "t": "гбг",
     "u": "https://www.google.bg/search?source=hp&q={{{s}}}",
     "c": "Online Services",
     "sc": "Google"
@@ -108358,7 +108358,7 @@
   {
     "s": "Google Images Russian",
     "d": "www.google.ru",
-    "t": "\u0433\u043a",
+    "t": "гк",
     "u": "https://www.google.ru/search?q={{{s}}}&tbm=isch",
     "c": "Online Services",
     "sc": "Google"
@@ -108366,31 +108366,31 @@
   {
     "s": "docs.cntd.ru",
     "d": "docs.cntd.ru",
-    "t": "\u0433\u043e\u0441\u0442",
+    "t": "гост",
     "u": "http://docs.cntd.ru/search/intellectual?q={{{s}}}",
     "c": "Multimedia",
     "sc": "Docs"
   },
   {
-    "s": "Yandex.Maps (\u041a\u0430\u0440\u0442\u044b)",
+    "s": "Yandex.Maps (Карты)",
     "d": "yandex.ru",
-    "t": "\u043a\u0430\u0440\u0442\u044b",
+    "t": "карты",
     "u": "https://yandex.ru/maps/?text={{{s}}}",
     "c": "Online Services",
     "sc": "Maps"
   },
   {
-    "s": "Google Translate (ru\u2192en)",
+    "s": "Google Translate (ru→en)",
     "d": "translate.google.com",
-    "t": "\u043a\u0433\u0443\u0442",
+    "t": "кгут",
     "u": "https://translate.google.com/#ru/en/{{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
   },
   {
-    "s": "\u041b\u0430\u0431\u0438\u0440\u0438\u043d\u0442",
+    "s": "Лабиринт",
     "d": "www.labirint.ru",
-    "t": "\u043b",
+    "t": "л",
     "u": "https://www.labirint.ru/search/{{{s}}}",
     "c": "Shopping",
     "sc": "Online"
@@ -108398,15 +108398,15 @@
   {
     "s": "Google Maps BG",
     "d": "www.google.bg",
-    "t": "\u043c\u0430\u043f\u0441",
+    "t": "мапс",
     "u": "https://www.google.bg/maps/search/{{{s}}}/",
     "c": "Online Services",
     "sc": "Maps"
   },
   {
-    "s": "\u041d\u041f\u0421\u0414",
+    "s": "НПСД",
     "d": "npsd.party",
-    "t": "\u043d\u043f\u0441\u0434",
+    "t": "нпсд",
     "u": "https://npsd.party/?s={{{s}}}",
     "c": "News",
     "sc": "Online"
@@ -108414,7 +108414,7 @@
   {
     "s": "google.com",
     "d": "www.google.com",
-    "t": "\u043f",
+    "t": "п",
     "u": "https://www.google.com/search?q={{{s}}}",
     "c": "Online Services",
     "sc": "Google"
@@ -108422,7 +108422,7 @@
   {
     "s": "Google Images",
     "d": "www.google.ru",
-    "t": "\u043f\u0448",
+    "t": "пш",
     "u": "https://www.google.ru/search?tbm=isch&q={{{s}}}",
     "c": "Online Services",
     "sc": "Search (non-US)"
@@ -108430,15 +108430,15 @@
   {
     "s": "Wikipedia (BG)",
     "d": "bg.wikipedia.org",
-    "t": "\u0443\u0438\u043a\u0438",
+    "t": "уики",
     "u": "https://bg.wikipedia.org/wiki/{{{s}}}",
     "c": "Translation",
     "sc": "Google"
   },
   {
-    "s": "\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f",
+    "s": "Википедия",
     "d": "ru.wikipedia.org",
-    "t": "\u0446",
+    "t": "ц",
     "u": "https://ru.wikipedia.org/wiki/Special:Search?search={{{s}}}",
     "c": "Online Services",
     "sc": "Search"
@@ -108446,7 +108446,7 @@
   {
     "s": "Wikipedia (ru)",
     "d": "ru.wikipedia.org",
-    "t": "\u0448",
+    "t": "ш",
     "u": "https://ru.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Online Services",
     "sc": "Search"
@@ -108454,7 +108454,7 @@
   {
     "s": "Wikipedia (ru)",
     "d": "ru.wikipedia.org",
-    "t": "\u0448\u0440\u0443",
+    "t": "шру",
     "u": "https://ru.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Online Services",
     "sc": "Search"
@@ -108462,15 +108462,15 @@
   {
     "s": "Yandex.ru",
     "d": "yandex.ru",
-    "t": "\u044f",
+    "t": "я",
     "u": "https://yandex.ru/yandsearch?text={{{s}}}",
     "c": "Online Services",
     "sc": "Search (non-US)"
   },
   {
-    "s": "Yandex images (\u042f\u043d\u0434\u0435\u043a\u0441 \u043a\u0430\u0440\u0442\u0438\u043d\u043a\u0438)",
+    "s": "Yandex images (Яндекс картинки)",
     "d": "yandex.ru",
-    "t": "\u044f\u043a",
+    "t": "як",
     "u": "https://yandex.ru/images/search?text={{{s}}}",
     "c": "Online Services",
     "sc": "Search"
@@ -108478,15 +108478,15 @@
   {
     "s": "Yandex Music",
     "d": "music.yandex.com",
-    "t": "\u044f\u043c\u0443",
+    "t": "яму",
     "u": "https://music.yandex.com/search?text={{{s}}}",
     "c": "Multimedia",
     "sc": "Music"
   },
   {
-    "s": "\u042f\u043d\u0434\u0435\u043a\u0441.\u041a\u0430\u0440\u0442\u044b",
+    "s": "Яндекс.Карты",
     "d": "yandex.ru",
-    "t": "\u044f\u043c",
+    "t": "ям",
     "u": "https://yandex.ru/maps/?text={{{s}}}",
     "c": "Online Services",
     "sc": "Maps"
@@ -108494,7 +108494,7 @@
   {
     "s": "Nayiri",
     "d": "nayiri.com",
-    "t": "\u0576\u0561\u0575",
+    "t": "նայ",
     "u": "http://nayiri.com/search?l=hy_LB&dt=HY_HY&r=0&query={{{s}}}",
     "c": "Tech",
     "sc": "Design"
@@ -108502,7 +108502,7 @@
   {
     "s": "Astronet.Ge",
     "d": "astronet.ge",
-    "t": "\u10d0\u10e1\u10e2\u10e0\u10dd",
+    "t": "ასტრო",
     "u": "http://astronet.ge/?s={{{s}}}",
     "c": "News",
     "sc": "Online"
