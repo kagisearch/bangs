@@ -95261,14 +95261,6 @@
     "sc": "Blogs"
   },
   {
-    "s": "Twitter",
-    "d": "twitter.com",
-    "t": "tw",
-    "u": "https://twitter.com/search?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Social"
-  },
-  {
     "s": "Twitter users",
     "d": "twitter.com",
     "t": "twuser",

@@ -481,6 +481,13 @@
     "c": "Region search"
   },
   {
+    "s": "Search in Taiwan",
+    "d": "kagi.com",
+    "t": "tw",
+    "u": "/search?q={{{s}}}&r=tw",
+    "c": "Region search"
+  },
+  {
     "s": "Search in Thailand",
     "d": "kagi.com",
     "t": "th",
