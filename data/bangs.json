@@ -57876,7 +57876,7 @@
     "s": "https://mangadex.org/",
     "d": "mangadex.org",
     "t": "mangadex",
-    "u": "https://mangadex.org/search?tag_mode_exc=any&tag_mode_inc=all&title={{{s}}}",
+    "u": "https://mangadex.org/search?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Comics"
   },
@@ -59400,7 +59400,7 @@
     "s": "Mangadex",
     "d": "mangadex.org",
     "t": "mdx",
-    "u": "https://mangadex.org/search?title={{{s}}}",
+    "u": "https://mangadex.org/search?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Comics"
   },
