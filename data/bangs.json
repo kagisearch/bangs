@@ -27774,6 +27774,14 @@
     "sc": "Games (general)"
   },
   {
+    "s": "Expresso",
+    "d": "expresso.pt",
+    "t": "expresso",
+    "u": "https://expresso.pt/pesquisa?q={{{s}}}",
+    "c": "News",
+    "sc": "Newspaper"
+  },
+  {
     "s": "Kagi Search",
     "d": "kagi.com",
     "t": "emacs",
