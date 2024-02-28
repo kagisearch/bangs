@@ -44295,7 +44295,7 @@
     "s": "Harbor Freight Tools",
     "d": "www.harborfreight.com",
     "t": "hft",
-    "u": "https://www.harborfreight.com/catalogsearch/result?q={{{s}}}",
+    "u": "https://www.harborfreight.com/search?q={{{s}}}",
     "c": "Shopping",
     "sc": "Big box/department"
   },
