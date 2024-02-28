@@ -77803,10 +77803,34 @@
     "sc": "Law"
   },
   {
+    "s": "CourtListener - RECAP Archive",
+    "d": "www.courtlistener.com",
+    "t": "cl-recap",
+    "u": "https://www.courtlistener.com/?type=r&q={{{s}}}&order_by=score%20desc",
+    "c": "Research",
+    "sc": "Law"
+  },
+  {
     "s": "CourtListener - Case Law",
     "d": "www.courtlistener.com",
     "t": "courtlistener",
     "u": "https://www.courtlistener.com/?type=o&q={{{s}}}&order_by=score%20desc",
+    "c": "Research",
+    "sc": "Law"
+  },
+  {
+    "s": "CourtListener - Case Law",
+    "d": "www.courtlistener.com",
+    "t": "cl-law",
+    "u": "https://www.courtlistener.com/?type=o&q={{{s}}}&order_by=score%20desc",
+    "c": "Research",
+    "sc": "Law"
+  },
+  {
+    "s": "CourtListener - Oral Argument Audio",
+    "d": "www.courtlistener.com",
+    "t": "cl-audio",
+    "u": "https://www.courtlistener.com/?type=oa&q={{{s}}}&order_by=score%20desc",
     "c": "Research",
     "sc": "Law"
   },
