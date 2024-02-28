@@ -108530,5 +108530,13 @@
     "u": "https://aviationweather.gov/data/metar/?id={{{s}}}&hours=0&include_taf=ye",
     "c": "Research",
     "sc": "Travel"
+  },
+  {
+    "s": "Storygraph",
+    "d": "app.thestorygraph.com",
+    "t": "storygraph",
+    "u": "https://app.thestorygraph.com/browse?search_term={{{s}}}",
+    "c": "Multimedia",
+    "sc": "Books"
   }
 ]
