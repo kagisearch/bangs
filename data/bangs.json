@@ -5173,9 +5173,9 @@
   },
   {
     "s": "ApkPure",
-    "d": "apkpure.com",
+    "d": "apkpure.net",
     "t": "apkd",
-    "u": "https://apkpure.com/search?q={{{s}}}",
+    "u": "https://apkpure.net/search?q={{{s}}}",
     "c": "Tech",
     "sc": "Downloads (apps)"
   },
@@ -5205,9 +5205,9 @@
   },
   {
     "s": "APKPure",
-    "d": "apkpure.com",
+    "d": "apkpure.net",
     "t": "apkpure",
-    "u": "https://apkpure.com/search?q={{{s}}}",
+    "u": "https://apkpure.net/search?q={{{s}}}",
     "c": "Tech",
     "sc": "Downloads (apps)"
   },
