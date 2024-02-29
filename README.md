@@ -4,6 +4,8 @@ This is an open-source, community maintained repository of [bangs](https://help.
 
 You can submit changes to improve accuracy of existing bangs as well as create new bangs for use in Kagi Search.
 
+Accepted changes are deployed to our website weekly.
+
 
 ## Contribution Guidelines
 
