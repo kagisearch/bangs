@@ -58529,6 +58529,14 @@
     "sc": "Languages (python)"
   },
   {
+    "s": "MatPrat",
+    "d": "matprat.no",
+    "t": "matprat",
+    "u": "https://www.matprat.no/sok/#1/all/{{{s}}}/",
+    "c": "Research",
+    "sc": "Food"
+  },
+  {
     "s": "MatWeb",
     "d": "www.matweb.com",
     "t": "matweb",
