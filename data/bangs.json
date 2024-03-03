@@ -64146,7 +64146,7 @@
     "s": "namuwiki",
     "d": "namu.wiki",
     "t": "namu",
-    "u": "https://namu.wiki/go/{{{s}}}",
+    "u": "https://namu.wiki/Search?q={{{s}}}",
     "c": "Research",
     "sc": "Reference"
   },
