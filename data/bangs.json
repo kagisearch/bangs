@@ -107095,7 +107095,7 @@
     "s": "yr.no/NRK/Meteorologisk institutt Weather",
     "d": "www.yr.no",
     "t": "yr",
-    "u": "https://www.yr.no/soek/soek.aspx?sted={{{s}}}",
+    "u": "https://www.yr.no/nb/søk?q={{{s}}}",
     "c": "News",
     "sc": "Weather"
   },
