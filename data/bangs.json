@@ -32191,7 +32191,7 @@
     "s": "Finn.no",
     "d": "www.finn.no",
     "t": "finn",
-    "u": "https://www.finn.no/globalsearchlander.html?searchKeys=&q={{{s}}}",
+    "u": "https://www.finn.no/globalsearchlander?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online (marketplace)"
   },
