@@ -58585,6 +58585,14 @@
     "sc": "Health"
   },
   {
+    "s": "MazeMap",
+    "d": "use.mazemap.com",
+    "t": "mazemap",
+    "u": "https://use.mazemap.com/?search={{{s}}}",
+    "c": "Online Services",
+    "sc": "Maps"
+  },
+  {
     "s": "Malwarebytes Unpacked",
     "d": "blog.malwarebytes.org",
     "t": "mbamblog",
