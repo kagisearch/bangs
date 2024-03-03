@@ -3315,7 +3315,7 @@
     "s": "Allegro",
     "d": "allegro.pl",
     "t": "allegro",
-    "u": "http://allegro.pl/listing.php/search?string={{{s}}}",
+    "u": "https://allegro.pl/listing?string={{{s}}}",
     "c": "Shopping",
     "sc": "Online (intl)"
   },
