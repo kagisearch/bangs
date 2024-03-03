@@ -2016,34 +2016,26 @@
     "sc": "Online"
   },
   {
-    "s": "AdLibris DK",
-    "d": "www.adlibris.com",
-    "t": "adlibrisdk",
-    "u": "https://www.adlibris.com/dk/searchresult.aspx?search=quickfirstpage&quickvalue={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
-    "s": "AdLibris FI",
+    "s": "Adlibris FI",
     "d": "www.adlibris.com",
     "t": "adlibrisfi",
-    "u": "https://www.adlibris.com/fi/searchresult.aspx?search=quickfirstpage&quickvalue={{{s}}}",
+    "u": "https://www.adlibris.com/fi/haku?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
   {
-    "s": "AdLibris NO",
+    "s": "Adlibris NO",
     "d": "www.adlibris.com",
     "t": "adlibrisno",
-    "u": "https://www.adlibris.com/no/searchresult.aspx?search=quickfirstpage&quickvalue={{{s}}}",
+    "u": "https://www.adlibris.com/no/sok?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
   {
-    "s": "AdLibris SE",
+    "s": "Adlibris SE",
     "d": "www.adlibris.com",
     "t": "adlibrisse",
-    "u": "https://www.adlibris.com/se/searchresult.aspx?search=quickfirstpage&quickvalue={{{s}}}",
+    "u": "https://www.adlibris.com/se/sok?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
