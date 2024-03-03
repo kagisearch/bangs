@@ -23741,7 +23741,7 @@
     "s": "Norwegian Trekking Association",
     "d": "www.dnt.no",
     "t": "dnt",
-    "u": "https://www.dnt.no/søk/?q={{{s}}}",
+    "u": "https://www.dnt.no/sok/?q={{{s}}}",
     "c": "News",
     "sc": "Specialty"
   },
