@@ -32196,6 +32196,30 @@
     "sc": "Online (marketplace)"
   },
   {
+    "s": "Finn.no Torget",
+    "d": "www.finn.no",
+    "t": "finntorget",
+    "u": "https://www.finn.no/bap/forsale/search.html?q={{{s}}}",
+    "c": "Shopping",
+    "sc": "Online (marketplace)"
+  },
+  {
+    "s": "Finn.no Torget",
+    "d": "www.finn.no",
+    "t": "finntorg",
+    "u": "https://www.finn.no/bap/forsale/search.html?q={{{s}}}",
+    "c": "Shopping",
+    "sc": "Online (marketplace)"
+  },
+  {
+    "s": "Finn.no Jobb",
+    "d": "www.finn.no",
+    "t": "finnjobb",
+    "u": "https://www.finn.no/job/fulltime/search.html?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Jobs"
+  },
+  {
     "s": "Finnkino",
     "d": "www.finnkino.fi",
     "t": "finnkinoen",
