@@ -98799,6 +98799,22 @@
     "sc": "Online (deals)"
   },
   {
+    "s": "Vinmonopolet",
+    "d": "vinmonopolet.no",
+    "t": "vinmonopolet",
+    "u": "https://www.vinmonopolet.no/search?q={{{s}}}",
+    "c": "Shopping",
+    "sc": "Online"
+  },
+  {
+    "s": "Vinmonopolet",
+    "d": "vinmonopolet.no",
+    "t": "polet",
+    "u": "https://www.vinmonopolet.no/search?q={{{s}}}",
+    "c": "Shopping",
+    "sc": "Online"
+  },
+  {
     "s": "Vipon",
     "d": "www.vipon.com",
     "t": "vipon",
