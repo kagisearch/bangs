@@ -32183,9 +32183,33 @@
     "s": "Finn.no",
     "d": "www.finn.no",
     "t": "finn",
-    "u": "https://www.finn.no/globalsearchlander.html?searchKeys=&q={{{s}}}",
+    "u": "https://www.finn.no/globalsearchlander?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online (marketplace)"
+  },
+  {
+    "s": "Finn.no Torget",
+    "d": "www.finn.no",
+    "t": "finntorget",
+    "u": "https://www.finn.no/bap/forsale/search.html?q={{{s}}}",
+    "c": "Shopping",
+    "sc": "Online (marketplace)"
+  },
+  {
+    "s": "Finn.no Torget",
+    "d": "www.finn.no",
+    "t": "finntorg",
+    "u": "https://www.finn.no/bap/forsale/search.html?q={{{s}}}",
+    "c": "Shopping",
+    "sc": "Online (marketplace)"
+  },
+  {
+    "s": "Finn.no Jobb",
+    "d": "www.finn.no",
+    "t": "finnjobb",
+    "u": "https://www.finn.no/job/fulltime/search.html?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Jobs"
   },
   {
     "s": "Finnkino",
