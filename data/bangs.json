@@ -8608,7 +8608,7 @@
     "u": "https://bing.com/search?q={{{s}}}"
   },
   {
-    "s": " Babylon.js documentation",
+    "s": "Babylon.js documentation",
     "d": "doc.babylonjs.com",
     "t": "bbjs",
     "u": "https://doc.babylonjs.com/search/?bjsq={{{s}}}",
@@ -11574,6 +11574,14 @@
     "u": "http://boomkat.com/search?q={{{s}}}",
     "c": "Multimedia",
     "sc": "Music"
+  },
+  {
+    "s": "Bookshop",
+    "d": "bookshop.org",
+    "t": "bookshop",
+    "u": "https://bookshop.org/search?keywords={{{s}}}",
+    "c": "Shopping",
+    "sc": "Books"
   },
   {
     "s": "Websmartboomer",
