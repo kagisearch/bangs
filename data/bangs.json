@@ -72882,7 +72882,7 @@
     "t": "pjno",
     "u": "https://www.prisjakt.no/search?search={{{s}}}",
     "c": "Shopping",
-    "sc": "Online"
+    "sc": "Online (deals)"
   },
   {
     "s": "Prisjakt",
@@ -72890,7 +72890,7 @@
     "t": "pj",
     "u": "https://www.prisjakt.nu/search?search={{{s}}}",
     "c": "Shopping",
-    "sc": "Services"
+    "sc": "Online (deals)"
   },
   {
     "s": "pikabu.ru",
@@ -74816,7 +74816,7 @@
     "t": "pricerunner",
     "u": "https://www.pricerunner.se/results?q={{{s}}}",
     "c": "Shopping",
-    "sc": "Services"
+    "sc": "Online (deals)"
   },
   {
     "s": "Pricerunner",
@@ -74960,7 +74960,7 @@
     "t": "prisjakt",
     "u": "https://www.prisjakt.nu/search?search={{{s}}}",
     "c": "Shopping",
-    "sc": "Services"
+    "sc": "Online (deals)"
   },
   {
     "s": "Prisjakt",
@@ -74968,7 +74968,7 @@
     "t": "pris",
     "u": "https://www.prisjakt.nu/search?search={{{s}}}",
     "c": "Shopping",
-    "sc": "Online"
+    "sc": "Online (deals)"
   },
   {
     "s": "r/privacy Subreddit",
