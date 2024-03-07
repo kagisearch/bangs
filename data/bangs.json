@@ -74931,6 +74931,14 @@
     "sc": "Academic"
   },
   {
+    "s": "Printables",
+    "d": "www.printables.com",
+    "t": "printables",
+    "u": "https://www.printables.com/search/models?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Design"
+  },
+  {
     "s": "Printeera",
     "d": "printeera.com",
     "t": "printeera",
