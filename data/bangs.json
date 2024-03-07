@@ -68959,14 +68959,6 @@
     "sc": "Government"
   },
   {
-    "s": "OpenPorts",
-    "d": "openports.se",
-    "t": "openports",
-    "u": "https://openports.se/search.php?so={{{s}}}",
-    "c": "Tech",
-    "sc": "Downloads (software)"
-  },
-  {
     "s": "OpenProcessing",
     "d": "www.openprocessing.org",
     "t": "openprocessing",
