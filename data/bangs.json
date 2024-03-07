@@ -74814,7 +74814,7 @@
     "s": "PriceRunner",
     "d": "www.pricerunner.se",
     "t": "pricerunner",
-    "u": "https://www.pricerunner.se/pl/360-364563094/Herrklaeder/Jam-OD-Yellow-Yellow-over-dyed-jean-jacket-priser?other_hits=%3B25607%3B%3B&q=acne+jam+od+yellow+yellow&ref=redirect&search={{{s}}}&sort=4",
+    "u": "https://www.pricerunner.se/results?q={{{s}}}",
     "c": "Shopping",
     "sc": "Services"
   },
@@ -74822,7 +74822,7 @@
     "s": "Pricerunner",
     "d": "www.pricerunner.dk",
     "t": "pricerun",
-    "u": "https://www.pricerunner.dk/search?q={{{s}}}",
+    "u": "https://www.pricerunner.dk/results?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online (deals)"
   },
