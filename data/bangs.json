@@ -11667,7 +11667,7 @@
     "s": "Kagi Search",
     "d": "kagi.com",
     "t": "botb",
-    "u": "/search?q={{{s}}}+site%3Abattleofthebits.org",
+    "u": "/search?q={{{s}}}+site%3Abattleofthebits.com",
     "c": "Multimedia",
     "sc": "Music"
   },
