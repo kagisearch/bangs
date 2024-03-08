@@ -67599,6 +67599,14 @@
     "sc": "Academic"
   },
   {
+    "s": "Oda",
+    "d": "oda.com",
+    "t": "oda",
+    "u": "https://oda.com/no/search/products/?q={{{s}}}",
+    "c": "Shopping",
+    "sc": "Online"
+  },
+  {
     "s": "Our Daily Bread",
     "d": "odb.org",
     "t": "odb",
