@@ -58211,6 +58211,14 @@
     "sc": "Blogs"
   },
   {
+    "s": "Marginalia Search",
+    "d": "search.marginalia.nu",
+    "t": "marginalia",
+    "u": "https://search.marginalia.nu/search?query={{{s}}}",
+    "c": "Online Services",
+    "sc": "Search"
+  },
+  {
     "s": "Mariadb",
     "d": "mariadb.com",
     "t": "mariadb",
