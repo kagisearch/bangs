@@ -781,13 +781,13 @@
     "s": "Kagi",
     "d": "kagi.com",
     "t": "calc",
-    "u": "/search?q={{{s}}}"
+    "u": "/search?q=calc+{{{s}}}"
   },
   {
     "s": "Kagi",
     "d": "kagi.com",
     "t": "calculator",
-    "u": "/search?q={{{s}}}"
+    "u": "/search?q=calc+{{{s}}}"
   },
   {
     "s": "Kagi",

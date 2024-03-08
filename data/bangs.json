@@ -22210,12 +22210,12 @@
     "sc": "Food"
   },
   {
-    "s": "Kagi Search",
+    "s": "Daring Fireball",
     "d": "kagi.com",
     "t": "df",
     "u": "/search?q={{{s}}}+site%3Adaringfireball.net",
     "c": "Online Services",
-    "sc": "Search (DDG)"
+    "sc": "Search"
   },
   {
     "s": "Down For Everyone Or Just Me",
