@@ -7421,7 +7421,7 @@
     "s": "Avanza",
     "d": "www.avanza.se",
     "t": "avanza",
-    "u": "https://www.avanza.se/sok.html?query={{{s}}}",
+    "u": "https://www.avanza.se/sok.html?q={{{s}}}",
     "c": "News",
     "sc": "Business"
   },
@@ -10141,7 +10141,7 @@
     "s": "Biltema",
     "d": "www.biltema.se",
     "t": "biltema",
-    "u": "https://www.biltema.se/sv/Sok/?query={{{s}}}",
+    "u": "https://www.biltema.se/soksida/?query={{{s}}}",
     "c": "Shopping",
     "sc": "Big box/department"
   },
@@ -10861,7 +10861,9 @@
     "s": "Blocket",
     "d": "www.blocket.se",
     "t": "blocket",
-    "u": "https://www.blocket.se/hela_sverige?q={{{s}}}&cg=0&w=3&st=s&st=u&st=b&ca=11&l=0&md=th"
+    "u": "https://www.blocket.se/annonser/hela_sverige?q={{{s}}}",
+    "c": "Shopping",
+    "sc": "Online (marketplace)"
   },
   {
     "s": "BlogAnChoi",
@@ -46440,9 +46442,9 @@
     "s": "ICA - Recept",
     "d": "www.ica.se",
     "t": "icarecept",
-    "u": "https://www.ica.se/receptsok/#:search={{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools"
+    "u": "https://www.ica.se/recept/?q={{{s}}}",
+    "c": "Research",
+    "sc": "Food"
   },
   {
     "s": "Icaruspedia",
@@ -69344,7 +69346,7 @@
     "s": "Ordguru",
     "d": "www.ordguru.se",
     "t": "ordguru",
-    "u": "https://www.ordguru.se/synonymer/sök?q={{{s}}}",
+    "u": "https://www.ordguru.se/synonymer/{{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
   },
@@ -89600,7 +89602,7 @@
     "s": "Systembolaget",
     "d": "www.systembolaget.se",
     "t": "systembolaget",
-    "u": "https://www.systembolaget.se/?searchquery={{{s}}}",
+    "u": "https://www.systembolaget.se/sortiment/?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
@@ -89608,7 +89610,7 @@
     "s": "Systembolaget",
     "d": "www.systembolaget.se",
     "t": "systemet",
-    "u": "https://www.systembolaget.se/Sok-dryck/?searchquery={{{s}}}",
+    "u": "https://www.systembolaget.se/sortiment/?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
@@ -93776,7 +93778,7 @@
     "s": "Tradera",
     "d": "www.tradera.com",
     "t": "tradera",
-    "u": "https://www.tradera.com/finding.mvc/itemlisting?header=true&search={{{s}}}",
+    "u": "https://www.tradera.com/search?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online (marketplace)"
   },
@@ -94904,7 +94906,7 @@
     "s": "Tv4play",
     "d": "www.tv4play.se",
     "t": "tv4play",
-    "u": "https://www.tv4play.se/s%C3%B6k/{{{s}}}",
+    "u": "https://www.tv4play.se/sok/{{{s}}}",
     "c": "Multimedia",
     "sc": "Video"
   },
@@ -95389,7 +95391,7 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "Tyda.​se Dictionary (Swedish-Latin)",
+    "s": "Tyda.se Dictionary (Swedish-Latin)",
     "d": "tyda.se",
     "t": "tydala",
     "u": "https://tyda.se/search/{{{s}}}?lang%5B0%5D=la&lang%5B1%5D=sv",
@@ -95400,7 +95402,7 @@
     "s": "Tyda.se",
     "d": "tyda.se",
     "t": "tyda",
-    "u": "https://tyda.se/search?w={{{s}}}"
+    "u": "https://tyda.se/search/{{{s}}}"
   },
   {
     "s": "Tyda.se",
