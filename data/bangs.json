@@ -68959,14 +68959,6 @@
     "sc": "Government"
   },
   {
-    "s": "OpenPorts",
-    "d": "openports.se",
-    "t": "openports",
-    "u": "https://openports.se/search.php?so={{{s}}}",
-    "c": "Tech",
-    "sc": "Downloads (software)"
-  },
-  {
     "s": "OpenProcessing",
     "d": "www.openprocessing.org",
     "t": "openprocessing",
@@ -72882,7 +72874,7 @@
     "t": "pjno",
     "u": "https://www.prisjakt.no/search?search={{{s}}}",
     "c": "Shopping",
-    "sc": "Online"
+    "sc": "Online (deals)"
   },
   {
     "s": "Prisjakt",
@@ -72890,7 +72882,7 @@
     "t": "pj",
     "u": "https://www.prisjakt.nu/search?search={{{s}}}",
     "c": "Shopping",
-    "sc": "Services"
+    "sc": "Online (deals)"
   },
   {
     "s": "pikabu.ru",
@@ -74814,15 +74806,15 @@
     "s": "PriceRunner",
     "d": "www.pricerunner.se",
     "t": "pricerunner",
-    "u": "https://www.pricerunner.se/pl/360-364563094/Herrklaeder/Jam-OD-Yellow-Yellow-over-dyed-jean-jacket-priser?other_hits=%3B25607%3B%3B&q=acne+jam+od+yellow+yellow&ref=redirect&search={{{s}}}&sort=4",
+    "u": "https://www.pricerunner.se/results?q={{{s}}}",
     "c": "Shopping",
-    "sc": "Services"
+    "sc": "Online (deals)"
   },
   {
     "s": "Pricerunner",
     "d": "www.pricerunner.dk",
     "t": "pricerun",
-    "u": "https://www.pricerunner.dk/search?q={{{s}}}",
+    "u": "https://www.pricerunner.dk/results?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online (deals)"
   },
@@ -74960,7 +74952,7 @@
     "t": "prisjakt",
     "u": "https://www.prisjakt.nu/search?search={{{s}}}",
     "c": "Shopping",
-    "sc": "Services"
+    "sc": "Online (deals)"
   },
   {
     "s": "Prisjakt",
@@ -74968,7 +74960,7 @@
     "t": "pris",
     "u": "https://www.prisjakt.nu/search?search={{{s}}}",
     "c": "Shopping",
-    "sc": "Online"
+    "sc": "Online (deals)"
   },
   {
     "s": "r/privacy Subreddit",
