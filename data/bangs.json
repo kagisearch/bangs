@@ -88455,6 +88455,14 @@
     "sc": "Reference (religion)"
   },
   {
+    "s": "Craigslist - SF bay area",
+    "d": "sfbay.craigslist.org",
+    "t": "sfcl",
+    "u": "https://sfbay.craigslist.org/search/sss?query={{{s}}}",
+    "c": "Shopping",
+    "sc": "Online (marketplace)"
+  },
+  {
     "s": "StubHub",
     "d": "www.stubhub.com",
     "t": "stubhub",
