@@ -46599,6 +46599,14 @@
     "sc": "Design"
   },
   {
+    "s": "IconSearch",
+    "d": "iconsear.ch",
+    "t": "iconsearch",
+    "u": "https://iconsear.ch/?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Design"
+  },
+  {
     "s": "Iowa City Public Library",
     "d": "catpro.icpl.org",
     "t": "icpl",
@@ -56185,6 +56193,14 @@
     "u": "http://instantlogosearch.com/?q={{{s}}}",
     "c": "Multimedia",
     "sc": "Images"
+  },
+  {
+    "s": "Logo Search",
+    "d": "logosear.ch",
+    "t": "logosearch",
+    "u": "https://logosear.ch/?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Design"
   },
   {
     "s": "LibreOffice Help",
@@ -98101,6 +98117,14 @@
     "d": "vector.me",
     "t": "vector",
     "u": "https://vector.me/search/{{{s}}} ",
+    "c": "Multimedia",
+    "sc": "Images"
+  },
+  {
+    "s": "VectorLogoZone",
+    "d": "www.vectorlogo.zone",
+    "t": "vectorlogos",
+    "u": "https://www.vectorlogo.zone/q={{{s}}}",
     "c": "Multimedia",
     "sc": "Images"
   },
