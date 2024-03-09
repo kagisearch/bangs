@@ -46567,6 +46567,14 @@
     "sc": "Search"
   },
   {
+    "s": "Iconbuddy",
+    "d": "iconbuddy.app",
+    "t": "iconbuddy",
+    "u": "https://iconbuddy.app/search?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Design"
+  },
+  {
     "s": "IconFinder",
     "d": "www.iconfinder.com",
     "t": "iconfinder",
