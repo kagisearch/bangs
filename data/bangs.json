@@ -59770,7 +59770,7 @@
     "s": "Meijer",
     "d": "www.meijer.com",
     "t": "meijer",
-    "u": "https://www.meijer.com/catalog/search_command.cmd?keyword={{{s}}}&tierId=",
+    "u": "https://www.meijer.com/shopping/search.html?text={{{s}}}",
     "c": "Shopping",
     "sc": "Big box/department"
   },
