@@ -60160,7 +60160,7 @@
     "s": "Metacritic",
     "d": "www.metacritic.com",
     "t": "metacritic",
-    "u": "https://www.metacritic.com/search/all/{{{s}}}/results",
+    "u": "https://www.metacritic.com/search/{{{s}}}/",
     "c": "Entertainment",
     "sc": "Misc"
   },
