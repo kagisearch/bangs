@@ -59983,6 +59983,14 @@
     "sc": "Food"
   },
   {
+    "s": "Meny",
+    "d": "meny.no",
+    "t": "meny",
+    "u": "https://meny.no/sok/?query={{{s}}}",
+    "c": "Shopping",
+    "sc": "Online"
+  },
+  {
     "s": "MercadoLibre",
     "d": "listado.mercadolibre.com.ar",
     "t": "mercadolibrear",
