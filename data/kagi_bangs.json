@@ -174,15 +174,9 @@
     "u": "/podcasts?q={{{s}}}"
   },
   {
-    "s": "Kagi Quick Answer",
-    "d": "kagi.com",
-    "t": "answer",
-    "u": "/search?q={{{s}}}&qa=true"
-  },
-  {
     "s": "Kagi Discussion",
     "d": "kagi.com",
-    "t": "discuss",
+    "t": "discussdoc",
     "u": "/discussdoc?url={{{s}}}"
   },
   {

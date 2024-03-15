@@ -2818,7 +2818,7 @@
   {
     "s": "www.amazon.in",
     "d": "www.amazon.in",
-    "t": "ai",
+    "t": "azi",
     "u": "https://www.amazon.in/s?k={{{s}}} ",
     "c": "Shopping",
     "sc": "Online (deals)"
@@ -4862,14 +4862,6 @@
     "sc": "Companies"
   },
   {
-    "s": "Yahoo! Answers",
-    "d": "answers.yahoo.com",
-    "t": "answer",
-    "u": "http://answers.yahoo.com/search/search_result;_ylt=AmLr_DtDPVmDQzOuA2T6sxAjzKIX;_ylv=3?p={{{s}}}&submit-go=Search+Y!+Answers",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
     "s": "Antiwar.com",
     "d": "news.antiwar.com",
     "t": "antiwar",
@@ -6452,7 +6444,7 @@
   {
     "s": "Amazon Smile",
     "d": "smile.amazon.com",
-    "t": "as",
+    "t": "azs",
     "u": "https://smile.amazon.com/s?url=search-alias%3Daps&field-keywords={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
@@ -6844,7 +6836,7 @@
   {
     "s": "Addictive Tips",
     "d": "www.addictivetips.com",
-    "t": "at",
+    "t": "addtips",
     "u": "http://www.addictivetips.com/archives/search/?cx=015974260755795457590%3Akigcmyffu6y&cof=FORID%3A11&ie=UTF-8&q={{{s}}}&s=Search",
     "c": "Tech",
     "sc": "Blogs"
@@ -9082,7 +9074,7 @@
   {
     "s": "Block Explorer",
     "d": "blockexplorer.com",
-    "t": "be",
+    "t": "blockexplorer",
     "u": "https://blockexplorer.com/searchgo/{{{s}}}",
     "c": "Tech",
     "sc": "Tools"
@@ -11954,7 +11946,7 @@
   {
     "s": "Baseball-Reference",
     "d": "www.baseball-reference.com",
-    "t": "br",
+    "t": "baseball",
     "u": "https://www.baseball-reference.com/pl/player_search.cgi?search={{{s}}}",
     "c": "Research",
     "sc": "Reference"
@@ -13162,7 +13154,7 @@
   {
     "s": "Amazon Canada",
     "d": "www.amazon.ca",
-    "t": "ca",
+    "t": "azca",
     "u": "https://www.amazon.ca/s?k={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
@@ -15130,7 +15122,7 @@
   {
     "s": "Chequeado",
     "d": "chequeado.com",
-    "t": "ch",
+    "t": "chequeado",
     "u": "https://chequeado.com/?s={{{s}}}",
     "c": "Research",
     "sc": "Government"
@@ -16534,14 +16526,6 @@
     "u": "http://search.cnbc.com/main.do?target=all&keywords={{{s}}}",
     "c": "News",
     "sc": "Broadcast"
-  },
-  {
-    "s": "Charity Navigator",
-    "d": "www.charitynavigator.org",
-    "t": "cn",
-    "u": "https://www.charitynavigator.org/index.cfm?bay=search.results&keyword_list={{{s}}}",
-    "c": "Research",
-    "sc": "Topical"
   },
   {
     "s": "Naver Chinese Dictionary",
@@ -19540,7 +19524,7 @@
   {
     "s": "The Complexity Zoo",
     "d": "complexityzoo.uwaterloo.ca",
-    "t": "cz",
+    "t": "compzoo",
     "u": "https://complexityzoo.uwaterloo.ca/index.php?search={{{s}}}&title=Special%3ASearch",
     "c": "Research",
     "sc": "Academic (math/cs)"
@@ -21610,7 +21594,7 @@
   {
     "s": "German",
     "d": "dict.tu-chemnitz.de",
-    "t": "de",
+    "t": "dict-de",
     "u": "https://dict.tu-chemnitz.de/dings.cgi?query={{{s}}}",
     "c": "Research",
     "sc": "Reference (words intl)"
@@ -23328,14 +23312,6 @@
     "u": "https://www.digikey.ca/product-search/en?x=-1308&y=-74&lang=en&site=ca&KeyWords={{{s}}} ",
     "c": "Shopping",
     "sc": "Tech"
-  },
-  {
-    "s": "docker hub",
-    "d": "store.docker.com",
-    "t": "dk",
-    "u": "https://store.docker.com/search?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin"
   },
   {
     "s": "Digikey ES",
@@ -29120,7 +29096,7 @@
   {
     "s": "duckduckgo",
     "d": "duckduckgo.com",
-    "t": "es",
+    "t": "ddg-es",
     "u": "https://duckduckgo.com/?q={{{s}}}&kl=xl-es&kad=es_ES&ia=about",
     "c": "Online Services",
     "sc": "Search (non-US)"
@@ -33958,7 +33934,7 @@
   {
     "s": "Larousse French Dictionary",
     "d": "www.larousse.fr",
-    "t": "fr",
+    "t": "dict-fr",
     "u": "https://www.larousse.fr/dictionnaires/francais/{{{s}}}",
     "c": "Tech",
     "sc": "Programming"
@@ -35352,7 +35328,7 @@
   {
     "s": "Google Books",
     "d": "books.google.com",
-    "t": "gb",
+    "t": "gbks",
     "u": "https://books.google.com/books?q={{{s}}}&btnG=Search+Books",
     "c": "Multimedia",
     "sc": "Books"
@@ -45836,7 +45812,7 @@
   {
     "s": "HealthUnlocked",
     "d": "healthunlocked.com",
-    "t": "hu",
+    "t": "hun",
     "u": "https://healthunlocked.com/search/{{{s}}}",
     "c": "Online Services",
     "sc": "Social (intl)"
@@ -47287,7 +47263,7 @@
   {
     "s": "DuckDuckGo Images",
     "d": "duckduckgo.com",
-    "t": "il",
+    "t": "ddg-il",
     "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images&iaf=size%3Aimagesize-large",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -48333,7 +48309,7 @@
   {
     "s": "Internazionale",
     "d": "www.internazionale.it",
-    "t": "int",
+    "t": "intl",
     "u": "https://www.internazionale.it/search/?q={{{s}}}",
     "c": "News",
     "sc": "International"
@@ -49085,7 +49061,7 @@
   {
     "s": "DuckDuckGo Italy",
     "d": "duckduckgo.com",
-    "t": "it",
+    "t": "ddg-it",
     "u": "https://duckduckgo.com/?q={{{s}}}&kl=it-it",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -50491,14 +50467,6 @@
     "u": "https://www.kanjijapanese.com/en/dictionary-japanese-english/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
-  },
-  {
-    "s": "Jet Pens",
-    "d": "www.jetpens.com",
-    "t": "jp",
-    "u": "https://www.jetpens.com/search?q={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
   },
   {
     "s": "We Sell Car Plate Number Online, Malaysia",
@@ -52223,7 +52191,7 @@
   {
     "s": "Konsolentreff.de",
     "d": "www.konsolentreff.de",
-    "t": "k",
+    "t": "kon",
     "u": "https://www.konsolentreff.de/search/1/?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Forum"
@@ -64713,7 +64681,7 @@
   {
     "s": "DuckDuckGo News",
     "d": "duckduckgo.com",
-    "t": "n",
+    "t": "ddg-n",
     "u": "https://duckduckgo.com/?q={{{s}}}&iar=news&ia=news",
     "c": "News",
     "sc": "Aggregators"
@@ -66045,14 +66013,6 @@
     "u": "https://translate.google.com/#nl/en/{{{s}}}",
     "c": "Online Services",
     "sc": "Google"
-  },
-  {
-    "s": "http://ncatlab.org/nlab/show/HomePage",
-    "d": "ncatlab.org",
-    "t": "nl",
-    "u": "https://ncatlab.org/nlab/search?query={{{s}}}",
-    "c": "Research",
-    "sc": "Academic (math/cs)"
   },
   {
     "s": "Nintendo Life",
@@ -73199,7 +73159,7 @@
   {
     "s": "Public Lab",
     "d": "publiclab.org",
-    "t": "pl",
+    "t": "plab",
     "u": "https://publiclab.org/search/{{{s}}}",
     "c": "Research",
     "sc": "Reference (science)"
@@ -74491,14 +74451,6 @@
     "sc": "Learning (intl)"
   },
   {
-    "s": "Pinterest",
-    "d": "www.pinterest.com",
-    "t": "p",
-    "u": "https://www.pinterest.com/search/pins/?q={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Images"
-  },
-  {
     "s": "Plymouth (Indiana) Public Library",
     "d": "plymouthpubliclibrary.bibliocommons.com",
     "t": "ppl",
@@ -75579,14 +75531,6 @@
     "sc": "Games (general)"
   },
   {
-    "s": "Power Thesaurus ",
-    "d": "www.powerthesaurus.org",
-    "t": "pt",
-    "u": "https://www.powerthesaurus.org/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words)"
-  },
-  {
     "s": "Pro Tool Reviews",
     "d": "www.protoolreviews.com",
     "t": "ptr",
@@ -76405,7 +76349,7 @@
   {
     "s": "Quora",
     "d": "www.quora.com",
-    "t": "q",
+    "t": "qu",
     "u": "https://www.quora.com/search?q={{{s}}}",
     "c": "Online Services",
     "sc": "Search"
@@ -78517,7 +78461,7 @@
   {
     "s": "PLOS",
     "d": "journals.plos.org",
-    "t": "research",
+    "t": "plos",
     "u": "https://journals.plos.org/plosone/search?unformattedQuery=everything:\"{{{s}}}\"",
     "c": "Research",
     "sc": "Academic"
@@ -84281,7 +84225,7 @@
   {
     "s": "Sports Illustrated",
     "d": "www.si.com",
-    "t": "si",
+    "t": "sportsi",
     "u": "https://www.si.com/search?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Sports"
@@ -88655,7 +88599,7 @@
   {
     "s": "Dictionary of Ukrainian Language (Словник української мови)",
     "d": "sum.in.ua",
-    "t": "sum",
+    "t": "dict-ua",
     "u": "https://sum.in.ua/?swrd={{{s}}} ",
     "c": "Online Services",
     "sc": "Search (non-US)"
@@ -97243,7 +97187,7 @@
   {
     "s": "Userstyles.org",
     "d": "userstyles.org",
-    "t": "us",
+    "t": "ust",
     "u": "https://userstyles.org/styles/browse?search_terms={{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
