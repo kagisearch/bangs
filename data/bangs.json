@@ -16858,7 +16858,7 @@
   {
     "s": "Search Code",
     "d": "www.searchco.de",
-    "t": "code",
+    "t": "sc",
     "u": "http://www.searchco.de/?q={{{s}}}&cs=on",
     "c": "Online Services",
     "sc": "Search (non-US)"
@@ -30200,7 +30200,7 @@
   {
     "s": "Expert",
     "d": "www.expert.nl",
-    "t": "expert",
+    "t": "expert-nl",
     "u": "https://www.expert.nl/catalogsearch/result/?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online"

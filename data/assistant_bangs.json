@@ -32,7 +32,7 @@
   {
     "s": "Kagi Assistant - Research",
     "d": "kagi.com",
-    "t": "ai-res",
+    "t": "research",
     "u": "/assistant?q={{{s}}}&mode=7",
     "fmt": [
       "url_encode_placeholder",
@@ -112,7 +112,7 @@
   {
     "s": "Kagi Assistant - Research/Expert",
     "d": "kagi.com",
-    "t": "ai-expert",
+    "t": "expert",
     "u": "/assistant?q={{{s}}}&mode=7&sub_mode=2",
     "fmt": [
       "url_encode_placeholder",
@@ -142,7 +142,17 @@
   {
     "s": "Kagi Assistant - Code",
     "d": "kagi.com",
-    "t": "kcode",
+    "t": "askc",
+    "u": "/assistant?q={{{s}}}&mode=5",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Kagi Assistant - Code",
+    "d": "kagi.com",
+    "t": "code",
     "u": "/assistant?q={{{s}}}&mode=5",
     "fmt": [
       "url_encode_placeholder",
