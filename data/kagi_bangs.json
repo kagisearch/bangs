@@ -188,7 +188,7 @@
   {
     "s": "Kagi FastGPT",
     "d": "kagi.com",
-    "t": "fast",
+    "t": "fgpt",
     "u": "/fastgpt?query={{{s}}}"
   },
   {

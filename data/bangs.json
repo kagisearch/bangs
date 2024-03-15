@@ -5126,7 +5126,7 @@
   {
     "s": "DuckDuckGo API",
     "d": "api.duckduckgo.com",
-    "t": "api",
+    "t": "ddg-api",
     "u": "https://api.duckduckgo.com/?q={{{s}}}&o=json&pretty=1&no_html=1&no_redirect=1",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -13330,7 +13330,7 @@
   {
     "s": "DuckDuckGo Calculator",
     "d": "duckduckgo.com",
-    "t": "calc",
+    "t": "ddg-calc",
     "u": "https://duckduckgo.com/?q={{{s}}}&ia=calculator",
     "c": "Online Services",
     "sc": "Tools"
@@ -13338,7 +13338,7 @@
   {
     "s": "DuckDuckGo Calculator",
     "d": "duckduckgo.com",
-    "t": "calculator",
+    "t": "ddg-calculator",
     "u": "https://duckduckgo.com/?ia=calculator&q={{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
@@ -20204,7 +20204,7 @@
   {
     "s": "DuckDuckGo",
     "d": "duckduckgo.com",
-    "t": "day",
+    "t": "ddg-day",
     "u": "https://duckduckgo.com/?q={{{s}}}&df=d",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -44126,7 +44126,7 @@
   {
     "s": "DuckDuckGo Help",
     "d": "help.duckduckgo.com",
-    "t": "help",
+    "t": "ddg-help",
     "u": "https://help.duckduckgo.com/search?q={{{s}}}",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -46839,7 +46839,7 @@
   {
     "s": "DuckDuckGo Images",
     "d": "duckduckgo.com",
-    "t": "i",
+    "t": "ddg-i",
     "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -47381,7 +47381,7 @@
   {
     "s": "DuckDuckGo Images",
     "d": "duckduckgo.com",
-    "t": "image",
+    "t": "ddg-image",
     "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -47421,7 +47421,7 @@
   {
     "s": "DuckDuckGo Images",
     "d": "duckduckgo.com",
-    "t": "images",
+    "t": "ddg-images",
     "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -47581,7 +47581,7 @@
   {
     "s": "DuckDuckGo Images",
     "d": "duckduckgo.com",
-    "t": "img",
+    "t": "ddg-img",
     "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -47613,7 +47613,7 @@
   {
     "s": "DuckDuckGo Images",
     "d": "duckduckgo.com",
-    "t": "imgs",
+    "t": "ddg-imgs",
     "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -58097,14 +58097,6 @@
     "sc": "Maps"
   },
   {
-    "s": "Google Maps",
-    "d": "maps.google.com",
-    "t": "map",
-    "u": "https://maps.google.com/maps?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Maps"
-  },
-  {
     "s": "Mapion",
     "d": "www.mapion.co.jp",
     "t": "mapion",
@@ -58151,14 +58143,6 @@
     "u": "https://maps.google.com/maps?hl=fr&q={{{s}}}",
     "c": "Research",
     "sc": "Travel"
-  },
-  {
-    "s": "Google Maps",
-    "d": "google.com",
-    "t": "maps",
-    "u": "https://google.com/maps?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Maps"
   },
   {
     "s": "Google Maps Directions",
@@ -59189,14 +59173,6 @@
     "sc": "Movies"
   },
   {
-    "s": "Minecraft Wiki (deutsch)",
-    "d": "de.minecraft.wiki",
-    "t": "mcde",
-    "u": "https://de.minecraft.wiki/?search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (Minecraft)"
-  },
-  {
     "s": "German Minecraft Wiki",
     "d": "de.minecraftwiki.net",
     "t": "mcwikide",
@@ -59782,7 +59758,7 @@
   },
   {
     "s": "MELPA",
-    "d": "melpa.milkbox.net",
+    "d": "melpa.org",
     "t": "melpa",
     "u": "https://melpa.org/#/?q={{{s}}}",
     "c": "Online Services",
@@ -60475,14 +60451,6 @@
     "sc": "Weather"
   },
   {
-    "s": "Google Maps",
-    "d": "maps.google.com",
-    "t": "m",
-    "u": "https://maps.google.com/maps?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Maps"
-  },
-  {
     "s": "Managementboek.nl",
     "d": "www.managementboek.nl",
     "t": "mgtbk",
@@ -60769,22 +60737,6 @@
     "u": "https://www.minds.com/search;q={{{s}}}",
     "c": "Online Services",
     "sc": "Social"
-  },
-  {
-    "s": "Minecraft Wiki (deutsch)",
-    "d": "de.minecraft.wiki",
-    "t": "mcde",
-    "u": "https://de.minecraft.wiki/?search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (Minecraft)"
-  },
-  {
-    "s": "Minecraft Wiki (deutsch)",
-    "d": "de.minecraft.wiki",
-    "t": "mcde",
-    "u": "https://de.minecraft.wiki/?search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (Minecraft)"
   },
   {
     "s": "Official Minecraft Wiki",
@@ -61995,7 +61947,7 @@
   {
     "s": "DuckDuckGo",
     "d": "duckduckgo.com",
-    "t": "month",
+    "t": "ddg-month",
     "u": "https://duckduckgo.com/?q={{{s}}}&df=m",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -65289,7 +65241,7 @@
   {
     "s": "DuckDuckGo News",
     "d": "duckduckgo.com",
-    "t": "news",
+    "t": "ddg-news",
     "u": "https://duckduckgo.com/?q={{{s}}}&iar=news&ia=news",
     "c": "News",
     "sc": "Aggregators"
@@ -65960,7 +65912,7 @@
   },
   {
     "s": "NixOS options",
-    "d": "nixos.org",
+    "d": "search.nixos.org",
     "t": "nixopt",
     "u": "https://search.nixos.org/options?query={{{s}}}",
     "c": "Tech",
@@ -71557,14 +71509,6 @@
     "sc": "Audio"
   },
   {
-    "s": "PDFs",
-    "d": "kagi.com",
-    "t": "pdf",
-    "u": "/search?q={{{s}}}+filetype:pdf",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
     "s": "PrintFriendly & PDF",
     "d": "www.printfriendly.com",
     "t": "pdfy",
@@ -72519,7 +72463,7 @@
   {
     "s": "DuckDuckGo Images",
     "d": "duckduckgo.com",
-    "t": "pics",
+    "t": "ddg-pics",
     "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -72535,7 +72479,7 @@
   {
     "s": "DuckDuckGo Images",
     "d": "duckduckgo.com",
-    "t": "pictures",
+    "t": "ddg-pictures",
     "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -73651,14 +73595,6 @@
     "u": "https://emonitoring.poczta-polska.pl/?numer={{{s}}}",
     "c": "Online Services",
     "sc": "Tracking"
-  },
-  {
-    "s": "Listen Notes",
-    "d": "www.listennotes.com",
-    "t": "podcast",
-    "u": "https://www.listennotes.com/search/?q={{{s}}}&sort_by_date=0",
-    "c": "Multimedia",
-    "sc": "General"
   },
   {
     "s": "podCloud",
@@ -77893,7 +77829,7 @@
   {
     "s": "DuckDuckGo Last Week",
     "d": "duckduckgo.com",
-    "t": "recent",
+    "t": "ddg-recent",
     "u": "https://duckduckgo.com/?q={{{s}}}&df=w",
     "c": "Online Services",
     "sc": "Search"
@@ -80359,14 +80295,6 @@
     "u": "https://rosettacode.org/w/index.php?search={{{s}}}&title=Special%3ASearch&wprov=acrw1",
     "c": "Tech",
     "sc": "Programming"
-  },
-  {
-    "s": "The RuneScape Wiki",
-    "d": "runescape.wiki",
-    "t": "rs",
-    "u": "https://runescape.wiki/?search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
   },
   {
     "s": "Reddit Subreddit",
@@ -83373,14 +83301,6 @@
     "u": "https://www.suomienglantisanakirja.fi/{{{s}}}",
     "c": "Research",
     "sc": "Learning"
-  },
-  {
-    "s": "StackExchange",
-    "d": "stackexchange.com",
-    "t": "se",
-    "u": "https://stackexchange.com/search?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
   },
   {
     "s": "Setlist.fm",
@@ -92487,7 +92407,7 @@
   {
     "s": "DuckDuckGo Timer",
     "d": "duckduckgo.com",
-    "t": "tim",
+    "t": "ddg-tim",
     "u": "https://duckduckgo.com/?q=timer+{{{s}}}&ia=answer",
     "c": "Online Services",
     "sc": "Tools"
@@ -92511,7 +92431,7 @@
   {
     "s": "DuckDuckGo Timer",
     "d": "duckduckgo.com",
-    "t": "timer",
+    "t": "ddg-timer",
     "u": "https://duckduckgo.com/?q=timer+{{{s}}}&ia=answer",
     "c": "Online Services",
     "sc": "Tools"
@@ -98065,7 +97985,7 @@
   {
     "s": "DuckDuckGo video search",
     "d": "duckduckgo.com",
-    "t": "v",
+    "t": "ddg-v",
     "u": "https://duckduckgo.com/?q={{{s}}}&ia=videos&iax=videos",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -98625,7 +98545,7 @@
   {
     "s": "DuckDuckGo video search",
     "d": "duckduckgo.com",
-    "t": "video",
+    "t": "ddg-video",
     "u": "https://duckduckgo.com/?q={{{s}}}&ia=videos&iax=videos",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -98657,7 +98577,7 @@
   {
     "s": "DuckDuckGo Videos",
     "d": "duckduckgo.com",
-    "t": "videos",
+    "t": "ddg-videos",
     "u": "https://duckduckgo.com/?q={{{s}}}&ia=videos&iax=1",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -98681,7 +98601,7 @@
   {
     "s": "DuckDuckGo Videos",
     "d": "duckduckgo.com",
-    "t": "vids",
+    "t": "ddg-vids",
     "u": "https://duckduckgo.com/?q={{{s}}}&ia=videos&iax=videos",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -100948,7 +100868,7 @@
   {
     "s": "DuckDuckGo",
     "d": "duckduckgo.com",
-    "t": "week",
+    "t": "ddg-week",
     "u": "https://duckduckgo.com/?q={{{s}}}&df=w",
     "c": "Online Services",
     "sc": "Search (DDG)"
