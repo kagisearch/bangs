@@ -31319,7 +31319,7 @@
   },
   {
     "s": "FedEx",
-    "d": "fedex.com",
+    "d": "www.fedex.com",
     "t": "fedex",
     "u": "https://www.fedex.com/fedextrack/?trknbr={{{s}}}"
   },
@@ -58522,7 +58522,7 @@
   },
   {
     "s": "MatPrat",
-    "d": "matprat.no",
+    "d": "www.matprat.no",
     "t": "matprat",
     "u": "https://www.matprat.no/sok/#1/all/{{{s}}}/",
     "c": "Research",
@@ -98688,7 +98688,7 @@
   },
   {
     "s": "Vinmonopolet",
-    "d": "vinmonopolet.no",
+    "d": "www.vinmonopolet.no",
     "t": "vinmonopolet",
     "u": "https://www.vinmonopolet.no/search?q={{{s}}}",
     "c": "Shopping",
@@ -98696,7 +98696,7 @@
   },
   {
     "s": "Vinmonopolet",
-    "d": "vinmonopolet.no",
+    "d": "www.vinmonopolet.no",
     "t": "polet",
     "u": "https://www.vinmonopolet.no/search?q={{{s}}}",
     "c": "Shopping",

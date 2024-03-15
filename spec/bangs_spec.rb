@@ -24,9 +24,9 @@ def match_domains(bangs)
     next if bang["u"].start_with?("/")
 
     it "domains match template urls (#{bang["s"]})" do
-      template = bang["u"].gsub("{{{s}}}", "example").gsub("www.", "")
+      template = bang["u"].gsub("{{{s}}}", "example")
       uri = Addressable::URI.parse(template)
-      domain = bang["d"].gsub("{{{s}}}", "example").gsub("www.", "")
+      domain = bang["d"].gsub("{{{s}}}", "example")
 
       expect(domain).to eq(uri.host)
     end
