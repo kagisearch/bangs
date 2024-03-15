@@ -2818,7 +2818,7 @@
   {
     "s": "www.amazon.in",
     "d": "www.amazon.in",
-    "t": "ai",
+    "t": "azi",
     "u": "https://www.amazon.in/s?k={{{s}}} ",
     "c": "Shopping",
     "sc": "Online (deals)"
@@ -4862,14 +4862,6 @@
     "sc": "Companies"
   },
   {
-    "s": "Yahoo! Answers",
-    "d": "answers.yahoo.com",
-    "t": "answer",
-    "u": "http://answers.yahoo.com/search/search_result;_ylt=AmLr_DtDPVmDQzOuA2T6sxAjzKIX;_ylv=3?p={{{s}}}&submit-go=Search+Y!+Answers",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
     "s": "Antiwar.com",
     "d": "news.antiwar.com",
     "t": "antiwar",
@@ -5126,7 +5118,7 @@
   {
     "s": "DuckDuckGo API",
     "d": "api.duckduckgo.com",
-    "t": "api",
+    "t": "ddg-api",
     "u": "https://api.duckduckgo.com/?q={{{s}}}&o=json&pretty=1&no_html=1&no_redirect=1",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -6452,7 +6444,7 @@
   {
     "s": "Amazon Smile",
     "d": "smile.amazon.com",
-    "t": "as",
+    "t": "azs",
     "u": "https://smile.amazon.com/s?url=search-alias%3Daps&field-keywords={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
@@ -6844,7 +6836,7 @@
   {
     "s": "Addictive Tips",
     "d": "www.addictivetips.com",
-    "t": "at",
+    "t": "addtips",
     "u": "http://www.addictivetips.com/archives/search/?cx=015974260755795457590%3Akigcmyffu6y&cof=FORID%3A11&ie=UTF-8&q={{{s}}}&s=Search",
     "c": "Tech",
     "sc": "Blogs"
@@ -9082,7 +9074,7 @@
   {
     "s": "Block Explorer",
     "d": "blockexplorer.com",
-    "t": "be",
+    "t": "blockexplorer",
     "u": "https://blockexplorer.com/searchgo/{{{s}}}",
     "c": "Tech",
     "sc": "Tools"
@@ -11956,7 +11948,7 @@
   {
     "s": "Baseball-Reference",
     "d": "www.baseball-reference.com",
-    "t": "br",
+    "t": "baseball",
     "u": "https://www.baseball-reference.com/pl/player_search.cgi?search={{{s}}}",
     "c": "Research",
     "sc": "Reference"
@@ -13164,7 +13156,7 @@
   {
     "s": "Amazon Canada",
     "d": "www.amazon.ca",
-    "t": "ca",
+    "t": "azca",
     "u": "https://www.amazon.ca/s?k={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
@@ -13332,7 +13324,7 @@
   {
     "s": "DuckDuckGo Calculator",
     "d": "duckduckgo.com",
-    "t": "calc",
+    "t": "ddg-calc",
     "u": "https://duckduckgo.com/?q={{{s}}}&ia=calculator",
     "c": "Online Services",
     "sc": "Tools"
@@ -13340,7 +13332,7 @@
   {
     "s": "DuckDuckGo Calculator",
     "d": "duckduckgo.com",
-    "t": "calculator",
+    "t": "ddg-calculator",
     "u": "https://duckduckgo.com/?ia=calculator&q={{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
@@ -15132,7 +15124,7 @@
   {
     "s": "Chequeado",
     "d": "chequeado.com",
-    "t": "ch",
+    "t": "chequeado",
     "u": "https://chequeado.com/?s={{{s}}}",
     "c": "Research",
     "sc": "Government"
@@ -16538,14 +16530,6 @@
     "sc": "Broadcast"
   },
   {
-    "s": "Charity Navigator",
-    "d": "www.charitynavigator.org",
-    "t": "cn",
-    "u": "https://www.charitynavigator.org/index.cfm?bay=search.results&keyword_list={{{s}}}",
-    "c": "Research",
-    "sc": "Topical"
-  },
-  {
     "s": "Naver Chinese Dictionary",
     "d": "cndic.naver.com",
     "t": "cndic",
@@ -16876,7 +16860,7 @@
   {
     "s": "Search Code",
     "d": "www.searchco.de",
-    "t": "code",
+    "t": "sc",
     "u": "http://www.searchco.de/?q={{{s}}}&cs=on",
     "c": "Online Services",
     "sc": "Search (non-US)"
@@ -19542,7 +19526,7 @@
   {
     "s": "The Complexity Zoo",
     "d": "complexityzoo.uwaterloo.ca",
-    "t": "cz",
+    "t": "compzoo",
     "u": "https://complexityzoo.uwaterloo.ca/index.php?search={{{s}}}&title=Special%3ASearch",
     "c": "Research",
     "sc": "Academic (math/cs)"
@@ -20206,7 +20190,7 @@
   {
     "s": "DuckDuckGo",
     "d": "duckduckgo.com",
-    "t": "day",
+    "t": "ddg-day",
     "u": "https://duckduckgo.com/?q={{{s}}}&df=d",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -21612,7 +21596,7 @@
   {
     "s": "German",
     "d": "dict.tu-chemnitz.de",
-    "t": "de",
+    "t": "dict-de",
     "u": "https://dict.tu-chemnitz.de/dings.cgi?query={{{s}}}",
     "c": "Research",
     "sc": "Reference (words intl)"
@@ -23330,14 +23314,6 @@
     "u": "https://www.digikey.ca/product-search/en?x=-1308&y=-74&lang=en&site=ca&KeyWords={{{s}}} ",
     "c": "Shopping",
     "sc": "Tech"
-  },
-  {
-    "s": "docker hub",
-    "d": "store.docker.com",
-    "t": "dk",
-    "u": "https://store.docker.com/search?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin"
   },
   {
     "s": "Digikey ES",
@@ -29122,7 +29098,7 @@
   {
     "s": "duckduckgo",
     "d": "duckduckgo.com",
-    "t": "es",
+    "t": "ddg-es",
     "u": "https://duckduckgo.com/?q={{{s}}}&kl=xl-es&kad=es_ES&ia=about",
     "c": "Online Services",
     "sc": "Search (non-US)"
@@ -30226,7 +30202,7 @@
   {
     "s": "Expert",
     "d": "www.expert.nl",
-    "t": "expert",
+    "t": "expert-nl",
     "u": "https://www.expert.nl/catalogsearch/result/?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
@@ -31345,7 +31321,7 @@
   },
   {
     "s": "FedEx",
-    "d": "fedex.com",
+    "d": "www.fedex.com",
     "t": "fedex",
     "u": "https://www.fedex.com/fedextrack/?trknbr={{{s}}}"
   },
@@ -33960,7 +33936,7 @@
   {
     "s": "Larousse French Dictionary",
     "d": "www.larousse.fr",
-    "t": "fr",
+    "t": "dict-fr",
     "u": "https://www.larousse.fr/dictionnaires/francais/{{{s}}}",
     "c": "Tech",
     "sc": "Programming"
@@ -35354,7 +35330,7 @@
   {
     "s": "Google Books",
     "d": "books.google.com",
-    "t": "gb",
+    "t": "gbks",
     "u": "https://books.google.com/books?q={{{s}}}&btnG=Search+Books",
     "c": "Multimedia",
     "sc": "Books"
@@ -44128,7 +44104,7 @@
   {
     "s": "DuckDuckGo Help",
     "d": "help.duckduckgo.com",
-    "t": "help",
+    "t": "ddg-help",
     "u": "https://help.duckduckgo.com/search?q={{{s}}}",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -45838,7 +45814,7 @@
   {
     "s": "HealthUnlocked",
     "d": "healthunlocked.com",
-    "t": "hu",
+    "t": "hun",
     "u": "https://healthunlocked.com/search/{{{s}}}",
     "c": "Online Services",
     "sc": "Social (intl)"
@@ -46857,7 +46833,7 @@
   {
     "s": "DuckDuckGo Images",
     "d": "duckduckgo.com",
-    "t": "i",
+    "t": "ddg-i",
     "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -47305,7 +47281,7 @@
   {
     "s": "DuckDuckGo Images",
     "d": "duckduckgo.com",
-    "t": "il",
+    "t": "ddg-il",
     "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images&iaf=size%3Aimagesize-large",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -47399,7 +47375,7 @@
   {
     "s": "DuckDuckGo Images",
     "d": "duckduckgo.com",
-    "t": "image",
+    "t": "ddg-image",
     "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -47439,7 +47415,7 @@
   {
     "s": "DuckDuckGo Images",
     "d": "duckduckgo.com",
-    "t": "images",
+    "t": "ddg-images",
     "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -47599,7 +47575,7 @@
   {
     "s": "DuckDuckGo Images",
     "d": "duckduckgo.com",
-    "t": "img",
+    "t": "ddg-img",
     "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -47631,7 +47607,7 @@
   {
     "s": "DuckDuckGo Images",
     "d": "duckduckgo.com",
-    "t": "imgs",
+    "t": "ddg-imgs",
     "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -48351,7 +48327,7 @@
   {
     "s": "Internazionale",
     "d": "www.internazionale.it",
-    "t": "int",
+    "t": "intl",
     "u": "https://www.internazionale.it/search/?q={{{s}}}",
     "c": "News",
     "sc": "International"
@@ -49103,7 +49079,7 @@
   {
     "s": "DuckDuckGo Italy",
     "d": "duckduckgo.com",
-    "t": "it",
+    "t": "ddg-it",
     "u": "https://duckduckgo.com/?q={{{s}}}&kl=it-it",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -50509,14 +50485,6 @@
     "u": "https://www.kanjijapanese.com/en/dictionary-japanese-english/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
-  },
-  {
-    "s": "Jet Pens",
-    "d": "www.jetpens.com",
-    "t": "jp",
-    "u": "https://www.jetpens.com/search?q={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
   },
   {
     "s": "We Sell Car Plate Number Online, Malaysia",
@@ -52241,7 +52209,7 @@
   {
     "s": "Konsolentreff.de",
     "d": "www.konsolentreff.de",
-    "t": "k",
+    "t": "kon",
     "u": "https://www.konsolentreff.de/search/1/?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Forum"
@@ -58123,14 +58091,6 @@
     "sc": "Maps"
   },
   {
-    "s": "Google Maps",
-    "d": "maps.google.com",
-    "t": "map",
-    "u": "https://maps.google.com/maps?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Maps"
-  },
-  {
     "s": "Mapion",
     "d": "www.mapion.co.jp",
     "t": "mapion",
@@ -58177,14 +58137,6 @@
     "u": "https://maps.google.com/maps?hl=fr&q={{{s}}}",
     "c": "Research",
     "sc": "Travel"
-  },
-  {
-    "s": "Google Maps",
-    "d": "google.com",
-    "t": "maps",
-    "u": "https://google.com/maps?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Maps"
   },
   {
     "s": "Google Maps Directions",
@@ -58604,7 +58556,7 @@
   },
   {
     "s": "MatPrat",
-    "d": "matprat.no",
+    "d": "www.matprat.no",
     "t": "matprat",
     "u": "https://www.matprat.no/sok/#1/all/{{{s}}}/",
     "c": "Research",
@@ -59223,14 +59175,6 @@
     "sc": "Movies"
   },
   {
-    "s": "Minecraft Wiki (deutsch)",
-    "d": "de.minecraft.wiki",
-    "t": "mcde",
-    "u": "https://de.minecraft.wiki/?search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (Minecraft)"
-  },
-  {
     "s": "German Minecraft Wiki",
     "d": "de.minecraftwiki.net",
     "t": "mcwikide",
@@ -59816,7 +59760,7 @@
   },
   {
     "s": "MELPA",
-    "d": "melpa.milkbox.net",
+    "d": "melpa.org",
     "t": "melpa",
     "u": "https://melpa.org/#/?q={{{s}}}",
     "c": "Online Services",
@@ -60517,14 +60461,6 @@
     "sc": "Weather"
   },
   {
-    "s": "Google Maps",
-    "d": "maps.google.com",
-    "t": "m",
-    "u": "https://maps.google.com/maps?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Maps"
-  },
-  {
     "s": "Managementboek.nl",
     "d": "www.managementboek.nl",
     "t": "mgtbk",
@@ -60811,22 +60747,6 @@
     "u": "https://www.minds.com/search;q={{{s}}}",
     "c": "Online Services",
     "sc": "Social"
-  },
-  {
-    "s": "Minecraft Wiki (deutsch)",
-    "d": "de.minecraft.wiki",
-    "t": "mcde",
-    "u": "https://de.minecraft.wiki/?search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (Minecraft)"
-  },
-  {
-    "s": "Minecraft Wiki (deutsch)",
-    "d": "de.minecraft.wiki",
-    "t": "mcde",
-    "u": "https://de.minecraft.wiki/?search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (Minecraft)"
   },
   {
     "s": "Official Minecraft Wiki",
@@ -62037,7 +61957,7 @@
   {
     "s": "DuckDuckGo",
     "d": "duckduckgo.com",
-    "t": "month",
+    "t": "ddg-month",
     "u": "https://duckduckgo.com/?q={{{s}}}&df=m",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -64803,7 +64723,7 @@
   {
     "s": "DuckDuckGo News",
     "d": "duckduckgo.com",
-    "t": "n",
+    "t": "ddg-n",
     "u": "https://duckduckgo.com/?q={{{s}}}&iar=news&ia=news",
     "c": "News",
     "sc": "Aggregators"
@@ -65331,7 +65251,7 @@
   {
     "s": "DuckDuckGo News",
     "d": "duckduckgo.com",
-    "t": "news",
+    "t": "ddg-news",
     "u": "https://duckduckgo.com/?q={{{s}}}&iar=news&ia=news",
     "c": "News",
     "sc": "Aggregators"
@@ -66002,7 +65922,7 @@
   },
   {
     "s": "NixOS options",
-    "d": "nixos.org",
+    "d": "search.nixos.org",
     "t": "nixopt",
     "u": "https://search.nixos.org/options?query={{{s}}}",
     "c": "Tech",
@@ -66135,14 +66055,6 @@
     "u": "https://translate.google.com/#nl/en/{{{s}}}",
     "c": "Online Services",
     "sc": "Google"
-  },
-  {
-    "s": "http://ncatlab.org/nlab/show/HomePage",
-    "d": "ncatlab.org",
-    "t": "nl",
-    "u": "https://ncatlab.org/nlab/search?query={{{s}}}",
-    "c": "Research",
-    "sc": "Academic (math/cs)"
   },
   {
     "s": "Nintendo Life",
@@ -71607,14 +71519,6 @@
     "sc": "Audio"
   },
   {
-    "s": "PDFs",
-    "d": "kagi.com",
-    "t": "pdf",
-    "u": "/search?q={{{s}}}+filetype:pdf",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
     "s": "PrintFriendly & PDF",
     "d": "www.printfriendly.com",
     "t": "pdfy",
@@ -72569,7 +72473,7 @@
   {
     "s": "DuckDuckGo Images",
     "d": "duckduckgo.com",
-    "t": "pics",
+    "t": "ddg-pics",
     "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -72585,7 +72489,7 @@
   {
     "s": "DuckDuckGo Images",
     "d": "duckduckgo.com",
-    "t": "pictures",
+    "t": "ddg-pictures",
     "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -73305,7 +73209,7 @@
   {
     "s": "Public Lab",
     "d": "publiclab.org",
-    "t": "pl",
+    "t": "plab",
     "u": "https://publiclab.org/search/{{{s}}}",
     "c": "Research",
     "sc": "Reference (science)"
@@ -73701,14 +73605,6 @@
     "u": "https://emonitoring.poczta-polska.pl/?numer={{{s}}}",
     "c": "Online Services",
     "sc": "Tracking"
-  },
-  {
-    "s": "Listen Notes",
-    "d": "www.listennotes.com",
-    "t": "podcast",
-    "u": "https://www.listennotes.com/search/?q={{{s}}}&sort_by_date=0",
-    "c": "Multimedia",
-    "sc": "General"
   },
   {
     "s": "podCloud",
@@ -74603,14 +74499,6 @@
     "u": "http://dictionary.pinpinchinese.com/search/t/{{{s}}}",
     "c": "Research",
     "sc": "Learning (intl)"
-  },
-  {
-    "s": "Pinterest",
-    "d": "www.pinterest.com",
-    "t": "p",
-    "u": "https://www.pinterest.com/search/pins/?q={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Images"
   },
   {
     "s": "Plymouth (Indiana) Public Library",
@@ -75693,14 +75581,6 @@
     "sc": "Games (general)"
   },
   {
-    "s": "Power Thesaurus ",
-    "d": "www.powerthesaurus.org",
-    "t": "pt",
-    "u": "https://www.powerthesaurus.org/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words)"
-  },
-  {
     "s": "Pro Tool Reviews",
     "d": "www.protoolreviews.com",
     "t": "ptr",
@@ -76519,7 +76399,7 @@
   {
     "s": "Quora",
     "d": "www.quora.com",
-    "t": "q",
+    "t": "qu",
     "u": "https://www.quora.com/search?q={{{s}}}",
     "c": "Online Services",
     "sc": "Search"
@@ -77943,7 +77823,7 @@
   {
     "s": "DuckDuckGo Last Week",
     "d": "duckduckgo.com",
-    "t": "recent",
+    "t": "ddg-recent",
     "u": "https://duckduckgo.com/?q={{{s}}}&df=w",
     "c": "Online Services",
     "sc": "Search"
@@ -78631,7 +78511,7 @@
   {
     "s": "PLOS",
     "d": "journals.plos.org",
-    "t": "research",
+    "t": "plos",
     "u": "https://journals.plos.org/plosone/search?unformattedQuery=everything:\"{{{s}}}\"",
     "c": "Research",
     "sc": "Academic"
@@ -80409,14 +80289,6 @@
     "u": "https://rosettacode.org/w/index.php?search={{{s}}}&title=Special%3ASearch&wprov=acrw1",
     "c": "Tech",
     "sc": "Programming"
-  },
-  {
-    "s": "The RuneScape Wiki",
-    "d": "runescape.wiki",
-    "t": "rs",
-    "u": "https://runescape.wiki/?search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
   },
   {
     "s": "Reddit Subreddit",
@@ -83425,14 +83297,6 @@
     "sc": "Learning"
   },
   {
-    "s": "StackExchange",
-    "d": "stackexchange.com",
-    "t": "se",
-    "u": "https://stackexchange.com/search?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
     "s": "Setlist.fm",
     "d": "www.setlist.fm",
     "t": "setlist",
@@ -84411,7 +84275,7 @@
   {
     "s": "Sports Illustrated",
     "d": "www.si.com",
-    "t": "si",
+    "t": "sportsi",
     "u": "https://www.si.com/search?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Sports"
@@ -88793,7 +88657,7 @@
   {
     "s": "Dictionary of Ukrainian Language (Словник української мови)",
     "d": "sum.in.ua",
-    "t": "sum",
+    "t": "dict-ua",
     "u": "https://sum.in.ua/?swrd={{{s}}} ",
     "c": "Online Services",
     "sc": "Search (non-US)"
@@ -92545,7 +92409,7 @@
   {
     "s": "DuckDuckGo Timer",
     "d": "duckduckgo.com",
-    "t": "tim",
+    "t": "ddg-tim",
     "u": "https://duckduckgo.com/?q=timer+{{{s}}}&ia=answer",
     "c": "Online Services",
     "sc": "Tools"
@@ -92569,7 +92433,7 @@
   {
     "s": "DuckDuckGo Timer",
     "d": "duckduckgo.com",
-    "t": "timer",
+    "t": "ddg-timer",
     "u": "https://duckduckgo.com/?q=timer+{{{s}}}&ia=answer",
     "c": "Online Services",
     "sc": "Tools"
@@ -97381,7 +97245,7 @@
   {
     "s": "Userstyles.org",
     "d": "userstyles.org",
-    "t": "us",
+    "t": "ust",
     "u": "https://userstyles.org/styles/browse?search_terms={{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
@@ -98123,7 +97987,7 @@
   {
     "s": "DuckDuckGo video search",
     "d": "duckduckgo.com",
-    "t": "v",
+    "t": "ddg-v",
     "u": "https://duckduckgo.com/?q={{{s}}}&ia=videos&iax=videos",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -98691,7 +98555,7 @@
   {
     "s": "DuckDuckGo video search",
     "d": "duckduckgo.com",
-    "t": "video",
+    "t": "ddg-video",
     "u": "https://duckduckgo.com/?q={{{s}}}&ia=videos&iax=videos",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -98723,7 +98587,7 @@
   {
     "s": "DuckDuckGo Videos",
     "d": "duckduckgo.com",
-    "t": "videos",
+    "t": "ddg-videos",
     "u": "https://duckduckgo.com/?q={{{s}}}&ia=videos&iax=1",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -98747,7 +98611,7 @@
   {
     "s": "DuckDuckGo Videos",
     "d": "duckduckgo.com",
-    "t": "vids",
+    "t": "ddg-vids",
     "u": "https://duckduckgo.com/?q={{{s}}}&ia=videos&iax=videos",
     "c": "Online Services",
     "sc": "Search (DDG)"
@@ -98890,7 +98754,7 @@
   },
   {
     "s": "Vinmonopolet",
-    "d": "vinmonopolet.no",
+    "d": "www.vinmonopolet.no",
     "t": "vinmonopolet",
     "u": "https://www.vinmonopolet.no/search?q={{{s}}}",
     "c": "Shopping",
@@ -98898,7 +98762,7 @@
   },
   {
     "s": "Vinmonopolet",
-    "d": "vinmonopolet.no",
+    "d": "www.vinmonopolet.no",
     "t": "polet",
     "u": "https://www.vinmonopolet.no/search?q={{{s}}}",
     "c": "Shopping",
@@ -101014,7 +100878,7 @@
   {
     "s": "DuckDuckGo",
     "d": "duckduckgo.com",
-    "t": "week",
+    "t": "ddg-week",
     "u": "https://duckduckgo.com/?q={{{s}}}&df=w",
     "c": "Online Services",
     "sc": "Search (DDG)"

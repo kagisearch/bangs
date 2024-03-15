@@ -1,0 +1,172 @@
+[
+  {
+    "s": "Kagi Assistant",
+    "d": "kagi.com",
+    "t": "ai",
+    "u": "/assistant?q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Kagi Assistant",
+    "d": "kagi.com",
+    "t": "as",
+    "u": "/assistant?q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Kagi Assistant",
+    "d": "kagi.com",
+    "t": "assistant",
+    "u": "/assistant?q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Kagi Assistant - Research",
+    "d": "kagi.com",
+    "t": "research",
+    "u": "/assistant?q={{{s}}}&mode=7",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Kagi Assistant - Research",
+    "d": "kagi.com",
+    "t": "answer",
+    "u": "/assistant?q={{{s}}}&mode=7",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Kagi Assistant - Research",
+    "d": "kagi.com",
+    "t": "discuss",
+    "u": "/assistant?q={{{s}}}&mode=7",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Kagi Assistant - Research",
+    "d": "kagi.com",
+    "t": "research",
+    "u": "/assistant?q={{{s}}}&mode=7",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Kagi Assistant - Research",
+    "d": "kagi.com",
+    "t": "asks",
+    "u": "/assistant?q={{{s}}}&mode=7",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Kagi Assistant - Research/Fast",
+    "d": "kagi.com",
+    "t": "askf",
+    "u": "/assistant?q={{{s}}}&mode=7&sub_mode=1",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Kagi Assistant - Research/Fast",
+    "d": "kagi.com",
+    "t": "fast",
+    "u": "/assistant?q={{{s}}}&mode=7&sub_mode=1",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Kagi Assistant - Research/Expert",
+    "d": "kagi.com",
+    "t": "aske",
+    "u": "/assistant?q={{{s}}}&mode=7&sub_mode=2",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Kagi Assistant - Research/Expert",
+    "d": "kagi.com",
+    "t": "expert",
+    "u": "/assistant?q={{{s}}}&mode=7&sub_mode=2",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Kagi Assistant - Direct",
+    "d": "kagi.com",
+    "t": "llm",
+    "u": "/assistant?q={{{s}}}&mode=4",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Kagi Assistant - Direct",
+    "d": "kagi.com",
+    "t": "chat",
+    "u": "/assistant?q={{{s}}}&mode=4",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Kagi Assistant - Code",
+    "d": "kagi.com",
+    "t": "askc",
+    "u": "/assistant?q={{{s}}}&mode=5",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Kagi Assistant - Code",
+    "d": "kagi.com",
+    "t": "code",
+    "u": "/assistant?q={{{s}}}&mode=5",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Kagi Assistant - Custom",
+    "d": "kagi.com",
+    "t": "custom",
+    "u": "/assistant?q={{{s}}}&mode=6",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  }
+]
