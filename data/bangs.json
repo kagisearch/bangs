@@ -95357,6 +95357,22 @@
     "sc": "Tools"
   },
   {
+    "s": "Typst Documentation",
+    "d": "kagi.com",
+    "t": "typst",
+    "u": "/search?q={{{s}}}+site%3Atypst.app%2Fdocs",
+    "c": "Tech",
+    "sc": "Languages (other)"
+  },
+  {
+    "s": "Typst Universe",
+    "d": "typst.app",
+    "t": "typstu",
+    "u": "https://typst.app/universe/search?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Languages (other)"
+  },
+  {
     "s": "YouTube",
     "d": "www.youtube.com",
     "t": "ty",
