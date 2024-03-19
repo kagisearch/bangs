@@ -46737,7 +46737,7 @@
   {
     "s": "Idealo",
     "d": "www.idealo.de",
-    "t": "id",
+    "t": "idealo",
     "u": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q={{{s}}}",
     "c": "Shopping",
     "sc": "Services"

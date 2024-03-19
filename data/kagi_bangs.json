@@ -363,6 +363,13 @@
     "c": "Region search"
   },
   {
+    "s": "Search in Indonesia",
+    "d": "kagi.com",
+    "t": "id",
+    "u": "/search?q={{{s}}}&r=id",
+    "c": "Region search"
+  },
+  {
     "s": "Search in Iraq",
     "d": "kagi.com",
     "t": "iq",
