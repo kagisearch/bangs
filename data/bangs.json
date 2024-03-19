@@ -92495,6 +92495,14 @@
     "sc": "Online"
   },
   {
+    "s": "Tine",
+    "d": "www.tine.no",
+    "t": "tine",
+    "u": "https://www.tine.no/sok?q={{{s}}}",
+    "c": "Research",
+    "sc": "Food"
+  },
+  {
     "s": "Tineye",
     "d": "www.tineye.com",
     "t": "tineye",
