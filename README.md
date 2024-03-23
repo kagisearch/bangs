@@ -265,6 +265,7 @@ No corresponding subcategories.
   - Languages (scala)
   - Languages (scheme)
   - Languages (vala)
+  - Languages (nix)
   - Libraries/Frameworks
   - Libraries/Frameworks (KDE)
   - Libraries/Frameworks (wordpress)
