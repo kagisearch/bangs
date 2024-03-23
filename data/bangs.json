@@ -108588,5 +108588,29 @@
     "u": "https://app.thestorygraph.com/browse?search_term={{{s}}}",
     "c": "Multimedia",
     "sc": "Books"
+  },
+  {
+    "s": "Nixpkgs Search",
+    "d": "search.nixos.org",
+    "t": "nixpkgs",
+    "u": "https://search.nixos.org/packages?query={{{s}}}",
+    "c": "Tech",
+    "sc": "Languages (nix)"
+  },
+  {
+    "s": "NixOS Options Search",
+    "d": "search.nixos.org",
+    "t": "nixos",
+    "u": "https://search.nixos.org/options?query={{{s}}}",
+    "c": "Tech",
+    "sc": "Languages (nix)"
+  },
+  {
+    "s": "Noogle Nix Function Search",
+    "d": "noogle.dev",
+    "t": "noogle",
+    "u": "https://noogle.dev/q?term={{{s}}}",
+    "c": "Tech",
+    "sc": "Languages (nix)"
   }
 ]
