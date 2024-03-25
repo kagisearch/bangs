@@ -13893,7 +13893,7 @@
     "s": "Catholic Answers",
     "d": "www.catholic.com",
     "t": "catholic",
-    "u": "https://www.catholic.com/search/content/{{{s}}}",
+    "u": "https://www.catholic.com/search?q={{{s}}}",
     "c": "Research",
     "sc": "Reference (religion)"
   },
