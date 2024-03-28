@@ -53239,6 +53239,14 @@
     "sc": "Programming"
   },
   {
+    "s": "Listen Notes",
+    "d": "www.listennotes.com",
+    "t": "lns",
+    "u": "https://www.listennotes.com/search/?q={{{s}}}",
+    "c": "Entertainment",
+    "s": "Audio"
+  },
+  {
     "s": "Love2D Wiki",
     "d": "www.love2d.org",
     "t": "l2d",
