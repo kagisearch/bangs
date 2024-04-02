@@ -13141,7 +13141,7 @@
     "s": "Cycling '74",
     "d": "cycling74.com",
     "t": "c74",
-    "u": "https://cycling74.com/search/page/1/{{{s}}}",
+    "u": "https://cycling74.com/search?q={{{s}}}",
     "c": "Tech",
     "sc": "Programming"
   },
