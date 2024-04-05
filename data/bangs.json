@@ -65921,14 +65921,6 @@
     "sc": "Sysadmin"
   },
   {
-    "s": "NixOs Wiki",
-    "d": "nixos.wiki",
-    "t": "nix",
-    "u": "https://nixos.wiki/index.php?search={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin"
-  },
-  {
     "s": "NixOS options",
     "d": "search.nixos.org",
     "t": "nixopt",
@@ -65937,18 +65929,26 @@
     "sc": "Sysadmin"
   },
   {
-    "s": "Nixos Wiki",
-    "d": "nixos.wiki",
-    "t": "nixos",
-    "u": "https://nixos.wiki/index.php?search={{{s}}}",
+    "s": "NixOS Wiki",
+    "d": "wiki.nixos.org",
+    "t": "nix",
+    "u": "https://wiki.nixos.org/index.php?search={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin"
   },
   {
-    "s": "Nixos Wiki",
-    "d": "nixos.wiki",
+    "s": "NixOS Wiki",
+    "d": "wiki.nixos.org",
+    "t": "nixos",
+    "u": "https://wiki.nixos.org/index.php?search={{{s}}}",
+    "c": "Tech",
+    "sc": "Sysadmin"
+  },
+  {
+    "s": "NixOS Wiki",
+    "d": "wiki.nixos.org",
     "t": "nixoswiki",
-    "u": "https://nixos.wiki/index.php?search={{{s}}}",
+    "u": "https://wiki.nixos.org/index.php?search={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin"
   },
