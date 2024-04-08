@@ -108620,5 +108620,17 @@
     "u": "https://noogle.dev/q?term={{{s}}}",
     "c": "Tech",
     "sc": "Languages (nix)"
+  },
+  {
+    "s": "SteamGridDB",
+    "d": "www.steamgriddb.com",
+    "t": "sgdb",
+    "u": "https://www.steamgriddb.com/search/grids?term={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (general)",
+    "fmt": [
+      "open_base_path",
+      "url_encode_space_to_plus"
+    ]
   }
 ]
