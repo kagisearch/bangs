@@ -108623,7 +108623,7 @@
   },
   {
     "s": "SteamGridDB",
-    "d": "steamgriddb.com",
+    "d": "www.steamgriddb.com",
     "t": "sgdb",
     "u": "https://www.steamgriddb.com/search/grids?term={{{s}}}",
     "c": "Entertainment",
