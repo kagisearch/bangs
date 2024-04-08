@@ -16794,6 +16794,14 @@
     "sc": "Companies"
   },
   {
+    "s": "Codeberg",
+    "d": "codeberg.org",
+    "t": "codeberg",
+    "u": "https://codeberg.org/explore/repos?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Programming"
+  },
+  {
     "s": "CodeBottle",
     "d": "codebottle.io",
     "t": "codebottle",
