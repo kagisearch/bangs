@@ -59079,6 +59079,42 @@
     "sc": "Games (Minecraft)"
   },
   {
+    "s": "Modrinth (Mods)",
+    "d": "modrinth.com",
+    "t": "mdmods",
+    "u": "https://modrinth.com/mods?q={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (Minecraft)",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Modrinth (Modpacks)",
+    "d": "modrinth.com",
+    "t": "mdmodpacks",
+    "u": "https://modrinth.com/modpacks?q={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (Minecraft)",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Modrinth (Plugins)",
+    "d": "modrinth.com",
+    "t": "mdplugins",
+    "u": "https://modrinth.com/plugins?q={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (Minecraft)",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
     "s": "Minecraft Name History",
     "d": "namemc.com",
     "t": "mcname",
