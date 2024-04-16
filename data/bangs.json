@@ -65965,14 +65965,6 @@
     "sc": "Sysadmin"
   },
   {
-    "s": "NixOS options",
-    "d": "search.nixos.org",
-    "t": "nixopt",
-    "u": "https://search.nixos.org/options?query={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin"
-  },
-  {
     "s": "NixOS Wiki",
     "d": "wiki.nixos.org",
     "t": "nix",
@@ -66003,14 +65995,6 @@
     "u": "https://nixos.org/nixos/packages.html?query={{{s}}}",
     "c": "Tech",
     "sc": "Downloads"
-  },
-  {
-    "s": "NixOS Packages",
-    "d": "nixos.org",
-    "t": "nixpkgs",
-    "u": "https://nixos.org/nixos/packages.html?query={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin"
   },
   {
     "s": "Nixtodon",
@@ -108642,7 +108626,7 @@
     "sc": "Books"
   },
   {
-    "s": "Nixpkgs Search",
+    "s": "NixOS Packages Search",
     "d": "search.nixos.org",
     "t": "nixpkgs",
     "u": "https://search.nixos.org/packages?query={{{s}}}",
@@ -108652,7 +108636,7 @@
   {
     "s": "NixOS Options Search",
     "d": "search.nixos.org",
-    "t": "nixos",
+    "t": "nixopt",
     "u": "https://search.nixos.org/options?query={{{s}}}",
     "c": "Tech",
     "sc": "Languages (nix)"
