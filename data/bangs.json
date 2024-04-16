@@ -16858,14 +16858,6 @@
     "sc": "Tools"
   },
   {
-    "s": "Search Code",
-    "d": "www.searchco.de",
-    "t": "sc",
-    "u": "http://www.searchco.de/?q={{{s}}}&cs=on",
-    "c": "Online Services",
-    "sc": "Search (non-US)"
-  },
-  {
     "s": "Codeweavers",
     "d": "www.codeweavers.com",
     "t": "codeweavers",
