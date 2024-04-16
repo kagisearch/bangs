@@ -46727,14 +46727,6 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "Idealo",
-    "d": "www.idealo.de",
-    "t": "idealo",
-    "u": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q={{{s}}}",
-    "c": "Shopping",
-    "sc": "Services"
-  },
-  {
     "s": "I Do Imaging",
     "d": "idoimaging.com",
     "t": "idi",
