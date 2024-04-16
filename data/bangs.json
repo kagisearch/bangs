@@ -6442,14 +6442,6 @@
     "sc": "Newspaper (intl)"
   },
   {
-    "s": "Amazon Smile",
-    "d": "smile.amazon.com",
-    "t": "azs",
-    "u": "https://smile.amazon.com/s?url=search-alias%3Daps&field-keywords={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
     "s": "Asana",
     "d": "app.asana.com",
     "t": "asana",
