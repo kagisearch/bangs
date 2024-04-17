@@ -6442,14 +6442,6 @@
     "sc": "Newspaper (intl)"
   },
   {
-    "s": "Amazon Smile",
-    "d": "smile.amazon.com",
-    "t": "azs",
-    "u": "https://smile.amazon.com/s?url=search-alias%3Daps&field-keywords={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
     "s": "Asana",
     "d": "app.asana.com",
     "t": "asana",
@@ -16864,14 +16856,6 @@
     "u": "https://codepoints.net/search?q={{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
-  },
-  {
-    "s": "Search Code",
-    "d": "www.searchco.de",
-    "t": "sc",
-    "u": "http://www.searchco.de/?q={{{s}}}&cs=on",
-    "c": "Online Services",
-    "sc": "Search (non-US)"
   },
   {
     "s": "Codeweavers",
@@ -46743,14 +46727,6 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "Idealo",
-    "d": "www.idealo.de",
-    "t": "idealo",
-    "u": "https://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q={{{s}}}",
-    "c": "Shopping",
-    "sc": "Services"
-  },
-  {
     "s": "I Do Imaging",
     "d": "idoimaging.com",
     "t": "idi",
@@ -65965,14 +65941,6 @@
     "sc": "Sysadmin"
   },
   {
-    "s": "NixOS options",
-    "d": "search.nixos.org",
-    "t": "nixopt",
-    "u": "https://search.nixos.org/options?query={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin"
-  },
-  {
     "s": "NixOS Wiki",
     "d": "wiki.nixos.org",
     "t": "nix",
@@ -66003,14 +65971,6 @@
     "u": "https://nixos.org/nixos/packages.html?query={{{s}}}",
     "c": "Tech",
     "sc": "Downloads"
-  },
-  {
-    "s": "NixOS Packages",
-    "d": "nixos.org",
-    "t": "nixpkgs",
-    "u": "https://nixos.org/nixos/packages.html?query={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin"
   },
   {
     "s": "Nixtodon",
@@ -108642,7 +108602,7 @@
     "sc": "Books"
   },
   {
-    "s": "Nixpkgs Search",
+    "s": "NixOS Packages Search",
     "d": "search.nixos.org",
     "t": "nixpkgs",
     "u": "https://search.nixos.org/packages?query={{{s}}}",
@@ -108652,7 +108612,7 @@
   {
     "s": "NixOS Options Search",
     "d": "search.nixos.org",
-    "t": "nixos",
+    "t": "nixopt",
     "u": "https://search.nixos.org/options?query={{{s}}}",
     "c": "Tech",
     "sc": "Languages (nix)"

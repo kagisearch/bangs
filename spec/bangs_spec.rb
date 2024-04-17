@@ -12,8 +12,7 @@ assist_bangs_json = JSON.parse(File.read("data/assistant_bangs.json"))
 assistant_triggers = assist_bangs_json.map{|b| b["t"]}
 
 def find_dups(*arr)
-  arr.map{ |a| a.uniq }
-    .flatten
+  arr.flatten
     .group_by { |element| element }
     .select { |k, v| v.size > 1 }
     .keys

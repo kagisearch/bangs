@@ -62,16 +62,6 @@
   {
     "s": "Kagi Assistant - Research",
     "d": "kagi.com",
-    "t": "research",
-    "u": "/assistant?q={{{s}}}&mode=7",
-    "fmt": [
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
-  },
-  {
-    "s": "Kagi Assistant - Research",
-    "d": "kagi.com",
     "t": "asks",
     "u": "/assistant?q={{{s}}}&mode=7",
     "fmt": [
