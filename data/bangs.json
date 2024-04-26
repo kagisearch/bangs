@@ -30971,7 +30971,7 @@
     "s": "Facebook",
     "d": "www.facebook.com",
     "t": "fb",
-    "u": "https://www.facebook.com/search.php/?q={{{s}}}",
+    "u": "https://www.facebook.com/search/top/?q={{{s}}}",
     "c": "Online Services",
     "sc": "Social"
   },
@@ -30995,7 +30995,7 @@
     "s": "Facebook",
     "d": "www.facebook.com",
     "t": "fbk",
-    "u": "https://www.facebook.com/search/results/?q={{{s}}}",
+    "u": "https://www.facebook.com/search/top/?q={{{s}}}",
     "c": "Online Services",
     "sc": "Social (intl)"
   },
@@ -31027,7 +31027,7 @@
     "s": "Facebook Pages",
     "d": "www.facebook.com",
     "t": "fbp",
-    "u": "https://www.facebook.com/search/results/?q={{{s}}}&type=pages",
+    "u": "https://www.facebook.com/search/top/?q={{{s}}}&type=pages",
     "c": "Online Services",
     "sc": "Social"
   },
@@ -53228,7 +53228,7 @@
     "t": "lns",
     "u": "https://www.listennotes.com/search/?q={{{s}}}",
     "c": "Entertainment",
-    "s": "Audio"
+    "sc": "Audio"
   },
   {
     "s": "Love2D Wiki",
