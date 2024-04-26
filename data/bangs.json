@@ -11322,10 +11322,10 @@
     "sc": "Google"
   },
   {
-    "s": "http://ordbok.uib.no/",
-    "d": "ordbok.uib.no",
+    "s": "Bokmålsordboka",
+    "d": "ordbokene.no",
     "t": "bokmålsordboka",
-    "u": "https://ordbok.uib.no/perl/ordbok.cgi?OPP=+{{{s}}}&ant_bokmaal=5&ant_nynorsk=5&bokmaal=+&ordbok=bokmaal",
+    "u": "https://ordbokene.no/nob/bm/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
   },
@@ -64496,7 +64496,7 @@
     "s": "Norwegian Bokmål Dictionary",
     "d": "ordbokene.no",
     "t": "nbd",
-    "u": "https://ordbokene.no/bm/search?scope=ei&perPage=20&q={{{s}}}",
+    "u": "https://ordbokene.no/nob/bm/{{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
   },
@@ -66189,10 +66189,10 @@
     "sc": "Misc"
   },
   {
-    "s": "The Norwegian Nynorsk dictionary",
-    "d": "ordbok.uib.no",
+    "s": "Norwegian Nynorsk dictionary",
+    "d": "ordbokene.no",
     "t": "nnd",
-    "u": "https://ordbok.uib.no/perl/ordbok.cgi?OPP={{{s}}}&ant_bokmaal=5&ant_nynorsk=5&nynorsk=+&ordbok=nynorsk",
+    "u": "https://ordbokene.no/nob/nn/{{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
   },
@@ -66405,10 +66405,10 @@
     "sc": "Domains"
   },
   {
-    "s": "Nynorskordboka og Bokmålsordboka",
-    "d": "ordbok.uib.no",
+    "s": "Bokmålsordboka og Nynorskordboka",
+    "d": "ordbokene.no",
     "t": "norsk",
-    "u": "https://ordbok.uib.no/perl/ordbok.cgi?OPP={{{s}}}&ant_bokmaal=5&ant_nynorsk=5&begge=+&ordbok=begge",
+    "u": "https://ordbokene.no/nob/bm,nn/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words intl)"
   },
@@ -69291,10 +69291,10 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "Bokmålsordboka | Nynorskordboka",
-    "d": "ordbok.uib.no",
+    "s": "Bokmålsordboka og Nynorskordboka",
+    "d": "ordbokene.no",
     "t": "ordbok",
-    "u": "https://ordbok.uib.no/perl/ordbok.cgi?OPP=+{{{s}}}&ant_bokmaal=5&ant_nynorsk=5&begge=+&ordbok=begge",
+    "u": "https://ordbokene.no/nob/bm,nn/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
   },
@@ -95906,9 +95906,9 @@
   },
   {
     "s": "Bokmålsordboka og Nynorskordboka",
-    "d": "ordbok.uib.no",
+    "d": "ordbokene.no",
     "t": "uib",
-    "u": "https://ordbok.uib.no/perl/ordbok.cgi?OPP={{{s}}}&ant_bokmaal=5&ant_nynorsk=5&begge=+&ordbok=begge",
+    "u": "https://ordbokene.no/nob/bm,nn/{{{s}}}",
     "c": "Translation",
     "sc": "General"
   },
