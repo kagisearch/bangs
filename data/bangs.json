@@ -5541,9 +5541,9 @@
   },
   {
     "s": "App Store on iTunes",
-    "d": "",
+    "d": "kagi.com",
     "t": "appstore",
-    "u": "/?q=site%3Aitunes.apple.com%2Fus%2Fapp%2F+{{{s}}}",
+    "u": "/search?q=site%3Aitunes.apple.com%2Fus%2Fapp%2F+{{{s}}}",
     "c": "Shopping",
     "sc": "Tech"
   },
