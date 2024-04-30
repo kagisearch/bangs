@@ -94038,7 +94038,7 @@
     "s": "Google Translate",
     "d": "translate.google.com",
     "t": "tr",
-    "u": "https://translate.google.com/#auto/en/{{{s}}}",
+    "u": "https://translate.google.com/?text={{{s}}}",
     "c": "Translation",
     "sc": "Google"
   },
