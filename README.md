@@ -29,6 +29,204 @@ Kagi Staff and maintainers of this repo have final say, but a good bang submissi
 
 - Any modifications to bangs should be made to `/data/bangs.json`. `/data/kagi_bangs.json` provides bangs internal to Kagi itself (i.e., image search, search in a specific region)
 
+### Region Bangs
+
+Currently, not all 2-char ISO country codes for regions Kagi supports are mapped to region bangs.
+Adding new region bangs will be handled on a case-by-case basis.
+
+<details>
+<summary>List of region codes with existing triggers</summary>
+
+| Trigger | Current site                      | Category        | Region                                       |
+| ------- | --------------------------------- | --------------- | -------------------------------------------- |
+| ac      | Allociné                          | Entertainment   | Ascension Island                             |
+| ad      | Ask Different                     | Entertainment   | Andorra                                      |
+| ae      | aliexpress.com                    | Shopping        | United Arab Emirates                         |
+| af      | Acronym Finder                    | Research        | Afghanistan                                  |
+| ag      | Android Geeks                     | Tech            | Antigua and Barbuda                          |
+| ai      | Kagi Assistant                    |                 | Anguilla                                     |
+| al      | AniList                           | Entertainment   | Albania                                      |
+| am      | Amazon.com                        | Shopping        | Armenia                                      |
+| ao      | Amazon Orders                     | Shopping        | Angola                                       |
+| ar      | all recipes                       | Research        | Argentina                                    |
+| as      | Kagi Assistant                    |                 | American Samoa                               |
+| au      | Arch Linux User Repository        | Tech            | Australia                                    |
+| aw      | Arch Linux Wiki                   | Tech            | Aruba                                        |
+| ax      | androidxref                       | Tech            | Åland Islands                                |
+| az      | Amazon.com                        | Shopping        | Azerbaijan                                   |
+| ba      | Beer Advocate                     | Entertainment   | Bosnia and Herzegovina                       |
+| bb      | Bitbucket                         | Tech            | Barbados                                     |
+| bd      | baidu                             | Online Services | Bangladesh                                   |
+| bf      | BuzzFeed                          | Entertainment   | Burkina Faso                                 |
+| bg      | BibleGateway                      | Online Services | Bulgaria                                     |
+| bh      | B&H Photo Video                   | Shopping        | Bahrain                                      |
+| bi      | Bing Images                       | Online Services | Burundi                                      |
+| bl      | The British Library Catalogue     | Research        | Saint Barthélemy                             |
+| bm      | bing maps                         | Online Services | Bermuda                                      |
+| bn      | Barnes and Noble                  | Shopping        | Brunei                                       |
+| bo      | Boerse Online                     | News            | Bolivia                                      |
+| bq      | BloombergQuint                    | News            | Bonaire, Sint Eustatius and Saba             |
+| bs      | Bing Shopping                     | Shopping        | Bahamas                                      |
+| bt      | Microsoft/Bing Translator         | Online Services | Bhutan                                       |
+| bv      | Bing Videos                       | Online Services | Bouvet Island                                |
+| bw      | Bing Weather                      | News            | Botswana                                     |
+| cc      | Openverse Creative Commons Search | Online Services | Cocos (Keeling) Islands                      |
+| cd      | Collins Dictionary                | Research        | Congo, Democratic Republic of the            |
+| cg      | CultureGraph                      | Research        | Congo                                        |
+| ci      | CodeIgniter                       | Tech            | Côte d'Ivoire                                |
+| ck      | Chefkoch.de                       | Research        | Cook Islands                                 |
+| cl      | Craigslist                        | Shopping        | Chile                                        |
+| cm      | CM.Center                         | Shopping        | Cameroon                                     |
+| cr      | codereview.stackexchange.com      | Tech            | Costa Rica                                   |
+| cu      | CanIUse                           | Tech            | Cuba                                         |
+| cv      | Cross Validated                   | Tech            | Cabo Verde                                   |
+| cw      | CodeWars                          | Tech            | Curaçao                                      |
+| dj      | Django documentation              | Tech            | Djibouti                                     |
+| dm      | Daily Motion                      | Multimedia      | Dominica                                     |
+| do      | DigitalOcean                      | Tech            | Dominican Republic                           |
+| dz      | Deezer                            | Multimedia      | Algeria                                      |
+| ec      | Ecosia                            | Online Services | Ecuador                                      |
+| ee      | Kagi Search                       | Tech            | Estonia                                      |
+| eg      | Kagi Search                       | Entertainment   | Egypt                                        |
+| eh      | English Heritage                  | Entertainment   | Western Sahara                               |
+| er      | Erowid                            | Research        | Eritrea                                      |
+| et      | El Tiempo                         | News            | Ethiopia                                     |
+| fi      | finanzen.net                      | Online Services | Finland                                      |
+| fj      | Funnyjunk                         | Entertainment   | Fiji                                         |
+| fk      | Flipkart                          | Shopping        | Falkland Islands                             |
+| fm      | Filmaster                         | Multimedia      | Micronesia (Federated States of)             |
+| fo      | File.org                          | Research        | Faroe Islands                                |
+| ga      | Google Australia                  | Online Services | Gabon                                        |
+| gd      | Google Docs                       | Online Services | Grenada                                      |
+| ge      | Google Encrypted                  | Online Services | Georgia                                      |
+| gf      | Google Finance                    | Online Services | French Guiana                                |
+| gg      | Google Groups                     | Online Services | Guernsey                                     |
+| gh      | GitHub                            | Tech            | Ghana                                        |
+| gi      | Google Images                     | Online Services | Gibraltar                                    |
+| gl      | OpenGL                            | Tech            | Greenland                                    |
+| gm      | Google Maps                       | Online Services | Gambia                                       |
+| gn      | Google News                       | News            | Guinea                                       |
+| gp      | Google Play                       | Tech            | Guadeloupe                                   |
+| gq      | GQ                                | News            | Equatorial Guinea                            |
+| gr      | Goodreads                         | Multimedia      | Greece                                       |
+| gs      | Google Shopping                   | Online Services | South Georgia and the South Sandwich Islands |
+| gt      | Google Translate                  | Online Services | Guatemala                                    |
+| gu      | Kagi Search                       | News            | Guam                                         |
+| gw      | Gentoo Wiki                       | Tech            | Guinea-Bissau                                |
+| gy      | Google                            | Online Services | Guyana                                       |
+| hk      | HackTips                          | Tech            | Hong Kong                                    |
+| hm      | HERE maps                         | Online Services | Heard Island and McDonald Islands            |
+| hn      | Hacker News                       | Tech            | Honduras                                     |
+| ht      | HookTube                          | Multimedia      | Haiti                                        |
+| ie      | Kagi Search                       | Online Services | Ireland                                      |
+| in      | Invidio.us                        | Multimedia      | India                                        |
+| is      | Ilmainen Sanakirja                | Online Services | Iceland                                      |
+| je      | Tanoshii Japanese                 | Research        | Jersey                                       |
+| jm      | Joe Monster                       | Entertainment   | Jamaica                                      |
+| jo      | Jotrin Electronics                | Shopping        | Jordan                                       |
+| kg      | KG-Portal                         | Entertainment   | Kyrgyzstan                                   |
+| kh      | Kubeapps Hub                      | Tech            | Cambodia                                     |
+| km      | Karaoke Mugen                     | Multimedia      | Comoros                                      |
+| kn      | Knoema                            | Research        | Saint Kitts and Nevis                        |
+| kp      | Kupujemprodajem                   | Shopping        | North Korea                                  |
+| kr      | Kroger                            | Shopping        | South Korea                                  |
+| la      | Langenscheidt                     | Research        | Laos                                         |
+| lb      | letterboxd                        | Entertainment   | Lebanon                                      |
+| lc      | Laracasts                         | Tech            | Saint Lucia                                  |
+| li      | LinkedIn                          | Online Services | Liechtenstein                                |
+| lk      | LolKing                           | Entertainment   | Sri Lanka                                    |
+| ls      | LittleSis                         | Research        | Lesotho                                      |
+| lt      | LibraryThing                      | Multimedia      | Lithuania                                    |
+| lu      | Liberty University                | Research        | Luxembourg                                   |
+| lv      | Livermore library                 | Research        | Latvia                                       |
+| ma      | Memory Alpha                      | Entertainment   | Morocco                                      |
+| mc      | Metacritic                        | Online Services | Monaco                                       |
+| md      | Microsoft Docs                    | Tech            | Moldova                                      |
+| me      | Mass Effect Wiki                  | Entertainment   | Montenegro                                   |
+| mf      | Morguefile                        | Multimedia      | Saint Martin                                 |
+| mh      | The Monster Hunter Wiki           | Entertainment   | Marshall Islands                             |
+| mk      | Mechanical Keyboards              | Shopping        | North Macedonia                              |
+| ml      | Google Maps Lite                  | Online Services | Mali                                         |
+| mm      | Macmillan Dictionary              | Online Services | Myanmar                                      |
+| mn      | medicinanet                       | Research        | Mongolia                                     |
+| mo      | MathOverflow                      | Research        | Macao                                        |
+| mp      | MenuPages                         | Research        | Northern Mariana Islands                     |
+| mq      | MapQuest                          | Online Services | Martinique                                   |
+| mr      | Mac Rumors                        | Tech            | Mauritania                                   |
+| ms      | Microsoft                         | Tech            | Montserrat                                   |
+| mt      | Multitran                         | Research        | Malta                                        |
+| mu      | MacUpdate                         | Tech            | Mauritius                                    |
+| mv      | Myvideo                           | Multimedia      | Maldives                                     |
+| mw      | Merriam-Webster Dictionary        | Research        | Malawi                                       |
+| mx      | MxToolbox                         | Tech            | Mexico                                       |
+| mz      | Mittelbayerische Zeitung          | News            | Mozambique                                   |
+| na      | NAVER                             | Online Services | Namibia                                      |
+| nc      | Namecheap                         | Tech            | New Caledonia                                |
+| ne      | Newegg                            | Shopping        | Niger                                        |
+| nf      | Netflix                           | Entertainment   | Norfolk Island                               |
+| ng      | AngularJS                         | Tech            | Nigeria                                      |
+| ni      | National Instruments              | Tech            | Nicaragua                                    |
+| np      | The Noun Project                  | Multimedia      | Nepal                                        |
+| nr      | Nixpkgs Repository                | Tech            | Nauru                                        |
+| nu      | Nu.nl                             | News            | Niue                                         |
+| pa      | Páginas Amarillas                 | Online Services | Panama                                       |
+| pe      | Dicionário Porto Editora          | Research        | Peru                                         |
+| pf      | PrintFriendly                     | Online Services | French Polynesia                             |
+| pg      | Project Gutenberg                 | Multimedia      | Papua New Guinea                             |
+| ph      | Product Hunt                      | Shopping        | Philippines                                  |
+| pk      | Peekier                           | Research        | Pakistan                                     |
+| pm      | pubmed                            | Research        | Saint Pierre and Miquelon                    |
+| pn      | Amazon Prime NOW                  | Shopping        | Pitcairn                                     |
+| pr      | PR Vademecum Argentina            | Research        | Puerto Rico                                  |
+| ps      | Playstation                       | Shopping        | Palestine                                    |
+| pw      | Pricewatch                        | Shopping        | Palau                                        |
+| py      | Python                            | Tech            | Paraguay                                     |
+| ro      | admin.ch                          | Research        | Romania                                      |
+| ru      | RedUSERS                          | Tech            | Russia                                       |
+| rw      | RationalWiki                      | Research        | Rwanda                                       |
+| sa      | Scientific American               | News            | Saudi Arabia                                 |
+| sb      | SwagBucks                         | Online Services | Solomon Islands                              |
+| sc      | SoundCloud                        | Multimedia      | Seychelles                                   |
+| sd      | SlickDeals                        | Shopping        | Sudan                                        |
+| sg      | Sourcegraph                       | Tech            | Singapore                                    |
+| sh      | Shodan                            | Tech            | Saint Helena, Ascension and Tristan da Cunha |
+| sj      | sitejabber                        | Online Services | Svalbard and Jan Mayen                       |
+| sk      | Songkick                          | Entertainment   | Slovakia                                     |
+| sl      | Setlist.fm                        | Multimedia      | Sierra Leone                                 |
+| sm      | Smashing Magazine                 | News            | San Marino                                   |
+| sn      | SoylentNews                       | News            | Senegal                                      |
+| so      | Stack Overflow                    | Tech            | Somalia                                      |
+| sr      | reddit                            | Entertainment   | Suriname                                     |
+| ss      | SurreySearch                      | Research        | South Sudan                                  |
+| st      | stocktwits                        | News            | Sao Tome and Principe                        |
+| sv      | Voat                              | Entertainment   | El Salvador                                  |
+| sx      | Stack Exchange                    | Online Services | Sint Maarten                                 |
+| sy      | Big Huge  Thesaurus               | Research        | Syria                                        |
+| sz      | Süddeutsche Zeitung               | News            | Eswatini                                     |
+| ta      | tripadvisor                       | Research        | Tristan da Cunha                             |
+| tc      | Techcrunch                        | Tech            | Turks and Caicos Islands                     |
+| td      | TimeAndDate                       | Online Services | Chad                                         |
+| tf      | Tensor Flow                       | Tech            | French Southern Territories                  |
+| tj      | Taco John's                       | Shopping        | Tajikistan                                   |
+| tl      | Team Liquid                       | Entertainment   | Timor-Leste                                  |
+| tm      | Trade Me                          | Shopping        | Turkmenistan                                 |
+| tn      | Times Now                         | News            | Tunisia                                      |
+| tr      | Google Translate                  | Translation     | Turkey                                       |
+| tt      | Texas Tribune                     | News            | Trinidad and Tobago                          |
+| tv      | tv.com                            | Entertainment   | Tuvalu                                       |
+| tz      | timeanddate                       | News            | Tanzania                                     |
+| ug      | Ultimate Guitar                   | Entertainment   | Uganda                                       |
+| va      | Vim Awesome                       | Tech            | Vatican City                                 |
+| vc      | VoucherCodes                      | Shopping        | Saint Vincent and the Grenadines             |
+| ve      | VideoETA                          | Entertainment   | Venezuela                                    |
+| vg      | Google                            | Online Services | British Virgin Islands                       |
+| wf      | fr.wikipedia.org                  | Online Services | Wallis and Futuna                            |
+| ws      | Wikisource                        | Multimedia      | Samoa                                        |
+| yt      | YouTube                           | Multimedia      | Mayotte                                      |
+| zw      | Zelda Wiki                        | Entertainment   | Zimbabwe                                     |
+
+</details>
+
 ## Bang Format
 
 ```jsonc
