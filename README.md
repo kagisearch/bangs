@@ -190,6 +190,7 @@ Adding new region bangs will be handled on a case-by-case basis.
 | sd      | SlickDeals                        | Shopping        | Sudan                                        |
 | sg      | Sourcegraph                       | Tech            | Singapore                                    |
 | sh      | Shodan                            | Tech            | Saint Helena, Ascension and Tristan da Cunha |
+| si      |                                   |                 | Slovenia                                     |
 | sj      | sitejabber                        | Online Services | Svalbard and Jan Mayen                       |
 | sk      | Songkick                          | Entertainment   | Slovakia                                     |
 | sl      | Setlist.fm                        | Multimedia      | Sierra Leone                                 |
