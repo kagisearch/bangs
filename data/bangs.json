@@ -7050,14 +7050,6 @@
     "sc": "Programming"
   },
   {
-    "s": "Arch Linux User Repository",
-    "d": "aur.archlinux.org",
-    "t": "au",
-    "u": "https://aur.archlinux.org/packages/?K={{{s}}}",
-    "c": "Tech",
-    "sc": "Downloads (software)"
-  },
-  {
     "s": "Aalborg Universitetsbibliotek",
     "d": "primo.aub.aau.dk",
     "t": "aub",
