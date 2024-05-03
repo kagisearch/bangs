@@ -573,6 +573,13 @@
     "c": "Region search"
   },
   {
+    "s": "Search in Australia",
+    "d": "kagi.com",
+    "t": "au",
+    "u": "/search?q={{{s}}}&r=au",
+    "c": "Region search"
+  },
+  {
     "s": "Search in Austria",
     "d": "kagi.com",
     "t": "at",
