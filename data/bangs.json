@@ -82302,12 +82302,12 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "Scoop.it",
-    "d": "www.scoop.it",
+    "s": "Scoop",
+    "d": "scoop.sh",
     "t": "scoop",
-    "u": "https://www.scoop.it/search?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Social"
+    "u": "https://scoop.sh/#/apps?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Downloads (software)"
   },
   {
     "s": "scope.dk",
