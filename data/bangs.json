@@ -19492,14 +19492,6 @@
     "sc": "Tools"
   },
   {
-    "s": "Candence CloudTube (YouTube Client)",
-    "d": "cadence.gq",
-    "t": "cyt",
-    "u": "https://cadence.gq/cloudtube/search?q={{{s}}}&sort_by=relevance",
-    "c": "Multimedia",
-    "sc": "Video"
-  },
-  {
     "s": "CZC.cz",
     "d": "www.czc.cz",
     "t": "czc",
@@ -39839,14 +39831,6 @@
     "sc": "Google"
   },
   {
-    "s": "Game Grumps",
-    "d": "www.youtube.com",
-    "t": "grumps",
-    "u": "https://www.youtube.com/user/GameGrumps/search?query={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Video"
-  },
-  {
     "s": "Gry-Online",
     "d": "www.gry-online.pl",
     "t": "gryonline",
@@ -43221,14 +43205,6 @@
     "u": "https://www.gyakorikerdesek.hu/kereses.php?keres={{{s}}}",
     "c": "Online Services",
     "sc": "Search"
-  },
-  {
-    "s": "GenYouTube",
-    "d": "www.genyoutube.net",
-    "t": "gyt",
-    "u": "https://www.genyoutube.net/search.php?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools"
   },
   {
     "s": "Google ZA",
@@ -71972,14 +71948,6 @@
     "sc": "Big box/department"
   },
   {
-    "s": "PewDiePie",
-    "d": "www.youtube.com",
-    "t": "pewdiepie",
-    "u": "https://www.youtube.com/user/PewDiePie/search?query={{{s}}} ",
-    "c": "Multimedia",
-    "sc": "Video"
-  },
-  {
     "s": "Pew News",
     "d": "pewnews.org",
     "t": "pewnews",
@@ -77056,14 +77024,6 @@
     "u": "https://rgb.to/ral/{{{s}}}",
     "c": "Tech",
     "sc": "Design"
-  },
-  {
-    "s": "ralvid - YouTube Mirror",
-    "d": "ralvid.ml",
-    "t": "ralvid",
-    "u": "http://ralvid.ml/search.php?q={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Video"
   },
   {
     "s": "Ramda Javascript library",
@@ -96616,14 +96576,6 @@
     "sc": "Academic"
   },
   {
-    "s": "UnNotchslayer1 channel",
-    "d": "www.youtube.com",
-    "t": "unnotchslayer1yt",
-    "u": "https://www.youtube.com/channel/UCBX3P-QmXmCgWmCU2Mqt9sg/search?query={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (Minecraft)"
-  },
-  {
     "s": "uNoGS",
     "d": "unogs.com",
     "t": "unogs",
@@ -98892,14 +98844,6 @@
     "u": "https://visualhunt.com/search/instant/?q={{{s}}}",
     "c": "Online Services",
     "sc": "Search"
-  },
-  {
-    "s": "visual-youtube",
-    "d": "www.yasiv.com",
-    "t": "visual-youtube",
-    "u": "https://www.yasiv.com/youtube#?q={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Video"
   },
   {
     "s": "Visuwords",
@@ -103137,14 +103081,6 @@
     "sc": "Academic"
   },
   {
-    "s": "WiiLord95",
-    "d": "www.youtube.com",
-    "t": "wl95",
-    "u": "https://www.youtube.com/user/WiiLord95/search?query={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Video"
-  },
-  {
     "s": "Latin Wikipedia",
     "d": "la.wikipedia.org",
     "t": "wla",
@@ -106435,14 +106371,6 @@
     "sc": "Search"
   },
   {
-    "s": "YouTube BE",
-    "d": "www.youtube.be",
-    "t": "yatu",
-    "u": "https://www.youtube.be/?q={{{s}}}: ",
-    "c": "Multimedia",
-    "sc": "Video"
-  },
-  {
     "s": "Yandex Translate",
     "d": "translate.yandex.com",
     "t": "yat",
@@ -107027,14 +106955,6 @@
     "sc": "TV"
   },
   {
-    "s": "Youtube on Repeat",
-    "d": "youtubeonrepeat.com",
-    "t": "youtubeonrepeat",
-    "u": "http://youtubeonrepeat.com/results/?search_query={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Video"
-  },
-  {
     "s": "YouTube",
     "d": "www.youtube.com",
     "t": "youtube",
@@ -107174,7 +107094,7 @@
     "s": "Youtube",
     "d": "www.youtube.com",
     "t": "ytb",
-    "u": "https://www.youtube.com/results?search_query= {{{s}}}",
+    "u": "https://www.youtube.com/results?search_query={{{s}}}",
     "c": "Multimedia",
     "sc": "Video"
   },
@@ -107183,14 +107103,6 @@
     "d": "www.youtube.com",
     "t": "ytcc",
     "u": "https://www.youtube.com/results?search_query={{{s}}}&sp=EgIwAQ%253D%253D",
-    "c": "Multimedia",
-    "sc": "Video"
-  },
-  {
-    "s": "YouTube CH",
-    "d": "www.youtube.ch",
-    "t": "ytch",
-    "u": "https://www.youtube.ch/results?search_query={{{s}}}",
     "c": "Multimedia",
     "sc": "Video"
   },
@@ -107243,22 +107155,6 @@
     "sc": "Video"
   },
   {
-    "s": "Youtube ES",
-    "d": "www.youtube.com",
-    "t": "ytes",
-    "u": "https://www.youtube.com/results?search_query={{{s}}}&gl=ES&hl=es",
-    "c": "Entertainment",
-    "sc": "TV"
-  },
-  {
-    "s": "YouTube France",
-    "d": "www.youtube.fr",
-    "t": "ytfr",
-    "u": "https://www.youtube.fr/results?search_query={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Video"
-  },
-  {
     "s": "YouTube Gaming",
     "d": "gaming.youtube.com",
     "t": "ytgaming",
@@ -107281,14 +107177,6 @@
     "u": "https://www.youtube.com/feed/history?query={{{s}}}",
     "c": "Research",
     "sc": "Reference"
-  },
-  {
-    "s": "YouTube India",
-    "d": "in.youtube.com",
-    "t": "yti",
-    "u": "https://in.youtube.com/results?search_query={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Video"
   },
   {
     "s": "Yahoo! Travel Japan",
@@ -107339,34 +107227,10 @@
     "sc": "Music"
   },
   {
-    "s": "YouTube (MX)",
-    "d": "www.youtube.com",
-    "t": "ytmx",
-    "u": "https://www.youtube.com/results?search_query={{{s}}}&gl=MX",
-    "c": "Online Services",
-    "sc": "Google"
-  },
-  {
     "s": "Youtube Music",
     "d": "music.youtube.com",
     "t": "ytm",
     "u": "https://music.youtube.com/search?q={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Video"
-  },
-  {
-    "s": "YouTube News DE",
-    "d": "youtubenews.de",
-    "t": "ytn",
-    "u": "https://youtubenews.de/?s={{{s}}}",
-    "c": "News",
-    "sc": "Magazine"
-  },
-  {
-    "s": "YouTube On Repeat",
-    "d": "youtubeonrepeat.com",
-    "t": "ytor",
-    "u": "http://youtubeonrepeat.com/results/?search_query={{{s}}}",
     "c": "Multimedia",
     "sc": "Video"
   },
@@ -107409,14 +107273,6 @@
     "u": "https://tv.youtube.com/search/{{{s}}}",
     "c": "Entertainment",
     "sc": "TV"
-  },
-  {
-    "s": "YouTube (US)",
-    "d": "www.youtube.com",
-    "t": "ytus",
-    "u": "https://www.youtube.com/results?search_query={{{s}}}&gl=US",
-    "c": "Online Services",
-    "sc": "Google"
   },
   {
     "s": "Youtube video",
