@@ -2400,14 +2400,6 @@
     "sc": "Blogs"
   },
   {
-    "s": "Afrikaans Wikipedia",
-    "d": "af.wikipedia.org",
-    "t": "afwiki",
-    "u": "https://af.wikipedia.org/w/index.php?search={{{s}}}&title=Spesiaal%3ASoek&go=Wys",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
     "s": "Agame",
     "d": "www.agame.com",
     "t": "agame",
@@ -18924,14 +18916,6 @@
     "sc": "Languages (scheme)"
   },
   {
-    "s": "Wikipedia (cs)",
-    "d": "cs.wikipedia.org",
-    "t": "cswiki",
-    "u": "https://cs.wikipedia.org/wiki/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Search (non-US)"
-  },
-  {
     "s": "CTAN.org",
     "d": "ctan.org",
     "t": "ctan",
@@ -19308,14 +19292,6 @@
     "sc": "Programming"
   },
   {
-    "s": "Wikipedia - Zitierhilfe",
-    "d": "de.wikipedia.org",
-    "t": "cwde",
-    "u": "https://de.wikipedia.org/w/index.php?title=Spezial:Zitierhilfe&page={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "Chrome Web Store",
     "d": "chrome.google.com",
     "t": "cwebstore",
@@ -19330,14 +19306,6 @@
     "u": "https://cse.google.com/cse?oe=utf8&ie=utf8&source=uds&q={{{s}}}&start=0&cx=012899561505164599335:tb0er0xsk_o",
     "c": "Tech",
     "sc": "Programming"
-  },
-  {
-    "s": "Wikipedia - Cite This Page",
-    "d": "en.wikipedia.org",
-    "t": "cwen",
-    "u": "https://en.wikipedia.org/wiki/Special:CiteThisPage?page={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
   },
   {
     "s": "CWJobs",
@@ -22122,22 +22090,6 @@
     "u": "https://dev.tube?q={{{s}}}",
     "c": "Tech",
     "sc": "Programming"
-  },
-  {
-    "s": "de.wikipedia.org",
-    "d": "de.wikipedia.org",
-    "t": "dew",
-    "u": "https://de.wikipedia.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
-    "s": "de.wikipedia.org",
-    "d": "de.wikipedia.org",
-    "t": "dewiki",
-    "u": "https://de.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Topical"
   },
   {
     "s": "de.wikihow.com",
@@ -27744,14 +27696,6 @@
     "sc": "Jobs"
   },
   {
-    "s": "Βικιπαίδεια",
-    "d": "el.wikipedia.org",
-    "t": "elw",
-    "u": "https://el.wikipedia.org/w/index.php?search={{{s}}}&title=%CE%95%CE%B9%CE%B4%CE%B9%CE%BA%CF%8C%3A%CE%91%CE%BD%CE%B1%CE%B6%CE%AE%CF%84%CE%B7%CF%83%CE%B7&go=%CE%9C%CE%B5%CF%84%CE%AC%CE%B2%CE%B1%CF%83%CE%B7",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "Eve Lexicon",
     "d": "evelexicon.com",
     "t": "elx",
@@ -28158,14 +28102,6 @@
     "u": "https://www.encyclopediaofmath.org/index.php?title=Special:Search&search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
-  },
-  {
-    "s": "Wikipedia",
-    "d": "en.wikipedia.org",
-    "t": "encyclopedia",
-    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Academic"
   },
   {
     "s": "Google Translate - English to Welsh",
@@ -43127,22 +43063,6 @@
     "sc": "Games (offline)"
   },
   {
-    "s": "Google de.Wikipedia",
-    "d": "www.google.de",
-    "t": "gwpde",
-    "u": "https://www.google.de/search?ie=UTF-8&sourceid=navclient&gfns=1&q=site:de.wikipedia.org+{{{s}}}",
-    "c": "Online Services",
-    "sc": "Google"
-  },
-  {
-    "s": "Google Wikipedia",
-    "d": "www.google.com",
-    "t": "gwp",
-    "u": "https://www.google.com/search?q={{{s}}}%20site:wikipedia.org",
-    "c": "Online Services",
-    "sc": "Google"
-  },
-  {
     "s": "Guinness World Records",
     "d": "www.guinnessworldrecords.com",
     "t": "gwr",
@@ -44005,14 +43925,6 @@
     "u": "https://www.heb.com/search/?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
-  },
-  {
-    "s": "Hebrew Wikipedia",
-    "d": "he.wikipedia.org",
-    "t": "hebwiki",
-    "u": "https://he.wikipedia.org/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go",
-    "c": "Research",
-    "sc": "Reference"
   },
   {
     "s": "Hazme El Chingado Favor",
@@ -45971,14 +45883,6 @@
     "u": "https://halo.umbc.edu/cgi-bin/haloweb/nrc1.pl?display=json&operation=search&keyword={{{s}}}",
     "c": "Research",
     "sc": "Reference (science)"
-  },
-  {
-    "s": "Hindi Wikipedia",
-    "d": "hi.wikipedia.org",
-    "t": "hwiki",
-    "u": "https://hi.wikipedia.org/w/index.php?search={{{s}}}&title=विशेष%3Aखोज&go=जाएँ&ns0=1",
-    "c": "Research",
-    "sc": "Learning"
   },
   {
     "s": "Hacking With Swift",
@@ -48494,14 +48398,6 @@
     "sc": "Tracking"
   },
   {
-    "s": "Wikipedia IPA guide",
-    "d": "en.wikipedia.org",
-    "t": "ipa",
-    "u": "https://en.wikipedia.org/wiki/Help:IPA/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference (science)"
-  },
-  {
     "s": "Internet Pinball Database",
     "d": "www.ipdb.org",
     "t": "ipdb",
@@ -49204,14 +49100,6 @@
     "sc": "TV"
   },
   {
-    "s": "Italian Wikipedia",
-    "d": "it.wikipedia.org",
-    "t": "itwiki",
-    "u": "https://it.wikipedia.org/wiki/Special:Search?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "Indiana University Knowledge Base",
     "d": "kb.iu.edu",
     "t": "iukb",
@@ -49624,22 +49512,6 @@
     "d": "ja.wikibooks.org",
     "t": "jawb",
     "u": "https://ja.wikibooks.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "Japanese Wikipedia",
-    "d": "ja.wikipedia.org",
-    "t": "jawiki",
-    "u": "https://ja.wikipedia.org/wiki/{{{s}}} ",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "Japanese Wikipedia",
-    "d": "ja.wikipedia.org",
-    "t": "jawp",
-    "u": "https://ja.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Reference"
   },
@@ -56788,14 +56660,6 @@
     "sc": "Academic"
   },
   {
-    "s": "Lithuanian Wikipedia",
-    "d": "lt.wikipedia.org",
-    "t": "ltwiki",
-    "u": "https://lt.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
     "s": "Lua 5.1 Documentation",
     "d": "www.lua.org",
     "t": "luadoc51",
@@ -61712,14 +61576,6 @@
     "sc": "Tools"
   },
   {
-    "s": "Wikipedia",
-    "d": "en.wikipedia.org",
-    "t": "module",
-    "u": "https://en.wikipedia.org/wiki/Module:{{{s}}}",
-    "c": "Tech",
-    "sc": "Languages (lua)"
-  },
-  {
     "s": "MODX",
     "d": "docs.modx.org",
     "t": "modx",
@@ -66100,22 +65956,6 @@
     "u": "https://www.verbix.com/webverbix/go.php?D1=24&T1={{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
-  },
-  {
-    "s": "Dutch Wikipedia",
-    "d": "nl.wikipedia.org",
-    "t": "nlwi",
-    "u": "https://nl.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "Dutch Wikipedia",
-    "d": "nl.wikipedia.org",
-    "t": "nlwiki",
-    "u": "https://nl.wikipedia.org/wiki/Speciaal:Zoeken/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Search (non-US)"
   },
   {
     "s": "Nolife-Wiki",
@@ -73300,14 +73140,6 @@
     "sc": "Maps"
   },
   {
-    "s": "Polish Wikipedia",
-    "d": "pl.wikipedia.org",
-    "t": "plw",
-    "u": "https://pl.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools"
-  },
-  {
     "s": "PLyrics.com",
     "d": "search.plyrics.com",
     "t": "plyrics",
@@ -75896,14 +75728,6 @@
     "u": "https://haveibeenpwned.com/account/{{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
-  },
-  {
-    "s": "Persian Wikipedia",
-    "d": "fa.wikipedia.org",
-    "t": "pwp",
-    "u": "https://fa.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Reference"
   },
   {
     "s": "Pricewatch",
@@ -80792,22 +80616,6 @@
     "sc": "Video"
   },
   {
-    "s": "Russian Wikipedia (Википедия)",
-    "d": "ru.wikipedia.org",
-    "t": "ruwiki",
-    "u": "https://ru.wikipedia.org/w/index.php?search={{{s}}} ",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "ru.WikiPedia.org",
-    "d": "ru.wikipedia.org",
-    "t": "ruwk",
-    "u": "https://ru.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Docs"
-  },
-  {
     "s": "Red vs. Blue Wiki",
     "d": "rvb.wikia.com",
     "t": "rvb",
@@ -83324,14 +83132,6 @@
     "u": "https://www.seur.com/seguimiento-online.do?segOnlineIdentificador={{{s}}}",
     "c": "Shopping",
     "sc": "Services"
-  },
-  {
-    "s": "Simple English Wikipedia (short bang)",
-    "d": "simple.wikipedia.org",
-    "t": "se.w",
-    "u": "https://simple.wikipedia.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
   },
   {
     "s": "Seznam",
@@ -89212,14 +89012,6 @@
     "sc": "Academic"
   },
   {
-    "s": "Simple English Wikipedia",
-    "d": "simple.wikipedia.org",
-    "t": "sw",
-    "u": "https://simple.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "Switch Technology",
     "d": "swtl.pt",
     "t": "swtl",
@@ -90164,14 +89956,6 @@
     "sc": "Social"
   },
   {
-    "s": "Tamil Wikipedia",
-    "d": "ta.wikipedia.org",
-    "t": "tawk",
-    "u": "https://ta.wikipedia.org/w/index.php?search= {{{s}}}&title=%E0%AE%9A%E0%AE%BF%E0%AE%B1%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%3ASearch&go=%E0%AE%9A%E0%AF%86%E0%AE%B2%E0%AF%8D",
-    "c": "Research",
-    "sc": "Learning (intl)"
-  },
-  {
     "s": "Tackle Warehouse",
     "d": "www.tacklewarehouse.com",
     "t": "taw",
@@ -90980,14 +90764,6 @@
     "sc": "Tech"
   },
   {
-    "s": "Wikipedia Templates",
-    "d": "en.wikipedia.org",
-    "t": "template",
-    "u": "https://en.wikipedia.org/wiki/Template:{{{s}}}",
-    "c": "Tech",
-    "sc": "Languages (lua)"
-  },
-  {
     "s": "https://temp-mail.org/",
     "d": "temp-mail.org",
     "t": "tempmail",
@@ -91210,14 +90986,6 @@
     "u": "https://eur-lex.europa.eu/search.html?wh0=DN%3D12012M*&lbStatus=ALL&qid=1459001887262&DTS_DOM=EU_LAW&ARTICLE_NUM={{{s}}}&treatyStatus=ARTICLE_NUMBER&type=advanced&lang=en&SUBDOM_INIT=TREATIES&legalCelex=TEU_2012&DTS_SUBDOM=TREATIES",
     "c": "Research",
     "sc": "Law"
-  },
-  {
-    "s": "Telugu Wikipedia",
-    "d": "te.wikipedia.org",
-    "t": "tewiki",
-    "u": "https://te.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
   },
   {
     "s": "Texdoc",
@@ -96074,14 +95842,6 @@
     "sc": "Music"
   },
   {
-    "s": "Ukrainian Wikipedia",
-    "d": "uk.wikipedia.org",
-    "t": "ukwiki",
-    "u": "https://uk.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
     "s": "Ulabox",
     "d": "www.ulabox.com",
     "t": "ulabox",
@@ -97392,7 +97152,7 @@
     "sc": "Maps"
   },
   {
-    "s": "Utopia Wikipedia",
+    "s": "Utopia Wiki",
     "d": "wiki.utopia-game.com",
     "t": "utopia",
     "u": "http://wiki.utopia-game.com/index.php?title=Special%3ASearch&search={{{s}}}&go=Go",
@@ -98526,14 +98286,6 @@
     "sc": "Government"
   },
   {
-    "s": "Vicipaedia",
-    "d": "la.wikipedia.org",
-    "t": "vici",
-    "u": "https://la.wikipedia.org/w/index.php?search={{{s}}} ",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
     "s": "VIDAL",
     "d": "www.vidal.fr",
     "t": "vidal",
@@ -98678,30 +98430,6 @@
     "sc": "Magazine"
   },
   {
-    "s": "Estonian Wikipedia (Vikipeedia)",
-    "d": "et.wikipedia.org",
-    "t": "viki",
-    "u": "https://et.wikipedia.org/w/index.php?search={{{s}}} ",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
-    "s": "Vikipedio (Esperanto Wikipedia)",
-    "d": "eo.wikipedia.org",
-    "t": "vikipedio",
-    "u": "https://eo.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "Vikipedi (Turkish Wikipedia)",
-    "d": "tr.wikipedia.org",
-    "t": "vikipedi",
-    "u": "https://tr.wikipedia.org/wiki/Special:Search?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "Viki.com",
     "d": "www.viki.com",
     "t": "vik",
@@ -98812,14 +98540,6 @@
     "u": "https://www.vipon.com/promotion/index?search={{{s}}}",
     "c": "Shopping",
     "sc": "Online (deals)"
-  },
-  {
-    "s": "Viquipèdia",
-    "d": "ca.wikipedia.org",
-    "t": "viquipedia",
-    "u": "https://ca.wikipedia.org/w/index.php?search={{{s}}}&title=Especial%3ACerca&go=V%C3%A9s-hi",
-    "c": "Research",
-    "sc": "Learning"
   },
   {
     "s": "Virgilio Mail",
@@ -99062,14 +98782,6 @@
     "sc": "Misc"
   },
   {
-    "s": "Wikipedia Vietnamese",
-    "d": "vi.wikipedia.org",
-    "t": "vnwiki",
-    "u": "https://vi.wikipedia.org/w/index.php?search={{{s}}} ",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
     "s": "Voice of America News",
     "d": "www.voanews.com",
     "t": "voan",
@@ -99148,14 +98860,6 @@
     "u": "https://www.voedingswaardetabel.nl/voedingswaarde/?q={{{s}}}",
     "c": "Research",
     "sc": "Health"
-  },
-  {
-    "s": "Esperanta Vikipedio",
-    "d": "eo.wikipedia.org",
-    "t": "vo",
-    "u": "https://eo.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
   },
   {
     "s": "Vogue.co.uk",
@@ -99926,14 +99630,6 @@
     "sc": "Magazine"
   },
   {
-    "s": "Wikipedia Alemannisch",
-    "d": "als.wikipedia.org",
-    "t": "wals",
-    "u": "https://als.wikipedia.org/w/index.php/search={{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools"
-  },
-  {
     "s": "WolframAlpha Mobile",
     "d": "m.wolframalpha.com",
     "t": "wam",
@@ -99956,14 +99652,6 @@
     "u": "http://wanelo.com/search?query={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
-  },
-  {
-    "s": "Wikipedia (AN)",
-    "d": "an.wikipedia.org",
-    "t": "wan",
-    "u": "https://an.wikipedia.org/w/index.php?search={{{s}}}&title=Especial%3AMirar",
-    "c": "Research",
-    "sc": "Reference"
   },
   {
     "s": "Weston A Price Foundation",
@@ -100020,14 +99708,6 @@
     "u": "https://search.warwick.ac.uk/?q={{{s}}}",
     "c": "Online Services",
     "sc": "Search (Private)"
-  },
-  {
-    "s": "Wikipedia (AR)",
-    "d": "ar.wikipedia.org",
-    "t": "war",
-    "u": "https://ar.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
   },
   {
     "s": "Waschbär",
@@ -100176,14 +99856,6 @@
     "sc": "Academic"
   },
   {
-    "s": "Vikipediya (AZ)",
-    "d": "az.wikipedia.org",
-    "t": "waz",
-    "u": "https://az.wikipedia.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
     "s": "web3data",
     "d": "wb3.io",
     "t": "wb3",
@@ -100214,14 +99886,6 @@
     "u": "https://www.reddit.com/r/worldbuilding/?q={{{s}}}&restrict_sr=on&include_over_18=on&sort=relevance&t=all",
     "c": "Entertainment",
     "sc": "Misc"
-  },
-  {
-    "s": "Wikipedia (BG)",
-    "d": "bg.wikipedia.org",
-    "t": "wbg",
-    "u": "https://bg.wikipedia.org/wiki/Special:Search?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
   },
   {
     "s": "Wooledge - Greg's Wiki",
@@ -100275,22 +99939,6 @@
     ]
   },
   {
-    "s": "Wikipedia Brezhoneg",
-    "d": "br.wikipedia.org",
-    "t": "wbr",
-    "u": "https://br.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
-    "s": "Wikipedia (BR)",
-    "d": "pt.wikipedia.org",
-    "t": "w.br",
-    "u": "https://pt.wikipedia.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
     "s": "Wayback Maschine",
     "d": "web.archive.org",
     "t": "wbs",
@@ -100332,22 +99980,6 @@
     "u": "https://www.wikicanaan.org/wiki/bienvenue?do=search&id={{{s}}}&fulltext=Recherche",
     "c": "Entertainment",
     "sc": "Misc"
-  },
-  {
-    "s": "Viquipèdia",
-    "d": "ca.wikipedia.org",
-    "t": "wcat",
-    "u": "https://ca.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
-    "s": "Wikipedia (CA)",
-    "d": "ca.wikipedia.org",
-    "t": "wca",
-    "u": "https://ca.wikipedia.org/wiki/Special:Search?search={{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
   },
   {
     "s": "Washington County Cooperative Library Services",
@@ -100398,14 +100030,6 @@
     "sc": "Online"
   },
   {
-    "s": "Wikipedia (Cs)",
-    "d": "cs.wikipedia.org",
-    "t": "wcs",
-    "u": "https://cs.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Learning (intl)"
-  },
-  {
     "s": "The Weather Channel",
     "d": "www.weather.com",
     "t": "wc",
@@ -100422,76 +100046,12 @@
     "sc": "Reference"
   },
   {
-    "s": "Wikipedia (CY)",
-    "d": "cy.wikipedia.org",
-    "t": "wcy",
-    "u": "https://cy.wikipedia.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
-    "s": "Czech Wikipedia",
-    "d": "cs.wikipedia.org",
-    "t": "wcz",
-    "u": "https://cs.wikipedia.org/w/index.php?search={{{s}}}&title=Speci%C3%A1ln%C3%AD%3AHled%C3%A1n%C3%AD&go=J%C3%ADt+na",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
-    "s": "Wikipedia (DA)",
-    "d": "da.wikipedia.org",
-    "t": "wda",
-    "u": "https://da.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
-    "s": "Wikipedia (DE)",
-    "d": "de.wikipedia.org",
-    "t": "wde",
-    "u": "https://de.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "Wikipedia DE",
-    "d": "de.wikipedia.org",
-    "t": "w.de",
-    "u": "https://de.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
-    "s": "WikiDex",
-    "d": "es.pokemon.wikia.com",
-    "t": "wdex",
-    "u": "http://es.pokemon.wikia.com/wiki/Especial:Buscar?query={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (Pokemon)"
-  },
-  {
-    "s": "wikipedia.org Band Discography",
-    "d": "en.wikipedia.org",
-    "t": "wdg",
-    "u": "https://en.wikipedia.org/w/index.php?title=Special:Search&search={{{s}}}+discography&go=Go",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "wiktionary",
     "d": "en.wiktionary.org",
     "t": "wdic",
     "u": "https://en.wiktionary.org/wiki/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
-  },
-  {
-    "s": "Wikipedia (DK)",
-    "d": "da.wikipedia.org",
-    "t": "wdk",
-    "u": "https://da.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
   },
   {
     "s": "Wordreference",
@@ -100985,14 +100545,6 @@
     "sc": "Search"
   },
   {
-    "s": "Greek Wikipedia",
-    "d": "el.wikipedia.org",
-    "t": "wel",
-    "u": "https://el.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Learning (intl)"
-  },
-  {
     "s": "welk lidwoord",
     "d": "www.welklidwoord.nl",
     "t": "welklidwoord",
@@ -101015,30 +100567,6 @@
     "u": "https://www.wordreference.com/enfr/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
-  },
-  {
-    "s": "Wikipedia (English)",
-    "d": "en.wikipedia.org",
-    "t": "w.en",
-    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
-    "s": "Wikipedia (EN)",
-    "d": "en.wikipedia.org",
-    "t": "wen",
-    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
-    "s": "Wikipedia (EO)",
-    "d": "eo.wikipedia.org",
-    "t": "weo",
-    "u": "https://eo.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Academic"
   },
   {
     "s": "WerStreamt.es",
@@ -101089,22 +100617,6 @@
     "sc": "Academic"
   },
   {
-    "s": "Wikipedia (ES)",
-    "d": "es.wikipedia.org",
-    "t": "wes",
-    "u": "https://es.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
-    "s": "Wikipedia in Spanish",
-    "d": "en.wikipedia.org",
-    "t": "w-es",
-    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "Nederlandse wet- en regelgeving",
     "d": "wetten.overheid.nl",
     "t": "wetten",
@@ -101135,38 +100647,6 @@
     "u": "https://www.wetter.com/suche/?q={{{s}}}",
     "c": "News",
     "sc": "Weather"
-  },
-  {
-    "s": "Wikipedia Euskaraz (in Basque)",
-    "d": "eu.wikipedia.org",
-    "t": "weus",
-    "u": "https://eu.wikipedia.org/wiki/Special:Search?search={{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
-    "s": "Wikipedia",
-    "d": "eu.wikipedia.org",
-    "t": "weu",
-    "u": "https://eu.wikipedia.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Learning (intl)"
-  },
-  {
-    "s": "Wikipedia",
-    "d": "en.wikipedia.org",
-    "t": "we",
-    "u": "https://en.wikipedia.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "Persian Wikipedia",
-    "d": "fa.wikipedia.org",
-    "t": "wfa",
-    "u": "https://fa.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
   },
   {
     "s": "Webfordítás de-hu",
@@ -101225,14 +100705,6 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "fr.wikipedia.org",
-    "d": "fr.wikipedia.org",
-    "t": "wf",
-    "u": "https://fr.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Online Services",
-    "sc": "Search (non-US)"
-  },
-  {
     "s": "Webfordítás hu-de",
     "d": "www.webforditas.hu",
     "t": "wfhude",
@@ -101249,28 +100721,12 @@
     "sc": "Tools"
   },
   {
-    "s": "Wikipedia Finland",
-    "d": "fi.wikipedia.org",
-    "t": "wfi",
-    "u": "https://fi.wikipedia.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Topical"
-  },
-  {
     "s": "Whole Foods Recipes",
     "d": "www.wholefoodsmarket.com",
     "t": "wfm",
     "u": "https://www.wholefoodsmarket.com/site_search/{{{s}}} ",
     "c": "Entertainment",
     "sc": "Misc"
-  },
-  {
-    "s": "Faroese Wikipedia",
-    "d": "fo.wikipedia.org",
-    "t": "wfo",
-    "u": "https://fo.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Online Services",
-    "sc": "Search"
   },
   {
     "s": "WorldFootball",
@@ -101297,14 +100753,6 @@
     "sc": "Tools"
   },
   {
-    "s": "Wikipedia (FR)",
-    "d": "fr.wikipedia.org",
-    "t": "wfr",
-    "u": "https://fr.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
     "s": "warframe.market",
     "d": "warframe.market",
     "t": "wft",
@@ -101329,30 +100777,6 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "Frisian Wikipedia",
-    "d": "fy.wikipedia.org",
-    "t": "wfy",
-    "u": "https://fy.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "Irish Wikipedia",
-    "d": "ga.wikipedia.org",
-    "t": "wga",
-    "u": "https://ga.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "Galipedia",
-    "d": "gl.wikipedia.org",
-    "t": "wgal",
-    "u": "https://gl.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
     "s": "WGBH News",
     "d": "wgbhnews.org",
     "t": "wgbh",
@@ -101361,36 +100785,12 @@
     "sc": "Broadcast"
   },
   {
-    "s": "wikipedia german",
-    "d": "de.wikipedia.org",
-    "t": "wge",
-    "u": "https://de.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
-    "s": "Wikipedia en Galego",
-    "d": "gl.wikipedia.org",
-    "t": "wgl",
-    "u": "https://gl.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
     "s": "forecast.weather.gov",
     "d": "forecast.weather.gov",
     "t": "wgov",
     "u": "https://forecast.weather.gov/zipcity.php?inputstring={{{s}}} ",
     "c": "News",
     "sc": "Weather"
-  },
-  {
-    "s": "Wikipedia (GR)",
-    "d": "el.wikipedia.org",
-    "t": "wgr",
-    "u": "https://el.wikipedia.org/wiki/Special:Search?search={{{s}}} &go=Go&go=Go&go=Go",
-    "c": "Research",
-    "sc": "Learning"
   },
   {
     "s": "Walgreens",
@@ -101497,14 +100897,6 @@
     "sc": "Topical"
   },
   {
-    "s": "Wikipedia (HE)",
-    "d": "he.wikipedia.org",
-    "t": "whe",
-    "u": "https://he.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
     "s": "The World's Healthiest Foods",
     "d": "whfoods.org",
     "t": "whfoods",
@@ -101599,14 +100991,6 @@
     "u": "http://www.archives.nd.edu/cgi-bin/wordz.pl?keyword={{{s}}}",
     "c": "Research",
     "sc": "Academic"
-  },
-  {
-    "s": "Wikipedia (HI)",
-    "d": "hi.wikipedia.org",
-    "t": "whi",
-    "u": "https://hi.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Learning"
   },
   {
     "s": "http://whirlpool.net.au/",
@@ -101745,28 +101129,12 @@
     "sc": "Reference (fun)"
   },
   {
-    "s": "Wikipedija",
-    "d": "hr.wikipedia.org",
-    "t": "whr",
-    "u": "https://hr.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Learning (intl)"
-  },
-  {
     "s": "Who Hosts This Site?",
     "d": "www.who-hosts-this.com",
     "t": "wht",
     "u": "https://www.who-hosts-this.com/?s={{{s}}}",
     "c": "Online Services",
     "sc": "Tools (URLs)"
-  },
-  {
-    "s": "Wikipedia Hungary",
-    "d": "hu.wikipedia.org",
-    "t": "whu",
-    "u": "https://hu.wikipedia.org/w/index.php?search={{{s}}}&button=&title=Speci%C3%A1lis%3AKeres%C3%A9s",
-    "c": "Research",
-    "sc": "Learning (intl)"
   },
   {
     "s": "wikiHow",
@@ -101783,14 +101151,6 @@
     "u": "https://wikihow.com/wikiHowTo?search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
-  },
-  {
-    "s": "Armenian Wikipedia (HY)",
-    "d": "hy.wikipedia.org",
-    "t": "w-hy",
-    "u": "https://hy.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
   },
   {
     "s": "WikiAventurica (de)",
@@ -101825,28 +101185,12 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "Wikipedia (ID)",
-    "d": "id.wikipedia.org",
-    "t": "wid",
-    "u": "https://id.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
     "s": "wie-sagt-man-noch.de",
     "d": "www.wie-sagt-man-noch.de",
     "t": "wie",
     "u": "https://www.wie-sagt-man-noch.de/synonyme/{{{s}}}.html",
     "c": "Online Services",
     "sc": "Search"
-  },
-  {
-    "s": "Wikipedia-FI",
-    "d": "fi.wikipedia.org",
-    "t": "wi-fi",
-    "u": "https://fi.wikipedia.org/w/index.php?search={{{s}}} ",
-    "c": "Research",
-    "sc": "Reference"
   },
   {
     "s": "Wiktionary (Français)",
@@ -101925,14 +101269,6 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "Wikipédia Brasil",
-    "d": "pt.wikipedia.org",
-    "t": "wikibr",
-    "u": "https://pt.wikipedia.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
     "s": "WikiChips",
     "d": "en.wikichip.org",
     "t": "wikichips",
@@ -101981,22 +101317,6 @@
     "sc": "Design"
   },
   {
-    "s": "Wikipedia DE",
-    "d": "de.wikipedia.org",
-    "t": "wiki.de",
-    "u": "https://de.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
-    "s": "Wikipedia",
-    "d": "de.wikipedia.org",
-    "t": "wikide",
-    "u": "https://de.wikipedia.org/w/index.php?search={{{s}}} ",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "WikiDex",
     "d": "www.wikidex.net",
     "t": "wikidex",
@@ -102005,36 +101325,12 @@
     "sc": "Games (Pokemon)"
   },
   {
-    "s": "Wikipedia (English)",
-    "d": "en.wikipedia.org",
-    "t": "wikien",
-    "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}&title=Special:Search",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "Wikipedia (Spanish)",
-    "d": "es.wikipedia.org",
-    "t": "wikies",
-    "u": "https://es.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "WikiFeet",
     "d": "www.wikifeet.com",
     "t": "wikifeet",
     "u": "https://www.wikifeet.com/search/{{{s}}}",
     "c": "Multimedia",
     "sc": "Images"
-  },
-  {
-    "s": "Wikipedia French",
-    "d": "fr.wikipedia.org",
-    "t": "wikifr",
-    "u": "https://fr.wikipedia.org/wiki/Special:Search?search={{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
   },
   {
     "s": "WikiFur",
@@ -102061,28 +101357,12 @@
     "sc": "Libraries/Frameworks"
   },
   {
-    "s": "Wikipedia Bahasa Indonesia",
-    "d": "id.wikipedia.org",
-    "t": "wikiid",
-    "u": "https://id.wikipedia.org/w/index.php?search={{{s}}} ",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "WikiIndex",
     "d": "wikiindex.org",
     "t": "wikiindex",
     "u": "https://wikiindex.org/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Topical"
-  },
-  {
-    "s": "wikipedia(ko)",
-    "d": "ko.wikipedia.org",
-    "t": "wikiko",
-    "u": "https://ko.wikipedia.org/wiki/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
   },
   {
     "s": "WikiLeaks",
@@ -102141,14 +101421,6 @@
     "sc": "Specialty"
   },
   {
-    "s": "Wikipedia Nederland",
-    "d": "nl.wikipedia.org",
-    "t": "wikinl",
-    "u": "https://nl.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Docs"
-  },
-  {
     "s": "wikipaintings",
     "d": "www.wikipaintings.org",
     "t": "wikipaintings",
@@ -102165,52 +101437,12 @@
     "sc": "Images"
   },
   {
-    "s": "Wikipedia Deutschland",
-    "d": "de.wikipedia.org",
-    "t": "wikipediade",
-    "u": "https://de.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools"
-  },
-  {
-    "s": "Wikipedia in Italiano",
-    "d": "it.wikipedia.org",
-    "t": "wikipediait",
-    "u": "https://it.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
-    "s": "Wikipedia",
-    "d": "en.wikipedia.org",
-    "t": "wikipedia",
-    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
     "s": "Wikipediocracy (blog)",
     "d": "wikipediocracy.com",
     "t": "wikipediocracy",
     "u": "https://wikipediocracy.com/?s={{{s}}}",
     "c": "Tech",
     "sc": "Blogs"
-  },
-  {
-    "s": "Wikipedia Polska",
-    "d": "pl.wikipedia.org",
-    "t": "wiki.pl",
-    "u": "https://pl.wikipedia.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
-    "s": "Wikipédia PT",
-    "d": "pt.wikipedia.org",
-    "t": "wikipt",
-    "u": "https://pt.wikipedia.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
   },
   {
     "s": "Wikiquote",
@@ -102237,22 +101469,6 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "ru.wikipedia.org",
-    "d": "ru.wikipedia.org",
-    "t": "wikiru",
-    "u": "https://ru.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "Wikipedia-sco",
-    "d": "sco.wikipedia.org",
-    "t": "wikisco",
-    "u": "https://sco.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Learning (intl)"
-  },
-  {
     "s": "WikiSpaces",
     "d": "www.wiki.com",
     "t": "wikisearch",
@@ -102261,28 +101477,12 @@
     "sc": "Search"
   },
   {
-    "s": "Wikipedia Simple",
-    "d": "simple.wikipedia.org",
-    "t": "wikisimple",
-    "u": "https://simple.wikipedia.org/wiki/Special:Search?search={{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
     "s": "Wikisource",
     "d": "en.wikisource.org",
     "t": "wikisource",
     "u": "https://en.wikisource.org/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go",
     "c": "Research",
     "sc": "Academic"
-  },
-  {
-    "s": "Wikispecies",
-    "d": "en.wikipedia.org",
-    "t": "wikispecies",
-    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Learning"
   },
   {
     "s": "wiki.splunk.com",
@@ -102347,14 +101547,6 @@
     "u": "https://wiki.vg/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (Minecraft)"
-  },
-  {
-    "s": "Wikipedia Vietnamese",
-    "d": "vi.wikipedia.org",
-    "t": "wiki-vn",
-    "u": "https://vi.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
   },
   {
     "s": "Wikivoyage (Deutsch)",
@@ -102499,14 +101691,6 @@
     "u": "https://www.wikiwand.com/en/{{{s}}}",
     "c": "Research",
     "sc": "Reference"
-  },
-  {
-    "s": "Wikipedia",
-    "d": "en.wikipedia.org",
-    "t": "wiki",
-    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Academic"
   },
   {
     "s": "Zimbra wiki",
@@ -102913,14 +102097,6 @@
     "sc": "Academic"
   },
   {
-    "s": "Wikipedia IS",
-    "d": "is.wikipedia.org",
-    "t": "wis",
-    "u": "https://is.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "Wiktionary(GR)",
     "d": "el.m.wiktionary.org",
     "t": "witgr",
@@ -102937,38 +102113,6 @@
     "sc": "Reference"
   },
   {
-    "s": "Wikipedia (IT)",
-    "d": "it.wikipedia.org",
-    "t": "wit",
-    "u": "https://it.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
-    "s": "Wikipedia",
-    "d": "en.wikipedia.org",
-    "t": "wi",
-    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "wikipedia(Chinese)",
-    "d": "zh.wikipedia.org",
-    "t": "wizh",
-    "u": "https://zh.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words)"
-  },
-  {
-    "s": "Wikipedia (JA)",
-    "d": "ja.wikipedia.org",
-    "t": "wja",
-    "u": "https://ja.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
     "s": "WJEC",
     "d": "www.wjec.co.uk",
     "t": "wjec",
@@ -102983,14 +102127,6 @@
     "u": "https://wiki.jvflux.com/index.php?title=Spécial:Recherche&search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
-  },
-  {
-    "s": "Wikipedia in Japanese",
-    "d": "ja.wikipedia.org",
-    "t": "wj",
-    "u": "https://ja.wikipedia.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
   },
   {
     "s": "Wikisage nl",
@@ -103033,14 +102169,6 @@
     "sc": "Tools (URLs)"
   },
   {
-    "s": "Kazakh Wikipedia",
-    "d": "kk.wikipedia.org",
-    "t": "wkk",
-    "u": "https://kk.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "Lithuanian Wiktionary (Vikižodynas)",
     "d": "lt.wiktionary.org",
     "t": "wklt",
@@ -103055,30 +102183,6 @@
     "u": "https://www.wikiloc.com/wikiloc/find.do?q={{{s}}}",
     "c": "Research",
     "sc": "Travel"
-  },
-  {
-    "s": "Wikipedia Mobile",
-    "d": "en.m.wikipedia.org",
-    "t": "wkm",
-    "u": "https://en.m.wikipedia.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "Kannada Wikipedia",
-    "d": "kn.wikipedia.org",
-    "t": "wkn",
-    "u": "https://kn.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "Wikipedia (KO)",
-    "d": "ko.wikipedia.org",
-    "t": "wko",
-    "u": "https://ko.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Learning"
   },
   {
     "s": "Wykop.pl",
@@ -103129,28 +102233,12 @@
     "sc": "Academic"
   },
   {
-    "s": "wikipedia",
-    "d": "en.wikipedia.org",
-    "t": "wk",
-    "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
     "s": "WiiLord95",
     "d": "www.youtube.com",
     "t": "wl95",
     "u": "https://www.youtube.com/user/WiiLord95/search?query={{{s}}}",
     "c": "Multimedia",
     "sc": "Video"
-  },
-  {
-    "s": "Latin Wikipedia",
-    "d": "la.wikipedia.org",
-    "t": "wla",
-    "u": "https://la.wikipedia.org/w/index.php?search={{{s}}} ",
-    "c": "Research",
-    "sc": "Reference"
   },
   {
     "s": "TV Wunschliste",
@@ -103193,22 +102281,6 @@
     "sc": "Academic (math/cs)"
   },
   {
-    "s": "Vikipedija (Wikipedia LT)",
-    "d": "lt.wikipedia.org",
-    "t": "wlt",
-    "u": "https://lt.wikipedia.org/w/?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "Wikipedia (LV)",
-    "d": "lv.wikipedia.org",
-    "t": "wlv",
-    "u": "https://lv.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
     "s": "WikiLeaks",
     "d": "search.wikileaks.org",
     "t": "wl",
@@ -103241,14 +102313,6 @@
     "sc": "General"
   },
   {
-    "s": "Wikipedia Deutsch Mobile",
-    "d": "de.m.wikipedia.org",
-    "t": "wmde",
-    "u": "https://de.m.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
     "s": "What's My DNS",
     "d": "www.whatsmydns.net",
     "t": "wmdns",
@@ -103273,28 +102337,12 @@
     "sc": "Aggregators"
   },
   {
-    "s": "Wikipedia French mobile",
-    "d": "fr.m.wikipedia.org",
-    "t": "wmfr",
-    "u": "https://fr.m.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
     "s": "WebMoney Transfer",
     "d": "passport.webmoney.ru",
     "t": "wmid",
     "u": "https://passport.webmoney.ru/asp/CertView.asp?wmid={{{s}}}",
     "c": "Online Services",
     "sc": "Search"
-  },
-  {
-    "s": "Wikipedia (Malayalam)",
-    "d": "ml.wikipedia.org",
-    "t": "wml",
-    "u": "https://ml.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words)"
   },
   {
     "s": "World Meteorological Organisation",
@@ -103321,44 +102369,12 @@
     "sc": "Languages (Mathematica)"
   },
   {
-    "s": "Wikipedia Mobile (Serbia)",
-    "d": "sr.m.wikipedia.org",
-    "t": "wmsr",
-    "u": "https://sr.m.wikipedia.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
-    "s": "Maltese Wikipedia",
-    "d": "mt.wikipedia.org",
-    "t": "wmt",
-    "u": "https://mt.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "meteovista",
     "d": "www.meteovista.com",
     "t": "wmv",
     "u": "https://www.meteovista.com/Go/Search/SearchResults?searchCriteria={{{s}}}&pageIndex=0&searchAction=WeatherInformation",
     "c": "News",
     "sc": "Weather"
-  },
-  {
-    "s": "Wikipedia mobile",
-    "d": "en.m.wikipedia.org",
-    "t": "wm",
-    "u": "https://en.m.wikipedia.org/wiki?search={{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
-    "s": "Wikipedia Myanmar",
-    "d": "my.wikipedia.org",
-    "t": "wmy",
-    "u": "https://my.wikipedia.org/w/index.php?title=Special:Search&search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
   },
   {
     "s": "Kagi Search",
@@ -103399,30 +102415,6 @@
     "u": "https://www.wordnik.com/words/?myWord={{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
-  },
-  {
-    "s": "Wikipedia (NL)",
-    "d": "nl.wikipedia.org",
-    "t": "wnl",
-    "u": "https://nl.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "Wikipedia Nynorsk",
-    "d": "nn.wikipedia.org",
-    "t": "wnn",
-    "u": "https://nn.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
-    "s": "Norwegian Wikipedia",
-    "d": "no.wikipedia.org",
-    "t": "wno",
-    "u": "https://no.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
   },
   {
     "s": "WNP.pl",
@@ -104177,22 +103169,6 @@
     "sc": "Libraries/Frameworks (wordpress)"
   },
   {
-    "s": "Wikipedia (FR)",
-    "d": "fr.wikipedia.org",
-    "t": "wpfr",
-    "u": "https://fr.wikipedia.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Learning (intl)"
-  },
-  {
-    "s": "Wikipedia (PL)",
-    "d": "pl.wikipedia.org",
-    "t": "wpl",
-    "u": "https://pl.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
     "s": "Washington Post",
     "d": "www.washingtonpost.com",
     "t": "wpost",
@@ -104247,14 +103223,6 @@
     "u": "https://wordpress.org/extend/themes/search.php?q={{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
-  },
-  {
-    "s": "Wikipedia (PT)",
-    "d": "pt.wikipedia.org",
-    "t": "wpt",
-    "u": "https://pt.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Academic"
   },
   {
     "s": "WordPress VIP",
@@ -104319,14 +103287,6 @@
     "u": "https://en.wikiquote.org/w/index.php?search={{{s}}}&title=Special%3ASearch",
     "c": "Research",
     "sc": "Reference"
-  },
-  {
-    "s": "Wikipedia Random in Category",
-    "d": "en.wikipedia.org",
-    "t": "wrand",
-    "u": "https://en.wikipedia.org/wiki/Special:RandomInCategory/{{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
   },
   {
     "s": "Wolfram|Alpha",
@@ -104705,14 +103665,6 @@
     "sc": "Tools"
   },
   {
-    "s": "wikipedia",
-    "d": "ro.wikipedia.org",
-    "t": "wro",
-    "u": "https://ro.wikipedia.org/w/index.php?search={{{s}}}&title=Special%3AC%C4%83utare",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
     "s": "Word Reference Portuguese to English",
     "d": "www.wordreference.com",
     "t": "wrpe",
@@ -104809,22 +103761,6 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "Russian Wikipedia",
-    "d": "ru.wikipedia.org",
-    "t": "w.ru",
-    "u": "https://ru.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "Wikipedia (RU)",
-    "d": "ru.wikipedia.org",
-    "t": "wru",
-    "u": "https://ru.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
     "s": "WordReference Definition",
     "d": "www.wordreference.com",
     "t": "wr",
@@ -104841,22 +103777,6 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "Wikipedia (Scots)",
-    "d": "sco.wikipedia.org",
-    "t": "wsco",
-    "u": "https://sco.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Learning (intl)"
-  },
-  {
-    "s": "Sardinian Wikipedia",
-    "d": "sc.wikipedia.org",
-    "t": "wsc",
-    "u": "https://sc.wikipedia.org/wiki/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools"
-  },
-  {
     "s": "Wikisource Deutsch",
     "d": "de.wikisource.org",
     "t": "wsde",
@@ -104871,14 +103791,6 @@
     "u": "https://www.wesleyseminary.edu/?s={{{s}}}",
     "c": "Research",
     "sc": "Academic"
-  },
-  {
-    "s": "Wikipedia – Friddje diehtosátnegirji",
-    "d": "se.wikipedia.org",
-    "t": "wse",
-    "u": "https://se.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
   },
   {
     "s": "Wikisource (FR)",
@@ -104921,22 +103833,6 @@
     "sc": "Reference (religion)"
   },
   {
-    "s": "Wikipedia (Simple English)",
-    "d": "simple.wikipedia.org",
-    "t": "wsimple",
-    "u": "https://simple.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "Slovenian Wikipedia ",
-    "d": "sl.wikipedia.org",
-    "t": "wsi",
-    "u": "https://sl.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "MarketWatch",
     "d": "www.marketwatch.com",
     "t": "wsjmw",
@@ -104961,22 +103857,6 @@
     "sc": "Newspaper"
   },
   {
-    "s": "Wikipédia Slovenčina",
-    "d": "sk.wikipedia.org",
-    "t": "wsk",
-    "u": "https://sk.wikipedia.org/wiki/Special:Search?search={{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
-    "s": "Wikipedia (SL)",
-    "d": "sl.wikipedia.org",
-    "t": "wsl",
-    "u": "https://sl.wikipedia.org/w/index.php?title=Special%3ASearch&profile=default&search={{{s}}}",
-    "c": "Research",
-    "sc": "Learning (intl)"
-  },
-  {
     "s": "Wall Street Oasis Forums",
     "d": "www.wallstreetoasis.com",
     "t": "wso",
@@ -104993,26 +103873,10 @@
     "sc": "Reference (science)"
   },
   {
-    "s": "https://sr.wikipedia.org/wiki/",
-    "d": "sr.wikipedia.org",
-    "t": "wsr",
-    "u": "https://sr.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools"
-  },
-  {
     "s": "Wayne State University",
     "d": "wayne.edu",
     "t": "wsu",
     "u": "https://wayne.edu/search/?q={{{s}}}&type=all",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
-    "s": "Wikipedia (SV)",
-    "d": "sv.wikipedia.org",
-    "t": "wsv",
-    "u": "https://sv.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
     "c": "Research",
     "sc": "Academic"
   },
@@ -105135,14 +103999,6 @@
     "u": "https://es.wiktionary.org/w/index.php?search={{{s}}}&button=&title=Especial%3ABuscar",
     "c": "Research",
     "sc": "Reference (words)"
-  },
-  {
-    "s": "Telugu Wikipedia (tewiki)",
-    "d": "te.wikipedia.org",
-    "t": "wte",
-    "u": "https://te.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
   },
   {
     "s": "Wiktionary (Finnish)",
@@ -105293,14 +104149,6 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "Vikipedi (Turkish Wikipedia)",
-    "d": "tr.wikipedia.org",
-    "t": "wtr",
-    "u": "https://tr.wikipedia.org/wiki/Special:Search?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "Westminster Bookstore",
     "d": "www.wtsbooks.com",
     "t": "wtsbooks",
@@ -105341,14 +104189,6 @@
     "sc": "Weather"
   },
   {
-    "s": "Wikipedia Tatar",
-    "d": "tt.wikipedia.org",
-    "t": "wtt",
-    "u": "https://tt.wikipedia.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "Wiktionary tiếng Việt",
     "d": "vi.wiktionary.org",
     "t": "wtvi",
@@ -105387,14 +104227,6 @@
     "u": "https://s.wuage.com/product/search?keywords= {{{s}}}",
     "c": "Shopping",
     "sc": "Online (intl)"
-  },
-  {
-    "s": "Wikipedia (UK)",
-    "d": "uk.wikipedia.org",
-    "t": "wuk",
-    "u": "https://uk.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Academic"
   },
   {
     "s": "Project Wulfila",
@@ -105541,14 +104373,6 @@
     "sc": "Travel"
   },
   {
-    "s": "Wikipedia (VO)",
-    "d": "vo.wikipedia.org",
-    "t": "wvo",
-    "u": "https://vo.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
     "s": "Wikivoyage Português",
     "d": "pt.wikivoyage.org",
     "t": "wvpt",
@@ -105651,12 +104475,6 @@
     "u": "https://www.worldwildlife.org/search?cx=003443374396369277624%3Av3nraqhmeyk&ie=UTF-8&x={{{s}}}&sa=",
     "c": "Research",
     "sc": "Reference"
-  },
-  {
-    "s": "Wikipedia",
-    "d": "wikipedia.org",
-    "t": "w",
-    "u": "https://wikipedia.org/w/index.php?search={{{s}}}"
   },
   {
     "s": "Wegenwiki",
@@ -105817,14 +104635,6 @@
     "u": "https://www.wykop.pl/szukaj/{{{s}}}",
     "c": "Online Services",
     "sc": "Social news/links"
-  },
-  {
-    "s": "Wikipedia (ZH)",
-    "d": "zh.wikipedia.org",
-    "t": "wzh",
-    "u": "https://zh.wikipedia.org/w/wiki.phtml?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Learning"
   },
   {
     "s": "Weasyl",
@@ -108291,28 +107101,12 @@
     "sc": "Tech"
   },
   {
-    "s": "ويكيبيديا العربية",
-    "d": "ar.wikipedia.org",
-    "t": "و",
-    "u": "https://ar.wikipedia.org/wiki/Special:Search?search={{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
     "s": "Google Israel",
     "d": "www.google.co.il",
     "t": "ג",
     "u": "https://www.google.co.il/{{{s}}}",
     "c": "Research",
     "sc": "Academic (math/cs)"
-  },
-  {
-    "s": "Hebrew wikipedia",
-    "d": "he.wikipedia.org",
-    "t": "ויקי",
-    "u": "https://he.wikipedia.org/w/index.php?search={{{s}}}&title=מיוחד%3Aחיפוש&go=לערך",
-    "c": "Research",
-    "sc": "Academic"
   },
   {
     "s": "Israeli Open Law project at Hebrew Wikisource",
@@ -108339,14 +107133,6 @@
     "sc": "Business"
   },
   {
-    "s": "Βικιπαίδεια ",
-    "d": "el.m.wikipedia.org",
-    "t": "Βικι",
-    "u": "https://el.m.wikipedia.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
     "s": "https://www.google.gr/?gws_rd=ssl",
     "d": "www.google.gr",
     "t": "γ",
@@ -108363,14 +107149,6 @@
     "sc": "Academic"
   },
   {
-    "s": "greek wikipedia",
-    "d": "el.wikipedia.org",
-    "t": "ςγρ",
-    "u": "https://el.wikipedia.org/wiki/?search={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
     "s": "Youtube",
     "d": "www.youtube.com",
     "t": "υτ",
@@ -108385,22 +107163,6 @@
     "u": "https://engramm.su/start?do=search&id={{{s}}}",
     "c": "Research",
     "sc": "Learning"
-  },
-  {
-    "s": "Wikipedia",
-    "d": "uk.m.wikipedia.org",
-    "t": "в",
-    "u": "https://uk.m.wikipedia.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
-    "s": "Википедия",
-    "d": "ru.wikipedia.org",
-    "t": "вики",
-    "u": "https://ru.wikipedia.org/w/index.php?search={{{s}}}&",
-    "c": "Multimedia",
-    "sc": "Docs"
   },
   {
     "s": "викиновости",
@@ -108505,38 +107267,6 @@
     "u": "https://www.google.ru/search?tbm=isch&q={{{s}}}",
     "c": "Online Services",
     "sc": "Search (non-US)"
-  },
-  {
-    "s": "Wikipedia (BG)",
-    "d": "bg.wikipedia.org",
-    "t": "уики",
-    "u": "https://bg.wikipedia.org/wiki/{{{s}}}",
-    "c": "Translation",
-    "sc": "Google"
-  },
-  {
-    "s": "Википедия",
-    "d": "ru.wikipedia.org",
-    "t": "ц",
-    "u": "https://ru.wikipedia.org/wiki/Special:Search?search={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
-    "s": "Wikipedia (ru)",
-    "d": "ru.wikipedia.org",
-    "t": "ш",
-    "u": "https://ru.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
-    "s": "Wikipedia (ru)",
-    "d": "ru.wikipedia.org",
-    "t": "шру",
-    "u": "https://ru.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
   },
   {
     "s": "Yandex.ru",
