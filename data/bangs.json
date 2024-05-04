@@ -107367,5 +107367,1101 @@
       "open_base_path",
       "url_encode_space_to_plus"
     ]
+  },
+  {
+    "s": "English Wikipedia",
+    "d": "en.wikipedia.org",
+    "t": "wen",
+    "u": "https://en.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "German Wikipedia",
+    "d": "de.wikipedia.org",
+    "t": "wde",
+    "u": "https://de.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "French Wikipedia",
+    "d": "fr.wikipedia.org",
+    "t": "wfr",
+    "u": "https://fr.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Spanish Wikipedia",
+    "d": "es.wikipedia.org",
+    "t": "wes",
+    "u": "https://es.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Japanese Wikipedia",
+    "d": "ja.wikipedia.org",
+    "t": "wja",
+    "u": "https://ja.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Russian Wikipedia",
+    "d": "ru.wikipedia.org",
+    "t": "wru",
+    "u": "https://ru.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Portuguese Wikipedia",
+    "d": "pt.wikipedia.org",
+    "t": "wpt",
+    "u": "https://pt.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Italian Wikipedia",
+    "d": "it.wikipedia.org",
+    "t": "wit",
+    "u": "https://it.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Chinese Wikipedia",
+    "d": "zh.wikipedia.org",
+    "t": "wzh",
+    "u": "https://zh.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Persian Wikipedia",
+    "d": "fa.wikipedia.org",
+    "t": "wfa",
+    "u": "https://fa.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Polish Wikipedia",
+    "d": "pl.wikipedia.org",
+    "t": "wpl",
+    "u": "https://pl.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Arabic Wikipedia",
+    "d": "ar.wikipedia.org",
+    "t": "war",
+    "u": "https://ar.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Dutch Wikipedia",
+    "d": "nl.wikipedia.org",
+    "t": "wnl",
+    "u": "https://nl.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Hebrew Wikipedia",
+    "d": "he.wikipedia.org",
+    "t": "whe",
+    "u": "https://he.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Ukrainian Wikipedia",
+    "d": "uk.wikipedia.org",
+    "t": "wuk",
+    "u": "https://uk.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Turkish Wikipedia",
+    "d": "tr.wikipedia.org",
+    "t": "wtr",
+    "u": "https://tr.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Czech Wikipedia",
+    "d": "cs.wikipedia.org",
+    "t": "wcs",
+    "u": "https://cs.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Indonesian Wikipedia",
+    "d": "id.wikipedia.org",
+    "t": "wid",
+    "u": "https://id.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Korean Wikipedia",
+    "d": "ko.wikipedia.org",
+    "t": "wko",
+    "u": "https://ko.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Swedish Wikipedia",
+    "d": "sv.wikipedia.org",
+    "t": "wsv",
+    "u": "https://sv.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Finnish Wikipedia",
+    "d": "fi.wikipedia.org",
+    "t": "wfi",
+    "u": "https://fi.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Simple English Wikipedia",
+    "d": "simple.wikipedia.org",
+    "t": "wsimple",
+    "u": "https://simple.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Vietnamese Wikipedia",
+    "d": "vi.wikipedia.org",
+    "t": "wvi",
+    "u": "https://vi.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Hungarian Wikipedia",
+    "d": "hu.wikipedia.org",
+    "t": "whu",
+    "u": "https://hu.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Catalan Wikipedia",
+    "d": "ca.wikipedia.org",
+    "t": "wca",
+    "u": "https://ca.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Norwegian Wikipedia",
+    "d": "no.wikipedia.org",
+    "t": "wno",
+    "u": "https://no.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Serbian Wikipedia",
+    "d": "sr.wikipedia.org",
+    "t": "wsr",
+    "u": "https://sr.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Greek Wikipedia",
+    "d": "el.wikipedia.org",
+    "t": "wel",
+    "u": "https://el.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Hindi Wikipedia",
+    "d": "hi.wikipedia.org",
+    "t": "whi",
+    "u": "https://hi.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Bengali Wikipedia",
+    "d": "bn.wikipedia.org",
+    "t": "wbn",
+    "u": "https://bn.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Romanian Wikipedia",
+    "d": "ro.wikipedia.org",
+    "t": "wro",
+    "u": "https://ro.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Estonian Wikipedia",
+    "d": "et.wikipedia.org",
+    "t": "wet",
+    "u": "https://et.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Danish Wikipedia",
+    "d": "da.wikipedia.org",
+    "t": "wda",
+    "u": "https://da.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Uzbek Wikipedia",
+    "d": "uz.wikipedia.org",
+    "t": "wuz",
+    "u": "https://uz.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Bulgarian Wikipedia",
+    "d": "bg.wikipedia.org",
+    "t": "wbg",
+    "u": "https://bg.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Azerbaijani Wikipedia",
+    "d": "az.wikipedia.org",
+    "t": "waz",
+    "u": "https://az.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Malay Wikipedia",
+    "d": "ms.wikipedia.org",
+    "t": "wms",
+    "u": "https://ms.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Slovak Wikipedia",
+    "d": "sk.wikipedia.org",
+    "t": "wsk",
+    "u": "https://sk.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Basque Wikipedia",
+    "d": "eu.wikipedia.org",
+    "t": "weu",
+    "u": "https://eu.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Armenian Wikipedia",
+    "d": "hy.wikipedia.org",
+    "t": "why",
+    "u": "https://hy.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Croatian Wikipedia",
+    "d": "hr.wikipedia.org",
+    "t": "whr",
+    "u": "https://hr.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Kazakh Wikipedia",
+    "d": "kk.wikipedia.org",
+    "t": "wkk",
+    "u": "https://kk.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Lithuanian Wikipedia",
+    "d": "lt.wikipedia.org",
+    "t": "wlt",
+    "u": "https://lt.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Slovene Wikipedia",
+    "d": "sl.wikipedia.org",
+    "t": "wsl",
+    "u": "https://sl.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Esperanto Wikipedia",
+    "d": "eo.wikipedia.org",
+    "t": "weo",
+    "u": "https://eo.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Latvian Wikipedia",
+    "d": "lv.wikipedia.org",
+    "t": "wlv",
+    "u": "https://lv.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Georgian Wikipedia",
+    "d": "ka.wikipedia.org",
+    "t": "wka",
+    "u": "https://ka.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Galician Wikipedia",
+    "d": "gl.wikipedia.org",
+    "t": "wgl",
+    "u": "https://gl.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Albanian Wikipedia",
+    "d": "sq.wikipedia.org",
+    "t": "wsq",
+    "u": "https://sq.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Urdu Wikipedia",
+    "d": "ur.wikipedia.org",
+    "t": "wur",
+    "u": "https://ur.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Belarusian Wikipedia",
+    "d": "be.wikipedia.org",
+    "t": "wbe",
+    "u": "https://be.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Macedonian Wikipedia",
+    "d": "mk.wikipedia.org",
+    "t": "wmk",
+    "u": "https://mk.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Malayalam Wikipedia",
+    "d": "ml.wikipedia.org",
+    "t": "wml",
+    "u": "https://ml.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Telugu Wikipedia",
+    "d": "te.wikipedia.org",
+    "t": "wte",
+    "u": "https://te.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Hausa Wikipedia",
+    "d": "ha.wikipedia.org",
+    "t": "wha",
+    "u": "https://ha.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Afrikaans Wikipedia",
+    "d": "af.wikipedia.org",
+    "t": "waf",
+    "u": "https://af.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Egyptian Arabic Wikipedia",
+    "d": "arz.wikipedia.org",
+    "t": "warz",
+    "u": "https://arz.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Kannada Wikipedia",
+    "d": "kn.wikipedia.org",
+    "t": "wkn",
+    "u": "https://kn.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Swahili Wikipedia",
+    "d": "sw.wikipedia.org",
+    "t": "wsw",
+    "u": "https://sw.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Icelandic Wikipedia",
+    "d": "is.wikipedia.org",
+    "t": "wis",
+    "u": "https://is.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Central Bikol Wikipedia",
+    "d": "bcl.wikipedia.org",
+    "t": "wbcl",
+    "u": "https://bcl.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Latin Wikipedia",
+    "d": "la.wikipedia.org",
+    "t": "wla",
+    "u": "https://la.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Sorani Kurdish Wikipedia",
+    "d": "ckb.wikipedia.org",
+    "t": "wckb",
+    "u": "https://ckb.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Cebuano Wikipedia",
+    "d": "ceb.wikipedia.org",
+    "t": "wceb",
+    "u": "https://ceb.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Marathi Wikipedia",
+    "d": "mr.wikipedia.org",
+    "t": "wmr",
+    "u": "https://mr.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Assamese Wikipedia",
+    "d": "as.wikipedia.org",
+    "t": "was",
+    "u": "https://as.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Norwegian (Nynorsk) Wikipedia",
+    "d": "nn.wikipedia.org",
+    "t": "wnn",
+    "u": "https://nn.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Igbo Wikipedia",
+    "d": "ig.wikipedia.org",
+    "t": "wig",
+    "u": "https://ig.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Welsh Wikipedia",
+    "d": "cy.wikipedia.org",
+    "t": "wcy",
+    "u": "https://cy.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Mongolian Wikipedia",
+    "d": "mn.wikipedia.org",
+    "t": "wmn",
+    "u": "https://mn.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Nepali Wikipedia",
+    "d": "ne.wikipedia.org",
+    "t": "wne",
+    "u": "https://ne.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Burmese Wikipedia",
+    "d": "my.wikipedia.org",
+    "t": "wmy",
+    "u": "https://my.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "South Azerbaijani Wikipedia",
+    "d": "azb.wikipedia.org",
+    "t": "wazb",
+    "u": "https://azb.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Asturian Wikipedia",
+    "d": "ast.wikipedia.org",
+    "t": "wast",
+    "u": "https://ast.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Occitan Wikipedia",
+    "d": "oc.wikipedia.org",
+    "t": "woc",
+    "u": "https://oc.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Punjabi Wikipedia",
+    "d": "pa.wikipedia.org",
+    "t": "wpa",
+    "u": "https://pa.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Irish Wikipedia",
+    "d": "ga.wikipedia.org",
+    "t": "wga",
+    "u": "https://ga.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Breton Wikipedia",
+    "d": "br.wikipedia.org",
+    "t": "wbr",
+    "u": "https://br.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Kyrgyz Wikipedia",
+    "d": "ky.wikipedia.org",
+    "t": "wky",
+    "u": "https://ky.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Sinhala Wikipedia",
+    "d": "si.wikipedia.org",
+    "t": "wsi",
+    "u": "https://si.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "West Frisian Wikipedia",
+    "d": "fy.wikipedia.org",
+    "t": "wfy",
+    "u": "https://fy.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Alemannic Wikipedia",
+    "d": "als.wikipedia.org",
+    "t": "wals",
+    "u": "https://als.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Javanese Wikipedia",
+    "d": "jv.wikipedia.org",
+    "t": "wjv",
+    "u": "https://jv.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Scots Wikipedia",
+    "d": "sco.wikipedia.org",
+    "t": "wsco",
+    "u": "https://sco.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Tatar Wikipedia",
+    "d": "tt.wikipedia.org",
+    "t": "wtt",
+    "u": "https://tt.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Bashkir Wikipedia",
+    "d": "ba.wikipedia.org",
+    "t": "wba",
+    "u": "https://ba.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Luxembourgish Wikipedia",
+    "d": "lb.wikipedia.org",
+    "t": "wlb",
+    "u": "https://lb.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Yoruba Wikipedia",
+    "d": "yo.wikipedia.org",
+    "t": "wyo",
+    "u": "https://yo.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Gujarati Wikipedia",
+    "d": "gu.wikipedia.org",
+    "t": "wgu",
+    "u": "https://gu.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Waray Wikipedia",
+    "d": "war.wikipedia.org",
+    "t": "wwar",
+    "u": "https://war.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Karakalpak Wikipedia",
+    "d": "kaa.wikipedia.org",
+    "t": "wkaa",
+    "u": "https://kaa.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Aragonese Wikipedia",
+    "d": "an.wikipedia.org",
+    "t": "wan",
+    "u": "https://an.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Zulu Wikipedia",
+    "d": "zu.wikipedia.org",
+    "t": "wzu",
+    "u": "https://zu.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Khmer Wikipedia",
+    "d": "km.wikipedia.org",
+    "t": "wkm",
+    "u": "https://km.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Bavarian Wikipedia",
+    "d": "bar.wikipedia.org",
+    "t": "wbar",
+    "u": "https://bar.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Ido Wikipedia",
+    "d": "io.wikipedia.org",
+    "t": "wio",
+    "u": "https://io.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Western Punjabi Wikipedia",
+    "d": "pnb.wikipedia.org",
+    "t": "wpnb",
+    "u": "https://pnb.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Wu Wikipedia",
+    "d": "wuu.wikipedia.org",
+    "t": "wwuu",
+    "u": "https://wuu.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Chechen Wikipedia",
+    "d": "ce.wikipedia.org",
+    "t": "wce",
+    "u": "https://ce.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Lombard Wikipedia",
+    "d": "lmo.wikipedia.org",
+    "t": "wlmo",
+    "u": "https://lmo.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Odia Wikipedia",
+    "d": "or.wikipedia.org",
+    "t": "wor",
+    "u": "https://or.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Kinyarwanda Wikipedia",
+    "d": "rw.wikipedia.org",
+    "t": "wrw",
+    "u": "https://rw.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Low German Wikipedia",
+    "d": "nds.wikipedia.org",
+    "t": "wnds",
+    "u": "https://nds.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Maltese Wikipedia",
+    "d": "mt.wikipedia.org",
+    "t": "wmt",
+    "u": "https://mt.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Balinese Wikipedia",
+    "d": "ban.wikipedia.org",
+    "t": "wban",
+    "u": "https://ban.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Fiji Hindi Wikipedia",
+    "d": "hif.wikipedia.org",
+    "t": "whif",
+    "u": "https://hif.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Yiddish Wikipedia",
+    "d": "yi.wikipedia.org",
+    "t": "wyi",
+    "u": "https://yi.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Malagasy Wikipedia",
+    "d": "mg.wikipedia.org",
+    "t": "wmg",
+    "u": "https://mg.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Minangkabau Wikipedia",
+    "d": "min.wikipedia.org",
+    "t": "wmin",
+    "u": "https://min.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Venetian Wikipedia",
+    "d": "vec.wikipedia.org",
+    "t": "wvec",
+    "u": "https://vec.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Old English Wikipedia",
+    "d": "ang.wikipedia.org",
+    "t": "wang",
+    "u": "https://ang.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Tswana Wikipedia",
+    "d": "tn.wikipedia.org",
+    "t": "wtn",
+    "u": "https://tn.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Moroccan Arabic Wikipedia",
+    "d": "ary.wikipedia.org",
+    "t": "wary",
+    "u": "https://ary.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Bhojpuri Wikipedia",
+    "d": "bh.wikipedia.org",
+    "t": "wbh",
+    "u": "https://bh.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Corsican Wikipedia",
+    "d": "co.wikipedia.org",
+    "t": "wco",
+    "u": "https://co.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Crimean Tatar Wikipedia",
+    "d": "crh.wikipedia.org",
+    "t": "wcrh",
+    "u": "https://crh.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Sanskrit Wikipedia",
+    "d": "sa.wikipedia.org",
+    "t": "wsa",
+    "u": "https://sa.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Mazanderani Wikipedia",
+    "d": "mzn.wikipedia.org",
+    "t": "wmzn",
+    "u": "https://mzn.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Quechua Wikipedia",
+    "d": "qu.wikipedia.org",
+    "t": "wqu",
+    "u": "https://qu.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Pashto Wikipedia",
+    "d": "ps.wikipedia.org",
+    "t": "wps",
+    "u": "https://ps.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Chuvash Wikipedia",
+    "d": "cv.wikipedia.org",
+    "t": "wcv",
+    "u": "https://cv.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Faroese Wikipedia",
+    "d": "fo.wikipedia.org",
+    "t": "wfo",
+    "u": "https://fo.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Moroccan Amazigh Wikipedia",
+    "d": "zgh.wikipedia.org",
+    "t": "wzgh",
+    "u": "https://zgh.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Rusyn Wikipedia",
+    "d": "rue.wikipedia.org",
+    "t": "wrue",
+    "u": "https://rue.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Dagbani Wikipedia",
+    "d": "dag.wikipedia.org",
+    "t": "wdag",
+    "u": "https://dag.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Guarani Wikipedia",
+    "d": "gn.wikipedia.org",
+    "t": "wgn",
+    "u": "https://gn.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Silesian Wikipedia",
+    "d": "szl.wikipedia.org",
+    "t": "wszl",
+    "u": "https://szl.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Piedmontese Wikipedia",
+    "d": "pms.wikipedia.org",
+    "t": "wpms",
+    "u": "https://pms.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Lao Wikipedia",
+    "d": "lo.wikipedia.org",
+    "t": "wlo",
+    "u": "https://lo.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Turkmen Wikipedia",
+    "d": "tk.wikipedia.org",
+    "t": "wtk",
+    "u": "https://tk.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Mirandese Wikipedia",
+    "d": "mwl.wikipedia.org",
+    "t": "wmwl",
+    "u": "https://mwl.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Sardinian Wikipedia",
+    "d": "sc.wikipedia.org",
+    "t": "wsc",
+    "u": "https://sc.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Wayuu Wikipedia",
+    "d": "guc.wikipedia.org",
+    "t": "wguc",
+    "u": "https://guc.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Sicilian Wikipedia",
+    "d": "scn.wikipedia.org",
+    "t": "wscn",
+    "u": "https://scn.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Yakut Wikipedia",
+    "d": "sah.wikipedia.org",
+    "t": "wsah",
+    "u": "https://sah.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Maithili Wikipedia",
+    "d": "mai.wikipedia.org",
+    "t": "wmai",
+    "u": "https://mai.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Santali Wikipedia",
+    "d": "sat.wikipedia.org",
+    "t": "wsat",
+    "u": "https://sat.wikipedia.org/w/index.php?search={{s}}",
+    "c": "Research",
+    "sc": "Reference"
   }
 ]
