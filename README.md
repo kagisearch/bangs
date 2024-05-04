@@ -50,7 +50,6 @@ Adding new region bangs will be handled on a case-by-case basis.
 | ao      | Amazon Orders                     | Shopping        | Angola                                       |
 | ar      | all recipes                       | Research        | Argentina                                    |
 | as      | Kagi Assistant                    |                 | American Samoa                               |
-| au      | Arch Linux User Repository        | Tech            | Australia                                    |
 | aw      | Arch Linux Wiki                   | Tech            | Aruba                                        |
 | ax      | androidxref                       | Tech            | Åland Islands                                |
 | az      | Amazon.com                        | Shopping        | Azerbaijan                                   |
