@@ -82294,6 +82294,14 @@
     "sc": "Reference (words intl)"
   },
   {
+    "s": "Scoop.it",
+    "d": "www.scoop.it",
+    "t": "scoop-it",
+    "u": "https://www.scoop.it/search?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Social"
+  },
+  {
     "s": "Scoop",
     "d": "scoop.sh",
     "t": "scoop",
