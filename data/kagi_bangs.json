@@ -762,6 +762,13 @@
     "c": "Region search"
   },
   {
+    "s": "Search in South Korea",
+    "d": "kagi.com",
+    "t": "kr",
+    "u": "/search?q={{{s}}}&r=kr",
+    "c": "Region search"
+  },
+  {
     "s": "Kagi",
     "d": "kagi.com",
     "t": "recent",

@@ -128,7 +128,6 @@ Adding new region bangs will be handled on a case-by-case basis.
 | km      | Karaoke Mugen                     | Multimedia      | Comoros                                      |
 | kn      | Knoema                            | Research        | Saint Kitts and Nevis                        |
 | kp      | Kupujemprodajem                   | Shopping        | North Korea                                  |
-| kr      | Kroger                            | Shopping        | South Korea                                  |
 | la      | Langenscheidt                     | Research        | Laos                                         |
 | lb      | letterboxd                        | Entertainment   | Lebanon                                      |
 | lc      | Laracasts                         | Tech            | Saint Lucia                                  |
