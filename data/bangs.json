@@ -36860,7 +36860,9 @@
     "u": "https://github.com/{{{s}}}",
     "c": "Tech",
     "sc": "Programming",
-    "fmt": ["open_base_path"]
+    "fmt": [
+      "open_base_path"
+    ]
   },
   {
     "s": "Github",
@@ -51648,10 +51650,10 @@
     "sc": "Tools"
   },
   {
-    "s": "Kasperfred",
-    "d": "kasperfred.com",
-    "t": "kf",
-    "u": "https://kasperfred.com/posts/?q={{{s}}}",
+    "s": "Luna Lux",
+    "d": "lunalux.io",
+    "t": "lunalux",
+    "u": "https://lunalux.io/search/?q={{{s}}}",
     "c": "Tech",
     "sc": "Blogs"
   },

@@ -846,5 +846,15 @@
     "d": "help.kagi.com",
     "t": "api",
     "u": "https://help.kagi.com/kagi/search-api/overview.html"
+  },
+  {
+    "s": "Kagi Feedback",
+    "d": "kagifeedback.org",
+    "t": "kf",
+    "u": "https://kagifeedback.org/?q={{{s}}}",
+    "fmt": [
+      "open_base_path",
+      "url_encode_placeholder"
+    ]
   }
 ]
