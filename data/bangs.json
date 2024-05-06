@@ -110515,14 +110515,6 @@
   {
     "s": "Interlingua Wikipedia",
     "d": "ia.wikipedia.org",
-    "t": "wia",
-    "u": "https://ia.wikipedia.org/w/index.php?search={{s}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "Interlingua Wikipedia",
-    "d": "ia.wikipedia.org",
     "t": "iawiki",
     "u": "https://ia.wikipedia.org/w/index.php?search={{s}}",
     "c": "Research",
