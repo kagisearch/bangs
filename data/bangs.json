@@ -107228,7 +107228,7 @@
   },
   {
     "s": "YouTube India",
-    "d": "www.youtube.ib",
+    "d": "www.youtube.in",
     "t": "yti",
     "u": "https://www.youtube.in/results?search_query={{{s}}}",
     "c": "Multimedia",
@@ -107292,7 +107292,7 @@
   },
   {
     "s": "YouTube Mexico",
-    "d": "www.youtube.com",
+    "d": "www.youtube.mx",
     "t": "ytmx",
     "u": "https://www.youtube.mx/results?search_query={{{s}}}",
     "c": "Online Services",
