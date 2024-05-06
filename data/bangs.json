@@ -39825,6 +39825,14 @@
     "sc": "Google"
   },
   {
+    "s": "Game Grumps",
+    "d": "www.youtube.com",
+    "t": "grumps",
+    "u": "https://www.youtube.com/user/GameGrumps/search?query={{{s}}}",
+    "c": "Multimedia",
+    "sc": "Video"
+  },
+  {
     "s": "Gry-Online",
     "d": "www.gry-online.pl",
     "t": "gryonline",
@@ -71940,6 +71948,14 @@
     "u": "https://www.petsmart.com/search/?q={{{s}}}",
     "c": "Shopping",
     "sc": "Big box/department"
+  },
+  {
+    "s": "PewDiePie",
+    "d": "www.youtube.com",
+    "t": "pewdiepie",
+    "u": "https://www.youtube.com/user/PewDiePie/search?query={{{s}}} ",
+    "c": "Multimedia",
+    "sc": "Video"
   },
   {
     "s": "Pew News",
@@ -106373,6 +106389,14 @@
     "sc": "Search"
   },
   {
+    "s": "YouTube Belgium",
+    "d": "www.youtube.be",
+    "t": "yatu",
+    "u": "https://www.youtube.be/results?search_query={{{s}}}",
+    "c": "Multimedia",
+    "sc": "Video"
+  },
+  {
     "s": "Yandex Translate",
     "d": "translate.yandex.com",
     "t": "yat",
@@ -107109,6 +107133,14 @@
     "sc": "Video"
   },
   {
+    "s": "YouTube CH",
+    "d": "www.youtube.ch",
+    "t": "ytch",
+    "u": "https://www.youtube.ch/results?search_query={{{s}}}",
+    "c": "Multimedia",
+    "sc": "Video"
+  },
+  {
     "s": "Youtube Channel Videos",
     "d": "www.youtube.com",
     "t": "ytcv",
@@ -107157,6 +107189,22 @@
     "sc": "Video"
   },
   {
+    "s": "Youtube ES",
+    "d": "www.youtube.es",
+    "t": "ytes",
+    "u": "https://www.youtube.es/results?search_query={{{s}}}",
+    "c": "Entertainment",
+    "sc": "TV"
+  },
+  {
+    "s": "YouTube France",
+    "d": "www.youtube.fr",
+    "t": "ytfr",
+    "u": "https://www.youtube.fr/results?search_query={{{s}}}",
+    "c": "Multimedia",
+    "sc": "Video"
+  },
+  {
     "s": "YouTube Gaming",
     "d": "gaming.youtube.com",
     "t": "ytgaming",
@@ -107179,6 +107227,14 @@
     "u": "https://www.youtube.com/feed/history?query={{{s}}}",
     "c": "Research",
     "sc": "Reference"
+  },
+  {
+    "s": "YouTube India",
+    "d": "www.youtube.ib",
+    "t": "yti",
+    "u": "https://www.youtube.in/results?search_query={{{s}}}",
+    "c": "Multimedia",
+    "sc": "Video"
   },
   {
     "s": "Yahoo! Travel Japan",
@@ -107237,6 +107293,14 @@
     "sc": "Video"
   },
   {
+    "s": "YouTube Mexico",
+    "d": "www.youtube.com",
+    "t": "ytmx",
+    "u": "https://www.youtube.mx/results?search_query={{{s}}}",
+    "c": "Online Services",
+    "sc": "Google"
+  },
+  {
     "s": "Youtube playlists",
     "d": "www.youtube.com",
     "t": "ytp",
@@ -107275,6 +107339,14 @@
     "u": "https://tv.youtube.com/search/{{{s}}}",
     "c": "Entertainment",
     "sc": "TV"
+  },
+  {
+    "s": "YouTube United States",
+    "d": "www.youtube.com",
+    "t": "ytus",
+    "u": "https://www.youtube.com/results?search_query={{{s}}}&gl=US",
+    "c": "Online Services",
+    "sc": "Google"
   },
   {
     "s": "Youtube video",
