@@ -2312,6 +2312,13 @@
     "sc": "Online"
   },
   {
+    "s": "Android Code Search",
+    "d": "cs.android.com",
+    "t": "androidcs",
+    "u": "https://cs.android.com/search?q={{{s}}}",
+    "c": "Tech"
+  },
+  {
     "s": "Android File Host",
     "d": "androidfilehost.com",
     "t": "afh",
