@@ -107388,14 +107388,6 @@
   {
     "s": "French Wikipedia",
     "d": "fr.wikipedia.org",
-    "t": "frwiki",
-    "u": "https://fr.wikipedia.org/w/index.php?search={{s}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "French Wikipedia",
-    "d": "fr.wikipedia.org",
     "t": "wikifr",
     "u": "https://fr.wikipedia.org/w/index.php?search={{s}}",
     "c": "Research",
@@ -107932,14 +107924,6 @@
   {
     "s": "Thai Wikipedia",
     "d": "th.wikipedia.org",
-    "t": "thwiki",
-    "u": "https://th.wikipedia.org/w/index.php?search={{s}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "Thai Wikipedia",
-    "d": "th.wikipedia.org",
     "t": "wikith",
     "u": "https://th.wikipedia.org/w/index.php?search={{s}}",
     "c": "Research",
@@ -108076,14 +108060,6 @@
   {
     "s": "Romanian Wikipedia",
     "d": "ro.wikipedia.org",
-    "t": "rowiki",
-    "u": "https://ro.wikipedia.org/w/index.php?search={{s}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "Romanian Wikipedia",
-    "d": "ro.wikipedia.org",
     "t": "wikiro",
     "u": "https://ro.wikipedia.org/w/index.php?search={{s}}",
     "c": "Research",
@@ -108117,14 +108093,6 @@
     "s": "Danish Wikipedia",
     "d": "da.wikipedia.org",
     "t": "wda",
-    "u": "https://da.wikipedia.org/w/index.php?search={{s}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "Danish Wikipedia",
-    "d": "da.wikipedia.org",
-    "t": "dawiki",
     "u": "https://da.wikipedia.org/w/index.php?search={{s}}",
     "c": "Research",
     "sc": "Reference"
@@ -108316,14 +108284,6 @@
   {
     "s": "Croatian Wikipedia",
     "d": "hr.wikipedia.org",
-    "t": "hrwiki",
-    "u": "https://hr.wikipedia.org/w/index.php?search={{s}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "Croatian Wikipedia",
-    "d": "hr.wikipedia.org",
     "t": "wikihr",
     "u": "https://hr.wikipedia.org/w/index.php?search={{s}}",
     "c": "Research",
@@ -108381,14 +108341,6 @@
     "s": "Slovene Wikipedia",
     "d": "sl.wikipedia.org",
     "t": "wsl",
-    "u": "https://sl.wikipedia.org/w/index.php?search={{s}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "Slovene Wikipedia",
-    "d": "sl.wikipedia.org",
-    "t": "slwiki",
     "u": "https://sl.wikipedia.org/w/index.php?search={{s}}",
     "c": "Research",
     "sc": "Reference"
@@ -108500,7 +108452,6 @@
   {
     "s": "Galician Wikipedia",
     "d": "gl.wikipedia.org",
-    "t": "glwiki",
     "u": "https://gl.wikipedia.org/w/index.php?search={{s}}",
     "c": "Research",
     "sc": "Reference"
@@ -108773,14 +108724,6 @@
     "s": "Swahili Wikipedia",
     "d": "sw.wikipedia.org",
     "t": "wsw",
-    "u": "https://sw.wikipedia.org/w/index.php?search={{s}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "Swahili Wikipedia",
-    "d": "sw.wikipedia.org",
-    "t": "swwiki",
     "u": "https://sw.wikipedia.org/w/index.php?search={{s}}",
     "c": "Research",
     "sc": "Reference"
@@ -110429,14 +110372,6 @@
     "s": "Faroese Wikipedia",
     "d": "fo.wikipedia.org",
     "t": "wfo",
-    "u": "https://fo.wikipedia.org/w/index.php?search={{s}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "Faroese Wikipedia",
-    "d": "fo.wikipedia.org",
-    "t": "fowiki",
     "u": "https://fo.wikipedia.org/w/index.php?search={{s}}",
     "c": "Research",
     "sc": "Reference"
