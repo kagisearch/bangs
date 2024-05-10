@@ -2312,6 +2312,13 @@
     "sc": "Online"
   },
   {
+    "s": "Android Code Search",
+    "d": "cs.android.com",
+    "t": "androidcs",
+    "u": "https://cs.android.com/search?q={{{s}}}",
+    "c": "Tech"
+  },
+  {
     "s": "Android File Host",
     "d": "androidfilehost.com",
     "t": "afh",
@@ -7040,14 +7047,6 @@
     "u": "https://www.autoitscript.com/forum/search/?q={{{s}}}",
     "c": "Tech",
     "sc": "Programming"
-  },
-  {
-    "s": "Arch Linux User Repository",
-    "d": "aur.archlinux.org",
-    "t": "au",
-    "u": "https://aur.archlinux.org/packages/?K={{{s}}}",
-    "c": "Tech",
-    "sc": "Downloads (software)"
   },
   {
     "s": "Aalborg Universitetsbibliotek",
@@ -19458,14 +19457,6 @@
     "u": "https://cymon.io/{{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
-  },
-  {
-    "s": "Candence CloudTube (YouTube Client)",
-    "d": "cadence.gq",
-    "t": "cyt",
-    "u": "https://cadence.gq/cloudtube/search?q={{{s}}}&sort_by=relevance",
-    "c": "Multimedia",
-    "sc": "Video"
   },
   {
     "s": "CZC.cz",
@@ -36804,7 +36795,9 @@
     "u": "https://github.com/{{{s}}}",
     "c": "Tech",
     "sc": "Programming",
-    "fmt": ["open_base_path"]
+    "fmt": [
+      "open_base_path"
+    ]
   },
   {
     "s": "Github",
@@ -43141,14 +43134,6 @@
     "u": "https://www.gyakorikerdesek.hu/kereses.php?keres={{{s}}}",
     "c": "Online Services",
     "sc": "Search"
-  },
-  {
-    "s": "GenYouTube",
-    "d": "www.genyoutube.net",
-    "t": "gyt",
-    "u": "https://www.genyoutube.net/search.php?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools"
   },
   {
     "s": "Google ZA",
@@ -51528,10 +51513,10 @@
     "sc": "Tools"
   },
   {
-    "s": "Kasperfred",
-    "d": "kasperfred.com",
-    "t": "kf",
-    "u": "https://kasperfred.com/posts/?q={{{s}}}",
+    "s": "Luna Lux",
+    "d": "lunalux.io",
+    "t": "lunalux",
+    "u": "https://lunalux.io/search/?q={{{s}}}",
     "c": "Tech",
     "sc": "Blogs"
   },
@@ -52706,7 +52691,7 @@
   {
     "s": "Kroger",
     "d": "www.kroger.com",
-    "t": "kr",
+    "t": "kro",
     "u": "https://www.kroger.com/search?query={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
@@ -76882,14 +76867,6 @@
     "sc": "Design"
   },
   {
-    "s": "ralvid - YouTube Mirror",
-    "d": "ralvid.ml",
-    "t": "ralvid",
-    "u": "http://ralvid.ml/search.php?q={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Video"
-  },
-  {
     "s": "Ramda Javascript library",
     "d": "ramdajs.com",
     "t": "ramda",
@@ -82112,10 +82089,18 @@
   {
     "s": "Scoop.it",
     "d": "www.scoop.it",
-    "t": "scoop",
+    "t": "scoop-it",
     "u": "https://www.scoop.it/search?q={{{s}}}",
     "c": "Online Services",
     "sc": "Social"
+  },
+  {
+    "s": "Scoop",
+    "d": "scoop.sh",
+    "t": "scoop",
+    "u": "https://scoop.sh/#/apps?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Downloads (software)"
   },
   {
     "s": "scope.dk",
@@ -96376,14 +96361,6 @@
     "sc": "Academic"
   },
   {
-    "s": "UnNotchslayer1 channel",
-    "d": "www.youtube.com",
-    "t": "unnotchslayer1yt",
-    "u": "https://www.youtube.com/channel/UCBX3P-QmXmCgWmCU2Mqt9sg/search?query={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (Minecraft)"
-  },
-  {
     "s": "uNoGS",
     "d": "unogs.com",
     "t": "unogs",
@@ -98612,14 +98589,6 @@
     "u": "https://visualhunt.com/search/instant/?q={{{s}}}",
     "c": "Online Services",
     "sc": "Search"
-  },
-  {
-    "s": "visual-youtube",
-    "d": "www.yasiv.com",
-    "t": "visual-youtube",
-    "u": "https://www.yasiv.com/youtube#?q={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Video"
   },
   {
     "s": "Visuwords",
@@ -102233,14 +102202,6 @@
     "sc": "Academic"
   },
   {
-    "s": "WiiLord95",
-    "d": "www.youtube.com",
-    "t": "wl95",
-    "u": "https://www.youtube.com/user/WiiLord95/search?query={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Video"
-  },
-  {
     "s": "TV Wunschliste",
     "d": "www.wunschliste.de",
     "t": "wlde",
@@ -105245,10 +105206,10 @@
     "sc": "Search"
   },
   {
-    "s": "YouTube BE",
+    "s": "YouTube Belgium",
     "d": "www.youtube.be",
     "t": "yatu",
-    "u": "https://www.youtube.be/?q={{{s}}}: ",
+    "u": "https://www.youtube.be/results?search_query={{{s}}}",
     "c": "Multimedia",
     "sc": "Video"
   },
@@ -105837,14 +105798,6 @@
     "sc": "TV"
   },
   {
-    "s": "Youtube on Repeat",
-    "d": "youtubeonrepeat.com",
-    "t": "youtubeonrepeat",
-    "u": "http://youtubeonrepeat.com/results/?search_query={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Video"
-  },
-  {
     "s": "YouTube",
     "d": "www.youtube.com",
     "t": "youtube",
@@ -105984,7 +105937,7 @@
     "s": "Youtube",
     "d": "www.youtube.com",
     "t": "ytb",
-    "u": "https://www.youtube.com/results?search_query= {{{s}}}",
+    "u": "https://www.youtube.com/results?search_query={{{s}}}",
     "c": "Multimedia",
     "sc": "Video"
   },
@@ -106053,10 +106006,10 @@
     "sc": "Video"
   },
   {
-    "s": "Youtube ES",
-    "d": "www.youtube.com",
+    "s": "Youtube Spain",
+    "d": "www.youtube.es",
     "t": "ytes",
-    "u": "https://www.youtube.com/results?search_query={{{s}}}&gl=ES&hl=es",
+    "u": "https://www.youtube.es/results?search_query={{{s}}}",
     "c": "Entertainment",
     "sc": "TV"
   },
@@ -106094,9 +106047,9 @@
   },
   {
     "s": "YouTube India",
-    "d": "in.youtube.com",
+    "d": "www.youtube.in",
     "t": "yti",
-    "u": "https://in.youtube.com/results?search_query={{{s}}}",
+    "u": "https://www.youtube.in/results?search_query={{{s}}}",
     "c": "Multimedia",
     "sc": "Video"
   },
@@ -106149,14 +106102,6 @@
     "sc": "Music"
   },
   {
-    "s": "YouTube (MX)",
-    "d": "www.youtube.com",
-    "t": "ytmx",
-    "u": "https://www.youtube.com/results?search_query={{{s}}}&gl=MX",
-    "c": "Online Services",
-    "sc": "Google"
-  },
-  {
     "s": "Youtube Music",
     "d": "music.youtube.com",
     "t": "ytm",
@@ -106165,20 +106110,12 @@
     "sc": "Video"
   },
   {
-    "s": "YouTube News DE",
-    "d": "youtubenews.de",
-    "t": "ytn",
-    "u": "https://youtubenews.de/?s={{{s}}}",
-    "c": "News",
-    "sc": "Magazine"
-  },
-  {
-    "s": "YouTube On Repeat",
-    "d": "youtubeonrepeat.com",
-    "t": "ytor",
-    "u": "http://youtubeonrepeat.com/results/?search_query={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Video"
+    "s": "YouTube Mexico",
+    "d": "www.youtube.mx",
+    "t": "ytmx",
+    "u": "https://www.youtube.mx/results?search_query={{{s}}}",
+    "c": "Online Services",
+    "sc": "Google"
   },
   {
     "s": "Youtube playlists",
@@ -106221,7 +106158,7 @@
     "sc": "TV"
   },
   {
-    "s": "YouTube (US)",
+    "s": "YouTube United States",
     "d": "www.youtube.com",
     "t": "ytus",
     "u": "https://www.youtube.com/results?search_query={{{s}}}&gl=US",

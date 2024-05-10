@@ -573,6 +573,13 @@
     "c": "Region search"
   },
   {
+    "s": "Search in Australia",
+    "d": "kagi.com",
+    "t": "au",
+    "u": "/search?q={{{s}}}&r=au",
+    "c": "Region search"
+  },
+  {
     "s": "Search in Austria",
     "d": "kagi.com",
     "t": "at",
@@ -755,6 +762,13 @@
     "c": "Region search"
   },
   {
+    "s": "Search in South Korea",
+    "d": "kagi.com",
+    "t": "kr",
+    "u": "/search?q={{{s}}}&r=kr",
+    "c": "Region search"
+  },
+  {
     "s": "Kagi",
     "d": "kagi.com",
     "t": "recent",
@@ -839,5 +853,15 @@
     "d": "help.kagi.com",
     "t": "api",
     "u": "https://help.kagi.com/kagi/search-api/overview.html"
+  },
+  {
+    "s": "Kagi Feedback",
+    "d": "kagifeedback.org",
+    "t": "kf",
+    "u": "https://kagifeedback.org/?q={{{s}}}",
+    "fmt": [
+      "open_base_path",
+      "url_encode_placeholder"
+    ]
   }
 ]

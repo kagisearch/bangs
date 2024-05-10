@@ -50,7 +50,6 @@ Adding new region bangs will be handled on a case-by-case basis.
 | ao      | Amazon Orders                     | Shopping        | Angola                                       |
 | ar      | all recipes                       | Research        | Argentina                                    |
 | as      | Kagi Assistant                    |                 | American Samoa                               |
-| au      | Arch Linux User Repository        | Tech            | Australia                                    |
 | aw      | Arch Linux Wiki                   | Tech            | Aruba                                        |
 | ax      | androidxref                       | Tech            | Åland Islands                                |
 | az      | Amazon.com                        | Shopping        | Azerbaijan                                   |
@@ -129,7 +128,6 @@ Adding new region bangs will be handled on a case-by-case basis.
 | km      | Karaoke Mugen                     | Multimedia      | Comoros                                      |
 | kn      | Knoema                            | Research        | Saint Kitts and Nevis                        |
 | kp      | Kupujemprodajem                   | Shopping        | North Korea                                  |
-| kr      | Kroger                            | Shopping        | South Korea                                  |
 | la      | Langenscheidt                     | Research        | Laos                                         |
 | lb      | letterboxd                        | Entertainment   | Lebanon                                      |
 | lc      | Laracasts                         | Tech            | Saint Lucia                                  |
