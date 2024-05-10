@@ -108452,13 +108452,6 @@
   {
     "s": "Galician Wikipedia",
     "d": "gl.wikipedia.org",
-    "u": "https://gl.wikipedia.org/w/index.php?search={{s}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "Galician Wikipedia",
-    "d": "gl.wikipedia.org",
     "t": "wikigl",
     "u": "https://gl.wikipedia.org/w/index.php?search={{s}}",
     "c": "Research",
