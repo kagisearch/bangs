@@ -111290,6 +111290,14 @@
     "sc": "Docs"
   },
   {
+    "s": "Βικιπαίδεια ",
+    "d": "el.m.wikipedia.org",
+    "t": "Βικι",
+    "u": "https://el.m.wikipedia.org/wiki/{{{s}}}",
+    "c": "Research",
+    "sc": "Academic"
+  },
+  {
     "s": "Wikipedia (BG)",
     "d": "bg.wikipedia.org",
     "t": "уики",
