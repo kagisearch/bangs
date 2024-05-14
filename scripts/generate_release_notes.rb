@@ -44,13 +44,13 @@ def compare_json_files(file_path)
 
     if added.any?
       file.puts "### Added"
-      file.puts added.map { |item| "- **#{item['t']}** (#{item['u']})" }.join("\n")
+      file.puts added.map { |item| "- **#{item['t']}** (`#{item['u']}`)" }.join("\n")
       has_changes = true
     end
 
     if removed.any?
       file.puts "\n### Removed"
-      file.puts removed.map { |item| "- **#{item['t']}** (#{item['u']})" }.join("\n")
+      file.puts removed.map { |item| "- **#{item['t']}** (`#{item['u']}`)" }.join("\n")
       has_changes = true
     end
 
