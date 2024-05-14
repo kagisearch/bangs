@@ -22,12 +22,10 @@ jobs:
           bundler-cache: true
 
       - name: Generate Release Notes
-        id: release_notes
         run: |
           bundle exec ruby scripts/generate_release_notes.rb
 
       - name: Read release notes
-        id: release_notes
         run: |
           echo "RELEASE_NOTES<<EOF" >> $GITHUB_ENV
           cat release_notes.md >> $GITHUB_ENV
