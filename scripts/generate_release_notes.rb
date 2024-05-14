@@ -38,33 +38,37 @@ def compare_json_files(file_path)
   File.delete(old_file_path)
 
   # Markdown formatted output
-  puts "## #{File.basename(file_path, '.json').split('_').map(&:capitalize).join(' ')}"
-  has_changes = false
+  File.open('release_notes.md', 'a+') do |file|
+    file.puts "## #{File.basename(file_path, '.json').split('_').map(&:capitalize).join(' ')}"
+    has_changes = false
 
-  if added.any?
-    puts "### Added"
-    puts added.map { |item| "- **#{item['t']}** (`#{item['u']}`)" }.join("\n")
-    has_changes = true
+    if added.any?
+      file.puts "### Added"
+      file.puts added.map { |item| "- **#{item['t']}** (#{item['u']})" }.join("\n")
+      has_changes = true
+    end
+
+    if removed.any?
+      file.puts "\n### Removed"
+      file.puts removed.map { |item| "- **#{item['t']}** (#{item['u']})" }.join("\n")
+      has_changes = true
+    end
+
+    if modified.any?
+      file.puts "\n### Changed"
+      file.puts modified.map { |m| "- **#{m['t']}**: URL changed from `#{m['old_u']}` to `#{m['new_u']}`" }.join("\n")
+      has_changes = true
+    end
+
+    file.puts "\nNo changes detected." unless has_changes
+    file.puts "\n"
   end
-
-  if removed.any?
-    puts "\n### Removed"
-    puts removed.map { |item| "- **#{item['t']}** (`#{item['u']}`)" }.join("\n")
-    has_changes = true
-  end
-
-  if modified.any?
-    puts "\n### Changed"
-    puts modified.map { |m| "- **#{m['t']}**: URL changed from `#{m['old_u']}` to `#{m['new_u']}`" }.join("\n")
-    has_changes = true
-  end
-
-  puts "\nNo changes detected." unless has_changes
-  puts "\n"
 end
 
 # Paths to the JSON files
 json_files = ['data/bangs.json', 'data/kagi_bangs.json', 'data/assistant_bangs.json']
+
+File.delete('release_notes.md') if File.exist?('release_notes.md')
 
 # Process each file
 json_files.each do |file_path|

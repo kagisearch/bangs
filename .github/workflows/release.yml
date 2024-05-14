@@ -18,27 +18,31 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          # Not needed with a .ruby-version file
           ruby-version: 3.0
-          # runs 'bundle install' and caches installed gems automatically
           bundler-cache: true
 
       - name: Generate Release Notes
         id: release_notes
         run: |
-          echo "::set-output name=notes::$(bundle exec ruby scripts/generate_release_notes.rb)"
+          bundle exec ruby scripts/generate_release_notes.rb
+
+      - name: Read release notes
+        id: release_notes
+        run: |
+          echo "RELEASE_NOTES<<EOF" >> $GITHUB_ENV
+          cat release_notes.md >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
 
       - name: Get Current Date
-        id: current_date
-        run: echo "::set-output name=date::$(date +'%Y%m%d')"
+        run: echo "CURRENT_DATE=$(date +'%Y%m%d')" >> $GITHUB_ENV
 
       - name: Create Release
         uses: actions/create-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: ${{ steps.current_date.outputs.date }}
-          release_name: Release ${{ steps.current_date.outputs.date }}
-          body: ${{ steps.release_notes.outputs.notes }}
+          tag_name: ${{ env.CURRENT_DATE }}
+          release_name: ${{ env.CURRENT_DATE }}
+          body: ${{ env.RELEASE_NOTES }}
           draft: false
           prerelease: false
