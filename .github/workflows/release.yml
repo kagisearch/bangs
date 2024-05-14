@@ -1,0 +1,41 @@
+name: Weekly Release
+
+on:
+  schedule:
+    # Schedule to run at 15:00 UTC every Tuesday (10 AM EST)
+    - cron: '0 15 * * 2'
+
+jobs:
+  create_release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          # Not needed with a .ruby-version file
+          ruby-version: 3.0
+          # runs 'bundle install' and caches installed gems automatically
+          bundler-cache: true
+
+      - name: Generate Release Notes
+        id: release_notes
+        run: |
+          echo "::set-output name=notes::$(bundle exec ruby scripts/generate_release_notes.rb)"
+
+      - name: Get Current Date
+        id: current_date
+        run: echo "::set-output name=date::$(date +'%Y%m%d')"
+
+      - name: Create Release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ steps.current_date.outputs.date }}
+          release_name: Release ${{ steps.current_date.outputs.date }}
+          body: ${{ steps.release_notes.outputs.notes }}
+          draft: false
+          prerelease: false
