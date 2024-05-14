@@ -4,6 +4,7 @@ on:
   schedule:
     # Schedule to run at 15:00 UTC every Tuesday (10 AM EST)
     - cron: '0 15 * * 2'
+  workflow_dispatch:
 
 jobs:
   create_release:
