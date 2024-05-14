@@ -110773,7 +110773,7 @@
     "s": "Βικιπαίδεια",
     "d": "el.wikipedia.org",
     "t": "elw",
-    "u": "https://el.wikipedia.org/w/index.php?search={{{s}}}&title=%CE%95%CE%B9%CE%B4%CE%B9%CE%BA%CF%8C%3A%CE%91%CE%BD%CE%B1%CE%B6%CE%AE%CF%84%CE%B7%CF%83%CE%B7&go=%CE%9C%CE%B5%CF%84%CE%AC%CE%B2%CE%B1%CF%83%CE%B7",
+    "u": "https://el.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Reference"
   },
@@ -110781,7 +110781,7 @@
     "s": "Wikipedia",
     "d": "en.wikipedia.org",
     "t": "encyclopedia",
-    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
+    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -110805,7 +110805,7 @@
     "s": "Hebrew Wikipedia",
     "d": "he.wikipedia.org",
     "t": "hebwiki",
-    "u": "https://he.wikipedia.org/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go",
+    "u": "https://he.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Reference"
   },
@@ -110813,7 +110813,7 @@
     "s": "Hindi Wikipedia",
     "d": "hi.wikipedia.org",
     "t": "hwiki",
-    "u": "https://hi.wikipedia.org/w/index.php?search={{{s}}}&title=विशेष%3Aखोज&go=जाएँ&ns0=1",
+    "u": "https://hi.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
@@ -110861,7 +110861,7 @@
     "s": "Persian Wikipedia",
     "d": "fa.wikipedia.org",
     "t": "pwp",
-    "u": "https://fa.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
+    "u": "https://fa.wikipedia.org/wiki/Special:Search?search={{{s}}}",
     "c": "Research",
     "sc": "Reference"
   },
@@ -110885,7 +110885,7 @@
     "s": "Simple English Wikipedia",
     "d": "simple.wikipedia.org",
     "t": "sw",
-    "u": "https://simple.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
+    "u": "https://simple.wikipedia.org/wiki/Special:Search?search={{{s}}}",
     "c": "Research",
     "sc": "Reference"
   },
@@ -110893,7 +110893,7 @@
     "s": "Tamil Wikipedia",
     "d": "ta.wikipedia.org",
     "t": "tawk",
-    "u": "https://ta.wikipedia.org/w/index.php?search={{{s}}}&title=%E0%AE%9A%E0%AE%BF%E0%AE%B1%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%3ASearch&go=%E0%AE%9A%E0%AF%86%E0%AE%B2%E0%AF%8D",
+    "u": "https://ta.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Learning (intl)"
   },
@@ -110909,7 +110909,7 @@
     "s": "Vicipaedia",
     "d": "la.wikipedia.org",
     "t": "vici",
-    "u": "https://la.wikipedia.org/w/index.php?search={{{s}}} ",
+    "u": "https://la.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -110917,7 +110917,7 @@
     "s": "Estonian Wikipedia (Vikipeedia)",
     "d": "et.wikipedia.org",
     "t": "viki",
-    "u": "https://et.wikipedia.org/w/index.php?search={{{s}}} ",
+    "u": "https://et.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
@@ -110941,7 +110941,7 @@
     "s": "Viquipèdia",
     "d": "ca.wikipedia.org",
     "t": "viquipedia",
-    "u": "https://ca.wikipedia.org/w/index.php?search={{{s}}}&title=Especial%3ACerca&go=V%C3%A9s-hi",
+    "u": "https://ca.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
@@ -110981,7 +110981,7 @@
     "s": "Czech Wikipedia",
     "d": "cs.wikipedia.org",
     "t": "wcz",
-    "u": "https://cs.wikipedia.org/w/index.php?search={{{s}}}&title=Speci%C3%A1ln%C3%AD%3AHled%C3%A1n%C3%AD&go=J%C3%ADt+na",
+    "u": "https://cs.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -111005,7 +111005,7 @@
     "s": "wikipedia.org Band Discography",
     "d": "en.wikipedia.org",
     "t": "wdg",
-    "u": "https://en.wikipedia.org/w/index.php?title=Special:Search&search={{{s}}}+discography&go=Go",
+    "u": "https://en.wikipedia.org/w/index.php?title=Special:Search&search={{{s}}}+discography",
     "c": "Research",
     "sc": "Reference"
   },
@@ -111029,7 +111029,7 @@
     "s": "Wikipedia in Spanish",
     "d": "en.wikipedia.org",
     "t": "w-es",
-    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
+    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}",
     "c": "Research",
     "sc": "Reference"
   },
@@ -111053,7 +111053,7 @@
     "s": "fr.wikipedia.org",
     "d": "fr.wikipedia.org",
     "t": "wf",
-    "u": "https://fr.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
+    "u": "https://fr.wikipedia.org/wiki/Special:Search?search={{{s}}}",
     "c": "Online Services",
     "sc": "Search (non-US)"
   },
@@ -111077,7 +111077,7 @@
     "s": "Wikipedia (GR)",
     "d": "el.wikipedia.org",
     "t": "wgr",
-    "u": "https://el.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go&go=Go&go=Go",
+    "u": "https://el.wikipedia.org/wiki/Special:Search?search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
@@ -111133,7 +111133,7 @@
     "s": "Wikispecies",
     "d": "en.wikipedia.org",
     "t": "wikispecies",
-    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
+    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
@@ -111149,7 +111149,7 @@
     "s": "Wikipedia",
     "d": "en.wikipedia.org",
     "t": "wi",
-    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
+    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}",
     "c": "Research",
     "sc": "Reference"
   },
@@ -111173,7 +111173,7 @@
     "s": "wikipedia",
     "d": "en.wikipedia.org",
     "t": "wk",
-    "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go",
+    "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -111261,7 +111261,7 @@
     "s": "Hebrew wikipedia",
     "d": "he.wikipedia.org",
     "t": "ויקי",
-    "u": "https://he.wikipedia.org/w/index.php?search={{{s}}}&title=מיוחד%3Aחיפוש&go=לערך",
+    "u": "https://he.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
