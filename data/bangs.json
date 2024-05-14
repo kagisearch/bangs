@@ -110752,5 +110752,573 @@
     "u": "https://sat.wikipedia.org/w/index.php?search={{s}}",
     "c": "Research",
     "sc": "Reference"
+  },
+  {
+    "s": "Wikipedia - Zitierhilfe",
+    "d": "de.wikipedia.org",
+    "t": "cwde",
+    "u": "https://de.wikipedia.org/w/index.php?title=Spezial:Zitierhilfe&page={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "de.wikipedia.org",
+    "d": "de.wikipedia.org",
+    "t": "dew",
+    "u": "https://de.wikipedia.org/wiki/{{{s}}}",
+    "c": "Research",
+    "sc": "Academic"
+  },
+  {
+    "s": "Βικιπαίδεια",
+    "d": "el.wikipedia.org",
+    "t": "elw",
+    "u": "https://el.wikipedia.org/w/index.php?search={{{s}}}&title=%CE%95%CE%B9%CE%B4%CE%B9%CE%BA%CF%8C%3A%CE%91%CE%BD%CE%B1%CE%B6%CE%AE%CF%84%CE%B7%CF%83%CE%B7&go=%CE%9C%CE%B5%CF%84%CE%AC%CE%B2%CE%B1%CF%83%CE%B7",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Wikipedia",
+    "d": "en.wikipedia.org",
+    "t": "encyclopedia",
+    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
+    "c": "Research",
+    "sc": "Academic"
+  },
+  {
+    "s": "Google de.Wikipedia",
+    "d": "www.google.de",
+    "t": "gwpde",
+    "u": "https://www.google.de/search?ie=UTF-8&sourceid=navclient&gfns=1&q=site:de.wikipedia.org+{{{s}}}",
+    "c": "Online Services",
+    "sc": "Google"
+  },
+  {
+    "s": "Google Wikipedia",
+    "d": "www.google.com",
+    "t": "gwp",
+    "u": "https://www.google.com/search?q={{{s}}}%20site:wikipedia.org",
+    "c": "Online Services",
+    "sc": "Google"
+  },
+  {
+    "s": "Hebrew Wikipedia",
+    "d": "he.wikipedia.org",
+    "t": "hebwiki",
+    "u": "https://he.wikipedia.org/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Hindi Wikipedia",
+    "d": "hi.wikipedia.org",
+    "t": "hwiki",
+    "u": "https://hi.wikipedia.org/w/index.php?search={{{s}}}&title=विशेष%3Aखोज&go=जाएँ&ns0=1",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Wikipedia IPA guide",
+    "d": "en.wikipedia.org",
+    "t": "ipa",
+    "u": "https://en.wikipedia.org/wiki/Help:IPA/{{{s}}}",
+    "c": "Research",
+    "sc": "Reference (science)"
+  },
+  {
+    "s": "Japanese Wikipedia",
+    "d": "ja.wikipedia.org",
+    "t": "jawp",
+    "u": "https://ja.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Wikipedia",
+    "d": "en.wikipedia.org",
+    "t": "module",
+    "u": "https://en.wikipedia.org/wiki/Module:{{{s}}}",
+    "c": "Tech",
+    "sc": "Languages (lua)"
+  },
+  {
+    "s": "Dutch Wikipedia",
+    "d": "nl.wikipedia.org",
+    "t": "nlwi",
+    "u": "https://nl.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Polish Wikipedia",
+    "d": "pl.wikipedia.org",
+    "t": "plw",
+    "u": "https://pl.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Online Services",
+    "sc": "Tools"
+  },
+  {
+    "s": "Persian Wikipedia",
+    "d": "fa.wikipedia.org",
+    "t": "pwp",
+    "u": "https://fa.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "ru.WikiPedia.org",
+    "d": "ru.wikipedia.org",
+    "t": "ruwk",
+    "u": "https://ru.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Multimedia",
+    "sc": "Docs"
+  },
+  {
+    "s": "Simple English Wikipedia (short bang)",
+    "d": "simple.wikipedia.org",
+    "t": "se.w",
+    "u": "https://simple.wikipedia.org/wiki/{{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Simple English Wikipedia",
+    "d": "simple.wikipedia.org",
+    "t": "sw",
+    "u": "https://simple.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Tamil Wikipedia",
+    "d": "ta.wikipedia.org",
+    "t": "tawk",
+    "u": "https://ta.wikipedia.org/w/index.php?search={{{s}}}&title=%E0%AE%9A%E0%AE%BF%E0%AE%B1%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%3ASearch&go=%E0%AE%9A%E0%AF%86%E0%AE%B2%E0%AF%8D",
+    "c": "Research",
+    "sc": "Learning (intl)"
+  },
+  {
+    "s": "Wikipedia Templates",
+    "d": "en.wikipedia.org",
+    "t": "template",
+    "u": "https://en.wikipedia.org/wiki/Template:{{{s}}}",
+    "c": "Tech",
+    "sc": "Languages (lua)"
+  },
+  {
+    "s": "Vicipaedia",
+    "d": "la.wikipedia.org",
+    "t": "vici",
+    "u": "https://la.wikipedia.org/w/index.php?search={{{s}}} ",
+    "c": "Research",
+    "sc": "Academic"
+  },
+  {
+    "s": "Estonian Wikipedia (Vikipeedia)",
+    "d": "et.wikipedia.org",
+    "t": "viki",
+    "u": "https://et.wikipedia.org/w/index.php?search={{{s}}} ",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Vikipedio (Esperanto Wikipedia)",
+    "d": "eo.wikipedia.org",
+    "t": "vikipedio",
+    "u": "https://eo.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Vikipedi (Turkish Wikipedia)",
+    "d": "tr.wikipedia.org",
+    "t": "vikipedi",
+    "u": "https://tr.wikipedia.org/wiki/Special:Search?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Viquipèdia",
+    "d": "ca.wikipedia.org",
+    "t": "viquipedia",
+    "u": "https://ca.wikipedia.org/w/index.php?search={{{s}}}&title=Especial%3ACerca&go=V%C3%A9s-hi",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Wikipedia Vietnamese",
+    "d": "vi.wikipedia.org",
+    "t": "vnwiki",
+    "u": "https://vi.wikipedia.org/w/index.php?search={{{s}}} ",
+    "c": "Online Services",
+    "sc": "Search"
+  },
+  {
+    "s": "Esperanta Vikipedio",
+    "d": "eo.wikipedia.org",
+    "t": "vo",
+    "u": "https://eo.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Wikipedia (BR)",
+    "d": "pt.wikipedia.org",
+    "t": "w.br",
+    "u": "https://pt.wikipedia.org/wiki/{{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Viquipèdia",
+    "d": "ca.wikipedia.org",
+    "t": "wcat",
+    "u": "https://ca.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Czech Wikipedia",
+    "d": "cs.wikipedia.org",
+    "t": "wcz",
+    "u": "https://cs.wikipedia.org/w/index.php?search={{{s}}}&title=Speci%C3%A1ln%C3%AD%3AHled%C3%A1n%C3%AD&go=J%C3%ADt+na",
+    "c": "Research",
+    "sc": "Academic"
+  },
+  {
+    "s": "Wikipedia DE",
+    "d": "de.wikipedia.org",
+    "t": "w.de",
+    "u": "https://de.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "WikiDex",
+    "d": "es.pokemon.wikia.com",
+    "t": "wdex",
+    "u": "http://es.pokemon.wikia.com/wiki/Especial:Buscar?query={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (Pokemon)"
+  },
+  {
+    "s": "wikipedia.org Band Discography",
+    "d": "en.wikipedia.org",
+    "t": "wdg",
+    "u": "https://en.wikipedia.org/w/index.php?title=Special:Search&search={{{s}}}+discography&go=Go",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Wikipedia (DK)",
+    "d": "da.wikipedia.org",
+    "t": "wdk",
+    "u": "https://da.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Wikipedia (English)",
+    "d": "en.wikipedia.org",
+    "t": "w.en",
+    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Wikipedia in Spanish",
+    "d": "en.wikipedia.org",
+    "t": "w-es",
+    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Wikipedia Euskaraz (in Basque)",
+    "d": "eu.wikipedia.org",
+    "t": "weus",
+    "u": "https://eu.wikipedia.org/wiki/Special:Search?search={{{s}}}",
+    "c": "Research",
+    "sc": "Academic"
+  },
+  {
+    "s": "Wikipedia",
+    "d": "en.wikipedia.org",
+    "t": "we",
+    "u": "https://en.wikipedia.org/wiki/{{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "fr.wikipedia.org",
+    "d": "fr.wikipedia.org",
+    "t": "wf",
+    "u": "https://fr.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
+    "c": "Online Services",
+    "sc": "Search (non-US)"
+  },
+  {
+    "s": "Galipedia",
+    "d": "gl.wikipedia.org",
+    "t": "wgal",
+    "u": "https://gl.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Academic"
+  },
+  {
+    "s": "wikipedia german",
+    "d": "de.wikipedia.org",
+    "t": "wge",
+    "u": "https://de.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Academic"
+  },
+  {
+    "s": "Wikipedia (GR)",
+    "d": "el.wikipedia.org",
+    "t": "wgr",
+    "u": "https://el.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go&go=Go&go=Go",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Armenian Wikipedia (HY)",
+    "d": "hy.wikipedia.org",
+    "t": "w-hy",
+    "u": "https://hy.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Online Services",
+    "sc": "Search"
+  },
+  {
+    "s": "Wikipedia-FI",
+    "d": "fi.wikipedia.org",
+    "t": "wi-fi",
+    "u": "https://fi.wikipedia.org/w/index.php?search={{{s}}} ",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Wikipedia DE",
+    "d": "de.wikipedia.org",
+    "t": "wiki.de",
+    "u": "https://de.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Wikipedia Deutschland",
+    "d": "de.wikipedia.org",
+    "t": "wikipediade",
+    "u": "https://de.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Online Services",
+    "sc": "Tools"
+  },
+  {
+    "s": "Wikipedia in Italiano",
+    "d": "it.wikipedia.org",
+    "t": "wikipediait",
+    "u": "https://it.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Wikipedia Polska",
+    "d": "pl.wikipedia.org",
+    "t": "wiki.pl",
+    "u": "https://pl.wikipedia.org/wiki/{{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Wikispecies",
+    "d": "en.wikipedia.org",
+    "t": "wikispecies",
+    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Wikipedia Vietnamese",
+    "d": "vi.wikipedia.org",
+    "t": "wiki-vn",
+    "u": "https://vi.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Wikipedia",
+    "d": "en.wikipedia.org",
+    "t": "wi",
+    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}&go=Go",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Wikipedia (Chinese)",
+    "d": "zh.wikipedia.org",
+    "t": "wizh",
+    "u": "https://zh.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words)"
+  },
+  {
+    "s": "Wikipedia in Japanese",
+    "d": "ja.wikipedia.org",
+    "t": "wj",
+    "u": "https://ja.wikipedia.org/wiki/{{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "wikipedia",
+    "d": "en.wikipedia.org",
+    "t": "wk",
+    "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go",
+    "c": "Research",
+    "sc": "Academic"
+  },
+  {
+    "s": "Wikipedia Deutsch Mobile",
+    "d": "de.m.wikipedia.org",
+    "t": "wmde",
+    "u": "https://de.m.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Wikipedia French mobile",
+    "d": "fr.m.wikipedia.org",
+    "t": "wmfr",
+    "u": "https://fr.m.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Online Services",
+    "sc": "Search"
+  },
+  {
+    "s": "Wikipedia Mobile (Serbia)",
+    "d": "sr.m.wikipedia.org",
+    "t": "wmsr",
+    "u": "https://sr.m.wikipedia.org/wiki/{{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Wikipedia mobile",
+    "d": "en.m.wikipedia.org",
+    "t": "wm",
+    "u": "https://en.m.wikipedia.org/wiki?search={{{s}}}",
+    "c": "Research",
+    "sc": "Academic"
+  },
+  {
+    "s": "Wikipedia (FR)",
+    "d": "fr.wikipedia.org",
+    "t": "wpfr",
+    "u": "https://fr.wikipedia.org/wiki/{{{s}}}",
+    "c": "Research",
+    "sc": "Learning (intl)"
+  },
+  {
+    "s": "Wikipedia Random in Category",
+    "d": "en.wikipedia.org",
+    "t": "wrand",
+    "u": "https://en.wikipedia.org/wiki/Special:RandomInCategory/{{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Russian Wikipedia",
+    "d": "ru.wikipedia.org",
+    "t": "w.ru",
+    "u": "https://ru.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Wikipedia – Friddje diehtosátnegirji",
+    "d": "se.wikipedia.org",
+    "t": "wse",
+    "u": "https://se.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Wikipedia (VO)",
+    "d": "vo.wikipedia.org",
+    "t": "wvo",
+    "u": "https://vo.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "ويكيبيديا العربية",
+    "d": "ar.wikipedia.org",
+    "t": "و",
+    "u": "https://ar.wikipedia.org/wiki/Special:Search?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Hebrew wikipedia",
+    "d": "he.wikipedia.org",
+    "t": "ויקי",
+    "u": "https://he.wikipedia.org/w/index.php?search={{{s}}}&title=מיוחד%3Aחיפוש&go=לערך",
+    "c": "Research",
+    "sc": "Academic"
+  },
+  {
+    "s": "greek wikipedia",
+    "d": "el.wikipedia.org",
+    "t": "ςγρ",
+    "u": "https://el.wikipedia.org/wiki/?search={{{s}}}",
+    "c": "Online Services",
+    "sc": "Search"
+  },
+  {
+    "s": "Wikipedia",
+    "d": "uk.m.wikipedia.org",
+    "t": "в",
+    "u": "https://uk.m.wikipedia.org/wiki/{{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Википедия",
+    "d": "ru.wikipedia.org",
+    "t": "вики",
+    "u": "https://ru.wikipedia.org/w/index.php?search={{{s}}}&",
+    "c": "Multimedia",
+    "sc": "Docs"
+  },
+  {
+    "s": "Wikipedia (BG)",
+    "d": "bg.wikipedia.org",
+    "t": "уики",
+    "u": "https://bg.wikipedia.org/wiki/{{{s}}}",
+    "c": "Translation",
+    "sc": "Google"
+  },
+  {
+    "s": "Википедия",
+    "d": "ru.wikipedia.org",
+    "t": "ц",
+    "u": "https://ru.wikipedia.org/wiki/Special:Search?search={{{s}}}",
+    "c": "Online Services",
+    "sc": "Search"
+  },
+  {
+    "s": "Wikipedia (ru)",
+    "d": "ru.wikipedia.org",
+    "t": "ш",
+    "u": "https://ru.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Online Services",
+    "sc": "Search"
+  },
+  {
+    "s": "Wikipedia (ru)",
+    "d": "ru.wikipedia.org",
+    "t": "шру",
+    "u": "https://ru.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Online Services",
+    "sc": "Search"
   }
 ]
