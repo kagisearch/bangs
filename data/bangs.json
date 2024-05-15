@@ -96046,7 +96046,7 @@
     "s": "University of North Carolina at Chapel Hill Library",
     "d": "library.unc.edu",
     "t": "unclib",
-    "u": "https://library.unc.edu/find/combinedresults/?Ntt={{{s}}}&Ntk=Keyword",
+    "u": "https://library.unc.edu/find/?q={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
