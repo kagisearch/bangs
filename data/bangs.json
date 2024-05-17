@@ -71818,7 +71818,10 @@
     "t": "pexels",
     "u": "http://www.pexels.com/search/{{{s}}}/",
     "c": "Multimedia",
-    "sc": "Images"
+    "sc": "Images",
+    "fmt": [
+      "url_encode_placeholder"
+    ]
   },
   {
     "s": "Poinformowani",
