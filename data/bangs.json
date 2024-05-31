@@ -111323,5 +111323,13 @@
     "u": "https://ru.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Online Services",
     "sc": "Search"
+  },
+  {
+    "s": "Predecessor Official Wiki",
+    "d": "predecessor.wiki.gg",
+    "t": "pred",
+    "u": "https://predecessor.wiki.gg/index.php?search={{{s}}}&title=Special%3ASearch&go=Go",
+    "c": "Entertainment",
+    "sc": "Games (specific)"
   }
 ]
