@@ -73032,10 +73032,10 @@
     "sc": "Health"
   },
   {
-    "s": "ploum.net",
-    "d": "ploum.net",
+    "s": "Kagi Search",
+    "d": "kagi.com",
     "t": "ploum",
-    "u": "https://ploum.net/?s={{{s}}}",
+    "u": "/search?q={{{s}}}+site%3Aploum.net",
     "c": "Tech",
     "sc": "Blogs"
   },
