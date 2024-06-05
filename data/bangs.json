@@ -82021,7 +82021,7 @@
     "s": "SciPy",
     "d": "docs.scipy.org",
     "t": "scipy",
-    "u": "https://docs.scipy.org/doc/scipy/reference/search.html?q={{{s}}}&check_keywords=yes&area=default",
+    "u": "https://docs.scipy.org/doc/scipy/search.html?q={{{s}}}&check_keywords=yes&area=default",
     "c": "Tech",
     "sc": "Languages (python)"
   },
