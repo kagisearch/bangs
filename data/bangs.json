@@ -64024,9 +64024,9 @@
   },
   {
     "s": "NAOB – Det Norske Akademis ordbok",
-    "d": "www.naob.no",
+    "d": "naob.no",
     "t": "naob",
-    "u": "https://www.naob.no/s%C3%B8k/{{{s}}}",
+    "u": "https://naob.no/s%C3%B8k?q={{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
   },
