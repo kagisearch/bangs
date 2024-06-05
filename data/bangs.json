@@ -65786,7 +65786,7 @@
     "s": "NixOS Wiki",
     "d": "wiki.nixos.org",
     "t": "nix",
-    "u": "https://wiki.nixos.org/index.php?search={{{s}}}",
+    "u": "https://wiki.nixos.org/w/index.php?search={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin"
   },
@@ -65794,7 +65794,7 @@
     "s": "NixOS Wiki",
     "d": "wiki.nixos.org",
     "t": "nixos",
-    "u": "https://wiki.nixos.org/index.php?search={{{s}}}",
+    "u": "https://wiki.nixos.org/w/index.php?search={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin"
   },
@@ -65802,7 +65802,7 @@
     "s": "NixOS Wiki",
     "d": "wiki.nixos.org",
     "t": "nixoswiki",
-    "u": "https://wiki.nixos.org/index.php?search={{{s}}}",
+    "u": "https://wiki.nixos.org/w/index.php?search={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin"
   },
