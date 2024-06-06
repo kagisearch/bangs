@@ -699,6 +699,13 @@
     "c": "Region search"
   },
   {
+    "s": "Search in India",
+    "d": "kagi.com",
+    "t": "in",
+    "u": "/search?q={{{s}}}&r=in",
+    "c": "Region search"
+  },
+  {
     "s": "Search in Japan",
     "d": "kagi.com",
     "t": "jp",
