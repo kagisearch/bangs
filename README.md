@@ -118,7 +118,6 @@ Adding new region bangs will be handled on a case-by-case basis.
 | hn      | Hacker News                       | Tech            | Honduras                                     |
 | ht      | HookTube                          | Multimedia      | Haiti                                        |
 | ie      | Kagi Search                       | Online Services | Ireland                                      |
-| in      | Invidio.us                        | Multimedia      | India                                        |
 | is      | Ilmainen Sanakirja                | Online Services | Iceland                                      |
 | je      | Tanoshii Japanese                 | Research        | Jersey                                       |
 | jm      | Joe Monster                       | Entertainment   | Jamaica                                      |
