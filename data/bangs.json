@@ -47871,14 +47871,6 @@
     "sc": "Learning"
   },
   {
-    "s": "Invidio.us",
-    "d": "invidio.us",
-    "t": "in",
-    "u": "https://invidio.us/search?q={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Video"
-  },
-  {
     "s": "initium wiki",
     "d": "initium.fandom.com",
     "t": "initium",
