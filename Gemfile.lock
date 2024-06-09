@@ -22,6 +22,8 @@ GEM
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)
     unicode-display_width (2.5.0)
+    whirly (0.3.0)
+      unicode-display_width (>= 1.1)
 
 PLATFORMS
   ruby
@@ -32,6 +34,7 @@ DEPENDENCIES
   json
   rspec (~> 3.13)
   terminal-table (~> 3.0)
+  whirly
 
 BUNDLED WITH
    2.5.4

@@ -1,0 +1,26 @@
+name: Bang Health Check
+
+on:
+  schedule:
+    # Schedule to run at 15:00 UTC first day of every month
+    - cron: "0 15 1 * *"
+  workflow_dispatch:
+
+jobs:
+  health_check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.0
+          bundler-cache: true
+
+      - name: Run health check
+        run: |
+          bundle exec ruby scripts/health_check.rb
