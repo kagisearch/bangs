@@ -1,15 +1,16 @@
 require "json"
 require "rspec"
 require "addressable"
+require "uri"
 
 bangs_json = JSON.parse(File.read("data/bangs.json"))
-bang_triggers = bangs_json.map{|b| b["t"]}
+bang_triggers = bangs_json.map { |b| b["t"] }
 
 kagi_bangs_json = JSON.parse(File.read("data/kagi_bangs.json"))
-kagi_triggers = kagi_bangs_json.map{|b| b["t"]}
+kagi_triggers = kagi_bangs_json.map { |b| b["t"] }
 
 assist_bangs_json = JSON.parse(File.read("data/assistant_bangs.json"))
-assistant_triggers = assist_bangs_json.map{|b| b["t"]}
+assistant_triggers = assist_bangs_json.map { |b| b["t"] }
 
 def find_dups(*arr)
   arr.flatten
@@ -32,6 +33,17 @@ def match_domains(bangs)
   end
 end
 
+def uri_encoded_urls(bangs)
+  # TODO(margret):
+  # bangs.each do |bang|
+  #   it "template should be uri encoded (#{bang["s"]})" do
+  #     expect {
+  #       URI.parse(bang["u"].gsub("{{{s}}}", "example"))
+  #     }.to_not raise_exception
+  #   end
+  # end
+end
+
 describe "bangs.json" do
   it "doesn't have duplicate bang triggers" do
     dups = find_dups(bang_triggers)
@@ -52,6 +64,7 @@ describe "bangs.json" do
   end
 
   match_domains(bangs_json)
+  uri_encoded_urls(bangs_json)
 end
 
 describe "kagi_bangs.json" do
@@ -68,6 +81,7 @@ describe "kagi_bangs.json" do
   end
 
   match_domains(kagi_bangs_json)
+  uri_encoded_urls(kagi_bangs_json)
 end
 
 describe "assistant_bangs.json" do
@@ -78,4 +92,5 @@ describe "assistant_bangs.json" do
   end
 
   match_domains(assist_bangs_json)
+  uri_encoded_urls(assist_bangs_json)
 end
