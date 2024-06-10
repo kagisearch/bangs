@@ -75,7 +75,6 @@ Adding new region bangs will be handled on a case-by-case basis.
 | ci      | CodeIgniter                       | Tech            | Côte d'Ivoire                                |
 | ck      | Chefkoch.de                       | Research        | Cook Islands                                 |
 | cl      | Craigslist                        | Shopping        | Chile                                        |
-| cm      | CM.Center                         | Shopping        | Cameroon                                     |
 | cr      | codereview.stackexchange.com      | Tech            | Costa Rica                                   |
 | cu      | CanIUse                           | Tech            | Cuba                                         |
 | cv      | Cross Validated                   | Tech            | Cabo Verde                                   |
