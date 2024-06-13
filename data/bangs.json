@@ -5254,7 +5254,7 @@
     "s": "NASA - Astronomy Picture of the Day",
     "d": "apod.nasa.gov",
     "t": "apod",
-    "u": "https://apod.nasa.gov/apod/ap{{{s}}}.html",
+    "u": "https://apod.nasa.gov/cgi-bin/apod/apod_search?tquery={{{s}}}",
     "c": "Multimedia",
     "sc": "Images"
   },
