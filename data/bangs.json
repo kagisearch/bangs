@@ -80478,7 +80478,7 @@
     "sc": "Tools (URLs)"
   },
   {
-    "s": "Socialblade Youtube",
+    "s": "Socialblade YouTube",
     "d": "socialblade.com",
     "t": "sbyt",
     "u": "http://socialblade.com/youtube/user/{{{s}}}",
@@ -104757,7 +104757,7 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "Youtube",
+    "s": "YouTube",
     "d": "www.youtube.com",
     "t": "yt24",
     "u": "https://www.youtube.com/results?q={{{s}}}&sp=EgIIAg%253D%253D",
@@ -104765,7 +104765,7 @@
     "sc": "Video"
   },
   {
-    "s": "Youtube",
+    "s": "YouTube",
     "d": "www.youtube.com",
     "t": "ytb",
     "u": "https://www.youtube.com/results?search_query={{{s}}}",
@@ -104789,7 +104789,7 @@
     "sc": "Video"
   },
   {
-    "s": "Youtube Channel Videos",
+    "s": "YouTube Channel Videos",
     "d": "www.youtube.com",
     "t": "ytcv",
     "u": "https://www.youtube.com/user/{{{s}}}/videos",
@@ -104797,7 +104797,7 @@
     "sc": "Video"
   },
   {
-    "s": "Youtube Channel",
+    "s": "YouTube Channel",
     "d": "www.youtube.com",
     "t": "ytc",
     "u": "https://www.youtube.com/user/{{{s}}}",
@@ -104821,7 +104821,7 @@
     "sc": "Video"
   },
   {
-    "s": "Youtube",
+    "s": "YouTube",
     "d": "www.youtube.com",
     "t": "ytde",
     "u": "https://www.youtube.com/results?search_query={{{s}}}&gl=DE&hl=de",
@@ -104837,7 +104837,7 @@
     "sc": "Video"
   },
   {
-    "s": "Youtube Spain",
+    "s": "YouTube Spain",
     "d": "www.youtube.es",
     "t": "ytes",
     "u": "https://www.youtube.es/results?search_query={{{s}}}",
@@ -104861,7 +104861,7 @@
     "sc": "Games (general)"
   },
   {
-    "s": "Youtube Gaming",
+    "s": "YouTube Gaming",
     "d": "gaming.youtube.com",
     "t": "ytg",
     "u": "https://gaming.youtube.com/results?search_query={{{s}}}",
@@ -104869,7 +104869,7 @@
     "sc": "Video"
   },
   {
-    "s": "Youtube History",
+    "s": "YouTube History",
     "d": "www.youtube.com",
     "t": "yth",
     "u": "https://www.youtube.com/feed/history?query={{{s}}}",
@@ -104893,7 +104893,7 @@
     "sc": "Tools"
   },
   {
-    "s": "Youtube",
+    "s": "YouTube",
     "d": "www.youtube.com",
     "t": "ytlist",
     "u": "https://www.youtube.com/results?filters=playlist&lclk=playlist&search_query={{{s}}}",
@@ -104933,7 +104933,7 @@
     "sc": "Music"
   },
   {
-    "s": "Youtube Music",
+    "s": "YouTube Music",
     "d": "music.youtube.com",
     "t": "ytm",
     "u": "https://music.youtube.com/search?q={{{s}}}",
@@ -104949,7 +104949,7 @@
     "sc": "Google"
   },
   {
-    "s": "Youtube playlists",
+    "s": "YouTube Playlists",
     "d": "www.youtube.com",
     "t": "ytp",
     "u": "https://www.youtube.com/results?q={{{s}}}&sp=EgIQAw%253D%253D",
@@ -104981,7 +104981,7 @@
     "sc": "Tools"
   },
   {
-    "s": "Youtube TV",
+    "s": "YouTube TV",
     "d": "tv.youtube.com",
     "t": "yttv",
     "u": "https://tv.youtube.com/search/{{{s}}}",
@@ -104997,7 +104997,7 @@
     "sc": "Google"
   },
   {
-    "s": "Youtube video",
+    "s": "YouTube Video",
     "d": "www.youtube.com",
     "t": "ytvideo",
     "u": "https://www.youtube.com/watch?v={{{s}}}",
@@ -105917,7 +105917,7 @@
     "sc": "Academic"
   },
   {
-    "s": "Youtube",
+    "s": "YouTube",
     "d": "www.youtube.com",
     "t": "υτ",
     "u": "https://www.youtube.com/results?search_query={{{s}}}",
