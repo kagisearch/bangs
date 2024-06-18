@@ -97847,9 +97847,9 @@
   },
   {
     "s": "Price Charting",
-    "d": "videogames.pricecharting.com",
+    "d": "www.pricecharting.com",
     "t": "vp",
-    "u": "https://videogames.pricecharting.com/search?q={{{s}}}&type=videogames&go=Go",
+    "u": "https://www.pricecharting.com/search-products?type=prices&q={{{s}}}&go=Go",
     "c": "Entertainment",
     "sc": "Games (general)"
   },
