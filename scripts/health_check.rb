@@ -17,6 +17,8 @@ def check_url(bang, errored, mutex)
   url = URI.parse(bang_url)
 
   Net::HTTP.get_response(url)
+rescue Net::ReadTimeout
+  # Do nothing
 rescue => e
   mutex.synchronize { errored << [bang, e] }
   # puts "#{bang_url} is offline (#{bang["s"]}). Error: \n  #{e}"
@@ -34,7 +36,7 @@ all_bangs.each_with_index do |bang, idx|
   threads << Thread.new { check_url(bang, errored, mutex) }
 
   # Limit the number of concurrent threads to avoid overwhelming the system
-  if threads.size >= 100
+  if threads.size >= 10
     threads.each(&:join)
     threads.clear
   end
