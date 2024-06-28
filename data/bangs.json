@@ -110168,4 +110168,13 @@
     "c": "Entertainment",
     "sc": "Games (specific)"
   }
+  {
+    "s": "TikTok",
+    "d": "www.tiktok.com",
+    "t": "tiktok",
+    "u": "https://tiktok.com/search?q={{{s}}}",
+    "c": "Multimedia",
+    "sc": "Video",
+    "fmt": "url_encode_placeholder"
+  }
 ]
