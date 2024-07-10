@@ -110167,5 +110167,12 @@
     "u": "https://predecessor.wiki.gg/index.php?search={{{s}}}&title=Special%3ASearch&go=Go",
     "c": "Entertainment",
     "sc": "Games (specific)"
+  },
+  {
+    "s": "Kagi Bang Explorer",
+    "d": "kbe.smaertness.net",
+    "t": "kbe",
+    "u": "https://kbe.smaertness.net/search?q={{{s}}}",
+    "c": "Tech"
   }
 ]
