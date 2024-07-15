@@ -92872,14 +92872,6 @@
     "sc": "Online (marketplace)"
   },
   {
-    "s": "Donald Trump's Twitter",
-    "d": "twitter.com",
-    "t": "trump",
-    "u": "https://twitter.com/search?q=from%3Arealdonaldtrump%20{{{s}}}&src=typd",
-    "c": "Online Services",
-    "sc": "Social"
-  },
-  {
     "s": "Trustpilot",
     "d": "www.trustpilot.com",
     "t": "trustpilot",
