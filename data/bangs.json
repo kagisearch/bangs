@@ -13360,9 +13360,13 @@
     "s": "Can I use...",
     "d": "caniuse.com",
     "t": "caniuse",
-    "u": "https://caniuse.com/#search={{{s}}}",
+    "u": "https://caniuse.com/?search={{{s}}}",
     "c": "Tech",
-    "sc": "Languages (html)"
+    "sc": "Languages (html)",
+    "fmt": [
+      "open_base_path",
+      "url_encode_placeholder"
+    ]
   },
   {
     "s": "CanLII",
