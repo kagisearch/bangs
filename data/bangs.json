@@ -89637,7 +89637,11 @@
     "t": "tenor",
     "u": "https://tenor.com/search/{{{s}}}",
     "c": "Multimedia",
-    "sc": "Images"
+    "sc": "Images",
+    "fmt": [
+      "open_base_path",
+      "url_encode_placeholder"
+    ]
   },
   {
     "s": "TensorFlow",
