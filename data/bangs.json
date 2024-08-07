@@ -110174,5 +110174,12 @@
     "t": "kbe",
     "u": "https://kbe.smaertness.net/search?q={{{s}}}",
     "c": "Tech"
+  },
+  {
+    "s": "TikTok",
+    "d": "www.tiktok.com",
+    "t": "tiktok",
+    "u": "https://www.tiktok.com/search?q={{{s}}}",
+    "c": "Entertainment"
   }
 ]
