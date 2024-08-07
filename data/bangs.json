@@ -4114,7 +4114,7 @@
     "s": "Firefox Add-ons",
     "d": "addons.mozilla.org",
     "t": "amo",
-    "u": "https://addons.mozilla.org/firefox/search/?q={{{s}}}&cat=all",
+    "u": "https://addons.mozilla.org/search/?q={{{s}}}",
     "c": "Tech",
     "sc": "Downloads (add-ons)"
   },
@@ -29602,7 +29602,7 @@
     "s": "Firefox Addons",
     "d": "addons.mozilla.org",
     "t": "fad",
-    "u": "https://addons.mozilla.org/en-US/firefox/search/?q={{{s}}}",
+    "u": "https://addons.mozilla.org/search/?q={{{s}}}",
     "c": "Tech",
     "sc": "Downloads (add-ons)"
   },
@@ -30648,7 +30648,7 @@
     "s": "Firefox Add-ons",
     "d": "addons.mozilla.org",
     "t": "ffa",
-    "u": "https://addons.mozilla.org/en-US/firefox/search/?q={{{s}}}",
+    "u": "https://addons.mozilla.org/search/?q={{{s}}}",
     "c": "Tech",
     "sc": "Downloads (add-ons)"
   },
@@ -31368,7 +31368,7 @@
     "s": "Firefox Addons",
     "d": "addons.mozilla.org",
     "t": "firefoxaddon",
-    "u": "https://addons.mozilla.org/en-US/firefox/search/?q={{{s}}}",
+    "u": "https://addons.mozilla.org/search/?q={{{s}}}",
     "c": "Online Services",
     "sc": "Search"
   },
@@ -31376,7 +31376,7 @@
     "s": "Add-ons Firefox",
     "d": "addons.mozilla.org",
     "t": "firefoxaddons",
-    "u": "https://addons.mozilla.org/en-US/firefox/search/?q={{{s}}}",
+    "u": "https://addons.mozilla.org/search/?q={{{s}}}",
     "c": "Tech",
     "sc": "Downloads (add-ons)"
   },
@@ -31384,7 +31384,7 @@
     "s": "Firefox Add-ons",
     "d": "addons.mozilla.org",
     "t": "firefox",
-    "u": "https://addons.mozilla.org/en-US/firefox/search/?q={{{s}}}&cat=all",
+    "u": "https://addons.mozilla.org/search/?q={{{s}}}",
     "c": "Tech",
     "sc": "Downloads (add-ons)"
   },
@@ -60972,7 +60972,7 @@
     "s": "Mozilla Addons",
     "d": "addons.mozilla.org",
     "t": "mozaddon",
-    "u": "https://addons.mozilla.org/en-US/firefox/search/?q={{{s}}}",
+    "u": "https://addons.mozilla.org/search/?q={{{s}}}",
     "c": "Tech",
     "sc": "Downloads (add-ons)"
   },
