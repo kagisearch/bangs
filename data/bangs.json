@@ -56400,7 +56400,7 @@
     "s": "MacUpdate",
     "d": "www.macupdate.com",
     "t": "macupdate",
-    "u": "https://www.macupdate.com/find/mac/{{{s}}}",
+    "u": "https://www.macupdate.com/find/mac/context={{{s}}}",
     "c": "Shopping",
     "sc": "Tech"
   },
@@ -61930,9 +61930,9 @@
   },
   {
     "s": "MacUpdate",
-    "d": "macupdate.com",
+    "d": "www.macupdate.com",
     "t": "mu",
-    "u": "https://macupdate.com/find/mac/{{{s}}}",
+    "u": "https://www.macupdate.com/find/mac/context={{{s}}}",
     "c": "Tech",
     "sc": "Downloads (software)"
   },
