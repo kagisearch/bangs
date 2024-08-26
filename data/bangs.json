@@ -31597,6 +31597,14 @@
     "sc": "Tools"
   },
   {
+    "s": "FLAX Docs",
+    "d": "flax.readthedocs.io",
+    "t": "flax",
+    "u": "https://flax.readthedocs.io/en/latest/search.html?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Languages (python)"
+  },
+  {
     "s": "Front Line Defenders",
     "d": "www.frontlinedefenders.org",
     "t": "fld",
@@ -48699,6 +48707,14 @@
     "u": "https://ja.wikiversity.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Reference"
+  },
+  {
+    "s": "JAX Docs",
+    "d": "jax.readthedocs.io",
+    "t": "jax",
+    "u": "https://jax.readthedocs.io/en/latest/search.html?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Languages (python)"
   },
   {
     "s": "Jaycar Electronics NZ",
