@@ -48701,6 +48701,14 @@
     "sc": "Reference"
   },
   {
+    "s": "JAX Docs",
+    "d": "https://jax.readthedocs.io",
+    "t": "jax",
+    "u": "https://jax.readthedocs.io/en/latest/search.html?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Languages (python)"
+  },
+  {
     "s": "Jaycar Electronics NZ",
     "d": "www.jaycar.co.nz",
     "t": "jaycar",
