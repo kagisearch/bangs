@@ -51825,6 +51825,14 @@
     "sc": "Reference (words intl)"
   },
   {
+    "s": "KProfiles",
+    "d": "kprofiles.com",
+    "t": "kprofiles",
+    "u": "https://kprofiles.com/?s={{{s}}}",
+    "c": "Multimedia",
+    "sc": "Music"
+  },
+  {
     "s": "Kreativ Font",
     "d": "www.kreativfont.com",
     "t": "kreativfont",
@@ -67469,6 +67477,14 @@
     "u": "https://openclipart.org/search/?query={{{s}}}",
     "c": "Multimedia",
     "sc": "Images"
+  },
+  {
+    "s": "OpenCritic",
+    "d": "kagi.com",
+    "t": "opencritic",
+    "u": "/search?q={{{s}}}+site%3Aopencritic.com",
+    "c": "Online Services",
+    "sc": "Search"
   },
   {
     "s": "OpenCompanies",
