@@ -31598,7 +31598,7 @@
   },
   {
     "s": "FLAX Docs",
-    "d": "flax.readthedocs.io/",
+    "d": "flax.readthedocs.io",
     "t": "flax",
     "u": "https://flax.readthedocs.io/en/latest/search.html?q={{{s}}}",
     "c": "Tech",
