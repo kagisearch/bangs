@@ -35271,6 +35271,14 @@
     "sc": "Academic"
   },
   {
+  "s": "Genshin Impact Wiki",
+  "d": "genshin-impact.fandom.com",
+  "t": "genshin",
+  "u": "https://genshin-impact.fandom.com/wiki/Special:Search?query={{{s}}}",
+  "c": "Entertainment",
+  "sc": "Games (specific)"
+  },
+  {
     "s": "Library Genesis (Non-Fiction)",
     "d": "libgen.rs",
     "t": "libg",
@@ -44118,6 +44126,14 @@
     "u": "https://honto.jp/netstore/search_10{{{s}}}.html?srchf=1&tbty=0",
     "c": "Multimedia",
     "sc": "Books"
+  },
+  {
+    "s": "Honkai: Star Rail Wiki",
+    "d": "honkai-star-rail.fandom.com",
+    "t": "honkai",
+    "u": "https://honkai-star-rail.fandom.com/wiki/Special:Search?query={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (specific)"
   },
   {
     "s": "Hood.de - Auktionen und Online Shopping",
