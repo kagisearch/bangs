@@ -104765,7 +104765,7 @@
     "sc": "Topical"
   },
   {
-    "s": "Yandex",
+    "s": "Yandex Reverse Image Search",
     "d": "yandex.com",
     "t": "yri",
     "u": "https://yandex.com/images/search?source=collections&&url={{{s}}}&rpt=imageview",
