@@ -38793,9 +38793,9 @@
   },
   {
     "s": "Google Reverse Image Search",
-    "d": "images.google.com",
+    "d": "lens.google.com",
     "t": "gri",
-    "u": "https://images.google.com/searchbyimage?image_url={{{s}}}",
+    "u": "https://lens.google.com/uploadbyurl?url={{{s}}}",
     "c": "Multimedia",
     "sc": "Images"
   },
@@ -77647,9 +77647,9 @@
   },
   {
     "s": "Google Reverse Image Search",
-    "d": "images.google.com",
+    "d": "lens.google.com",
     "t": "rgi",
-    "u": "https://images.google.com/searchbyimage?image_url={{{s}}}",
+    "u": "https://lens.google.com/uploadbyurl?url={{{s}}}",
     "c": "Multimedia",
     "sc": "Images"
   },
