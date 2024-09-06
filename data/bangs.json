@@ -10112,7 +10112,7 @@
     "s": "Bing Reverse Image Search",
     "d": "www.bing.com",
     "t": "bir",
-    "u": "https://www.bing.com/images/search?q=imgurl:{{{s}}}&view=detailv2&iss=sbi&FORM=IRSBIQ#enterInsights",
+    "u": "https://www.bing.com/images/search?q=imgurl:{{{s}}}&view=detailv2&iss=sbi",
     "c": "Online Services",
     "sc": "Search"
   },
@@ -11768,7 +11768,7 @@
     "s": "Bing Reverse Image Search",
     "d": "www.bing.com",
     "t": "bri",
-    "u": "https://www.bing.com/images/search?q=imgurl:{{{s}}}&view=detailv2&iss=sbi&FORM=IRSBIQ#enterInsights",
+    "u": "https://www.bing.com/images/search?q=imgurl:{{{s}}}&view=detailv2&iss=sbi",
     "c": "Online Services",
     "sc": "Search"
   },
@@ -35271,12 +35271,12 @@
     "sc": "Academic"
   },
   {
-  "s": "Genshin Impact Wiki",
-  "d": "genshin-impact.fandom.com",
-  "t": "genshin",
-  "u": "https://genshin-impact.fandom.com/wiki/Special:Search?query={{{s}}}",
-  "c": "Entertainment",
-  "sc": "Games (specific)"
+    "s": "Genshin Impact Wiki",
+    "d": "genshin-impact.fandom.com",
+    "t": "genshin",
+    "u": "https://genshin-impact.fandom.com/wiki/Special:Search?query={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (specific)"
   },
   {
     "s": "Library Genesis (Non-Fiction)",
@@ -104768,7 +104768,7 @@
     "s": "Yandex Reverse Image Search",
     "d": "yandex.com",
     "t": "yri",
-    "u": "https://yandex.com/images/search?source=collections&&url={{{s}}}&rpt=imageview",
+    "u": "https://yandex.com/images/search?url={{{s}}}&rpt=imageview",
     "c": "Online Services",
     "sc": "Search"
   },
