@@ -17327,6 +17327,14 @@
     "sc": "Academic"
   },
   {
+    "s": "Microsoft Copilot",
+    "d": "bing.com",
+    "t": "copilot",
+    "u": "https://bing.com/chat?q={{{s}}}&sendquery=1",
+    "c": "Online Services",
+    "sc": "Tools"
+  },
+  {
     "s": "The Coppermind",
     "d": "coppermind.net",
     "t": "coppermind",
