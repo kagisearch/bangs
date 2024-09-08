@@ -70629,6 +70629,14 @@
     "sc": "Languages (perl)"
   },
   {
+    "s": "Perplexity AI",
+    "d": "perplexity.ai",
+    "t": "perplexity",
+    "u": "https://perplexity.ai/?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Tools"
+  },
+  {
     "s": "Personality Database",
     "d": "personality-database.com",
     "t": "per",
