@@ -13069,6 +13069,14 @@
     "sc": "Languages (php)"
   },
   {
+    "s": "DuckDuckGo AI Chat",
+    "d": "duckduckgo.com",
+    "t": "ddg-chat",
+    "u": "https://duckduckgo.com/?q={{{s}}}&ia=chat&bang=true",
+    "c": "Online Services",
+    "sc": "Tools"
+  },
+  {
     "s": "DuckDuckGo Calculator",
     "d": "duckduckgo.com",
     "t": "ddg-calc",
