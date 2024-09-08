@@ -24938,7 +24938,7 @@
     "s": "dxomark.com",
     "d": "www.dxomark.com",
     "t": "dxo",
-    "u": "https://www.dxomark.com/content/search/?SearchText={{{s}}}",
+    "u": "https://www.dxomark.com/?s={{{s}}}",
     "c": "Tech",
     "sc": "Blogs"
   },
