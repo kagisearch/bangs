@@ -59763,6 +59763,14 @@
     "sc": "Books"
   },
   {
+    "s": "Mistral Chat",
+    "d": "chat.mistral.ai",
+    "t": "mistral",
+    "u": "https://chat.mistral.ai/chat?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Tools"
+  },
+  {
     "s": "Misumi USA",
     "d": "us.misumi-ec.com",
     "t": "misumi",
