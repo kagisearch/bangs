@@ -13069,6 +13069,14 @@
     "sc": "Languages (php)"
   },
   {
+    "s": "DuckDuckGo AI Chat",
+    "d": "duckduckgo.com",
+    "t": "ddg-chat",
+    "u": "https://duckduckgo.com/?q={{{s}}}&ia=chat&bang=true",
+    "c": "Online Services",
+    "sc": "Tools"
+  },
+  {
     "s": "DuckDuckGo Calculator",
     "d": "duckduckgo.com",
     "t": "ddg-calc",
@@ -14799,6 +14807,14 @@
     "u": "https://hub.helm.sh/charts?q={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin (packages)"
+  },
+  {
+    "s": "ChatGPT",
+    "d": "chatgpt.com",
+    "t": "chatgpt",
+    "u": "https://chatgpt.com/?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Tools"
   },
   {
     "s": "Chatters Salons",
@@ -17317,6 +17333,14 @@
     "u": "https://discover.libraryhub.jisc.ac.uk/search?q={{{s}}}",
     "c": "Research",
     "sc": "Academic"
+  },
+  {
+    "s": "Microsoft Copilot",
+    "d": "bing.com",
+    "t": "copilot",
+    "u": "https://bing.com/chat?q={{{s}}}&sendquery=1",
+    "c": "Online Services",
+    "sc": "Tools"
   },
   {
     "s": "The Coppermind",
@@ -59755,6 +59779,14 @@
     "sc": "Books"
   },
   {
+    "s": "Mistral Chat",
+    "d": "chat.mistral.ai",
+    "t": "mistral",
+    "u": "https://chat.mistral.ai/chat?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Tools"
+  },
+  {
     "s": "Misumi USA",
     "d": "us.misumi-ec.com",
     "t": "misumi",
@@ -70611,6 +70643,14 @@
     "u": "https://p3rl.org/{{{s}}}",
     "c": "Tech",
     "sc": "Languages (perl)"
+  },
+  {
+    "s": "Perplexity AI",
+    "d": "perplexity.ai",
+    "t": "perplexity",
+    "u": "https://perplexity.ai/?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Tools"
   },
   {
     "s": "Personality Database",
@@ -104585,6 +104625,14 @@
     "d": "www.yopmail.com",
     "t": "yopmail",
     "u": "https://www.yopmail.com/en/index.php?login={{{s}}}",
+    "c": "Online Services",
+    "sc": "Tools"
+  },
+  {
+    "s": "You.com",
+    "d": "you.com",
+    "t": "youai",
+    "u": "https://you.com/search?q={{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
   },
