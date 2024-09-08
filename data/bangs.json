@@ -104621,6 +104621,14 @@
     "sc": "Tools"
   },
   {
+    "s": "You.com",
+    "d": "you.com",
+    "t": "youai",
+    "u": "https://you.com/search?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Tools"
+  },
+  {
     "s": "有道词典",
     "d": "dict.youdao.com",
     "t": "youdaod",
