@@ -14801,6 +14801,14 @@
     "sc": "Sysadmin (packages)"
   },
   {
+    "s": "ChatGPT",
+    "d": "chatgpt.com",
+    "t": "chatgpt",
+    "u": "https://chatgpt.com/?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Tools"
+  },
+  {
     "s": "Chatters Salons",
     "d": "chatters.ca",
     "t": "chatters",
