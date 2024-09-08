@@ -41539,7 +41539,7 @@
     "s": "Google Translate URL",
     "d": "translate.google.com",
     "t": "gturl",
-    "u": "https://translate.google.com/translate?js=n&prev=_t&ie=UTF-8&layout=2&eotf=1&sl=auto&tl=en&u={{{s}}}&act=url",
+    "u": "https://translate.google.com/translate?sl=auto&tl=en&u={{{s}}}",
     "c": "Translation",
     "sc": "Google"
   },
