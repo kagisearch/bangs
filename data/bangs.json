@@ -28418,7 +28418,7 @@
     "s": "Entertainment Software Rating Board",
     "d": "www.esrb.org",
     "t": "esrb",
-    "u": "https://www.esrb.org/ratings/search.jsp?titleOrPublisher={{{s}}}",
+    "u": "https://www.esrb.org/search/?searchKeyword={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (general)"
   },
