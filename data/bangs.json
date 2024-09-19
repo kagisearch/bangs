@@ -47671,12 +47671,12 @@
     "sc": "Sysadmin (network)"
   },
   {
-    "s": "iptolocation.net",
-    "d": "www.iptolocation.net",
+    "s": "IP Location",
+    "d": "www.iplocation.net",
     "t": "iploc",
-    "u": "https://www.iptolocation.net/trace-{{{s}}}",
+    "u": "https://www.iplocation.net/?query={{{s}}}",
     "c": "Tech",
-    "sc": "Sysadmin"
+    "sc": "Sysadmin (network)"
   },
   {
     "s": "theel0ja.info's IPLookup",
