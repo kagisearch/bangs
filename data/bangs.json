@@ -42490,6 +42490,7 @@
   {
     "s": "Hacker News",
     "d": "hn.algolia.com",
+    "ad": "news.ycombinator.com",
     "t": "hackernews",
     "u": "https://hn.algolia.com/#!/all/forever/0/{{{s}}}",
     "c": "Online Services",
@@ -43906,6 +43907,7 @@
   {
     "s": "Hacker News",
     "d": "hn.algolia.com",
+    "ad": "news.ycombinator.com",
     "t": "hnd",
     "u": "https://hn.algolia.com/?query={{{s}}}&sort=byDate",
     "c": "Tech",
@@ -43922,6 +43924,7 @@
   {
     "s": "Hacker News",
     "d": "hn.algolia.com",
+    "ad": "news.ycombinator.com",
     "t": "hn",
     "u": "https://hn.algolia.com/?q={{{s}}}",
     "c": "Tech",
@@ -43938,6 +43941,7 @@
   {
     "s": "Hacker News",
     "d": "hn.algolia.com",
+    "ad": "news.ycombinator.com",
     "t": "hnsearch",
     "u": "https://hn.algolia.com/#!/story/forever/0/{{{s}}}",
     "c": "News",
@@ -64121,6 +64125,7 @@
   {
     "s": "Hacker News",
     "d": "hn.algolia.com",
+    "ad": "news.ycombinator.com",
     "t": "newsyc",
     "u": "https://hn.algolia.com/#!/story/forever/0/{{{s}}}",
     "c": "News",
@@ -81452,6 +81457,7 @@
   {
     "s": "Hacker News",
     "d": "hn.algolia.com",
+    "ad": "news.ycombinator.com",
     "t": "searchyc",
     "u": "https://hn.algolia.com/#!/story/forever/0/{{{s}}}",
     "c": "News",
@@ -104191,6 +104197,7 @@
   {
     "s": "Hacker News Search",
     "d": "hn.algolia.com",
+    "ad": "news.ycombinator.com",
     "t": "yc",
     "u": "https://hn.algolia.com/?query={{{s}}}",
     "c": "News",

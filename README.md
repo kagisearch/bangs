@@ -240,6 +240,7 @@ Key   | Description  | Required | Notes
 ------|--------------|----------|------
 `s`   | Website name | yes      |
 `d`   | Domain       | yes      |
+`ad`  | Alternate Domain | no   | Can be used to specify the domain of the results if the bang searches another website. See `hn` bang.
 `t`   | Trigger      | yes      | May contain letters, numbers, dashes (`-`), and underscores (`_`). No spaces or other special characters.
 `u`   | URL template | yes      | Use `{{{s}}}` for query placeholder.
 `c`   | Category     | no       |
