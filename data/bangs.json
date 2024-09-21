@@ -10671,6 +10671,7 @@
   {
     "s": "Blogspot",
     "d": "",
+    "ad": "blogspot.com",
     "t": "blogspot",
     "u": "/?q={{{s}}}+site:blogspot.com",
     "c": "Online Services",
@@ -11383,6 +11384,7 @@
   {
     "s": "Boost.org",
     "d": "",
+    "ad": "boost.org",
     "t": "boost",
     "u": "/?q={{{s}}}+site:boost.org",
     "c": "Tech",
@@ -18965,6 +18967,7 @@
   {
     "s": "Cyanide and Happiness",
     "d": "",
+    "ad": "explosm.net",
     "t": "cyanide",
     "u": "/?q={{{s}}}+site:explosm.net",
     "c": "Entertainment",
@@ -22533,6 +22536,7 @@
   {
     "s": "diy.org",
     "d": "",
+    "ad": "diy.org",
     "t": "diyorg",
     "u": "/?q=site:diy.org+{{{s}}}",
     "c": "Entertainment",
@@ -62749,6 +62753,7 @@
   {
     "s": "MySQL.com",
     "d": "",
+    "ad": "dev.mysql.com",
     "t": "mysql",
     "u": "/?q={{{s}}}+site:dev.mysql.com",
     "c": "Tech",
@@ -73717,6 +73722,7 @@
   {
     "s": "Processing.org",
     "d": "",
+    "ad": "processing.org",
     "t": "processing",
     "u": "/?q={{{s}}}+site:processing.org",
     "c": "Online Services",
@@ -73741,6 +73747,7 @@
   {
     "s": "Processing.org",
     "d": "",
+    "ad": "processing.org",
     "t": "proc",
     "u": "/?q={{{s}}}+site:processing.org",
     "c": "Online Services",
@@ -87488,6 +87495,7 @@
   {
     "s": "Superphysique",
     "d": "www.google.fr",
+    "ad": "www.superphysique.org",
     "t": "superphysique",
     "u": "https://www.google.fr/search?q=site:www.superphysique.org+{{{s}}}",
     "c": "Research",
@@ -98270,6 +98278,7 @@
   {
     "s": "W3C",
     "d": "",
+    "ad": "w3.org",
     "t": "w3c",
     "u": "/?q={{{s}}}+site:w3.org",
     "c": "Online Services",
@@ -98310,6 +98319,7 @@
   {
     "s": "w3school中文",
     "d": "www.google.com",
+    "ad": "w3school.com.cn",
     "t": "w3scn",
     "u": "https://www.google.com/search?q={{{s}}}+site:w3school.com.cn",
     "c": "Tech",
@@ -98342,6 +98352,7 @@
   {
     "s": "W3C",
     "d": "",
+    "ad": "w3.org",
     "t": "w3",
     "u": "/?q={{{s}}}+site:w3.org",
     "c": "Online Services",
@@ -103781,6 +103792,7 @@
   {
     "s": "xkcd",
     "d": "",
+    "ad": "xkcd.com",
     "t": "xkcd",
     "u": "/?q={{{s}}}+site:xkcd.com",
     "c": "Entertainment",
@@ -109730,6 +109742,7 @@
   {
     "s": "Google de.Wikipedia",
     "d": "www.google.de",
+    "ad": "de.wikipedia.org",
     "t": "gwpde",
     "u": "https://www.google.de/search?ie=UTF-8&sourceid=navclient&gfns=1&q=site:de.wikipedia.org+{{{s}}}",
     "c": "Online Services",
@@ -109738,6 +109751,7 @@
   {
     "s": "Google Wikipedia",
     "d": "www.google.com",
+    "ad": "wikipedia.org",
     "t": "gwp",
     "u": "https://www.google.com/search?q={{{s}}}%20site:wikipedia.org",
     "c": "Online Services",
