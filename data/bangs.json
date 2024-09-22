@@ -56941,6 +56941,14 @@
     "sc": "Sysadmin (Arch)"
   },
   {
+    "s": "Manjaro Branch Compare",
+    "d": "manjaristas.org",
+    "t": "manjbc",
+    "u": "https://manjaristas.org/branch_compare?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Sysadmin (Arch)"
+  },
+  {
     "s": "Mankier",
     "d": "www.mankier.com",
     "t": "mankier",
