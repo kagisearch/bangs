@@ -63,6 +63,14 @@ describe "bangs.json" do
     expect(dups).to be_empty, "Duplicate(s) found: #{dups.join(", ")}"
   end
 
+  bangs_json.each do |bang|
+    if bang["u"].start_with?("/")
+      it "Alternative domain required (#{bang["t"]})" do
+        expect(bang["ad"]).to_not be_nil
+      end
+    end
+  end
+
   match_domains(bangs_json)
   uri_encoded_urls(bangs_json)
 end
