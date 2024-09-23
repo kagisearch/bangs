@@ -32,7 +32,7 @@ jobs:
           echo "EOF" >> $GITHUB_ENV
 
       - name: Get Current Date
-        run: echo "CURRENT_DATE=$(date +'%Y%m%d')" >> $GITHUB_ENV
+        run: echo "CURRENT_DATE=$(date +'%Y%m%d%H%M')" >> $GITHUB_ENV
 
       - name: Create Release
         uses: actions/create-release@v1
