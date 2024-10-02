@@ -10692,7 +10692,7 @@
     "d": "",
     "ad": "blogspot.com",
     "t": "blogspot",
-    "u": "/?q={{{s}}}+site:blogspot.com",
+    "u": "/search?q={{{s}}}+site:blogspot.com",
     "c": "Online Services",
     "sc": "Search (DDG)"
   },
@@ -11405,7 +11405,7 @@
     "d": "",
     "ad": "boost.org",
     "t": "boost",
-    "u": "/?q={{{s}}}+site:boost.org",
+    "u": "/search?q={{{s}}}+site:boost.org",
     "c": "Tech",
     "sc": "Languages (c++)"
   },
@@ -18993,7 +18993,7 @@
     "d": "",
     "ad": "explosm.net",
     "t": "cyanide",
-    "u": "/?q={{{s}}}+site:explosm.net",
+    "u": "/search?q={{{s}}}+site:explosm.net",
     "c": "Entertainment",
     "sc": "Comics"
   },
@@ -22570,7 +22570,7 @@
     "d": "",
     "ad": "diy.org",
     "t": "diyorg",
-    "u": "/?q=site:diy.org+{{{s}}}",
+    "u": "/search?q=site:diy.org+{{{s}}}",
     "c": "Entertainment",
     "sc": "Events"
   },
@@ -62867,7 +62867,7 @@
     "d": "",
     "ad": "dev.mysql.com",
     "t": "mysql",
-    "u": "/?q={{{s}}}+site:dev.mysql.com",
+    "u": "/search?q={{{s}}}+site:dev.mysql.com",
     "c": "Tech",
     "sc": "Sysadmin"
   },
@@ -73854,7 +73854,7 @@
     "d": "",
     "ad": "processing.org",
     "t": "processing",
-    "u": "/?q={{{s}}}+site:processing.org",
+    "u": "/search?q={{{s}}}+site:processing.org",
     "c": "Online Services",
     "sc": "Search (DDG)"
   },
@@ -73879,7 +73879,7 @@
     "d": "",
     "ad": "processing.org",
     "t": "proc",
-    "u": "/?q={{{s}}}+site:processing.org",
+    "u": "/search?q={{{s}}}+site:processing.org",
     "c": "Online Services",
     "sc": "Search (DDG)"
   },
@@ -80009,7 +80009,7 @@
     "d": "",
     "ad": "",
     "t": "safe",
-    "u": "/?q={{{s}}}&kp=1",
+    "u": "/search?q={{{s}}}&kp=1",
     "c": "Online Services",
     "sc": "Search (DDG)"
   },
@@ -80018,7 +80018,7 @@
     "d": "",
     "ad": "",
     "t": "safeoff",
-    "u": "/?q={{{s}}}&kp=-2",
+    "u": "/search?q={{{s}}}&kp=-2",
     "c": "Online Services",
     "sc": "Search (DDG)"
   },
@@ -80027,7 +80027,7 @@
     "d": "",
     "ad": "",
     "t": "safeon",
-    "u": "/?q={{{s}}}&kp=1",
+    "u": "/search?q={{{s}}}&kp=1",
     "c": "Online Services",
     "sc": "Search (DDG)"
   },
@@ -98453,7 +98453,7 @@
     "d": "",
     "ad": "w3.org",
     "t": "w3c",
-    "u": "/?q={{{s}}}+site:w3.org",
+    "u": "/search?q={{{s}}}+site:w3.org",
     "c": "Online Services",
     "sc": "Search (DDG)"
   },
@@ -98529,7 +98529,7 @@
     "d": "",
     "ad": "w3.org",
     "t": "w3",
-    "u": "/?q={{{s}}}+site:w3.org",
+    "u": "/search?q={{{s}}}+site:w3.org",
     "c": "Online Services",
     "sc": "Search (DDG)"
   },
@@ -103974,7 +103974,7 @@
     "d": "",
     "ad": "xkcd.com",
     "t": "xkcd",
-    "u": "/?q={{{s}}}+site:xkcd.com",
+    "u": "/search?q={{{s}}}+site:xkcd.com",
     "c": "Entertainment",
     "sc": "Comics"
   },
