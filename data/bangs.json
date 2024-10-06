@@ -78941,9 +78941,9 @@
   },
   {
     "s": "Reddit",
-    "d": "www.reddit.com",
+    "d": "reddit.com",
     "t": "r",
-    "u": "https://www.reddit.com/search?q={{{s}}}",
+    "u": "https://reddit.com/search?q={{{s}}}",
     "c": "Online Services",
     "sc": "Social"
   },
