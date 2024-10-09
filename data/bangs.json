@@ -110482,5 +110482,12 @@
     "t": "tiktok",
     "u": "https://www.tiktok.com/search?q={{{s}}}",
     "c": "Entertainment"
+  },
+  {
+    "s": "Dropout",
+    "d": "www.dropout.tv",
+    "t": "dropout",
+    "u": "https://www.dropout.tv/search?q={{{s}}}",
+    "c": "Entertainment"
   }
 ]
