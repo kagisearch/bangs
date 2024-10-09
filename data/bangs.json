@@ -32856,14 +32856,6 @@
     "sc": "Languages (csharp)"
   },
   {
-    "s": "The Fugly Mug Company",
-    "d": "fuglymugcompany.com",
-    "t": "fuglymugcompany",
-    "u": "https://www.uglymugcompany.com/search?q={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
     "s": "Fuji TV",
     "d": "www.fujitv.co.jp",
     "t": "fuji",
@@ -37661,8 +37653,8 @@
     "sc": "Specialty"
   },
   {
-    "s": "GPG Key search",
-    "d": "keys.openpgp.net",
+    "s": "OpenPGP Key Search",
+    "d": "keys.openpgp.org",
     "t": "gpg",
     "u": "https://keys.openpgp.org/search?q={{{s}}}",
     "c": "Online Services",
@@ -42965,7 +42957,7 @@
   },
   {
     "s": "Hong Kong Leg-Co",
-    "d": "search.legco.gov.hk",
+    "d": "www.legco.gov.hk",
     "t": "hklegco",
     "u": "https://www.legco.gov.hk/tc/search/index.html?q={{{s}}}",
     "c": "Research",
@@ -49652,7 +49644,7 @@
   },
   {
     "s": "Kelkoo Sweden",
-    "d": "shopping.kelkoo.se",
+    "d": "www.kelkoo.se",
     "t": "kelkoose",
     "u": "https://www.kelkoo.se/sok?sokterm={{{s}}}",
     "c": "Shopping",
@@ -109353,5 +109345,21 @@
     "t": "dropout",
     "u": "https://www.dropout.tv/search?q={{{s}}}",
     "c": "Entertainment"
+  },
+  {
+    "s": "DuckDuckGo AI Chat",
+    "d": "www.duckduckgo.com",
+    "t": "ddg-ai",
+    "u": "https://www.duckduckgo.com/?q={{{s}}}&ia=chat&bang=true",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "JSR",
+    "d": "jsr.io",
+    "t": "jsr",
+    "u": "https://jsr.io/packages?search={{{s}}}",
+    "c": "Tech",
+    "sc": "Languages (javascript)"
   }
 ]
