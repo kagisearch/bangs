@@ -71390,7 +71390,7 @@
     "s": "Cocoapods",
     "d": "cocoapods.org",
     "t": "pod",
-    "u": "https://cocoapods.org/?q={{{s}}}",
+    "u": "https://cocoapods.org/pods/{{{s}}}",
     "c": "Tech",
     "sc": "Languages (cocoa)"
   },
