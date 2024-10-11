@@ -109361,5 +109361,18 @@
     "u": "https://jsr.io/packages?search={{{s}}}",
     "c": "Tech",
     "sc": "Languages (javascript)"
+  },
+  {
+    "s": "Java 23 API Specification",
+    "d": "docs.oracle.com",
+    "t": "javadoc",
+    "u": "https://docs.oracle.com/en/java/javase/23/docs/api/search.html?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Languages (java)",
+    "ad": "docs.oracle.com/en/java/javase/23/docs/api/",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   }
 ]
