@@ -73020,12 +73020,20 @@
     "sc": "Health"
   },
   {
-    "s": "Prusa Printers",
-    "d": "www.prusaprinters.org",
-    "t": "prusa",
-    "u": "https://www.prusaprinters.org/search/all?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Downloads"
+    "s": "Prusa E-shop",
+    "d": "www.prusa3d.com",
+    "t": "prusashop",
+    "u": "https://www.prusa3d.com/search/?q={{{s}}}",
+    "c": "Shopping",
+    "sc": "Tech"
+  },
+  {
+    "s": "Prusa Help",
+    "d": "help.prusa3d.com",
+    "t": "prusahelp",
+    "u": "https://help.prusa3d.com/search?s={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
   },
   {
     "s": "Palmetto State Armory",
