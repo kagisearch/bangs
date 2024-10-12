@@ -1668,7 +1668,7 @@
     "s": "ActiveState.com",
     "d": "www.activestate.com",
     "t": "activestate",
-    "u": "https://www.activestate.com/search/index.html?cx=005567415255730122040:iof7ftsiexy&cof=FORID:11&sa.x=0&sa.y=0&q={{{s}}}#1013",
+    "u": "https://www.activestate.com/search/index.html?q={{{s}}}#1013",
     "c": "Research",
     "sc": "Academic"
   },
@@ -3134,7 +3134,7 @@
     "s": "allaboutcircuits",
     "d": "www.allaboutcircuits.com",
     "t": "allaboutcircuits",
-    "u": "https://www.allaboutcircuits.com/scripts/search.html?cx=006978388026519765659:hg719j5vhl8&cof=FORID:9&q={{{s}}}&sa=Find",
+    "u": "https://www.allaboutcircuits.com/scripts/search.html?q={{{s}}}",
     "c": "Research",
     "sc": "Reference"
   },
@@ -4448,7 +4448,7 @@
     "s": "Anime News Network",
     "d": "www.animenewsnetwork.com",
     "t": "animenewsnetwork",
-    "u": "https://www.animenewsnetwork.com/search?cx=016604166282602569737:znd1ysjewre&cof=FORID:11&q={{{s}}}",
+    "u": "https://www.animenewsnetwork.com/search?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Misc"
   },
@@ -4510,7 +4510,7 @@
     "s": "ANMAT",
     "d": "www.anmat.gov.ar",
     "t": "anmat",
-    "u": "http://www.anmat.gov.ar/resultados.asp?cx=018082787451070703178:rx-vbt5pdfu&cof=FORID:10&ie=UTF-8&q={{{s}}}",
+    "u": "http://www.anmat.gov.ar/resultados.asp?q={{{s}}}",
     "c": "Research",
     "sc": "Health"
   },
@@ -4518,7 +4518,7 @@
     "s": "Anime News Network",
     "d": "www.animenewsnetwork.com",
     "t": "ann",
-    "u": "https://www.animenewsnetwork.com/search?cx=016604166282602569737:znd1ysjewre&cof=FORID:11&q={{{s}}}",
+    "u": "https://www.animenewsnetwork.com/search?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Misc"
   },
@@ -5094,7 +5094,7 @@
     "s": "WineHQ AppDB",
     "d": "www.winehq.org",
     "t": "appdb",
-    "u": "https://www.winehq.org/search?cx=partner-pub-0971840239976722:w9sqbcsxtyf&cof=FORID:10&ie=UTF-8&q={{{s}}}&siteurl=appdb.winehq.org/&ref=www.winehq.org/search/?cx=partner-pub-0971840239976722:w9sqbcsxtyf&cof=FORID:10&ie=UTF-8&q=something&ss=674j114846j5",
+    "u": "https://www.winehq.org/search?q={{{s}}}",
     "c": "Tech",
     "sc": "Downloads (apps)"
   },
@@ -5921,7 +5921,7 @@
     "s": "The Ayn Rand Lexicon",
     "d": "aynrandlexicon.com",
     "t": "arl",
-    "u": "http://aynrandlexicon.com/searchresults/index.html?cx=013104633629966810561:g5jt9ka8qre&cof=FORID:11&q={{{s}}}",
+    "u": "http://aynrandlexicon.com/searchresults/index.html?q={{{s}}}",
     "c": "Research",
     "sc": "Reference"
   },
@@ -6393,7 +6393,7 @@
     "s": "Ask Sutra",
     "d": "www.asksutra.com",
     "t": "asksutra",
-    "u": "http://www.asksutra.com/en/serp.php?cx=006191677038902776655:kobzooodbpy&cof=FORID:11&q={{{s}}}",
+    "u": "http://www.asksutra.com/en/serp.php?q={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
@@ -6546,7 +6546,7 @@
     "s": "Addictive Tips",
     "d": "www.addictivetips.com",
     "t": "addtips",
-    "u": "http://www.addictivetips.com/archives/search/?cx=015974260755795457590:kigcmyffu6y&cof=FORID:11&ie=UTF-8&q={{{s}}}&s=Search",
+    "u": "http://www.addictivetips.com/archives/search/?q={{{s}}}",
     "c": "Tech",
     "sc": "Blogs"
   },
@@ -6586,7 +6586,7 @@
     "s": "Access to Insight",
     "d": "www.accesstoinsight.org",
     "t": "ati",
-    "u": "https://www.accesstoinsight.org/search_results.html?cx=015061908441090246348:dj4lxnh4dda&cof=FORID:9;NB:1&ie=UTF-8&q={{{s}}}&sa=Search",
+    "u": "https://www.accesstoinsight.org/search_results.html?q={{{s}}}",
     "c": "Research",
     "sc": "Reference (religion)"
   },
@@ -7234,7 +7234,7 @@
     "s": "A.Word.A.Day",
     "d": "wordsmith.org",
     "t": "awad",
-    "u": "https://wordsmith.org/awad/search.html?cx=partner-pub-0068747404870456:118gxl-7atb&cof=FORID:11&q={{{s}}}&sa=Search",
+    "u": "https://wordsmith.org/awad/search.html?q={{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
   },
@@ -7498,7 +7498,7 @@
     "s": "Biology4kids",
     "d": "www.biology4kids.com",
     "t": "b4kids",
-    "u": "http://www.biology4kids.com/search.html?cx=partner-pub-9168758629909687:9553394167&cof=FORID:10&ie=UTF-8&q={{{s}}}&sa=Search",
+    "u": "http://www.biology4kids.com/search.html?q={{{s}}}",
     "c": "Research",
     "sc": "Academic (biology)"
   },
@@ -10130,7 +10130,7 @@
     "s": "blackle",
     "d": "blackle.com",
     "t": "bla",
-    "u": "http://blackle.com/results/?cx=partner-pub-8993703457585266:4862972284&cof=FORID:10&ie=UTF-8&q={{{s}}}&sa=+#gsc.tab=0&gsc.q={{{s}}}&gsc.page=1",
+    "u": "http://blackle.com/results/?q={{{s}}}#gsc.tab=0&gsc.q={{{s}}}&gsc.page=1",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -10218,7 +10218,7 @@
     "s": "Blacks Law Dictionary",
     "d": "thelawdictionary.org",
     "t": "bld",
-    "u": "https://thelawdictionary.org/search2/?cx=partner-pub-4620319056007131:7293005414&cof=FORID:11&ie=UTF-8&q={{{s}}}}",
+    "u": "https://thelawdictionary.org/search2/?q={{{s}}}}",
     "c": "Research",
     "sc": "Law"
   },
@@ -14180,7 +14180,7 @@
     "s": "Consultar CEP",
     "d": "www.consultarcep.com.br",
     "t": "cep",
-    "u": "https://www.consultarcep.com.br/resultados.html?cx=partner-pub-6657933402951336:8478085485&cof=FORID:10&ie=UTF-8&q={{{s}}}&sa= ",
+    "u": "https://www.consultarcep.com.br/resultados.html?q={{{s}}}",
     "c": "Online Services",
     "sc": "Tracking"
   },
@@ -16356,7 +16356,7 @@
     "s": "CollegeConfidential Forums",
     "d": "www.collegeconfidential.com",
     "t": "collegeconfidential",
-    "u": "https://www.collegeconfidential.com/search_results.htm?q={{{s}}}&sa=Google+Search&userInput=&sitesearch=collegeconfidential.com&cx=013579521852154800353:vvp1k6kluvq&cof=FORID:9",
+    "u": "https://www.collegeconfidential.com/search_results.htm?q={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -17283,7 +17283,7 @@
     "s": "Cowboy Lyrics",
     "d": "www.cowboylyrics.com",
     "t": "cowboylyrics",
-    "u": "https://www.cowboylyrics.com/search.html?cx=partner-pub-1248082249428003:7921416976&ie=UTF-8&q={{{s}}}&cof=FORID:10&siteurl=cowboylyrics.com/&ref=&ss=346j47246j4",
+    "u": "https://www.cowboylyrics.com/search.html?q={{{s}}}",
     "c": "Multimedia",
     "sc": "Music"
   },
@@ -18407,7 +18407,7 @@
     "s": "CultureUnplugged.com",
     "d": "www.cultureunplugged.com",
     "t": "cultureunplugged",
-    "u": "https://www.cultureunplugged.com/festival/gsearch.php?cx=006605354541519765965:qm01kqkdyrq&cof=FORID:10;NB:1&ie=UTF-8&q={{{s}}}&sa.x=0&sa.y=0",
+    "u": "https://www.cultureunplugged.com/festival/gsearch.php?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Movies"
   },
@@ -19331,7 +19331,7 @@
     "s": "DeviantArt User",
     "d": "{{{s}}}.deviantart.com",
     "t": "dauser",
-    "u": "http://{{{s}}}.deviantart.com",
+    "u": "http://{{{s}}}.deviantart.com/",
     "c": "Multimedia",
     "sc": "Images"
   },
@@ -20907,7 +20907,7 @@
     "s": "Deepl English to Russian",
     "d": "www.deepl.com",
     "t": "denru",
-    "u": "https://www.deepl.com/translator#en/ru/{{{s}}}\n",
+    "u": "https://www.deepl.com/translator#en/ru/{{{s}}}",
     "c": "Online Services",
     "sc": "Tools",
     "fmt": [
@@ -21039,7 +21039,7 @@
     "s": "Destructoid",
     "d": "www.destructoid.com",
     "t": "destructoid",
-    "u": "https://www.destructoid.com/search.phtml?cx=009275597616460404995:_iu6yjvsnom&cof=FORID:11&q={{{s}}}&sa=Search&siteurl=http://www.destructoid.com/",
+    "u": "https://www.destructoid.com/search.phtml?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (general)"
   },
@@ -21103,7 +21103,7 @@
     "s": "Developpez.com",
     "d": "www.developpez.com",
     "t": "developpez",
-    "u": "https://www.developpez.com/recherche/?q={{{s}}}&sa.x=0&sa.y=0&sa=Go&cx=006424388311999799839:-31tnf0iuqy&cof=FORID:9&ie=ISO-8859-1&siteurl=www.developpez.com/",
+    "u": "https://www.developpez.com/recherche/?q={{{s}}}",
     "c": "Tech",
     "sc": "Programming"
   },
@@ -21183,7 +21183,7 @@
     "s": "DevTube",
     "d": "dev.tube",
     "t": "devtube",
-    "u": "https://dev.tube?q={{{s}}}",
+    "u": "https://dev.tube/?q={{{s}}}",
     "c": "Tech",
     "sc": "Programming"
   },
@@ -21705,7 +21705,7 @@
     "s": "Linux.die.net man pages",
     "d": "www.die.net",
     "t": "die",
-    "u": "https://www.die.net/search/?q={{{s}}}&sa=Search&ie=ISO-8859-1&cx=partner-pub-5823754184406795:54htp1rtx5u&cof=FORID:9",
+    "u": "https://www.die.net/search/?q={{{s}}}",
     "c": "Tech",
     "sc": "Programming"
   },
@@ -22805,7 +22805,7 @@
     "s": "DocBook 5: The Definitive Guide",
     "d": "docbook.org",
     "t": "docbook5",
-    "u": "https://docbook.org/search/?cx=008085259838719972531:tqmky0g0tbo&q={{{s}}}&sa=DocBook+Search&cof=FORID:9&siteurl=docbook.org/&ref=&ss=551j84183j5",
+    "u": "https://docbook.org/search/?q={{{s}}}",
     "c": "Tech",
     "sc": "Languages (other)"
   },
@@ -22926,7 +22926,7 @@
     "s": "Ubuntu Documentation",
     "d": "help.ubuntu.com",
     "t": "docubu",
-    "u": "https://help.ubuntu.com/search.html?cof=FORID:9&cx=004599128559784038176:vj_p0xo-nng&ie=UTF-8&q={{{s}}}&sa=Search",
+    "u": "https://help.ubuntu.com/search.html?q={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin (Ubuntu)"
   },
@@ -24220,7 +24220,7 @@
     "s": "Discover the Networks",
     "d": "www.discoverthenetworks.org",
     "t": "dtn",
-    "u": "https://www.discoverthenetworks.org/search/?q={{{s}}}&cof=FORID:11&cx=013255222075609514560:vfcebs4vcuo",
+    "u": "https://www.discoverthenetworks.org/search/?q={{{s}}}",
     "c": "Research",
     "sc": "Reference"
   },
@@ -24509,7 +24509,7 @@
     "s": "developpez.com",
     "d": "www.developpez.com",
     "t": "dvlp",
-    "u": "https://www.developpez.com/recherche/?q={{{s}}}&sa.x=-1376&sa.y=-2&cx=006424388311999799839:-31tnf0iuqy&cof=FORID:9&ie=ISO-8859-1&siteurl=www.developpez.com/?q=microsoft&ref=&ss=1463j290467j10",
+    "u": "https://www.developpez.com/recherche/?q={{{s}}}",
     "c": "Tech",
     "sc": "Programming"
   },
@@ -24517,7 +24517,7 @@
     "s": "Developpez.com",
     "d": "www.developpez.com",
     "t": "dvp",
-    "u": "https://www.developpez.com/recherche/?cx=006424388311999799839:-31tnf0iuqy&cof=FORID:9&ie=ISO-8859-1&q={{{s}}}&sa=Rechercher",
+    "u": "https://www.developpez.com/recherche/?q={{{s}}}",
     "c": "Tech",
     "sc": "Programming"
   },
@@ -25839,7 +25839,7 @@
     "s": "Easter Eggs",
     "d": "www.eeggs.com",
     "t": "eeggs",
-    "u": "https://www.eeggs.com/php/search.php?cx=partner-pub-3374430587172271:qa6js0-hxxa&cof=FORID:10&ie=ISO-8859-1&q={{{s}}}&siteurl=www.eeggs.com/&ref=",
+    "u": "https://www.eeggs.com/php/search.php?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Misc"
   },
@@ -27760,7 +27760,7 @@
     "s": "EQ Resource",
     "d": "eqresource.com",
     "t": "eqr",
-    "u": "https://eqresource.com/search.php?cx=partner-pub-8686271290388928:tjkxdymxk9a&cof=FORID:9&ie=ISO-8859-1&q={{{s}}}&sa=Search",
+    "u": "https://eqresource.com/search.php?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (general)"
   },
@@ -28811,7 +28811,7 @@
     "s": "IT用語辞典 e-Words",
     "d": "e-words.jp",
     "t": "e-words",
-    "u": "https://e-words.jp/?cx=partner-pub-1175263777233757:xelkt7-c6j8&cof=FORID:10&ie=Shift_JIS&q={{{s}}}&sa=��v����p���\\��&siteurl=e-words.jp/&ref=e-words.jp/w/E382B9E3839AE383BCE382B9.html&ss=1193j290715j7",
+    "u": "https://e-words.jp/?q={{{s}}}",
     "c": "Online Services",
     "sc": "Search"
   },
@@ -29235,7 +29235,7 @@
     "s": "Filmaffinity",
     "d": "www.filmaffinity.com",
     "t": "faf",
-    "u": "https://www.filmaffinity.com/es/advsearch2.php?cx=008177178803676006601:6zmc6j5pngs&cof=FORID:9&ie=ISO-8859-1&q={{{s}}}:",
+    "u": "https://www.filmaffinity.com/es/advsearch2.php?q={{{s}}}:",
     "c": "Entertainment",
     "sc": "Movies"
   },
@@ -34188,7 +34188,7 @@
     "s": "gCubed",
     "d": "cse.google.com",
     "t": "gcubed",
-    "u": "https://cse.google.com/cse/publicurl?cx=007995818864770319293:3weihy1amkc&cof=FORID:1&q={{{s}}}",
+    "u": "https://cse.google.com/cse/publicurl?q={{{s}}}",
     "c": "Tech",
     "sc": "Companies"
   },
@@ -35528,7 +35528,7 @@
     "s": "Gibiru",
     "d": "gibiru.com",
     "t": "gib",
-    "u": "https://gibiru.com/results.html?q={{{s}}}&cx=partner-pub-5956360965567042:8627692578&cof=FORID:11&ie=UTF-8",
+    "u": "https://gibiru.com/results.html?q={{{s}}}",
     "c": "Online Services",
     "sc": "Search (Private)"
   },
@@ -36120,7 +36120,7 @@
     "s": "OpenGL",
     "d": "www.opengl.org",
     "t": "gl",
-    "u": "https://www.opengl.org/search/?cx=017055583490642512057:hwpumfa180i&cof=FORID:9&q={{{s}}}",
+    "u": "https://www.opengl.org/search/?q={{{s}}}",
     "c": "Tech",
     "sc": "Libraries/Frameworks"
   },
@@ -44622,7 +44622,7 @@
     "s": "ibiblio",
     "d": "www.ibiblio.org",
     "t": "ibiblio",
-    "u": "https://www.ibiblio.org/gsearch/?cx=006345117986368989313:r2fkn4tcz5i&cof=FORID:11&ie=UTF-8&q={{{s}}}",
+    "u": "https://www.ibiblio.org/gsearch/?q={{{s}}}",
     "c": "Research",
     "sc": "Reference"
   },
@@ -45038,7 +45038,7 @@
     "s": "iDownloadBlog",
     "d": "www.idownloadblog.com",
     "t": "idownloadblog",
-    "u": "https://www.idownloadblog.com/search/?cx=partner-pub-2130162217902648:dgi3x3-xedb&cof=FORID:11&ie=ISO-8859-1&q={{{s}}}&siteurl=www.idownloadblog.com/&ref=www.google.com/&ss=1069j239311j6",
+    "u": "https://www.idownloadblog.com/search/?q={{{s}}}",
     "c": "Tech",
     "sc": "Blogs"
   },
@@ -45575,7 +45575,7 @@
     "s": "I Love Free Software",
     "d": "www.ilovefreesoftware.com",
     "t": "ilovefreesoftware",
-    "u": "https://www.ilovefreesoftware.com/gsearch?ie=UTF-8&q={{{s}}}&ss=1633j526083j9&cof=FORID:10&cx=008701510501807727669:abbyr0bpxi0&siteurl=www.ilovefreesoftware.com/",
+    "u": "https://www.ilovefreesoftware.com/gsearch?q={{{s}}}",
     "c": "Tech",
     "sc": "Blogs"
   },
@@ -46045,7 +46045,7 @@
     "s": "IndieDB",
     "d": "www.indiedb.com",
     "t": "indiedb",
-    "u": "https://www.indiedb.com/search?cx=008031850949085947773:cbmjgaamtxe&cof=FORID:11&ie=UTF-8&q={{{s}}}&sa.x=0&sa.y=0",
+    "u": "https://www.indiedb.com/search?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (general)"
   },
@@ -46085,7 +46085,7 @@
     "s": "India.com",
     "d": "www.india.com",
     "t": "ind",
-    "u": "https://www.india.com/searchresult/?cx=partner-pub-6717584324019958:4408969895&cof=FORID:10&ie=UTF-8&q={{{s}}}&sa=",
+    "u": "https://www.india.com/searchresult/?q={{{s}}}",
     "c": "News",
     "sc": "Newspaper"
   },
@@ -46205,7 +46205,7 @@
     "s": "InfoWorld",
     "d": "www.infoworld.com",
     "t": "infoworld",
-    "u": "https://www.infoworld.com/search/google?cx=014839440456418836424:hugs45or03k&cof=FORID:9&query={{{s}}}&op=Search&gl=US&safe=off&form_build_id=form-ea211c8bee91b69175fca8d84e9d9543&form_id=google_cse_results_searchbox_form",
+    "u": "https://www.infoworld.com/search/google?query={{{s}}}",
     "c": "Tech",
     "sc": "Blogs"
   },
@@ -48217,7 +48217,7 @@
     "s": "JayIsGames",
     "d": "jayisgames.com",
     "t": "jig",
-    "u": "https://jayisgames.com/search/?cx=partner-pub-4854273876013864:9692641413&cof=FORID:11&ie=ISO-8859-1&q={{{s}}}&sa=Search&siteurl=jayisgames.com/games/&ref=jayisgames.com/&ss=&siteurl=jayisgames.com/search/?q=hello&ref=&ss=849j189425j6",
+    "u": "https://jayisgames.com/search/?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (general)"
   },
@@ -49815,7 +49815,7 @@
     "s": "Khronos",
     "d": "www.khronos.org",
     "t": "khronos",
-    "u": "https://www.khronos.org/search/?cx=017055583490642512057:_ak1bpok_no&cof=FORID:9&q={{{s}}}&sa=Search&siteurl=www.khronos.org/",
+    "u": "https://www.khronos.org/search/?q={{{s}}}",
     "c": "Tech",
     "sc": "Blogs"
   },
@@ -52493,7 +52493,7 @@
     "s": "Les Numériques",
     "d": "www.lesnumeriques.com",
     "t": "lesnumeriques",
-    "u": "https://www.lesnumeriques.com/recherche.html?q={{{s}}}&cx=partner-pub-8349656358827352:8590362607&cof=FORID:10&ie=UTF-8&hl=fr",
+    "u": "https://www.lesnumeriques.com/recherche.html?q={{{s}}}",
     "c": "Tech",
     "sc": "Blogs"
   },
@@ -55047,7 +55047,7 @@
     "s": "LessWrong",
     "d": "lesswrong.com",
     "t": "lw",
-    "u": "https://lesswrong.com/search/results?cx=015839050583929870010:-802ptn4igi&cof=FORID:11&ie=UTF-8&sa=Search&siteurl=lesswrong.com/&q={{{s}}}",
+    "u": "https://lesswrong.com/search/results?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Blogs"
   },
@@ -57189,7 +57189,7 @@
     "s": "Mark's Daily Apple",
     "d": "www.marksdailyapple.com",
     "t": "mda",
-    "u": "http://www.marksdailyapple.com/search-results/?cx=004987908667488763946:kd-fp2c7jek&cof=FORID:11&ie=UTF-8&q={{{s}}}&siteurl=www.marksdailyapple.com/&ref=&ss=1623j619159j7",
+    "u": "http://www.marksdailyapple.com/search-results/?q={{{s}}}",
     "c": "Research",
     "sc": "Health"
   },
@@ -57422,7 +57422,7 @@
     "s": "Medbullets",
     "d": "www.medbullets.com",
     "t": "medb",
-    "u": "https://www.medbullets.com/search?cx=011011587714199370644:0fb95tj2wze&cof=FORID:9&ie=UTF-8&sa.x=10&sa.y=12&sa=Search&q={{{s}}}",
+    "u": "https://www.medbullets.com/search?q={{{s}}}",
     "c": "Research",
     "sc": "Health"
   },
@@ -59194,7 +59194,7 @@
     "s": "My Movies Italia",
     "d": "www.mymovies.it",
     "t": "mmi",
-    "u": "https://www.mymovies.it/database/ricercalibera/default.asp?q={{{s}}}&cx=partner-pub-1699801751737986:x7j961-1g3m&cof=FORID:9&ie=ISO-8859-1&sa=Cerca",
+    "u": "https://www.mymovies.it/database/ricercalibera/default.asp?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Movies"
   },
@@ -60075,7 +60075,7 @@
     "s": "Mozilla",
     "d": "www.google.com",
     "t": "moz",
-    "u": "https://www.google.com/cse?cx=002443141534113389537:ysdmevkkknw&cof=FORID:0&q={{{s}}}",
+    "u": "https://www.google.com/cse?q={{{s}}}",
     "c": "Tech",
     "sc": "Companies"
   },
@@ -60916,7 +60916,7 @@
     "s": "Mubi",
     "d": "mubi.com",
     "t": "mubi",
-    "u": "https://mubi.com/search/results?cx=016360985607050269103:cmmod4epzpo&cof=FORID:10&ie=UTF-8&q={{{s}}}",
+    "u": "https://mubi.com/search/results?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Movies"
   },
@@ -61060,7 +61060,7 @@
     "s": "Muscular Development Forums",
     "d": "forums.musculardevelopment.com",
     "t": "muscdevforum",
-    "u": "http://forums.musculardevelopment.com?q={{{s}}}:",
+    "u": "http://forums.musculardevelopment.com/?q={{{s}}}:",
     "c": "Entertainment",
     "sc": "Forum"
   },
@@ -61635,7 +61635,7 @@
     "s": "MYmovies",
     "d": "www.mymovies.it",
     "t": "mymovies",
-    "u": "https://www.mymovies.it/database/ricercalibera/default.asp?q={{{s}}}&cx=partner-pub-1699801751737986:x7j961-1g3m&cof=FORID:9&ie=ISO-8859-1&sa=Cerca",
+    "u": "https://www.mymovies.it/database/ricercalibera/default.asp?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Movies"
   },
@@ -62140,7 +62140,7 @@
     "s": "Nautiljon",
     "d": "www.nautiljon.com",
     "t": "nautiljon",
-    "u": "http://www.nautiljon.com/search.php?cx=partner-pub-0881008410530095:d1y8wrnakj0&cof=FORID:10&ie=UTF-8&q={{{s}}}",
+    "u": "http://www.nautiljon.com/search.php?q={{{s}}}",
     "c": "Multimedia",
     "sc": "General"
   },
@@ -62764,7 +62764,7 @@
     "s": "DotNet Docs",
     "d": "www.searchdotnet.com",
     "t": ".net",
-    "u": "https://www.searchdotnet.com/results.aspx?cx=002213837942349435108:jki1okx03jq&q={{{s}}}&sa=Search+.NET+sites&cof=FORID:9&siteurl=www.searchdotnet.com/",
+    "u": "https://www.searchdotnet.com/results.aspx?q={{{s}}}",
     "c": "Tech",
     "sc": "Languages (.net)"
   },
@@ -63621,7 +63621,7 @@
     "s": "Nirsoft",
     "d": "www.nirsoft.net",
     "t": "nirsoft",
-    "u": "https://www.nirsoft.net/search_freeware_result_new.html?cx=partner-pub-5286073190998405:5399172980&cof=FORID:10&ie=UTF-8&q={{{s}}}&sa=Search&siteurl=nirsoft.net/&ref=google.com/",
+    "u": "https://www.nirsoft.net/search_freeware_result_new.html?q={{{s}}}",
     "c": "Tech",
     "sc": "Downloads"
   },
@@ -64207,7 +64207,7 @@
     "s": "Not Doppler",
     "d": "www.notdoppler.com",
     "t": "notdoppler",
-    "u": "https://www.notdoppler.com/search.php?cx=partner-pub-5587930311934766:9473942733&cof=FORID:9&ie=UTF-8&q={{{s}}}&sa=Search",
+    "u": "https://www.notdoppler.com/search.php?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (general)"
   },
@@ -64407,7 +64407,7 @@
     "s": "NRC",
     "d": "www.nrc.nl",
     "t": "nrc",
-    "u": "https://www.nrc.nl/php/zoeken.php?cx=000950122183490940160:fse5ljfbq2u&q={{{s}}}&ie=anci&sa=&cof=FORID:9#449",
+    "u": "https://www.nrc.nl/php/zoeken.php?q={{{s}}}#449",
     "c": "News",
     "sc": "International"
   },
@@ -65779,7 +65779,7 @@
     "s": "OldApps.com",
     "d": "www.oldapps.com",
     "t": "oldapps",
-    "u": "http://www.oldapps.com/betasearch.php?cx=007779823686351122034:i7o_lb6edjm&cof=FORID:9&ie=UTF-8&q={{{s}}}&siteurl=",
+    "u": "http://www.oldapps.com/betasearch.php?q={{{s}}}",
     "c": "Tech",
     "sc": "Downloads"
   },
@@ -67622,7 +67622,7 @@
     "s": "Osxdaily",
     "d": "osxdaily.com",
     "t": "osxdaily",
-    "u": "https://osxdaily.com/gsearch/?cx=partner-pub-7321635426958037:1x5yj0-316e&cof=FORID:10&ie=ISO-8859-1&q={{{s}}}&sa=Search",
+    "u": "https://osxdaily.com/gsearch/?q={{{s}}}",
     "c": "Tech",
     "sc": "Blogs"
   },
@@ -68598,7 +68598,7 @@
     "s": "Parkrun",
     "d": "www.parkrun.com",
     "t": "parkrun",
-    "u": "https://www.parkrun.com/search?cx=partner-pub-2762663671557547:1576658957&cof=FORID:11&ie=UTF-8&q={{{s}}}&sa=Search&siteurl=www.parkrun.com/&ref=&ss=631j112681j5",
+    "u": "https://www.parkrun.com/search?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Sports"
   },
@@ -68662,7 +68662,7 @@
     "s": "pastebin",
     "d": "pastebin.com",
     "t": "pastebin",
-    "u": "https://pastebin.com/search?cx=partner-pub-4339714761096906:1qhz41g8k4m&cof=FORID:10&ie=UTF-8&q={{{s}}}",
+    "u": "https://pastebin.com/search?q={{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
   },
@@ -72245,7 +72245,7 @@
     "s": "PocketPC.ch",
     "d": "www.pocketpc.ch",
     "t": "ppc",
-    "u": "https://www.pocketpc.ch/google.php?cx=partner-pub-5163471580494836:7047225119&ie=UTF-8&cof=FORID:9&q={{{s}}}&sa.x=0&sa.y=0",
+    "u": "https://www.pocketpc.ch/google.php?q={{{s}}}",
     "c": "Tech",
     "sc": "Blogs"
   },
@@ -72285,7 +72285,7 @@
     "s": "Pplware",
     "d": "pplware.sapo.pt",
     "t": "pplware",
-    "u": "https://pplware.sapo.pt/resultados-da-pesquisa/?cx=partner-pub-1446920356351445:pqahidy83wu&cof=FORID:11&ie=UTF-8&q={{{s}}}&sa=Pesquisar",
+    "u": "https://pplware.sapo.pt/resultados-da-pesquisa/?q={{{s}}}",
     "c": "Tech",
     "sc": "Blogs (intl)"
   },
@@ -72792,7 +72792,7 @@
     "s": "Prog Archives",
     "d": "www.progarchives.com",
     "t": "progarchives",
-    "u": "https://www.progarchives.com/google-search-results.asp?cof=FORID:10&ie=ISO-8859-1&q={{{s}}}&cx=partner-pub-0447992028883143:j1syec-2iv1&sa=submit&siteurl=www.progarchives.com/album.asp?id=998",
+    "u": "https://www.progarchives.com/google-search-results.asp?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Audio"
   },
@@ -72840,7 +72840,7 @@
     "s": "progrock archives",
     "d": "www.progarchives.com",
     "t": "progrock",
-    "u": "https://www.progarchives.com/google-search-results.asp?cof=FORID:10&ie=ISO-8859-1&q={{{s}}}&cx=partner-pub-0447992028883143:j1syec-2iv1&sa=submit&siteurl=www.progarchives.com/&ref=&ss=515j83611j5",
+    "u": "https://www.progarchives.com/google-search-results.asp?q={{{s}}}",
     "c": "Multimedia",
     "sc": "Music"
   },
@@ -77527,7 +77527,7 @@
     "s": "RobotOS",
     "d": "www.ros.org",
     "t": "ros",
-    "u": "https://www.ros.org/search/index.html?cx=018259903093183594226:txvzw9fat6w&cof=FORID:11;NB:1&ie=UTF-8&filter=0&num=10&input={{{s}}}&q={{{s}}}&sa=Submit",
+    "u": "https://www.ros.org/search/index.html?input={{{s}}}&q={{{s}}}",
     "c": "Tech",
     "sc": "Libraries/Frameworks"
   },
@@ -77912,7 +77912,7 @@
     "s": "RSeek",
     "d": "www.rseek.org",
     "t": "rseek",
-    "u": "https://www.rseek.org/?cx=010923144343702598753:boaz1reyxd4&newwindow=1&q={{{s}}}&sa=Search+functions,+lists,+and+more&cof=FORID:11&siteurl=www.rseek.org/",
+    "u": "https://www.rseek.org/?q={{{s}}}",
     "c": "Tech",
     "sc": "Languages (r)"
   },
@@ -78176,7 +78176,7 @@
     "s": "Read the Docs",
     "d": "{{{s}}}.rtfd.io",
     "t": "rtfd",
-    "u": "http://{{{s}}}.rtfd.io",
+    "u": "http://{{{s}}}.rtfd.io/",
     "c": "Tech",
     "sc": "Programming"
   },
@@ -78232,7 +78232,7 @@
     "s": "Rtings.com",
     "d": "www.rtings.com",
     "t": "rtings",
-    "u": "https://www.rtings.com/search?cx=partner-pub-9742413462301870:7201788216&cof=FORID:10&ie=UTF-8&silo=&q={{{s}}}",
+    "u": "https://www.rtings.com/search?q={{{s}}}",
     "c": "Shopping",
     "sc": "Tech"
   },
@@ -80601,7 +80601,7 @@
     "s": "SecLists.org",
     "d": "insecure.org",
     "t": "seclists",
-    "u": "https://insecure.org/search.html?cx=partner-pub-0078565546631069:bx60rb-fytx&cof=FORID:9&ie=ISO-8859-1&q={{{s}}}&sa=SecSearch",
+    "u": "https://insecure.org/search.html?q={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin"
   },
@@ -80761,7 +80761,7 @@
     "s": "Select Fashion",
     "d": "selectfashion.pk",
     "t": "select",
-    "u": "http://selectfashion.pk?term={{{s}}}",
+    "u": "http://selectfashion.pk/?term={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
@@ -80961,7 +80961,7 @@
     "s": "Serebii",
     "d": "www.serebii.net",
     "t": "serebii",
-    "u": "https://www.serebii.net/search.shtml?cx=018410473690156091934:6gahkiyodbi&cof=FORID:11&q={{{s}}}&sa=Search&siteurl=www.serebii.net/index2.shtml",
+    "u": "https://www.serebii.net/search.shtml?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (Pokemon)"
   },
@@ -81402,7 +81402,7 @@
     "s": "Shiatsu Stijlen",
     "d": "www.shiatsu-stijlen.nl",
     "t": "shiatsu",
-    "u": "https://www.shiatsu-stijlen.nl/zoeken.php?cx=partner-pub-1276597034470244:slojxr-8otw&cof=FORID:11&ie=ISO-8859-1&q={{{s}}}&sa=Zoeken",
+    "u": "https://www.shiatsu-stijlen.nl/zoeken.php?q={{{s}}}",
     "c": "Research",
     "sc": "Health"
   },
@@ -82858,7 +82858,7 @@
     "s": "Smashing Magazine",
     "d": "www.smashingmagazine.com",
     "t": "smashingmagazine",
-    "u": "https://www.smashingmagazine.com/search-results/?q={{{s}}}&cx=partner-pub-6779860845561969:5884617103&cof=FORID:10&ie=UTF-8",
+    "u": "https://www.smashingmagazine.com/search-results/?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Blogs"
   },
@@ -83098,7 +83098,7 @@
     "s": "Smashing Magazine",
     "d": "www.smashingmagazine.com",
     "t": "sm",
-    "u": "https://www.smashingmagazine.com/search-results/?q={{{s}}}&cx=partner-pub-6779860845561969:5884617103&cof=FORID:10&ie=UTF-8",
+    "u": "https://www.smashingmagazine.com/search-results/?q={{{s}}}",
     "c": "News",
     "sc": "Magazine"
   },
@@ -83402,7 +83402,7 @@
     "s": "ServiceNow Wiki",
     "d": "wiki.servicenow.com",
     "t": "snw",
-    "u": "http://wiki.servicenow.com/search-results.php?cx=005409823165138974380:bltnnmgfoek&cof=FORID:10&ie=UTF-8&q={{{s}}}&sa=Search&siteurl=wiki.servicenow.com/search-results.php&ref=&ss=",
+    "u": "http://wiki.servicenow.com/search-results.php?q={{{s}}}",
     "c": "Tech",
     "sc": "Companies"
   },
@@ -86171,7 +86171,7 @@
     "s": "stuff.co.nz",
     "d": "www.stuff.co.nz",
     "t": "stuffnz",
-    "u": "https://www.stuff.co.nz/searchresults?Search+Site=Search+Site&cof=FORID:9&cx=006730714154542492986:oh6vl0ybuqy&ie=UTF-8&q={{{s}}}&siteurl=www.stuff.co.nz/&ref=",
+    "u": "https://www.stuff.co.nz/searchresults?q={{{s}}}",
     "c": "News",
     "sc": "Newspaper"
   },
@@ -88028,7 +88028,7 @@
     "s": "TechnoBuffalo",
     "d": "www.technobuffalo.com",
     "t": "tbuff",
-    "u": "http://www.technobuffalo.com/search-results/?cx=partner-pub-2551798495402703:d3m0wbhqu0s&cof=FORID:10&ie=ISO-8859-1&q={{{s}}}&sa=Search&siteurl=www.technobuffalo.com/&ref=&ss=975j318069j4",
+    "u": "http://www.technobuffalo.com/search-results/?q={{{s}}}",
     "c": "Tech",
     "sc": "Blogs"
   },
@@ -88036,7 +88036,7 @@
     "s": "The Trading Card Database",
     "d": "www.tradingcarddb.com",
     "t": "tcdb",
-    "u": "https://www.tradingcarddb.com/Search.cfm?SearchCategory=Baseball&cx=partner-pub-2387250451295121:hes0ib-44xp&cof=FORID:10&ie=ISO-8859-1&q={{{s}}}",
+    "u": "https://www.tradingcarddb.com/Search.cfm?q={{{s}}}",
     "c": "Research",
     "sc": "Topical"
   },
@@ -88405,7 +88405,7 @@
     "s": "Techspot",
     "d": "www.techspot.com",
     "t": "techspot",
-    "u": "https://www.techspot.com/search/?cx=partner-pub-7395890353660701:j5claj-6kfy&cof=FORID:11&ie=UTF-8&q={{{s}}}",
+    "u": "https://www.techspot.com/search/?q={{{s}}}",
     "c": "News",
     "sc": "Specialty"
   },
@@ -88453,7 +88453,7 @@
     "s": "Tecmint",
     "d": "www.tecmint.com",
     "t": "tecmint",
-    "u": "https://www.tecmint.com/search/?cx=partner-pub-2601749019656699:2173448976&cof=FORID:10&ie=UTF-8&q={{{s}}}&sa=Search&siteurl=www.tecmint.com/&ref=duckduckgo.com/&ss=3875j2780811j15",
+    "u": "https://www.tecmint.com/search/?q={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin"
   },
@@ -89634,7 +89634,7 @@
     "s": "TheTopTens",
     "d": "www.thetoptens.com",
     "t": "thetoptens",
-    "u": "https://www.thetoptens.com/search.asp?q={{{s}}}&cx=partner-pub-5900458016987292:gdkm434o44o&cof=FORID:9&ie=ISO-8859-1&siteurl=www.thetoptens.com/?q=a&ref=&ss=421j55697j9",
+    "u": "https://www.thetoptens.com/search.asp?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Misc"
   },
@@ -89714,7 +89714,7 @@
     "s": "Thingiverse",
     "d": "www.thingiverse.com",
     "t": "thingiverse",
-    "u": "https://www.thingiverse.com/search?cx=015525747728168968820:rqnsgx1xxcw&cof=FORID:9&q={{{s}}}",
+    "u": "https://www.thingiverse.com/search?q={{{s}}}",
     "c": "Tech",
     "sc": "Design"
   },
@@ -90250,7 +90250,7 @@
     "s": "Tin House",
     "d": "www.tinhouse.com",
     "t": "tinhouse",
-    "u": "https://www.tinhouse.com/blog/search_results?cx=011725669505340441470:k2fqsblnr5c&cof=FORID:9&ie=UTF-8&q={{{s}}}&sa=Search",
+    "u": "https://www.tinhouse.com/blog/search_results?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Misc"
   },
@@ -90746,7 +90746,7 @@
     "s": "Tunisie Annonces",
     "d": "www.tunisie-annonce.com",
     "t": "tn-annonces",
-    "u": "http://www.tunisie-annonce.com/search.asp?cx=partner-pub-4455074141785177:abc2p7-5h3d&cof=FORID:10&ie=ISO-8859-1&q={{{s}}}&sa=Rechercher&siteurl=www.tunisie-annonce.com/&ref=&ss=1479j334475j10",
+    "u": "http://www.tunisie-annonce.com/search.asp?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online (deals)"
   },
@@ -91274,7 +91274,7 @@
     "s": "The People's Cube",
     "d": "thepeoplescube.com",
     "t": "tpc",
-    "u": "http://thepeoplescube.com/searchGoogle.php?cx=partner-pub-8404716009789025:4p2aqaojris&cof=FORID:9&ie=ISO-8859-1&q={{{s}}}&sa=",
+    "u": "http://thepeoplescube.com/searchGoogle.php?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Blogs"
   },
@@ -92708,7 +92708,7 @@
     "s": "TV Tropes",
     "d": "tvtropes.org",
     "t": "tvtropes",
-    "u": "https://tvtropes.org/pmwiki/search_result.php?cx=partner-pub-6610802604051523:amzitfn8e7v&cof=FORID:10&ie=ISO-8859-1&q={{{s}}}&siteurl=tvtropes.org/pmwiki/pmwiki.php/Main/HomePage",
+    "u": "https://tvtropes.org/pmwiki/search_result.php?q={{{s}}}",
     "c": "Entertainment",
     "sc": "TV"
   },
@@ -93196,7 +93196,7 @@
     "s": "Universitätsbibliothek Heidelberg",
     "d": "www.ub.uni-heidelberg.de",
     "t": "ubhd",
-    "u": "https://www.ub.uni-heidelberg.de/suche/suche.html?cx=009778813800417314295:f3s5sfjqeck&cof=FORID:10&ie=UTF-8&q={{{s}}}&sa=Suche",
+    "u": "https://www.ub.uni-heidelberg.de/suche/suche.html?q={{{s}}}",
     "c": "Research",
     "sc": "Reference"
   },
@@ -93559,7 +93559,7 @@
     "s": "Universidade Federal do Rio de Janeiro",
     "d": "www.ufrj.br",
     "t": "ufrj",
-    "u": "http://www.ufrj.br/buscagoogle2.php?ie=utf-8&oe=utf-8&cx=001879131226118048161:c12ayzh7sok&cof=FORID:11&q={{{s}}}",
+    "u": "http://www.ufrj.br/buscagoogle2.php?q={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -93928,7 +93928,7 @@
     "s": "UMass Boston",
     "d": "www.umb.edu",
     "t": "umb",
-    "u": "https://www.umb.edu/search?cx=001225130692263366863:uxj4oosyzxy&cof=FORID:11&q={{{s}}}",
+    "u": "https://www.umb.edu/search?q={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -96885,7 +96885,7 @@
     "s": "Viva o Linux",
     "d": "www.vivaolinux.com.br",
     "t": "vol",
-    "u": "https://www.vivaolinux.com.br/busca/?cx=partner-pub-3535276187000580:4725058203&cof=FORID:10&ie=UTF-8&q={{{s}}}&tipoBusca=0&siteurl=www.vivaolinux.com.br",
+    "u": "https://www.vivaolinux.com.br/busca/?q={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin"
   },
@@ -97061,7 +97061,7 @@
     "s": "Vintage Synth Explorer",
     "d": "www.vintagesynth.com",
     "t": "vse",
-    "u": "https://www.vintagesynth.com/google_results.php?cx=partner-pub-9231860735104128:7369484958&cof=FORID:10&ie=UTF-8&q={{{s}}}&sa=Search&siteurl=www.vintagesynth.com/&ref=&ss=572j143576j4",
+    "u": "https://www.vintagesynth.com/google_results.php?q={{{s}}}",
     "c": "Multimedia",
     "sc": "Music"
   },
@@ -98277,7 +98277,7 @@
     "s": "WebReference",
     "d": "webref.ru",
     "t": "webref",
-    "u": "https://webref.ru/search/?s={{{s}}}&cx=partner-pub-0708135098984815:9970767379&cof=FORID:10&ie=UTF-8",
+    "u": "https://webref.ru/search/?s={{{s}}}",
     "c": "Tech",
     "sc": "Languages (html)"
   },
@@ -98558,7 +98558,7 @@
     "s": "Wesleyan University",
     "d": "www.wesleyan.edu",
     "t": "wesu",
-    "u": "https://www.wesleyan.edu/search/search-results.html?cx=001254463385620737445:nbar83le1bc&cof=FORID:11&ie=UTF-8&q={{{s}}}",
+    "u": "https://www.wesleyan.edu/search/search-results.html?q={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -99419,7 +99419,7 @@
     "s": "WikiSpaces",
     "d": "www.wiki.com",
     "t": "wikisearch",
-    "u": "https://www.wiki.com/results1.htm?cx=009420061493499222400:e8sof1xaq-u&q={{{s}}}&btnG=Wiki+Search&cof=GIMP:009900;T:000000;ALC:FF9900;GFNT:B0B0B0;LC:003F7D;BGC:FFFFFF;VLC:666666;GALT:36A200;FORID:9;&as_q=on",
+    "u": "https://www.wiki.com/results1.htm?q={{{s}}}",
     "c": "Online Services",
     "sc": "Search"
   },
@@ -99935,7 +99935,7 @@
     "s": "Wine AppDB",
     "d": "winehq.org",
     "t": "wine",
-    "u": "https://winehq.org/search?cx=partner-pub-0971840239976722:w9sqbcsxtyf&cof=FORID:10&q={{{s}}}",
+    "u": "https://winehq.org/search?q={{{s}}}",
     "c": "Tech",
     "sc": "Downloads (apps)"
   },
@@ -99943,7 +99943,7 @@
     "s": "WinFuture",
     "d": "winfuture.de",
     "t": "winfu",
-    "u": "https://winfuture.de/suche/?cx=001589123709424097799:sbdrzmcykc8&cof=FORID:11&ie=ISO-8859-1&q={{{s}}}",
+    "u": "https://winfuture.de/suche/?q={{{s}}}",
     "c": "News",
     "sc": "Specialty"
   },
@@ -101089,7 +101089,7 @@
     "s": "WordPress.com",
     "d": "{{{s}}}.wordpress.com",
     "t": "wpblog",
-    "u": "http://{{{s}}}.wordpress.com",
+    "u": "http://{{{s}}}.wordpress.com/",
     "c": "Entertainment",
     "sc": "Blogs"
   },
@@ -102855,7 +102855,7 @@
     "s": "!Xtend-Life",
     "d": "www.xtend-life.com",
     "t": "xl",
-    "u": "https://www.xtend-life.com/search-results?cx=005442268687610389394:4wscy8mawc0&cof=FORID:10&q={{{s}}}",
+    "u": "https://www.xtend-life.com/search-results?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
