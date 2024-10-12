@@ -916,7 +916,7 @@
     "s": "臭い女性から卒業宣言",
     "d": "931women.com",
     "t": "931women",
-    "u": "https://931women.com/?s={{{s}}}: ",
+    "u": "https://931women.com/?s={{{s}}}:",
     "c": "Entertainment",
     "sc": "Blogs"
   },
@@ -1185,7 +1185,7 @@
     "sc": "General"
   },
   {
-    "s": "Abadis Persian to English dictionary ",
+    "s": "Abadis Persian to English dictionary",
     "d": "dictionary.abadis.ir",
     "t": "abadisf",
     "u": "https://dictionary.abadis.ir/?lntype=fatoen&word={{{s}}}",
@@ -1689,7 +1689,7 @@
     "sc": "Topical"
   },
   {
-    "s": "Animal Crossing Wikia ",
+    "s": "Animal Crossing Wikia",
     "d": "animalcrossing.wikia.com",
     "t": "acw",
     "u": "https://animalcrossing.wikia.com/wiki/Special:Search?query={{{s}}}",
@@ -3827,7 +3827,7 @@
     "sc": "Online (intl)"
   },
   {
-    "s": "American Meteorology Society ",
+    "s": "American Meteorology Society",
     "d": "journals.ametsoc.org",
     "t": "ametsoc",
     "u": "https://journals.ametsoc.org/action/doSearch?AllField={{{s}}}",
@@ -4534,7 +4534,7 @@
     "s": "なんぽるとこわ別館",
     "d": "annex.931women.com",
     "t": "annex.931women",
-    "u": "https://annex.931women.com/?s={{{s}}}: ",
+    "u": "https://annex.931women.com/?s={{{s}}}:",
     "c": "Entertainment",
     "sc": "Blogs"
   },
@@ -5390,7 +5390,7 @@
     "sc": "Online"
   },
   {
-    "s": "Real-time Air Quality Index (AQI) ",
+    "s": "Real-time Air Quality Index (AQI)",
     "d": "aqicn.org",
     "t": "aqicn",
     "u": "https://aqicn.org/city/{{{s}}}",
@@ -5649,7 +5649,7 @@
     ]
   },
   {
-    "s": "Internet ",
+    "s": "Internet",
     "d": "archive.org",
     "t": "archive",
     "u": "https://archive.org/search.php?query={{{s}}}",
@@ -6214,7 +6214,7 @@
     "sc": "Online"
   },
   {
-    "s": " ASCL.net - Astrophysics Source Code Library",
+    "s": "ASCL.net - Astrophysics Source Code Library",
     "d": "ascl.net",
     "t": "ascl",
     "u": "https://ascl.net/code/search/{{{s}}}",
@@ -7840,7 +7840,7 @@
     "sc": "Learning"
   },
   {
-    "s": "Pipl - Profile Search enguine ",
+    "s": "Pipl - Profile Search enguine",
     "d": "pipl.com",
     "t": "BangPeople",
     "u": "https://pipl.com/search/?q={{{s}}}",
@@ -8094,7 +8094,7 @@
     "s": "Basketball Reference",
     "d": "www.basketball-reference.com",
     "t": "bballref",
-    "u": "https://www.basketball-reference.com/search/search.fcgi?hint=&search={{{s}}}&pid=&idx= ",
+    "u": "https://www.basketball-reference.com/search/search.fcgi?hint=&search={{{s}}}&pid=&idx=",
     "c": "Research",
     "sc": "Reference"
   },
@@ -8265,7 +8265,7 @@
     "sc": "Food"
   },
   {
-    "s": "Basketball-Reference ",
+    "s": "Basketball-Reference",
     "d": "www.basketball-reference.com",
     "t": "bbr",
     "u": "https://www.basketball-reference.com/player_search.cgi?search={{{s}}}",
@@ -8552,7 +8552,7 @@
     "s": "Bedetheque",
     "d": "www.bedetheque.com",
     "t": "bdg",
-    "u": "https://www.bedetheque.com/search/tout?RechTexte={{{s}}}&RechWhere=0 ",
+    "u": "https://www.bedetheque.com/search/tout?RechTexte={{{s}}}&RechWhere=0",
     "c": "Entertainment",
     "sc": "Comics"
   },
@@ -10295,7 +10295,7 @@
     "sc": "Aggregators"
   },
   {
-    "s": " _ Blender Stack Exchange",
+    "s": "_ Blender Stack Exchange",
     "d": "blender.stackexchange.com",
     "t": "blex",
     "u": "https://blender.stackexchange.com/search?q={{{s}}}",
@@ -10649,7 +10649,7 @@
     "sc": "Social (intl)"
   },
   {
-    "s": "barnes and noble ",
+    "s": "barnes and noble",
     "d": "www.barnesandnoble.com",
     "t": "b&n",
     "u": "http://www.barnesandnoble.com/s/{{{s}}}",
@@ -15265,7 +15265,7 @@
     "sc": "Languages (python)"
   },
   {
-    "s": "can i use ",
+    "s": "can i use",
     "d": "caniuse.com",
     "t": "cius",
     "u": "https://caniuse.com/#search={{{s}}}",
@@ -16356,7 +16356,7 @@
     "s": "CollegeConfidential Forums",
     "d": "www.collegeconfidential.com",
     "t": "collegeconfidential",
-    "u": "https://www.collegeconfidential.com/search_results.htm?q={{{s}}}&sa=Google+Search&userInput=&sitesearch=collegeconfidential.com&cx=013579521852154800353%3Avvp1k6kluvq&cof=FORID%3A9 ",
+    "u": "https://www.collegeconfidential.com/search_results.htm?q={{{s}}}&sa=Google+Search&userInput=&sitesearch=collegeconfidential.com&cx=013579521852154800353%3Avvp1k6kluvq&cof=FORID%3A9",
     "c": "Research",
     "sc": "Academic"
   },
@@ -20904,7 +20904,7 @@
     "sc": "Search"
   },
   {
-    "s": "Deepl English to Russian ",
+    "s": "Deepl English to Russian",
     "d": "www.deepl.com",
     "t": "denru",
     "u": "https://www.deepl.com/translator#en/ru/{{{s}}}%0A",
@@ -21124,7 +21124,7 @@
     "sc": "Images"
   },
   {
-    "s": "Dev.Opera ",
+    "s": "Dev.Opera",
     "d": "dev.opera.com",
     "t": "devo",
     "u": "https://dev.opera.com/search?q={{{s}}}",
@@ -21770,7 +21770,7 @@
     "s": "digiato",
     "d": "digiato.com",
     "t": "digiato",
-    "u": "https://digiato.com/?q={{{s}}}: ",
+    "u": "https://digiato.com/?q={{{s}}}:",
     "c": "Tech",
     "sc": "Blogs"
   },
@@ -21903,7 +21903,7 @@
     "sc": "Comics"
   },
   {
-    "s": "DuckDuckGo ",
+    "s": "DuckDuckGo",
     "d": "duckduckgo.com",
     "t": "dim",
     "u": "https://duckduckgo.com/?q={{{s}}}&ia=images&iax=images",
@@ -24113,7 +24113,7 @@
     "sc": "Sysadmin (debian)"
   },
   {
-    "s": "D-Seite ",
+    "s": "D-Seite",
     "d": "www.d-seite.de",
     "t": "dste",
     "u": "https://www.d-seite.de/vis/vis.php?lemma={{{s}}}",
@@ -24426,7 +24426,7 @@
     "sc": "Video"
   },
   {
-    "s": "Dejure.org ",
+    "s": "Dejure.org",
     "d": "dejure.org",
     "t": "durhg",
     "u": "https://dejure.org/cgi-bin/suche?Suchenach={{{s}}}",
@@ -24722,7 +24722,7 @@
     "sc": "Forum"
   },
   {
-    "s": " Англійсько-українські словники",
+    "s": "Англійсько-українські словники",
     "d": "e2u.org.ua",
     "t": "e2u",
     "u": "https://e2u.org.ua/s?w={{{s}}}&dicts=all&highlight=on",
@@ -27083,7 +27083,7 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "Foclóir ",
+    "s": "Foclóir",
     "d": "www.focloir.ie",
     "t": "enfoc",
     "u": "https://www.focloir.ie/en/dictionary/ei/{{{s}}}?advSearch=1&q={{{s}}}&inlanguage=en",
@@ -31699,7 +31699,7 @@
     "sc": "Design"
   },
   {
-    "s": "Fontsquirrel ",
+    "s": "Fontsquirrel",
     "d": "www.fontsquirrel.com",
     "t": "fontsq",
     "u": "https://www.fontsquirrel.com/fonts/list/find_fonts?q[term]={{{s}}}&q[search_check]=Y",
@@ -32641,7 +32641,7 @@
     ]
   },
   {
-    "s": "Food Standards Agency - Food Hygiene Ratings ",
+    "s": "Food Standards Agency - Food Hygiene Ratings",
     "d": "ratings.food.gov.uk",
     "t": "fsarating",
     "u": "https://ratings.food.gov.uk/enhanced-search/en-GB/{{{s}}}/%5E/alpha/0/%5E/%5E/1/1/10",
@@ -33812,7 +33812,7 @@
     "s": "Gayburg",
     "d": "gayburg.blogspot.com",
     "t": "gayburg",
-    "u": "https://gayburg.blogspot.com/search?q={{{s}}}: ",
+    "u": "https://gayburg.blogspot.com/search?q={{{s}}}:",
     "c": "News",
     "sc": "Newspaper (intl)"
   },
@@ -33913,7 +33913,7 @@
     "sc": "Google"
   },
   {
-    "s": "Gigablast ",
+    "s": "Gigablast",
     "d": "gigablast.org",
     "t": "gblast",
     "u": "http://gigablast.org/search?q={{{s}}}",
@@ -35386,7 +35386,7 @@
     "sc": "Search"
   },
   {
-    "s": "Google Past Hour Search ",
+    "s": "Google Past Hour Search",
     "d": "google.com",
     "t": "ghour",
     "u": "https://google.com/search?q={{{s}}}&tbs=qdr:h",
@@ -37689,7 +37689,7 @@
     "s": "Google Philippines",
     "d": "www.google.com.ph",
     "t": "gph",
-    "u": "https://www.google.com.ph/search?hl=en&q={{{s}}}&tbs=ctr:countryPH&cr=countryPH ",
+    "u": "https://www.google.com.ph/search?hl=en&q={{{s}}}&tbs=ctr:countryPH&cr=countryPH",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -44227,7 +44227,7 @@
     "s": "HV-Store",
     "d": "www.hv-store.de",
     "t": "hvstore",
-    "u": "https://www.hv-store.de/navi.php?qs={{{s}}}: ",
+    "u": "https://www.hv-store.de/navi.php?qs={{{s}}}:",
     "c": "Shopping",
     "sc": "Online (marketplace)"
   },
@@ -44531,7 +44531,7 @@
     "sc": "Tools"
   },
   {
-    "s": "European union terminology ",
+    "s": "European union terminology",
     "d": "iate.europa.eu",
     "t": "iateen",
     "u": "https://iate.europa.eu/search/byUrl?term={{{s}}}&sl=en",
@@ -46418,7 +46418,7 @@
     "sc": "Images"
   },
   {
-    "s": "Inspire HEP ",
+    "s": "Inspire HEP",
     "d": "inspirehep.net",
     "t": "inspire",
     "u": "https://inspirehep.net/search?p={{{s}}}",
@@ -46738,7 +46738,7 @@
     "sc": "Tools"
   },
   {
-    "s": "Actualidad iPhone ",
+    "s": "Actualidad iPhone",
     "d": "www.actualidadiphone.com",
     "t": "iphonees",
     "u": "https://www.actualidadiphone.com/search/{{{s}}}",
@@ -47339,7 +47339,7 @@
     "s": "itnewz",
     "d": "itnewz.ro",
     "t": "itnewz",
-    "u": "https://itnewz.ro/?s={{{s}}}: ",
+    "u": "https://itnewz.ro/?s={{{s}}}:",
     "c": "Tech",
     "sc": "Blogs"
   },
@@ -47368,7 +47368,7 @@
     "sc": "Maps"
   },
   {
-    "s": "iTunes ",
+    "s": "iTunes",
     "d": "itunes.apple.com",
     "t": "itunesartist",
     "u": "https://itunes.apple.com/us/artist/{{{s}}}",
@@ -47902,7 +47902,7 @@
     "sc": "Video"
   },
   {
-    "s": " The Logical Language Group Online Dictionary",
+    "s": "The Logical Language Group Online Dictionary",
     "d": "jbovlaste.lojban.org",
     "t": "jbo",
     "u": "https://jbovlaste.lojban.org/lookup?Form=lookup.pl1&Strategy=*&Query={{{s}}}",
@@ -48643,7 +48643,7 @@
     "sc": "Specialty"
   },
   {
-    "s": "jquery ",
+    "s": "jquery",
     "d": "api.jquery.com",
     "t": "jqd",
     "u": "https://api.jquery.com/{{{s}}}/",
@@ -53412,7 +53412,7 @@
     "sc": "Newspaper (intl)"
   },
   {
-    "s": "LinkLocker ",
+    "s": "LinkLocker",
     "d": "linklocker.co",
     "t": "linkl",
     "u": "https://linklocker.co/search?query={{{s}}}",
@@ -54560,7 +54560,7 @@
     "sc": "Blogs"
   },
   {
-    "s": "LSE Library ",
+    "s": "LSE Library",
     "d": "librarysearch.lse.ac.uk",
     "t": "lselib",
     "u": "https://librarysearch.lse.ac.uk/primo-explore/search?query=any,contains,{{{s}}}&tab=default_tab&search_scope=CSCOP_ALL&sortby=rank&vid=44LSE_VU1",
@@ -57058,7 +57058,7 @@
     "sc": "Local"
   },
   {
-    "s": "Middle Country Public Library ",
+    "s": "Middle Country Public Library",
     "d": "mcpac.mcpl.lib.ny.us",
     "t": "mcpl",
     "u": "https://mcpac.mcpl.lib.ny.us/search/t?{{{s}}}",
@@ -57098,7 +57098,7 @@
     "sc": "Movies"
   },
   {
-    "s": "Minecraft Statistics ",
+    "s": "Minecraft Statistics",
     "d": "minecraft-statistic.net",
     "t": "mcstats",
     "u": "https://minecraft-statistic.net/en/search/?q={{{s}}}",
@@ -59071,7 +59071,7 @@
     "sc": "Learning"
   },
   {
-    "s": "Mageia linux Online ",
+    "s": "Mageia linux Online",
     "d": "www.mageialinux-online.org",
     "t": "mlo",
     "u": "https://www.mageialinux-online.org/search/search.php#results?q={{{s}}}&search_submit=Recherche",
@@ -59194,7 +59194,7 @@
     "s": "My Movies Italia",
     "d": "www.mymovies.it",
     "t": "mmi",
-    "u": "https://www.mymovies.it/database/ricercalibera/default.asp?q={{{s}}}&cx=partner-pub-1699801751737986%3Ax7j961-1g3m&cof=FORID%3A9&ie=ISO-8859-1&sa=Cerca ",
+    "u": "https://www.mymovies.it/database/ricercalibera/default.asp?q={{{s}}}&cx=partner-pub-1699801751737986%3Ax7j961-1g3m&cof=FORID%3A9&ie=ISO-8859-1&sa=Cerca",
     "c": "Entertainment",
     "sc": "Movies"
   },
@@ -59370,7 +59370,7 @@
     "s": "Mobafire Builds",
     "d": "www.mobafire.com",
     "t": "mobafirebuilds",
-    "u": "https://www.mobafire.com/league-of-legends/browse/?q={{{s}}}: ",
+    "u": "https://www.mobafire.com/league-of-legends/browse/?q={{{s}}}:",
     "c": "Entertainment",
     "sc": "Games (general)"
   },
@@ -61060,7 +61060,7 @@
     "s": "Muscular Development Forums",
     "d": "forums.musculardevelopment.com",
     "t": "muscdevforum",
-    "u": "http://forums.musculardevelopment.com?q={{{s}}}: ",
+    "u": "http://forums.musculardevelopment.com?q={{{s}}}:",
     "c": "Entertainment",
     "sc": "Forum"
   },
@@ -61386,7 +61386,7 @@
     "sc": "General"
   },
   {
-    "s": "Thesaurus by Merriam-Webster ",
+    "s": "Thesaurus by Merriam-Webster",
     "d": "www.merriam-webster.com",
     "t": "mwt",
     "u": "https://www.merriam-webster.com/thesaurus/{{{s}}}",
@@ -61913,7 +61913,7 @@
     "sc": "Games (Minecraft)"
   },
   {
-    "s": "Name.com ",
+    "s": "Name.com",
     "d": "www.name.com",
     "t": "name",
     "u": "https://www.name.com/name?&domain={{{s}}}",
@@ -62657,7 +62657,7 @@
     "sc": "Online"
   },
   {
-    "s": "NerdWallet ",
+    "s": "NerdWallet",
     "d": "www.nerdwallet.com",
     "t": "nerdwallet",
     "u": "https://www.nerdwallet.com/search/results#q={{{s}}}",
@@ -64292,7 +64292,7 @@
     "sc": "Newspaper"
   },
   {
-    "s": "Nationalparks Austria Datenzentrum ",
+    "s": "Nationalparks Austria Datenzentrum",
     "d": "www.parcs.at",
     "t": "npat",
     "u": "https://www.parcs.at/npa/mmd_data_by.php?q={{{s}}}&btnG=Suche+starten&searchval=30000",
@@ -66699,7 +66699,7 @@
     "sc": "Programming"
   },
   {
-    "s": "OpenRent ",
+    "s": "OpenRent",
     "d": "www.openrent.co.uk",
     "t": "openrent",
     "u": "https://www.openrent.co.uk/properties-to-rent/{{{s}}}",
@@ -69959,7 +69959,7 @@
     "sc": "Libraries/Frameworks"
   },
   {
-    "s": "Phenom People ",
+    "s": "Phenom People",
     "d": "careers.phenompeople.com",
     "t": "phe",
     "u": "https://careers.phenompeople.com/us/en/search-results?keywords={{{s}}}",
@@ -70203,7 +70203,7 @@
     "s": "Physics Forums",
     "d": "www.physicsforums.com",
     "t": "physics",
-    "u": "https://www.physicsforums.com/search/90229641/?q={{{s}}}&o=relevance ",
+    "u": "https://www.physicsforums.com/search/90229641/?q={{{s}}}&o=relevance",
     "c": "Research",
     "sc": "Academic (math/cs)"
   },
@@ -71628,7 +71628,7 @@
     "sc": "Music"
   },
   {
-    "s": "Polygon ",
+    "s": "Polygon",
     "d": "www.polygon.com",
     "t": "polygon",
     "u": "https://www.polygon.com/search?q={{{s}}}",
@@ -72154,7 +72154,7 @@
     "sc": "Online"
   },
   {
-    "s": "pentyofamelie  ",
+    "s": "pentyofamelie",
     "d": "www.pentyofamelie.com",
     "t": "pottery",
     "u": "https://www.pentyofamelie.com/search/?term={{{s}}}",
@@ -72210,7 +72210,7 @@
     "sc": "Games (general)"
   },
   {
-    "s": "Power Thesaurus ",
+    "s": "Power Thesaurus",
     "d": "www.powerthesaurus.org",
     "t": "powt",
     "u": "https://www.powerthesaurus.org/{{{s}}}/synonyms",
@@ -76046,7 +76046,7 @@
     "sc": "Tools"
   },
   {
-    "s": "Regexper ",
+    "s": "Regexper",
     "d": "regexper.com",
     "t": "regexper",
     "u": "https://regexper.com/#{{{s}}}",
@@ -76926,7 +76926,7 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "Rimworld Wiki ",
+    "s": "Rimworld Wiki",
     "d": "rimworldwiki.com",
     "t": "rimwiki",
     "u": "https://rimworldwiki.com/index.php?search={{{s}}}",
@@ -77869,7 +77869,7 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "admin.ch -  Recueil systématique ",
+    "s": "admin.ch -  Recueil systématique",
     "d": "www.admin.ch",
     "t": "rsch",
     "u": "https://www.admin.ch/opc/search/?text={{{s}}}&lang=fr&product[]=cc&date_range_min=&date_range_max=&d_compilation=both&d_is_in_force=yes&thesaurus=1",
@@ -77981,7 +77981,7 @@
     "sc": "Tech"
   },
   {
-    "s": "Reddit ",
+    "s": "Reddit",
     "d": "www.reddit.com",
     "t": "rsn",
     "u": "https://www.reddit.com/r/{{{s}}}/new/",
@@ -79327,7 +79327,7 @@
     "s": "Scientific American",
     "d": "www.scientificamerican.com",
     "t": "sa",
-    "u": "https://www.scientificamerican.com/search/?q={{{s}}}&x=-783&y=-180 ",
+    "u": "https://www.scientificamerican.com/search/?q={{{s}}}&x=-783&y=-180",
     "c": "News",
     "sc": "Specialty"
   },
@@ -80881,7 +80881,7 @@
     "s": "Sensei's Library",
     "d": "senseis.xmp.net",
     "t": "senseis",
-    "u": "https://senseis.xmp.net/?searchstring={{{s}}}&fullsearch.x=0&fullsearch.y=0&searchtype=either ",
+    "u": "https://senseis.xmp.net/?searchstring={{{s}}}&fullsearch.x=0&fullsearch.y=0&searchtype=either",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
@@ -81530,7 +81530,7 @@
     "s": "SHOPCLUES",
     "d": "shopclues.com",
     "t": "shopclues",
-    "u": "http://shopclues.com/?q={{{s}}}: ",
+    "u": "http://shopclues.com/?q={{{s}}}:",
     "c": "Shopping",
     "sc": "Online (marketplace)"
   },
@@ -85475,7 +85475,7 @@
     "s": "Wookiepedia",
     "d": "starwars.wikia.com",
     "t": "starwars",
-    "u": "https://starwars.wikia.com/wiki/Special:Search?search={{{s}}}&go=&fulltext=Search ",
+    "u": "https://starwars.wikia.com/wiki/Special:Search?search={{{s}}}&go=&fulltext=Search",
     "c": "Entertainment",
     "sc": "TV"
   },
@@ -87745,7 +87745,7 @@
     "sc": "Comics"
   },
   {
-    "s": "Apache Tapestry ",
+    "s": "Apache Tapestry",
     "d": "tapestry.apache.org",
     "t": "tapestry",
     "u": "https://tapestry.apache.org/search.html?q={{{s}}}",
@@ -89703,7 +89703,7 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "Blog of Thilina Piyasundara ",
+    "s": "Blog of Thilina Piyasundara",
     "d": "thilina.piyasundara.org",
     "t": "thilina",
     "u": "https://thilina.piyasundara.org/search?q={{{s}}}",
@@ -91847,7 +91847,7 @@
     "sc": "Online"
   },
   {
-    "s": "Google Translate Dutch ",
+    "s": "Google Translate Dutch",
     "d": "translate.google.com",
     "t": "trnl",
     "u": "https://translate.google.com/#auto/nl/{{{s}}}",
@@ -93083,7 +93083,7 @@
     "s": "TinyUrl",
     "d": "tinyurl.com",
     "t": "tyurl",
-    "u": "https://tinyurl.com/create.php?source=indexpage&url={{{s}}}&submit=Make+TinyURL%21&alias= ",
+    "u": "https://tinyurl.com/create.php?source=indexpage&url={{{s}}}&submit=Make+TinyURL%21&alias=",
     "c": "Online Services",
     "sc": "Tools"
   },
@@ -93813,7 +93813,7 @@
     "sc": "Local"
   },
   {
-    "s": " Universitätsbibliothek Düsseldorf",
+    "s": "Universitätsbibliothek Düsseldorf",
     "d": "katalog.ulb.hhu.de",
     "t": "ulbd",
     "u": "https://katalog.ulb.hhu.de/Search/Results?lookfor={{{s}}}&type=AllFields",
@@ -94532,7 +94532,7 @@
     "sc": "Academic"
   },
   {
-    "s": " University of Manchester ",
+    "s": "University of Manchester",
     "d": "www.manchester.ac.uk",
     "t": "uom",
     "u": "https://www.manchester.ac.uk/search/?q={{{s}}}",
@@ -95219,7 +95219,7 @@
     "s": "The Daily of the University of Washington",
     "d": "www.dailyuw.com",
     "t": "uwd",
-    "u": "http://www.dailyuw.com/search/?t=article&nsa=eedition&q=&x=17&y=23{{{s}}}: ",
+    "u": "http://www.dailyuw.com/search/?t=article&nsa=eedition&q=&x=17&y=23{{{s}}}:",
     "c": "News",
     "sc": "Newspaper"
   },
@@ -97242,7 +97242,7 @@
     "sc": "Docs"
   },
   {
-    "s": "VWR International ",
+    "s": "VWR International",
     "d": "us.vwr.com",
     "t": "vwr",
     "u": "https://us.vwr.com/store/product?keyword={{{s}}}",
@@ -98507,7 +98507,7 @@
     "sc": "Online"
   },
   {
-    "s": "wordreference ",
+    "s": "wordreference",
     "d": "www.wordreference.com",
     "t": "wenfr",
     "u": "https://www.wordreference.com/enfr/{{{s}}}",
@@ -103293,7 +103293,7 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "Saccharomyces Genome Database (SGD) ",
+    "s": "Saccharomyces Genome Database (SGD)",
     "d": "www.yeastgenome.org",
     "t": "yeast",
     "u": "https://www.yeastgenome.org/search?q={{{s}}}&is_quick=true",
@@ -104832,7 +104832,7 @@
     "sc": "Search"
   },
   {
-    "s": "Zoom ",
+    "s": "Zoom",
     "d": "www.zoom.com.br",
     "t": "zoombr",
     "u": "https://www.zoom.com.br/search?q={{{s}}}",
@@ -104915,7 +104915,7 @@
     "s": "Zurb Foundation",
     "d": "foundation.zurb.com",
     "t": "zurbfoundation",
-    "u": "https://foundation.zurb.com/docs//?q={{{s}}}: ",
+    "u": "https://foundation.zurb.com/docs//?q={{{s}}}:",
     "c": "Tech",
     "sc": "Libraries/Frameworks"
   },
@@ -104923,7 +104923,7 @@
     "s": "Zurb Foundation",
     "d": "foundation.zurb.com",
     "t": "zurbf",
-    "u": "https://foundation.zurb.com/docs//?q={{{s}}}: ",
+    "u": "https://foundation.zurb.com/docs//?q={{{s}}}:",
     "c": "Tech",
     "sc": "Libraries/Frameworks"
   },
@@ -105073,7 +105073,7 @@
     "sc": "Google"
   },
   {
-    "s": "Λεξικό ",
+    "s": "Λεξικό",
     "d": "el.m.wiktionary.org",
     "t": "Λεξικό",
     "u": "https://el.m.wiktionary.org/wiki/{{{s}}}",
@@ -109279,7 +109279,7 @@
     "sc": "Docs"
   },
   {
-    "s": "Βικιπαίδεια ",
+    "s": "Βικιπαίδεια",
     "d": "el.m.wikipedia.org",
     "t": "Βικι",
     "u": "https://el.m.wikipedia.org/wiki/{{{s}}}",
