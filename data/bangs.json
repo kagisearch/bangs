@@ -1844,7 +1844,7 @@
     "s": "Amazon.de Smile",
     "d": "smile.amazon.de",
     "t": "ades",
-    "u": "https://smile.amazon.de/s/ref=nb_sb_noss?field-keywords={{{s}}}",
+    "u": "https://smile.amazon.de/s?field-keywords={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
@@ -3710,7 +3710,7 @@
     "s": "Amazon.com order history",
     "d": "www.amazon.com",
     "t": "amazonorders",
-    "u": "https://www.amazon.com/gp/your-account/order-history/ref=oh_aui_search?opt=ab&search={{{s}}}",
+    "u": "https://www.amazon.com/gp/your-account/order-history?opt=ab&search={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
@@ -4006,7 +4006,7 @@
     "s": "Amazon Smile",
     "d": "smile.amazon.com",
     "t": "ams",
-    "u": "https://smile.amazon.com/s/ref=nb_sb_noss_2?url=search-alias=aps&field-keywords={{{s}}}",
+    "u": "https://smile.amazon.com/s?url=search-alias=aps&field-keywords={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
@@ -4718,7 +4718,7 @@
     "s": "Amazon Orders",
     "d": "www.amazon.com",
     "t": "ao",
-    "u": "https://www.amazon.com/gp/your-account/order-history/ref=oh_aui_search?opt=ab&search={{{s}}}",
+    "u": "https://www.amazon.com/gp/your-account/order-history?opt=ab&search={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
@@ -4934,7 +4934,7 @@
     "s": "Amazon Prime Instant Video",
     "d": "www.amazon.com",
     "t": "apiv",
-    "u": "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=prime-instant-video&field-keywords={{{s}}}",
+    "u": "https://www.amazon.com/s?url=search-alias=prime-instant-video&field-keywords={{{s}}}",
     "c": "Multimedia",
     "sc": "Video"
   },
@@ -5238,7 +5238,7 @@
     "s": "Apple Support",
     "d": "support.apple.com",
     "t": "applesupport",
-    "u": "https://support.apple.com/kb/index?page=search&product=&q={{{s}}}&src=support_site.kbase.search.searchresults",
+    "u": "https://support.apple.com/kb/index?page=search&product=&q={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin"
   },
@@ -9346,7 +9346,7 @@
     "s": "Bing Images",
     "d": "www.bing.com",
     "t": "bi",
-    "u": "https://www.bing.com/images/search?q={{{s}}}&go=&form=QBIL&qs=n",
+    "u": "https://www.bing.com/images/search?q={{{s}}}&go=",
     "c": "Online Services",
     "sc": "Search"
   },
@@ -9706,7 +9706,7 @@
     "s": "Bing Images",
     "d": "www.bing.com",
     "t": "bimages",
-    "u": "https://www.bing.com/images/search?q={{{s}}}&go=&form=QBIL&qs=n",
+    "u": "https://www.bing.com/images/search?q={{{s}}}&go=",
     "c": "Online Services",
     "sc": "Search"
   },
@@ -9714,7 +9714,7 @@
     "s": "Bing Images",
     "d": "www.bing.com",
     "t": "bim",
-    "u": "https://www.bing.com/images/search?q={{{s}}}&go=&form=QBIL&qs=n",
+    "u": "https://www.bing.com/images/search?q={{{s}}}&go=",
     "c": "Multimedia",
     "sc": "Images"
   },
@@ -9738,7 +9738,7 @@
     "s": "Bing Animated Images (GiFs)",
     "d": "www.bing.com",
     "t": "binggif",
-    "u": "https://www.bing.com/images/search?&q={{{s}}}&qft=+filterui:photo-animatedgif&FORM=R5IR25",
+    "u": "https://www.bing.com/images/search?q={{{s}}}&qft=+filterui:photo-animatedgif",
     "c": "Multimedia",
     "sc": "Images"
   },
@@ -9746,7 +9746,7 @@
     "s": "Bing Images",
     "d": "www.bing.com",
     "t": "bingimages",
-    "u": "https://www.bing.com/images/search?q={{{s}}}&go=&form=QBIL&qs=n",
+    "u": "https://www.bing.com/images/search?q={{{s}}}&go=",
     "c": "Online Services",
     "sc": "Search"
   },
@@ -10354,7 +10354,7 @@
     "s": "Blogmotion",
     "d": "blogmotion.fr",
     "t": "blm",
-    "u": "https://blogmotion.fr/?utm_source=duckduckgo&utm_medium=bang&s={{{s}}}",
+    "u": "https://blogmotion.fr/?s={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin"
   },
@@ -10852,7 +10852,7 @@
     "s": "boingboing",
     "d": "www.google.com",
     "t": "boingboing",
-    "u": "https://www.google.com/cse?cx=partner-pub-2170174688585464:d58nno-rqp8&ie=ISO-8859-1&q={{{s}}}&sa=GO&siteurl=www.boingboing.net/",
+    "u": "https://www.google.com/cse?cx=partner-pub-2170174688585464:d58nno-rqp8&ie=ISO-8859-1&q={{{s}}}&siteurl=www.boingboing.net/",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -12432,7 +12432,7 @@
     "s": "BVG",
     "d": "fahrinfo.bvg.de",
     "t": "bvg",
-    "u": "https://fahrinfo.bvg.de/Fahrinfo/bin/query.bin/?pk_campaign=BVG.de_Eingabe&from={{{s}}}",
+    "u": "https://fahrinfo.bvg.de/Fahrinfo/bin/query.bin/?from={{{s}}}",
     "c": "Research",
     "sc": "Travel"
   },
@@ -20165,7 +20165,7 @@
     "s": "DealsPricer",
     "d": "www.dealspricer.com",
     "t": "dealspricer",
-    "u": "https://www.dealspricer.com/search?q={{{s}}}&utm_source=ddgbang&utm_medium=organic",
+    "u": "https://www.dealspricer.com/search?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
@@ -20253,7 +20253,7 @@
     "s": "Debian Pages (French)",
     "d": "www.google.com",
     "t": "debianfr",
-    "u": "https://www.google.com/cse?cx=007724375775369850404:jwpah_hbbjk&ie=UTF-8&q={{{s}}}&sa=Rechercher&siteurl=www.google.com/cse/home?cx=007724375775369850404:jwpah_hbbjk",
+    "u": "https://www.google.com/cse?cx=007724375775369850404:jwpah_hbbjk&ie=UTF-8&q={{{s}}}&siteurl=www.google.com/cse/home?cx=007724375775369850404:jwpah_hbbjk",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -32416,7 +32416,7 @@
     "s": "Amazon Fresh",
     "d": "www.amazon.com",
     "t": "fresh",
-    "u": "https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias=amazonfresh&field-keywords={{{s}}}",
+    "u": "https://www.amazon.com/s?url=search-alias=amazonfresh&field-keywords={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
@@ -33325,7 +33325,7 @@
     "s": "Google AE",
     "d": "www.google.ae",
     "t": "gae",
-    "u": "https://www.google.ae/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.ae/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -33732,7 +33732,7 @@
     "s": "Google AR",
     "d": "www.google.com.ar",
     "t": "gar",
-    "u": "https://www.google.com.ar/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.com.ar/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -33772,7 +33772,7 @@
     "s": "Google AT",
     "d": "www.google.at",
     "t": "gat",
-    "u": "https://www.google.at/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.at/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -33796,7 +33796,7 @@
     "s": "Google AU",
     "d": "www.google.com.au",
     "t": "gau",
-    "u": "https://www.google.com.au/search?&source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.com.au/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -33860,7 +33860,7 @@
     "s": "Google BE",
     "d": "www.google.be",
     "t": "gbe",
-    "u": "https://www.google.be/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.be/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -33884,7 +33884,7 @@
     "s": "Google BG",
     "d": "www.google.bg",
     "t": "gbg",
-    "u": "https://www.google.bg/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.bg/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -33988,7 +33988,7 @@
     "s": "Google BR",
     "d": "www.google.com.br",
     "t": "gbr",
-    "u": "https://www.google.com.br/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.com.br/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -34020,7 +34020,7 @@
     "s": "Google CA",
     "d": "www.google.ca",
     "t": "gca",
-    "u": "https://www.google.ca/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.ca/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -34076,7 +34076,7 @@
     "s": "Google CH",
     "d": "www.google.ch",
     "t": "gch",
-    "u": "https://www.google.ch/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.ch/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -34108,7 +34108,7 @@
     "s": "Google CL",
     "d": "www.google.cl",
     "t": "gcl",
-    "u": "https://www.google.cl/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.cl/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -34132,7 +34132,7 @@
     "s": "Google CN",
     "d": "www.google.cn",
     "t": "gcn",
-    "u": "https://www.google.cn/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.cn/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -34148,7 +34148,7 @@
     "s": "Google CO",
     "d": "www.google.com.co",
     "t": "gco",
-    "u": "https://www.google.com.co/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.com.co/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -34196,7 +34196,7 @@
     "s": "Google Cuba",
     "d": "www.google.com",
     "t": "gcu",
-    "u": "https://www.google.com/search?q={{{s}}}&source=lnt&tbs=ctr:countryCU&cr=countryCU",
+    "u": "https://www.google.com/search?q={{{s}}}&tbs=ctr:countryCU&cr=countryCU",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -34228,7 +34228,7 @@
     "s": "Google CZ",
     "d": "www.google.cz",
     "t": "gcz",
-    "u": "https://www.google.cz/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.cz/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -34277,7 +34277,7 @@
     "s": "Google DE",
     "d": "www.google.de",
     "t": "gde",
-    "u": "https://www.google.de/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.de/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -34341,7 +34341,7 @@
     "s": "Google DK",
     "d": "www.google.dk",
     "t": "gdk",
-    "u": "https://www.google.dk/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.dk/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -34493,7 +34493,7 @@
     "s": "Google EE",
     "d": "www.google.ee",
     "t": "gee",
-    "u": "https://www.google.ee/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.ee/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -35174,7 +35174,7 @@
     "s": "Google FR",
     "d": "www.google.fr",
     "t": "gfr",
-    "u": "https://www.google.fr/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.fr/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -35276,7 +35276,7 @@
     "s": "Google GR",
     "d": "www.google.gr",
     "t": "ggr",
-    "u": "https://www.google.gr/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.gr/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -35373,7 +35373,7 @@
     "s": "Google HK",
     "d": "www.google.com.hk",
     "t": "ghk",
-    "u": "https://www.google.com.hk/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.com.hk/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -35448,7 +35448,7 @@
     "s": "Google HU",
     "d": "www.google.hu",
     "t": "ghu",
-    "u": "https://www.google.hu/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.hu/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -35552,7 +35552,7 @@
     "s": "Google ID",
     "d": "www.google.co.id",
     "t": "gid",
-    "u": "https://www.google.co.id/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.co.id/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -35560,7 +35560,7 @@
     "s": "Google IE",
     "d": "www.google.ie",
     "t": "gie",
-    "u": "https://www.google.ie/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.ie/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -35696,7 +35696,7 @@
     "s": "Google IL",
     "d": "www.google.co.il",
     "t": "gik",
-    "u": "https://www.google.co.il/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.co.il/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -35896,7 +35896,7 @@
     "s": "Google IT",
     "d": "www.google.it",
     "t": "gitl",
-    "u": "https://www.google.it/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.it/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -35976,7 +35976,7 @@
     "s": "Google JP",
     "d": "www.google.co.jp",
     "t": "gjp",
-    "u": "https://www.google.co.jp/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.co.jp/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -35992,7 +35992,7 @@
     "s": "Google KR",
     "d": "www.google.co.kr",
     "t": "gkr",
-    "u": "https://www.google.co.kr/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.co.kr/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -36193,7 +36193,7 @@
     "s": "Google LT",
     "d": "www.google.lt",
     "t": "glt",
-    "u": "https://www.google.lt/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.lt/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -36225,7 +36225,7 @@
     "s": "Google LV",
     "d": "www.google.lv",
     "t": "glv",
-    "u": "https://www.google.lv/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.lv/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -36529,7 +36529,7 @@
     "s": "Google MY",
     "d": "www.google.com.my",
     "t": "gmy",
-    "u": "https://www.google.com.my/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.com.my/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -36609,7 +36609,7 @@
     "s": "Google News Spain",
     "d": "www.google.es",
     "t": "gnes",
-    "u": "https://www.google.es/search?q={{{s}}}&prmd=nvi&source=lnms&tbm=nws&sa=X&ved=0ahUKEwiTxIfujK3XAhXItRoKHTQfDLYQ_AUIEigB&biw=375&bih=553",
+    "u": "https://www.google.es/search?q={{{s}}}&prmd=nvi&tbm=nws",
     "c": "News",
     "sc": "Aggregators"
   },
@@ -36641,7 +36641,7 @@
     "s": "Google News Italian",
     "d": "www.google.it",
     "t": "gnit",
-    "u": "https://www.google.it/search?q={{{s}}}&hl=it&source=lnms&tbm=nws",
+    "u": "https://www.google.it/search?q={{{s}}}&hl=it&tbm=nws",
     "c": "News",
     "sc": "Aggregators"
   },
@@ -36649,7 +36649,7 @@
     "s": "Google NL",
     "d": "www.google.nl",
     "t": "gnl",
-    "u": "https://www.google.nl/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.nl/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -36681,7 +36681,7 @@
     "s": "Google NO",
     "d": "www.google.no",
     "t": "gno",
-    "u": "https://www.google.no/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.no/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -36777,7 +36777,7 @@
     "s": "Google New Zealand",
     "d": "www.google.co.nz",
     "t": "gnz",
-    "u": "https://www.google.co.nz/search?&source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.co.nz/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -37209,7 +37209,7 @@
     "s": "Google Korea",
     "d": "www.google.co.kr",
     "t": "google.kr",
-    "u": "https://www.google.co.kr/?gws_rd=cr&ei=GEnlVfT8BMOJuQT8tLPYDg={{{s}}}",
+    "u": "https://www.google.co.kr/?gws_rd=cr",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -37297,7 +37297,7 @@
     "s": "Google UK",
     "d": "www.google.co.uk",
     "t": "googleuk",
-    "u": "https://www.google.co.uk/search?&source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.co.uk/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -37641,7 +37641,7 @@
     "s": "Google PE",
     "d": "www.google.com.pe",
     "t": "gpe",
-    "u": "https://www.google.com.pe/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.com.pe/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -37753,7 +37753,7 @@
     "s": "Google PL",
     "d": "www.google.pl",
     "t": "gpl",
-    "u": "https://www.google.pl/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.pl/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -38179,7 +38179,7 @@
     "s": "Google RO",
     "d": "www.google.ro",
     "t": "gro",
-    "u": "https://www.google.ro/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.ro/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -38324,7 +38324,7 @@
     "s": "Google Shopping Australia",
     "d": "www.google.com.au",
     "t": "gsau",
-    "u": "https://www.google.com.au/search?biw=1920&bih=947&tbm=shop&q={{{s}}}",
+    "u": "https://www.google.com.au/search?tbm=shop&q={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
@@ -38332,7 +38332,7 @@
     "s": "Google Shopping (BR)",
     "d": "www.google.com.br",
     "t": "gsbr",
-    "u": "https://www.google.com.br/search?q={{{s}}}&hl=pt-BR&safe=off&biw=1108&bih=651&prmd=imvns&source=univ&tbm=shop&tbo=u&sa=X&ei=ZculTqjGLcvAgQf5n_CxBQ&ved=0CJkBEK0E",
+    "u": "https://www.google.com.br/search?q={{{s}}}&hl=pt-BR&safe=off&prmd=imvns&tbm=shop&tbo=u",
     "c": "Shopping",
     "sc": "Services"
   },
@@ -38372,7 +38372,7 @@
     "s": "Google SE",
     "d": "www.google.se",
     "t": "gse",
-    "u": "https://www.google.se/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.se/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -38388,7 +38388,7 @@
     "s": "Google SG",
     "d": "www.google.com.sg",
     "t": "gsg",
-    "u": "https://www.google.com.sg/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.com.sg/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -38396,7 +38396,7 @@
     "s": "Google Shopping",
     "d": "www.google.com",
     "t": "gs",
-    "u": "https://www.google.com/products?q={{{s}}}&sa=N&tab=pf",
+    "u": "https://www.google.com/products?q={{{s}}}&tab=pf",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -38428,7 +38428,7 @@
     "s": "Google Shopping",
     "d": "www.google.com",
     "t": "gshopping",
-    "u": "https://www.google.com/products?q={{{s}}}&sa=N&tab=pf",
+    "u": "https://www.google.com/products?q={{{s}}}&tab=pf",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -38452,7 +38452,7 @@
     "s": "Google SK",
     "d": "www.google.sk",
     "t": "gsk",
-    "u": "https://www.google.sk/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.sk/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -38460,7 +38460,7 @@
     "s": "Google SL",
     "d": "www.google.com.sl",
     "t": "gsl",
-    "u": "https://www.google.com.sl/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.com.sl/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -39412,7 +39412,7 @@
     "s": "Google TH",
     "d": "www.google.co.th",
     "t": "gth",
-    "u": "https://www.google.co.th/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.co.th/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -40348,7 +40348,7 @@
     "s": "Google TR",
     "d": "www.google.com.tr",
     "t": "gtr",
-    "u": "https://www.google.com.tr/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.com.tr/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -40908,7 +40908,7 @@
     "s": "Google TW",
     "d": "www.google.com.tw",
     "t": "gtw",
-    "u": "https://www.google.com.tw/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.com.tw/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -41012,7 +41012,7 @@
     "s": "Google UA",
     "d": "www.google.com.ua",
     "t": "gua",
-    "u": "https://www.google.com.ua/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.com.ua/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -41260,7 +41260,7 @@
     "s": "Google US",
     "d": "www.google.com",
     "t": "gus",
-    "u": "https://www.google.com/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.com/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -41341,7 +41341,7 @@
     "s": "Google VE",
     "d": "www.google.co.ve",
     "t": "gve",
-    "u": "https://www.google.co.ve/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.co.ve/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -41381,7 +41381,7 @@
     "s": "Google VN",
     "d": "www.google.com.vn",
     "t": "gvn",
-    "u": "https://www.google.com.vn/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.com.vn/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -41637,7 +41637,7 @@
     "s": "Google ZA",
     "d": "www.google.co.za",
     "t": "gza",
-    "u": "https://www.google.co.za/search?source=hp&q={{{s}}}&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+    "u": "https://www.google.co.za/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -45725,7 +45725,7 @@
     "s": "IMDb (Internet Movie Database)",
     "d": "www.imdb.com",
     "t": "imdba",
-    "u": "https://www.imdb.com/find?ref_=nv_sr_fn&q={{{s}}}&s=nm",
+    "u": "https://www.imdb.com/find?q={{{s}}}&s=nm",
     "c": "Entertainment",
     "sc": "Movies"
   },
@@ -53023,7 +53023,7 @@
     "s": "Lifeprint",
     "d": "www.google.com",
     "t": "lifeprint",
-    "u": "https://www.google.com/cse?cx=partner-pub-2513564923850231:nzof3qz9abm&ie=ISO-8859-1&q=time&sa=Search#gsc.tab=0&gsc.q={{{s}}}&gsc.page=1",
+    "u": "https://www.google.com/cse?cx=partner-pub-2513564923850231:nzof3qz9abm&ie=ISO-8859-1&q=time#gsc.tab=0&gsc.q={{{s}}}&gsc.page=1",
     "c": "Research",
     "sc": "Learning (intl)"
   },
@@ -61156,7 +61156,7 @@
     "s": "Musiker Board",
     "d": "www.google.de",
     "t": "musiker-board",
-    "u": "https://www.google.de/search?q={{{s}}}+site:www.musiker-board.de&oq=Schaffer+site:www.musiker-board.de",
+    "u": "https://www.google.de/search?q={{{s}}}+site:www.musiker-board.de",
     "c": "Multimedia",
     "sc": "Music"
   },
@@ -62740,7 +62740,7 @@
     "s": "The NetBSD Project",
     "d": "www.google.com",
     "t": "netbsd",
-    "u": "https://www.google.com/cse?cx=006277936787196004968:mbdhrauy1wm&q=guide&oq=guide&gs_l=partner.12...0.0.1.52071.0.0.0.0.0.0.0.0..0.0.gsnos,n=13..0.0.0jj1..1ac.#gsc.tab=0&gsc.q={{{s}}}&gsc.page=1",
+    "u": "https://www.google.com/cse?cx=006277936787196004968:mbdhrauy1wm&q=guide#gsc.tab=0&gsc.q={{{s}}}&gsc.page=1",
     "c": "Tech",
     "sc": "Sysadmin"
   },
@@ -72574,7 +72574,7 @@
     "s": "Amazon Prime Video",
     "d": "www.amazon.com",
     "t": "primevideo",
-    "u": "https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias=prime-instant-video&field-keywords={{{s}}}",
+    "u": "https://www.amazon.com/s?url=search-alias=prime-instant-video&field-keywords={{{s}}}",
     "c": "Entertainment",
     "sc": "Movies"
   },
@@ -73616,7 +73616,7 @@
     "s": "Prime Video",
     "d": "www.primevideo.com",
     "t": "pv",
-    "u": "https://www.primevideo.com/region/eu/search/ref=dv_web_nav_search?phrase={{{s}}}&ie=UTF8",
+    "u": "https://www.primevideo.com/region/eu/search?phrase={{{s}}}&ie=UTF8",
     "c": "Multimedia",
     "sc": "Video"
   },
@@ -78344,7 +78344,7 @@
     "s": "Ruby-lang.org",
     "d": "www.google.com",
     "t": "ruby",
-    "u": "https://www.google.com/cse?q={{{s}}}&cx=013598269713424429640:g5orptiw95w&ie=UTF-8&sa=Search",
+    "u": "https://www.google.com/cse?q={{{s}}}&cx=013598269713424429640:g5orptiw95w&ie=UTF-8",
     "c": "Tech",
     "sc": "Languages (ruby)"
   },
@@ -81594,7 +81594,7 @@
     "s": "Google Shopping",
     "d": "www.google.com",
     "t": "shopping",
-    "u": "https://www.google.com/products?q={{{s}}}&sa=N&tab=pf",
+    "u": "https://www.google.com/products?q={{{s}}}&tab=pf",
     "c": "Shopping",
     "sc": "Online"
   },
@@ -103007,7 +103007,7 @@
     "s": "Yandex",
     "d": "yandex.com",
     "t": "yaen",
-    "u": "https://yandex.com/yandsearch?text={{{s}}}&lr=103421",
+    "u": "https://yandex.com/yandsearch?text={{{s}}}",
     "c": "Online Services",
     "sc": "Search (non-US)"
   },
@@ -105124,7 +105124,7 @@
     "s": "Google BG",
     "d": "www.google.bg",
     "t": "гбг",
-    "u": "https://www.google.bg/search?source=hp&q={{{s}}}",
+    "u": "https://www.google.bg/search?q={{{s}}}",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -108785,7 +108785,7 @@
     "d": "www.google.de",
     "ad": "de.wikipedia.org",
     "t": "gwpde",
-    "u": "https://www.google.de/search?ie=UTF-8&sourceid=navclient&gfns=1&q=site:de.wikipedia.org+{{{s}}}",
+    "u": "https://www.google.de/search?ie=UTF-8&gfns=1&q=site:de.wikipedia.org+{{{s}}}",
     "c": "Online Services",
     "sc": "Google"
   },
