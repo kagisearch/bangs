@@ -41950,7 +41950,7 @@
     "s": "Twitter Hashtags",
     "d": "twitter.com",
     "t": "hashtag",
-    "u": "https://twitter.com/search?q=#{{{s}}}",
+    "u": "https://twitter.com/search?q=%23{{{s}}}",
     "c": "Online Services",
     "sc": "Social"
   },
@@ -48160,7 +48160,7 @@
     "s": "Jisho (kanji search)",
     "d": "jisho.org",
     "t": "jik",
-    "u": "https://jisho.org/search/#kanji {{{s}}}",
+    "u": "https://jisho.org/search/%23kanji {{{s}}}",
     "c": "Research",
     "sc": "Learning (intl)",
     "fmt": ["open_base_path", "url_encode_placeholder"]
