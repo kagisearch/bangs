@@ -4934,7 +4934,7 @@
     "s": "Amazon Prime Instant Video",
     "d": "www.amazon.com",
     "t": "apiv",
-    "u": "https://www.amazon.com/s?url=search-alias=prime-instant-video&field-keywords={{{s}}}",
+    "u": "https://www.amazon.com/s?k={{{s}}}&i=prime-instant-video",
     "c": "Multimedia",
     "sc": "Video"
   },
