@@ -4646,7 +4646,7 @@
     "s": "Antonimos",
     "d": "www.antonimos.net",
     "t": "antonimo",
-    "u": "https://www.antonimos.net/?termino={{{s}}}&btnG=Ant�nimos",
+    "u": "https://www.antonimos.net/?termino={{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
   },
