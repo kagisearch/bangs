@@ -34118,7 +34118,7 @@
     "s": "gCubed",
     "d": "cse.google.com",
     "t": "gcubed",
-    "u": "https://cse.google.com/cse/publicurl?q={{{s}}}",
+    "u": "https://cse.google.com/cse/publicurl?cx=007995818864770319293:3weihy1amkc&q={{{s}}}",
     "c": "Tech",
     "sc": "Companies"
   },
@@ -59980,7 +59980,7 @@
     "s": "Mozilla",
     "d": "www.google.com",
     "t": "moz",
-    "u": "https://www.google.com/cse?q={{{s}}}",
+    "u": "https://www.google.com/cse?cx=002443141534113389537:ysdmevkkknw&q={{{s}}}",
     "c": "Tech",
     "sc": "Companies"
   },
