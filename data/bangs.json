@@ -2309,10 +2309,10 @@
     "s": "Kagi Search",
     "d": "kagi.com",
     "t": "agdl",
-    "u": "/search?q={{{s}}}+site:artsites.ucsc.edu/GDead/agdl/ !",
+    "u": "/search?q={{{s}}}+site:artsites.ucsc.edu/GDead/agdl/",
     "c": "Multimedia",
     "sc": "Music (Lyrics)",
-    "ad": "artsites.ucsc.edu/GDead/agdl/%20%21"
+    "ad": "artsites.ucsc.edu/GDead/agdl/"
   },
   {
     "s": "Amazon Germany",
@@ -4070,7 +4070,7 @@
     "s": "Amazon.de Instant Video",
     "d": "www.amazon.de",
     "t": "amvidde",
-    "u": "https://www.amazon.de/s/url=search-alias=instant-video&field-keywords={{{s}}}",
+    "u": "https://www.amazon.de/s?k={{{s}}}&i=instant-video",
     "c": "Multimedia",
     "sc": "Video"
   },
@@ -4158,7 +4158,7 @@
     "s": "Kagi Search",
     "d": "kagi.com",
     "t": "analyser",
-    "u": "/search?q={{{s}}}+site:http://larmarange.github.io/analyse-R",
+    "u": "/search?q={{{s}}}+site:https://larmarange.github.io/analyse-R",
     "c": "Research",
     "sc": "Academic",
     "ad": "http%3A//larmarange.github.io/analyse-R"
