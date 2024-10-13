@@ -5644,9 +5644,7 @@
     "u": "https://web.archive.org/web/*/{{{s}}}",
     "c": "Online Services",
     "sc": "Tools (URLs)",
-    "fmt": [
-      "open_base_path"
-    ]
+    "fmt": ["open_base_path"]
   },
   {
     "s": "Internet",
@@ -5687,9 +5685,7 @@
     "u": "https://web.archive.org/web/*/{{{s}}}",
     "c": "Online Services",
     "sc": "Tools",
-    "fmt": [
-      "open_base_path"
-    ]
+    "fmt": ["open_base_path"]
   },
   {
     "s": "ArchWikiJP",
@@ -8367,10 +8363,7 @@
     "u": "https://www.bcbsla.com/searchresults?q={{{s}}}",
     "c": "Shopping",
     "sc": "Services",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
+    "fmt": ["open_base_path", "url_encode_placeholder"]
   },
   {
     "s": "BCC",
@@ -11755,10 +11748,7 @@
     "u": "https://bruknow.library.brown.edu/discovery/search?query=any,contains,{{{s}}}&tab=Everything&search_scope=MyInst_and_CI&vid=01BU_INST:BROWN&offset=0",
     "c": "Research",
     "sc": "Academic",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
+    "fmt": ["open_base_path", "url_encode_placeholder"]
   },
   {
     "s": "Brownells",
@@ -11775,10 +11765,7 @@
     "u": "https://bruknow.library.brown.edu/discovery/search?query=any,contains,{{{s}}}&tab=Everything&search_scope=MyInst_and_CI&vid=01BU_INST:BROWN&offset=0",
     "c": "Research",
     "sc": "Academic",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
+    "fmt": ["open_base_path", "url_encode_placeholder"]
   },
   {
     "s": "Brønnøysundregistrene",
@@ -13091,10 +13078,7 @@
     "u": "https://caniuse.com/?search={{{s}}}",
     "c": "Tech",
     "sc": "Languages (html)",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
+    "fmt": ["open_base_path", "url_encode_placeholder"]
   },
   {
     "s": "CanLII",
@@ -17806,10 +17790,7 @@
     "u": "https://crontab.guru/#{{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
+    "fmt": ["open_base_path", "url_encode_placeholder"]
   },
   {
     "s": "El Cronista Comercial",
@@ -20456,10 +20437,7 @@
     "u": "https://www.deepl.com/translator#xx/en/{{{s}}}",
     "c": "Translation",
     "sc": "General",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
+    "fmt": ["open_base_path", "url_encode_placeholder"]
   },
   {
     "s": "DeepL ES-EN",
@@ -20468,10 +20446,7 @@
     "u": "https://www.deepl.com/translator#es/en/{{{s}}}",
     "c": "Translation",
     "sc": "General",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
+    "fmt": ["open_base_path", "url_encode_placeholder"]
   },
   {
     "s": "DeepL",
@@ -20480,10 +20455,7 @@
     "u": "https://www.deepl.com/translator#en/fr/{{{s}}}",
     "c": "Translation",
     "sc": "General",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
+    "fmt": ["open_base_path", "url_encode_placeholder"]
   },
   {
     "s": "DeepL",
@@ -20492,10 +20464,7 @@
     "u": "https://www.deepl.com/translator#en/de/{{{s}}}",
     "c": "Translation",
     "sc": "General",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
+    "fmt": ["open_base_path", "url_encode_placeholder"]
   },
   {
     "s": "Deepl",
@@ -20504,10 +20473,7 @@
     "u": "https://www.deepl.com/translator#es/en/{{{s}}}",
     "c": "Translation",
     "sc": "General",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
+    "fmt": ["open_base_path", "url_encode_placeholder"]
   },
   {
     "s": "Deepl en-es",
@@ -20516,10 +20482,7 @@
     "u": "https://www.deepl.com/translator#en/es/{{{s}}}",
     "c": "Translation",
     "sc": "General",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
+    "fmt": ["open_base_path", "url_encode_placeholder"]
   },
   {
     "s": "DeepL en-pt",
@@ -20528,10 +20491,7 @@
     "u": "https://www.deepl.com/translator#de/pt/{{{s}}}",
     "c": "Translation",
     "sc": "General",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
+    "fmt": ["open_base_path", "url_encode_placeholder"]
   },
   {
     "s": "DeepL Translator",
@@ -20540,10 +20500,7 @@
     "u": "https://www.deepl.com/translator#en/es/{{{s}}}",
     "c": "Online Services",
     "sc": "Tools",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
+    "fmt": ["open_base_path", "url_encode_placeholder"]
   },
   {
     "s": "deepl.com",
@@ -20552,10 +20509,7 @@
     "u": "https://www.deepl.com/translator#fr/en/{{{s}}}",
     "c": "Translation",
     "sc": "General",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
+    "fmt": ["open_base_path", "url_encode_placeholder"]
   },
   {
     "s": "DeepL",
@@ -20564,10 +20518,7 @@
     "u": "https://www.deepl.com/translator#de/en/{{{s}}}",
     "c": "Translation",
     "sc": "General",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
+    "fmt": ["open_base_path", "url_encode_placeholder"]
   },
   {
     "s": "DeepL pt-en",
@@ -20576,10 +20527,7 @@
     "u": "https://www.deepl.com/translator#pt/en/{{{s}}}",
     "c": "Translation",
     "sc": "General",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
+    "fmt": ["open_base_path", "url_encode_placeholder"]
   },
   {
     "s": "DeepL Translator (RU)",
@@ -20588,10 +20536,7 @@
     "u": "https://www.deepl.com/ru/translator#en/ru/{{{s}}}",
     "c": "Translation",
     "sc": "Google",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
+    "fmt": ["open_base_path", "url_encode_placeholder"]
   },
   {
     "s": "Deepthi Devaki Akkoorath",
@@ -20910,10 +20855,7 @@
     "u": "https://www.deepl.com/translator#en/ru/{{{s}}}",
     "c": "Online Services",
     "sc": "Tools",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
+    "fmt": ["open_base_path", "url_encode_placeholder"]
   },
   {
     "s": "Dragen en Voeden Forum",
@@ -22463,10 +22405,7 @@
     "u": "https://www.deepl.com/translator#en/es/{{{s}}}",
     "c": "Translation",
     "sc": "General",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
+    "fmt": ["open_base_path", "url_encode_placeholder"]
   },
   {
     "s": "DeepL",
@@ -22475,10 +22414,7 @@
     "u": "https://www.deepl.com/translator#au/es/{{{s}}}",
     "c": "Translation",
     "sc": "General",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
+    "fmt": ["open_base_path", "url_encode_placeholder"]
   },
   {
     "s": "dlf",
@@ -23467,10 +23403,7 @@
     "u": "https://www.deepl.com/translator#xx/en/{{{s}}}",
     "c": "Translation",
     "sc": "General",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
+    "fmt": ["open_base_path", "url_encode_placeholder"]
   },
   {
     "s": "The D Programming Language's Unofficial Docs",
@@ -32635,10 +32568,7 @@
     "u": "https://fr.wiktionary.org/wiki/{{{s}}}",
     "c": "Online Services",
     "sc": "Tools",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
+    "fmt": ["open_base_path", "url_encode_placeholder"]
   },
   {
     "s": "Food Standards Agency - Food Hygiene Ratings",
@@ -35408,9 +35338,7 @@
     "u": "https://github.com/{{{s}}}",
     "c": "Tech",
     "sc": "Programming",
-    "fmt": [
-      "open_base_path"
-    ]
+    "fmt": ["open_base_path"]
   },
   {
     "s": "Github",
@@ -44478,9 +44406,7 @@
     "u": "https://web.archive.org/web/*/{{{s}}}",
     "c": "Multimedia",
     "sc": "General",
-    "fmt": [
-      "open_base_path"
-    ]
+    "fmt": ["open_base_path"]
   },
   {
     "s": "ialoc bucuresti",
@@ -48228,10 +48154,7 @@
     "u": "https://jisho.org/search/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words intl)",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
+    "fmt": ["open_base_path", "url_encode_placeholder"]
   },
   {
     "s": "Jisho (kanji search)",
@@ -48240,10 +48163,7 @@
     "u": "https://jisho.org/search/#kanji {{{s}}}",
     "c": "Research",
     "sc": "Learning (intl)",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
+    "fmt": ["open_base_path", "url_encode_placeholder"]
   },
   {
     "s": "Jimm's",
@@ -48268,10 +48188,7 @@
     "u": "https://jisho.org/search/{{{s}}}",
     "c": "Online Services",
     "sc": "Tools",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
+    "fmt": ["open_base_path", "url_encode_placeholder"]
   },
   {
     "s": "Jobintree",
@@ -56944,10 +56861,7 @@
     "u": "https://www.metacritic.com/search/{{{s}}}/",
     "c": "Online Services",
     "sc": "Search",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
+    "fmt": ["open_base_path", "url_encode_placeholder"]
   },
   {
     "s": "Magic Card Market",
@@ -56980,10 +56894,7 @@
     "u": "https://modrinth.com/mods?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (Minecraft)",
-    "fmt": [
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "fmt": ["url_encode_placeholder", "url_encode_space_to_plus"]
   },
   {
     "s": "Modrinth (Modpacks)",
@@ -56992,10 +56903,7 @@
     "u": "https://modrinth.com/modpacks?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (Minecraft)",
-    "fmt": [
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "fmt": ["url_encode_placeholder", "url_encode_space_to_plus"]
   },
   {
     "s": "Modrinth (Plugins)",
@@ -57004,10 +56912,7 @@
     "u": "https://modrinth.com/plugins?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (Minecraft)",
-    "fmt": [
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "fmt": ["url_encode_placeholder", "url_encode_space_to_plus"]
   },
   {
     "s": "Minecraft Name History",
@@ -69753,9 +69658,7 @@
     "u": "http://www.pexels.com/search/{{{s}}}/",
     "c": "Multimedia",
     "sc": "Images",
-    "fmt": [
-      "url_encode_placeholder"
-    ]
+    "fmt": ["url_encode_placeholder"]
   },
   {
     "s": "Poinformowani",
@@ -79402,9 +79305,7 @@
     "u": "https://web.archive.org/save/{{{s}}}",
     "c": "Online Services",
     "sc": "Tools (URLs)",
-    "fmt": [
-      "open_base_path"
-    ]
+    "fmt": ["open_base_path"]
   },
   {
     "s": "Internet Archive: Wayback Machine (save)",
@@ -79413,9 +79314,7 @@
     "u": "https://web.archive.org/save/{{{s}}}",
     "c": "Online Services",
     "sc": "Tools (URLs)",
-    "fmt": [
-      "open_base_path"
-    ]
+    "fmt": ["open_base_path"]
   },
   {
     "s": "Savido",
@@ -88761,10 +88660,7 @@
     "u": "https://tenor.com/search/{{{s}}}",
     "c": "Multimedia",
     "sc": "Images",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
+    "fmt": ["open_base_path", "url_encode_placeholder"]
   },
   {
     "s": "TensorFlow",
@@ -97761,9 +97657,7 @@
     "u": "https://web.archive.org/web/*/{{{s}}}",
     "c": "Tech",
     "sc": "Domains",
-    "fmt": [
-      "open_base_path"
-    ]
+    "fmt": ["open_base_path"]
   },
   {
     "s": "Internet Wayback Machine",
@@ -97772,9 +97666,7 @@
     "u": "https://web.archive.org/web/*/{{{s}}}",
     "c": "Online Services",
     "sc": "Tools",
-    "fmt": [
-      "open_base_path"
-    ]
+    "fmt": ["open_base_path"]
   },
   {
     "s": "Wayfair.ca",
@@ -97879,9 +97771,7 @@
     "u": "https://web.archive.org/web/*/{{{s}}}",
     "c": "Multimedia",
     "sc": "General",
-    "fmt": [
-      "open_base_path"
-    ]
+    "fmt": ["open_base_path"]
   },
   {
     "s": "Wayback Maschine",
@@ -97890,9 +97780,7 @@
     "u": "https://web.archive.org/save/*/{{{s}}}",
     "c": "Online Services",
     "sc": "Tools (URLs)",
-    "fmt": [
-      "open_base_path"
-    ]
+    "fmt": ["open_base_path"]
   },
   {
     "s": "WBUR",
@@ -98117,9 +98005,7 @@
     "u": "https://web.archive.org/web/*/{{{s}}}",
     "c": "Online Services",
     "sc": "Tools (URLs)",
-    "fmt": [
-      "open_base_path"
-    ]
+    "fmt": ["open_base_path"]
   },
   {
     "s": "Webb Companies USA",
@@ -99146,10 +99032,7 @@
     "u": "https://fr.wiktionary.org/wiki/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words)",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
+    "fmt": ["open_base_path", "url_encode_placeholder"]
   },
   {
     "s": "wiggle",
@@ -99710,10 +99593,7 @@
     "u": "https://fr.wiktionary.org/wiki/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words intl)",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
+    "fmt": ["open_base_path", "url_encode_placeholder"]
   },
   {
     "s": "Wikrionary(GR)",
@@ -101964,10 +101844,7 @@
     "u": "https://fr.wiktionary.org/wiki/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words)",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
+    "fmt": ["open_base_path", "url_encode_placeholder"]
   },
   {
     "s": "World Textile Group",
@@ -105295,10 +105172,7 @@
     "u": "https://www.steamgriddb.com/search/grids?term={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (general)",
-    "fmt": [
-      "open_base_path",
-      "url_encode_space_to_plus"
-    ]
+    "fmt": ["open_base_path", "url_encode_space_to_plus"]
   },
   {
     "s": "English Wikipedia",
@@ -109371,9 +109245,6 @@
     "c": "Tech",
     "sc": "Languages (java)",
     "ad": "docs.oracle.com/en/java/javase/23/docs/api/",
-    "fmt": [
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
+    "fmt": ["url_encode_placeholder", "url_encode_space_to_plus"]
   }
 ]
