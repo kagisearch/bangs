@@ -18517,6 +18517,15 @@
     "sc": "Libraries/Frameworks"
   },
   {
+    "s": "ATT&CK",
+    "d": "kagi.com",
+    "t": "attack",
+    "u": "/search?q={{{s}}}+site%3Aattack.mitre.org",
+    "c": "Tech",
+    "sc": "Libraries/Frameworks",
+    "ad": "attack.mitre.org"
+  },
+  {
     "s": "CVE Details",
     "d": "cvedetails.com",
     "t": "cved",
