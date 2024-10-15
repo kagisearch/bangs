@@ -51036,14 +51036,6 @@
     "sc": "Maps"
   },
   {
-    "s": "Kicktraq",
-    "d": "www.kicktraq.com",
-    "t": "kt",
-    "u": "https://www.kicktraq.com/search/?find={{{s}}}",
-    "c": "News",
-    "sc": "Specialty"
-  },
-  {
     "s": "Kotaku",
     "d": "kotaku.com",
     "t": "ktk",
