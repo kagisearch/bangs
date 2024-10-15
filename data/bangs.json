@@ -4574,7 +4574,7 @@
     "s": "Ansa",
     "d": "www.ansa.it",
     "t": "ansa",
-    "u": "https://www.ansa.it/ricerca/index.jsp?si=1&ns=10&sb=date&lang=it&home=%2Fweb&search=1&c=webarchive&qt={{{s}}}&radio-search=ansa&forid=1&ie=ISO-8859-1&oe=ISO-8859-1&cof=GALT%3A%23008000%3BGL%3A1%3BDIV%3A%23009C41%3BVLC%3A663399%3BAH%3Acenter%3BBGC%3AFFFFFF%3BLBGC%3A336699%3BALC%3A10578b%3BLC%3A10578b%3BT%3A000000%3BGFNT%3A10578b%3BGIMP%3A10578b%3BFORID%3A11&hl=it&client=pub-2538762546398839",
+    "u": "https://www.ansa.it/ricerca/ansait/search.shtml?any={{{s}}}",
     "c": "News",
     "sc": "Newspaper"
   },
@@ -6350,10 +6350,10 @@
     "sc": "Social"
   },
   {
-    "s": "AskF5 (support.f5.com)",
-    "d": "support.f5.com",
+    "s": "AskF5 (my.f5.com)",
+    "d": "my.f5.com",
     "t": "askf5",
-    "u": "https://support.f5.com/kb/en-us/search.res.html?productList=big-ip%2Cbc%2Cfp%2C3-dns%2Clc%2Cts%2Cwj%2Cwa_5_x%2Csam%2Clinerate-eol&versionList=all%2C&searchType=basic&isFromGSASearch=false&query={{{s}}}&site=support_external&client=support-f5-com&q={{{s}}}&prodName=ALL&prodVersText=&docTypeName=ALL&includeArchived=false&submit_form=&product=all&eolProducts=all&documentType=all",
+    "u": "https://my.f5.com/manage/s/global-search/%40uri#q=%7B%7B%7Bs%7D%7D%7D&aq=%40f5_archived",
     "c": "Tech",
     "sc": "Sysadmin (network)"
   },
@@ -6762,7 +6762,7 @@
     "s": "Aalborg Universitetsbibliotek",
     "d": "primo.aub.aau.dk",
     "t": "aub",
-    "u": "http://primo.aub.aau.dk/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=desktop&frbg=&vl%28freeText0%29={{{s}}}&scp.scps=scope%3A%28AUB_PROJEKT_DC%29%2Cscope%3A%28AUB_SFX%29%2Cscope%3A%28AUB_AAL%29%2Cscope%3A%28AUB_ESB%29%2Cscope%3A%28AUB_KBH%29%2Cscope%3A%28AUB_VBN%29%2Cprimo_central_multiple_fe&vl%2857399062UI1%29=all_items&vl%281UIStartWith0%29=contains&vl%2857399064UI0%29=any&vl%2857399064UI0%29=title&vl%2857399064UI0%29=any",
+    "u": "https://kbdk-aub.primo.exlibrisgroup.com/discovery/search?query=any,contains,{{{s}}}&tab=Everything&search_scope=MyInst_and_CI&vid=45KBDK_AUB:AUB&lang=daprimo_library~2Flibweb~2Faction~2Fsearch.do&offset=0",
     "c": "Research",
     "sc": "Academic"
   },
@@ -7346,7 +7346,7 @@
     "s": "androidxref",
     "d": "androidxref.com",
     "t": "ax",
-    "u": "http://androidxref.com/5.1.0_r1/search?&project=abi&project=art&project=bionic&project=bootable&project=build&project=cts&project=dalvik&project=developers&project=development&project=device&project=docs&project=external&project=frameworks&project=hardware&project=libcore&project=libnativehelper&project=ndk&project=packages&project=pdk&project=prebuilts&project=sdk&project=system&project=tools&q={{{s}}}",
+    "u": "http://androidxref.com/5.1.0_r1/search?q={{{s}}}",
     "c": "Tech",
     "sc": "Libraries/Frameworks"
   },
@@ -14556,7 +14556,7 @@
     "s": "CheatCC.com",
     "d": "www.cheatcc.com",
     "t": "cheatcc",
-    "u": "https://www.cheatcc.com/search_results.html?sitesearch=CheatCC.com&domains=CheatCC.com&q={{{s}}}&sa=Google+Search&client=pub-7081624040320322&forid=1&ie=UTF8&oe=UTF8&cof=GALT%3A%23008000%3BGL%3A1%3BDIV%3A%230000FF%3BVLC%3A663399%3BAH%3Acenter%3BBGC%3AFFFFFF%3BLBGC%3AFFFFFF%3BALC%3A0000FF%3BLC%3A0000FF%3BT%3A000000%3BGFNT%3A0000FF%3BGIMP%3A0000FF%3BLH%3A0%3BLW%3A0%3BL%3Ahttp%3A%2F%2Fwww.cheatcc.com%2Fccclink.gif%3BS%3Ahttp%3A%2F%2Fwww.cheatcc.com%2Findex2.html%3BFORID%3A11",
+    "u": "https://www.cheatcc.com/search/{{{s}}}/",
     "c": "Entertainment",
     "sc": "Games (general)"
   },
@@ -14564,7 +14564,7 @@
     "s": "CheatCC",
     "d": "www.cheatcc.com",
     "t": "cheatcodes",
-    "u": "https://www.cheatcc.com/search_results.html?sitesearch=CheatCC.com&domains=CheatCC.com&q={{{s}}}&sa=Google+Search&client=pub-7081624040320322&forid=1&ie=UTF8&oe=UTF8&cof=GALT%3A%23008000%3BGL%3A1%3BDIV%3A%230000FF%3BVLC%3A663399%3BAH%3Acenter%3BBGC%3AFFFFFF%3BLBGC%3AFFFFFF%3BALC%3A0000FF%3BLC%3A0000FF%3BT%3A000000%3BGFNT%3A0000FF%3BGIMP%3A0000FF%3BLH%3A0%3BLW%3A0%3BL%3Ahttp%3A%2F%2Fwww.cheatcc.com%2Fccclink.gif%3BS%3Ahttp%3A%2F%2Fwww.cheatcc.com%2Findex2.html%3BFORID%3A11",
+    "u": "https://www.cheatcc.com/search/{{{s}}}/",
     "c": "Entertainment",
     "sc": "Games (general)"
   },
@@ -14844,7 +14844,7 @@
     "s": "Church History Library",
     "d": "churchhistorycatalog.lds.org",
     "t": "chl",
-    "u": "https://churchhistorycatalog.lds.org/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=chl&indx=1&dum=true&srt=rank&vid=CHL_PUBLIC&frbg=&tb=t&vl%28freeText0%29={{{s}}}&scp.scps=scope%3A%28PEAD%29%2Cscope%3A%28PARCHIVES%29%2Cscope%3A%28PLIBRARY%29%2Cscope%3A%28ALEPH-PCPX%29%2Cscope%3A%28ALEPH-JHX%29%2Cscope%3A%28ALEPH-CAX%29&vl%2830857204UI1%29=all_items&vl%281UIStartWith0%29=contains&vl%2830857210UI0%29=any&vl%2830857210UI0%29=title&vl%2830857210UI0%29=any",
+    "u": "https://catalog.churchofjesuschrist.org/search/_simple/{{{s}}}?lang=eng",
     "c": "Research",
     "sc": "Academic"
   },
@@ -24493,7 +24493,7 @@
     "s": "Dictionnaire visuel",
     "d": "www.ikonet.com",
     "t": "dv",
-    "u": "https://www.ikonet.com/fr/ledictionnairevisuel/static/qc/searchresults?cx=partner-pub-7156007925185226%3Atd1ipa-ejn8&cof=FORID%3A9&ie=UTF-8&q={{{s}}}&siteurl=www.ikonet.com%2Ffr%2Fledictionnairevisuel%2F&ref=www.ikonet.com%2Ffr%2Fledictionnairevisuel%2Fstatic%2Fqc%2Fsearchresults%3Fcx%3Dpartner-pub-7156007925185226%253Atd1ipa-ejn8%26cof%3DFORID%253A9%26ie%3DUTF-8%26q%3Dfraise%26siteurl%3Dwww.ikonet.com%252Ffr%252Fledictionnairevisuel%252Fstatic%252Fqc%252Fvisuel%26ref%3D%26ss%3D607j79921j6&ss=648j91840j6",
+    "u": "https://www.ikonet.com/fr/ledictionnairevisuel/static/qc/searchresults?ie=UTF-8&q={{{s}}}",
     "c": "Research",
     "sc": "Reference (words intl)"
   },
@@ -26130,7 +26130,7 @@
     "s": "Elektronik-Kompendium",
     "d": "www.elektronik-kompendium.de",
     "t": "ek",
-    "u": "https://www.elektronik-kompendium.de/service/suchen/index.htm?domains=www.elektronik-kompendium.de&sitesearch=www.elektronik-kompendium.de&q={{{s}}}&sa=Suchen&client=pub-7453653573550802&forid=1&channel=3122011476&ie=ISO-8859-1&oe=ISO-8859-1&flav=0000&sig=XvZoofyEi29r3eL9&cof=GALT%3A%23008000%3BGL%3A1%3BDIV%3A%23FFFFFF%3BVLC%3A663399%3BAH%3Acenter%3BBGC%3AFFFFFF%3BLBGC%3A336699%3BALC%3A0000FF%3BLC%3A0000FF%3BT%3A000000%3BGFNT%3A0000FF%3BGIMP%3A0000FF%3BFORID%3A11&hl=de",
+    "u": "https://www.elektronik-kompendium.de/service/suchen/suchen.php?q={{{s}}}",
     "c": "Tech",
     "sc": "Blogs"
   },
@@ -28466,7 +28466,7 @@
     "s": "Eurobuch",
     "d": "www.eurobuch.com",
     "t": "eurobuch",
-    "u": "https://www.eurobuch.com/buch/isbn/3838758854.html?author=&coverState=&doAbeDe=1&doAchtungBuecher=1&doAko=1&doAlibris=1&doAmazon=1&doAmazonCa=1&doAmazonCom=1&doAmazonEs=1&doAmazonFr=1&doAmazonIt=1&doAmazonUk=1&doAudibile=1&doAudiobooks=1&doAum=1&doBUCH=1&doBUCHCH=1&doBbBuch=1&doBetterworld=1&doBiblio=1&doBlackwell=1&doBn=1&doBoeken=1&doBolCom=1&doBookdepository=1&doBooklooker=1&doBruna=1&doBuch24=1&doBuchfreund=1&doBuchmarie=1&doBuecherDe=1&doCasaDelLibro=1&doCiando=1&doEBS=1&doEBay=1&doEBooknl=1&doEbooks=1&doEbookscom=1&doEci=1&doElsevier=1&doFnac=1&doFoyles=1&doGoogle=1&doHive=1&doHoepli=1&doIbs=1&doImosver=1&doIndigo=1&doJokers=1&doKobo=1&doLaFeltrinelli=1&doLehmanns=1&doLibri=1&doLibriEB=1&doLibroco=1&doLuisterboeken=1&doMedimops=1&doMondadori=1&doMusicroom=1&doNotenbuch=1&doOnderwijsboek=1&doProlibri=1&doProxis=1&doRegalfrei=1&doRheinberg=1&doScholastic=1&doStudystore=1&doThaliaAt=1&doThaliaCh=1&doThaliaDe=1&doThriftbooks=1&doVoordeelboekenonline=1&doWaterstones=1&doWebster=1&doZVAB=1&fromDateDays=7&isbn=&land=&maxJahr=&maxPrice=&mediatype=0&minJahr=&minPrice=&noBids=0&noReprint=0&pageLen=20&proSearch=&professionalState=&publisher=&search={{{s}}}&search_submit=suchen&sisbn=&title=&updatePresets=1&updateProState=1&usedState=",
+    "u": "https://www.eurobuch.de/buch/isbn/9604672819.html?search={{{s}}}",
     "c": "Shopping",
     "sc": "Online (marketplace)"
   },
@@ -32015,7 +32015,7 @@
     "s": "Fox Racing",
     "d": "www.foxracing.com",
     "t": "foxracing",
-    "u": "https://www.foxracing.com/store/browse?_dyncharset=UTF-8&Dy=1&Nty=1&searchBox=searchBox&siteScope=ok&_D%3AsiteScope=+&autoSuggestEnabled=true&autoSuggestURL=%2Fstore%2Fassembler%3FassemblerContentCollection%3D%2Fcontent%2FShared%2FAuto-Suggest%2520Panels%26format%3Djson%26Dy%3D1%26Ntt%3D&minAutoSuggestInputLength=3&%2Fatg%2Fendeca%2Fassembler%2FSearchFormHandler.search=search&_D%3A%2Fatg%2Fendeca%2Fassembler%2FSearchFormHandler.search=+&Ntt={{{s}}}",
+    "u": "https://www.foxracing.com/search?facade=&q={{{s}}}&lang=en_US",
     "c": "Shopping",
     "sc": "Online"
   },
@@ -33468,7 +33468,7 @@
     "s": "CheatCC",
     "d": "www.cheatcc.com",
     "t": "gamecheats",
-    "u": "https://www.cheatcc.com/search_results.html?sitesearch=CheatCC.com&domains=CheatCC.com&q={{{s}}}&sa=Google+Search&client=pub-7081624040320322&forid=1&ie=UTF8&oe=UTF8&cof=GALT%3A%23008000%3BGL%3A1%3BDIV%3A%230000FF%3BVLC%3A663399%3BAH%3Acenter%3BBGC%3AFFFFFF%3BLBGC%3AFFFFFF%3BALC%3A0000FF%3BLC%3A0000FF%3BT%3A000000%3BGFNT%3A0000FF%3BGIMP%3A0000FF%3BLH%3A0%3BLW%3A0%3BL%3Ahttp%3A%2F%2Fwww.cheatcc.com%2Fccclink.gif%3BS%3Ahttp%3A%2F%2Fwww.cheatcc.com%2Findex2.html%3BFORID%3A11",
+    "u": "https://www.cheatcc.com/search/{{{s}}}/",
     "c": "Entertainment",
     "sc": "Games (general)"
   },
@@ -37954,7 +37954,7 @@
     "s": "Grammis",
     "d": "grammis.ids-mannheim.de",
     "t": "grammis",
-    "u": "https://grammis.ids-mannheim.de/suche?search={{{s}}}&research=&research%5B%5D=sysgrams&research%5B%5D=corpora&research%5B%5D=phonos&research%5B%5D=terms&knowledge=&knowledge%5B%5D=questions&knowledge%5B%5D=programs&knowledge%5B%5D=eurograms&knowledge%5B%5D=orthos&ressources=&ressources%5B%5D=connectors&ressources%5B%5D=affixes&ressources%5B%5D=prepositions&ressources%5B%5D=verbs&scat=DuckDuckGo+Bang",
+    "u": "https://grammis.ids-mannheim.de/suche?search={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -50783,7 +50783,7 @@
     "s": "Kupujemprodajem",
     "d": "www.kupujemprodajem.com",
     "t": "kp",
-    "u": "https://www.kupujemprodajem.com/search.php?action=list&data%5Bad_kind%5D=&data%5Bad_type%5D=&data%5Bfollow%5D=&data%5Bad_kind_type%5D=&data%5Btip_oglasa%5D=&data%5Bcategory_id%5D=&data%5Bgroup_id%5D=&data%5Blocation_id%5D=&data%5Blocation_radius%5D=&data%5Bhas_photo%5D=&data%5Bcondition%5D=&data%5Bperiod%5D=&data%5Border%5D=&data%5Bcar_model%5D=&data%5Bvehicle_power_min%5D=&data%5Bvehicle_power_max%5D=&data%5Bvehicle_cc_min%5D=&data%5Bvehicle_cc_max%5D=&data%5Bvehicle_km_min%5D=&data%5Bvehicle_km_max%5D=&data%5Bvehicle_make_year_min%5D=&data%5Bvehicle_make_year_max%5D=&data%5Bcar_body_type%5D=&data%5Bcar_fuel_type%5D=&data%5Bcar_doors%5D=&data%5Bcar_gearbox%5D=&data%5Bvehicle_aircondition%5D=&data%5Bvehicle_drive%5D=&data%5Bprice_from%5D=&data%5Bprice_to%5D=&dummy=name&data%5Bkeywords%5D={{{s}}}&=&=&=&=&=&=&return_url=aW5kZXgucGhw",
+    "u": "https://www.kupujemprodajem.com/pretraga?keywords={{{s}}}",
     "c": "Shopping",
     "sc": "Online (marketplace)"
   },
@@ -57285,7 +57285,7 @@
     "s": "Madmoizelle",
     "d": "www.madmoizelle.com",
     "t": "mdmz",
-    "u": "https://www.madmoizelle.com/recherche.php?q={{{s}}}&sitesearch=madmoizelle.com&cx=014204933963475694561%3Aq69po45gmum&cof=FORID%3A11&client=pub-9887088429202220&forid=1&ie=ISO-8859-1&oe=ISO-8859-1&cof=GALT%3A%23008000%3BGL%3A1%3BDIV%3A%23336699%3BVLC%3A663399%3BAH%3Acenter%3BBGC%3AFFFFFF%3BLBGC%3A336699%3BALC%3A0000FF%3BLC%3A0000FF%3BT%3A000000%3BGFNT%3A0000FF%3BGIMP%3A0000FF%3BFORID%3A11&hl=fr&sa=Recherche",
+    "u": "https://www.madmoizelle.com/?s={{{s}}}",
     "c": "Entertainment",
     "sc": "Misc"
   },
@@ -63068,7 +63068,7 @@
     "s": "NewsMax.com",
     "d": "www.google.com",
     "t": "newsmax",
-    "u": "https://www.google.com/custom?domains=NewsMax.com&client=pub-2932230807573228&forid=1&ie=UTF8&oe=UTF8&safe=active&cof=GALT%3A%23008000%3BGL%3A1%3BDIV%3A%23336699%3BVLC%3A663399%3BAH%3Acenter%3BBGC%3AFFFFFF%3BLBGC%3A336699%3BALC%3A0000FF%3BLC%3A0000FF%3BT%3A000000%3BGFNT%3A0000FF%3BGIMP%3A0000FF%3BLH%3A70%3BLW%3A297%3BL%3Ahttp%3A%2F%2Fwww.newsmax.com%2Fimages%2Fhome%2Fa-logo.gif%3BS%3Ahttp%3A%2F%2Fwww.newsmax.com%2F%3BLP%3A1%3BFORID%3A1%3B&sitesearch=Newsmax.com&q={{{s}}}",
+    "u": "https://www.google.com/search?domains=NewsMax.com&sitesearch=Newsmax.com&q={{{s}}}",
     "c": "News",
     "sc": "Aggregators"
   },
@@ -66203,7 +66203,7 @@
     "s": "OndaRock",
     "d": "www.ondarock.it",
     "t": "ondarock",
-    "u": "https://www.ondarock.it/websearch.php?domains=www.ondarock.it&q={{{s}}}&sitesearch=www.ondarock.it&client=pub-4895368002735382&forid=1&ie=ISO-8859-1&oe=ISO-8859-1&cof=GALT%3A%23117dd2%3BGL%3A1%3BDIV%3A%23FFFFFF%3BVLC%3A7292ab%3BAH%3Acenter%3BBGC%3AFFFFFF%3BLBGC%3AFFFFFF%3BALC%3A0569b7%3BLC%3A0569b7%3BT%3A191919%3BGFNT%3A73baf2%3BGIMP%3A73baf2%3BFORID%3A11&hl=it",
+    "u": "https://www.ondarock.it/websearch.php?q={{{s}}}",
     "c": "Multimedia",
     "sc": "Music"
   },
@@ -68158,7 +68158,7 @@
     "s": "OZ Stoners",
     "d": "cannabis.community.forums.ozstoners.com",
     "t": "ozstoners",
-    "u": "https://cannabis.community.forums.ozstoners.com/index.php?app=core&module=search&do=search&andor_type=and&sid=58ffdab89aaeb17e49a50f52929f35d6&search_content=both&search_app_filters[ccs][searchInKey]=pages&search_app_filters[ccs][pages][sortKey]=date&search_app_filters[ccs][pages][sortDir]=0&search_app_filters[ccs][database_1][sortKey]=date_added&search_app_filters[ccs][database_1][sortDir]=0&search_term={{{s}}}&search_app=forums",
+    "u": "https://cannabis.community.forums.ozstoners.com/index.php?search_term={{{s}}}&search_app=forums",
     "c": "Online Services",
     "sc": "Social"
   },
@@ -76993,7 +76993,7 @@
     "s": "RIS",
     "d": "www.ris.bka.gv.at",
     "t": "ris",
-    "u": "https://www.ris.bka.gv.at/Ergebnis.wxe?Abfrage=Gesamtabfrage&SearchInAsylGH=False&SearchInAvn=False&SearchInAvsv=False&SearchInBegut=False&SearchInBgblAlt=False&SearchInBgblAuth=False&SearchInBgblPdf=False&SearchInBks=False&SearchInBundesnormen=False&SearchInDok=False&SearchInDsk=False&SearchInErlaesse=False&SearchInGbk=False&SearchInGemeinderecht=False&SearchInJustiz=False&SearchInBvwg=False&SearchInLvwg=False&SearchInLgbl=False&SearchInLgblNO=False&SearchInLgblAuth=False&SearchInLrBgld=False&SearchInLrK=False&SearchInLrNO=False&SearchInLrOO=False&SearchInLrSbg=False&SearchInLrStmk=False&SearchInLrT=False&SearchInLrVbg=False&SearchInLrW=False&SearchInNormenliste=False&SearchInPvak=False&SearchInRegV=False&SearchInUbas=False&SearchInUmse=False&SearchInUvs=False&SearchInVerg=False&SearchInVfgh=False&SearchInVwgh=False&ImRisSeit=Undefined&ResultPageSize=100&Suchworte={{{s}}}&Position=1",
+    "u": "https://www.ris.bka.gv.at/Ergebnis.wxe?Suchworte=%7B%7B%7Bs%7D%7D%7D&x=0&y=0&Abfrage=Gesamtabfrage",
     "c": "Research",
     "sc": "Reference"
   },
@@ -81175,14 +81175,6 @@
     "sc": "Academic"
   },
   {
-    "s": "Salesforce Lightning",
-    "d": "na85.lightning.force.com",
-    "t": "sforcel",
-    "u": "https://na85.lightning.force.com/one/one.app#ey{{{s}}}Jjb21wb25lbnREZWYiOiJmb3JjZVNlYXJjaDpzZWFyY2hQYWdlIiwiYXR0cmlidXRlcyI6eyJ0ZXJtIjoiQ3VydCIsInNjb3BlTWFwIjp7InR5cGUiOiJUT1BfUkVTVUxUUyJ9LCJjb250ZXh0Ijp7ImRpc2FibGVTcGVsbENvcnJlY3Rpb24iOmZhbHNlLCJkaXNhYmxlSW50ZW50UXVlcnkiOmZhbHNlLCJwZXJtc0FuZFByZWZzIjp7IlNlYXJjaFVpLnNlYXJjaFVJUGlsb3RGZWF0dXJlRW5hYmxlZCI6ZmFsc2UsIlNlYXJjaEV4cGVyaWVuY2UuTGVmdE5hdkVuaGFuY2VtZW50RW5hYmxlZCI6dHJ1ZSwiU2VhcmNoLmNyb3NzT2JqZWN0c0F1dG9TdWdnZXN0RW5hYmxlZCI6dHJ1ZSwiU2VhcmNoUmVzdWx0c0xWTS5sdm1FbmFibGVkRm9yU2VhcmNoUmVzdWx0c09uIjp0cnVlLCJNeVNlYXJjaC51c2VyQ2FuSGF2ZU15U2VhcmNoQmVzdFJlc3VsdCI6ZmFsc2UsIlNlYXJjaFJlc3VsdHNMVk0ubHZtRW5hYmxlZEZvclRvcFJlc3VsdHMiOmZhbHNlLCJPcmdQZXJtaXNzaW9ucy5VbmlvbkFwcE5hdlNtYXJ0U2NvcGUiOnRydWUsIlNlYXJjaFVpLmZlZWRiYWNrQ29tcG9uZW50RW5hYmxlZCI6ZmFsc2UsIlNlYXJjaEV4cGVyaWVuY2UuVG9wUmVzdWx0c1NpbmdsZVNPU0xFbmFibGVkIjpmYWxzZSwiT3JnUHJlZmVyZW5jZXMuQ2hhdHRlckVuYWJsZWQiOnRydWUsIlNlYXJjaC5tYXNrU2VhcmNoSW5mb0luTG9ncyI6ZmFsc2UsIlNlYXJjaFVpLm9yZ0hhc0FjY2Vzc1RvU2VhcmNoVGVybUhpc3RvcnkiOmZhbHNlLCJTZWFyY2hVaS5zZWFyY2hVSUludGVyYWN0aW9uTG9nZ2luZ0VuYWJsZWQiOmZhbHNlLCJNeVNlYXJjaC51c2VyQ2FuSGF2ZU15U2VhcmNoIjpmYWxzZX0sInNlYXJjaERpYWxvZ1Nlc3Npb25JZCI6IjM0NmY1YzI1LTIwNGEtYjMyMS1kYzM3LTM3Yzc5ZGQyNjA3ZCIsInNlYXJjaFNvdXJjZSI6IklOUFVUX0RFU0tUT1AifSwiZ3JvdXBJZCI6IkRFRkFVTFQifSwic3RhdGUiOnt9fQ%3D%3D",
-    "c": "Tech",
-    "sc": "Companies"
-  },
-  {
     "s": "Salesforce",
     "d": "login.salesforce.com",
     "t": "sforce",
@@ -81402,7 +81394,7 @@
     "s": "Sherwin-Williams",
     "d": "www.sherwin-williams.com",
     "t": "sherwin",
-    "u": "https://www.sherwin-williams.com/SearchDisplay?categoryId=&storeId=10151&catalogId=11051&langId=-1&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=list&beginIndex=0&searchType=1000&pageSize=6&globalSearch=true&searchTerm={{{s}}}#facet:&productBeginIndex:0&contentBeginIndex:0&orderBy:&orderByContent:&pageView:list&minPrice:&maxPrice:&pageSize:&",
+    "u": "https://www.sherwin-williams.com/SearchDisplay?categoryId=&storeId=10151&catalogId=11051&langId=-1&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=list&beginIndex=0&searchType=1000&pageSize=15&globalSearch=true&searchTerm={{{s}}}",
     "c": "Shopping",
     "sc": "Big box/department"
   },
@@ -97173,7 +97165,7 @@
     "s": "Bibliotheek van de Vrije Univesiteit Brussel",
     "d": "biblio.vub.ac.be",
     "t": "vub",
-    "u": "https://biblio.vub.ac.be/vubissmartweb/List.csp?SearchT1={{{s}}}&Index1=Vuballewoorden&Database=3_UB01&OpacLanguage=dut&NumberToRetrieve=20&SearchMethod=Find_1&SearchTerm1=test&Profile=Default&PreviousList=Start&PageType=Start&EncodedRequest=p*20W*20*0A*20*B5*86*DF*D6*7E*A7*15*FD*0F*5E&WebPageNr=1&WebAction=NewSearch&StartValue=1&RowRepeat=0&MyChannelCount=",
+    "u": "https://biblio.vub.ac.be/iguana/www.main.cls?sUrl=search&t=1729011946717&rtisearch=1&searchProfile=vubsearch#searchTerm={{{s}}}&searchFilter=",
     "c": "Research",
     "sc": "Academic"
   },
