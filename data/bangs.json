@@ -103560,8 +103560,9 @@
   {
     "s": "Yle",
     "d": "haku.yle.fi",
+    "ad": "yle.fi",
     "t": "yle",
-    "u": "https://haku.yle.fi/?language=fi&UILanguage=fi&q={{{s}}}",
+    "u": "https://haku.yle.fi/?query={{{s}}}",
     "c": "News",
     "sc": "Broadcast"
   },
