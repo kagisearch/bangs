@@ -5816,7 +5816,7 @@
     "s": "Yle Areena",
     "d": "areena.yle.fi",
     "t": "areena",
-    "u": "https://areena.yle.fi/haku?q={{{s}}}",
+    "u": "https://areena.yle.fi/hae?q={{{s}}}&service=tv",
     "c": "Multimedia",
     "sc": "Video"
   },
