@@ -5813,10 +5813,10 @@
     "sc": "Reference"
   },
   {
-    "s": "YLE Areena",
-    "d": "haku.yle.fi",
+    "s": "Yle Areena",
+    "d": "areena.yle.fi",
     "t": "areena",
-    "u": "https://haku.yle.fi/?q={{{s}}}&category=Areena",
+    "u": "https://areena.yle.fi/haku?q={{{s}}}",
     "c": "Multimedia",
     "sc": "Video"
   },
