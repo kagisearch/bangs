@@ -52240,7 +52240,7 @@
     "s": "LEGO Ideas",
     "d": "ideas.lego.com",
     "t": "legoideas",
-    "u": "https://ideas.lego.com/discover#search/q:{{{s}}}",
+    "u": "https://ideas.lego.com/search/global_search/ideas?query={{{s}}}",
     "c": "Entertainment",
     "sc": "Misc"
   },
