@@ -35128,7 +35128,11 @@
     "t": "gfl",
     "u": "https://www.google.com/travel/flights/search?q={{{s}}}",
     "c": "Online Services",
-    "sc": "Google"
+    "sc": "Google",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Google Flights",
@@ -35136,7 +35140,11 @@
     "t": "gflights",
     "u": "https://www.google.com/travel/flights/search?q={{{s}}}",
     "c": "Research",
-    "sc": "Travel"
+    "sc": "Travel",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Google font",
