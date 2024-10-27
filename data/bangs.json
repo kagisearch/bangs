@@ -109384,5 +109384,12 @@
       "url_encode_placeholder",
       "url_encode_space_to_plus"
     ]
+  },
+  {
+    "s": "Frequent Miler",
+    "d": "frequentmiler.com",
+    "t": "fqm",
+    "u": "https://frequentmiler.com/?s={{{s}}}",
+    "c": "Shopping"
   }
 ]
