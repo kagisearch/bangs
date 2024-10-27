@@ -799,6 +799,12 @@
   {
     "s": "Kagi",
     "d": "kagi.com",
+    "t": "24",
+    "u": "/search?q={{{s}}}&dr=1"
+  },
+  {
+    "s": "Kagi",
+    "d": "kagi.com",
     "t": "week",
     "u": "/search?q={{{s}}}&dr=2"
   },
@@ -807,6 +813,12 @@
     "d": "kagi.com",
     "t": "month",
     "u": "/search?q={{{s}}}&dr=3"
+  },
+  {
+    "s": "Kagi",
+    "d": "kagi.com",
+    "t": "year",
+    "u": "/search?q={{{s}}}&dr=4"
   },
   {
     "s": "Kagi",
