@@ -109391,5 +109391,205 @@
     "t": "fqm",
     "u": "https://frequentmiler.com/?s={{{s}}}",
     "c": "Shopping"
-  }
+  },
+  {
+      "s": "Startech",
+      "d": "startech.com",
+      "t": "startech",
+      "u": "/en-us/search?search_term={{{s}}}",
+      "c": "Shopping",
+      "sc": "Tech"
+    },
+    {
+      "s": "Startech United States",
+      "d": "startech.com",
+      "t": "startechus",
+      "u": "/en-us/search?search_term={{{s}}}",
+      "c": "Shopping",
+      "sc": "Tech"
+    },
+    {
+      "s": "Startech Canada",
+      "d": "startech.com",
+      "t": "startechca",
+      "u": "/en-ca/search?search_term={{{s}}}",
+      "c": "Shopping",
+      "sc": "Tech"
+    },
+    {
+      "s": "Startech United Kingdom",
+      "d": "startech.com",
+      "t": "startechuk",
+      "u": "/en-gb/search?search_term={{{s}}}",
+      "c": "Shopping",
+      "sc": "Tech"
+    },
+    {
+      "s": "Startech Republic of Ireland",
+      "d": "startech.com",
+      "t": "startechie",
+      "u": "/en-ie/search?search_term={{{s}}}",
+      "c": "Shopping",
+      "sc": "Tech"
+    },
+    {
+      "s": "Startech Europe",
+      "d": "startech.com",
+      "t": "startecheu",
+      "u": "/en-eu/search?search_term={{{s}}}",
+      "c": "Shopping",
+      "sc": "Tech"
+    },
+    {
+      "s": "Startech Australia",
+      "d": "startech.com",
+      "t": "startechau",
+      "u": "/en-au/search?search_term={{{s}}}",
+      "c": "Shopping",
+      "sc": "Tech"
+    },
+    {
+      "s": "Startech Austria",
+      "d": "startech.com",
+      "t": "startechat",
+      "u": "/de-at/search?search_term={{{s}}}",
+      "c": "Shopping",
+      "sc": "Tech"
+    },
+    {
+      "s": "Startech Belgium",
+      "d": "startech.com",
+      "t": "startechbe",
+      "u": "/en-be/search?search_term={{{s}}}",
+      "c": "Shopping",
+      "sc": "Tech"
+    },
+    {
+      "s": "Startech Chile",
+      "d": "startech.com",
+      "t": "startechcl",
+      "u": "/es-cl/search?search_term={{{s}}}",
+      "c": "Shopping",
+      "sc": "Tech"
+    },
+    {
+      "s": "Startech Colombia",
+      "d": "startech.com",
+      "t": "startechco",
+      "u": "/es-co/search?search_term={{{s}}}",
+      "c": "Shopping",
+      "sc": "Tech"
+    },
+    {
+      "s": "Startech Denmark",
+      "d": "startech.com",
+      "t": "startechdk",
+      "u": "/en-dk/search?search_term={{{s}}}",
+      "c": "Shopping",
+      "sc": "Tech"
+    },
+    {
+      "s": "Startech Finland",
+      "d": "startech.com",
+      "t": "startechfi",
+      "u": "/en-fi/search?search_term={{{s}}}",
+      "c": "Shopping",
+      "sc": "Tech"
+    },
+    {
+      "s": "Startech France",
+      "d": "startech.com",
+      "t": "startechfr",
+      "u": "/fr-fr/search?search_term={{{s}}}",
+      "c": "Shopping",
+      "sc": "Tech"
+    },
+    {
+      "s": "Startech Germany",
+      "d": "startech.com",
+      "t": "startechde",
+      "u": "/de-de/search?search_term={{{s}}}",
+      "c": "Shopping",
+      "sc": "Tech"
+    },
+    {
+      "s": "Startech Italy",
+      "d": "startech.com",
+      "t": "startechit",
+      "u": "/it-it/search?search_term={{{s}}}",
+      "c": "Shopping",
+      "sc": "Tech"
+    },
+    {
+      "s": "Startech Japan",
+      "d": "startech.com",
+      "t": "startechjp",
+      "u": "/ja-jp/search?search_term={{{s}}}",
+      "c": "Shopping",
+      "sc": "Tech"
+    },
+    {
+      "s": "Startech Mexico",
+      "d": "startech.com",
+      "t": "startechmx",
+      "u": "/es-mx/search?search_term={{{s}}}",
+      "c": "Shopping",
+      "sc": "Tech"
+    },
+    {
+      "s": "Startech Netherlands",
+      "d": "startech.com",
+      "t": "startechnl",
+      "u": "/nl-nl/search?search_term={{{s}}}",
+      "c": "Shopping",
+      "sc": "Tech"
+    },
+    {
+      "s": "Startech New Zealand",
+      "d": "startech.com",
+      "t": "startechnz",
+      "u": "/en-nz/search?search_term={{{s}}}",
+      "c": "Shopping",
+      "sc": "Tech"
+    },
+    {
+      "s": "Startech Peru",
+      "d": "startech.com",
+      "t": "startechpe",
+      "u": "/es-pe/search?search_term={{{s}}}",
+      "c": "Shopping",
+      "sc": "Tech"
+    },
+    {
+      "s": "Startech Singapore",
+      "d": "startech.com",
+      "t": "startechsg",
+      "u": "/en-sg/search?search_term={{{s}}}",
+      "c": "Shopping",
+      "sc": "Tech"
+    },
+    {
+      "s": "Startech Spain",
+      "d": "startech.com",
+      "t": "starteches",
+      "u": "/es-es/search?search_term={{{s}}}",
+      "c": "Shopping",
+      "sc": "Tech"
+    },
+    {
+      "s": "Startech Sweden",
+      "d": "startech.com",
+      "t": "startechse",
+      "u": "/sv-se/search?search_term={{{s}}}",
+      "c": "Shopping",
+      "sc": "Tech"
+    },
+    {
+      "s": "Startech Switzerland",
+      "d": "startech.com",
+      "t": "startechch",
+      "u": "/de-ch/search?search_term={{{s}}}",
+      "c": "Shopping",
+      "sc": "Tech"
+    }  
 ]
