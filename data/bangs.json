@@ -109391,5 +109391,181 @@
     "t": "fqm",
     "u": "https://frequentmiler.com/?s={{{s}}}",
     "c": "Shopping"
-  }
+  },
+  {
+      "s": "Casal Sport",
+      "d": "casalsport.com",
+      "t": "casalsport",
+      "u": "https://www.casalsport.com/SearchDisplay?storeId=13151&sType=SimpleSearch&searchTerm={{{s}}}",
+      "c": "Shopping",
+      "sc": "Online"
+    },
+    {
+      "s": "Ikaros",
+      "d": "ikaros.net",
+      "t": "ikaros",
+      "u": "https://www.ikaros.net/SearchDisplay?storeId=13152&sType=SimpleSearch&searchTerm={{{s}}}",
+      "c": "Shopping",
+      "sc": "Online"
+    },
+    {
+      "s": "Ironmongery Direct",
+      "d": "ironmongerydirect.co.uk",
+      "t": "ironmongery",
+      "u": "https://www.ironmongerydirect.co.uk/search?query={{{s}}}",
+      "c": "Shopping",
+      "sc": "Online"
+    },
+    {
+      "s": "Manutan Belgium",
+      "d": "manutan.be",
+      "t": "manutanbe",
+      "u": "https://www.manutan.be/SearchDisplay?storeId=11706&sType=SimpleSearch&searchTerm={{{s}}}",
+      "c": "Shopping",
+      "sc": "Online"
+    },
+    {
+      "s": "Manutan France",
+      "d": "manutan.fr",
+      "t": "manutanfr",
+      "u": "https://www.manutan.fr/earchDisplay?storeId=11701&sType=SimpleSearch&searchTerm={{{s}}}",
+      "c": "Shopping",
+      "sc": "Online"
+    },
+    {
+      "s": "Manutan Italy",
+      "d": "manutan.it",
+      "t": "manutanit",
+      "u": "https://www.manutan.it/SearchDisplay?storeId=11702&sType=SimpleSearch&searchTerm={{{s}}}",
+      "c": "Shopping",
+      "sc": "Online"
+    },
+    {
+      "s": "Manutan Netherlands",
+      "d": "manutan.nl",
+      "t": "manutannl",
+      "u": "https://www.manutan.nl/SearchDisplay?storeId=11708&sType=SimpleSearch&searchTerm={{{s}}}",
+      "c": "Shopping",
+      "sc": "Online"
+    },
+    {
+      "s": "Manutan Poland",
+      "d": "manutan.pl",
+      "t": "manutanpl",
+      "u": "https://www.manutan.pl/SearchDisplay?storeId=11718&sType=SimpleSearch&searchTerm={{{s}}}",
+      "c": "Shopping",
+      "sc": "Online"
+    },
+    {
+      "s": "Manutan Slovakia",
+      "d": "manutan.sk",
+      "t": "manutansk",
+      "u": "https://www.manutan.sk/SearchDisplay?storeId=11719&sType=SimpleSearch&searchTerm={{{s}}}",
+      "c": "Shopping",
+      "sc": "Online"
+    },
+    {
+      "s": "Manutan Spain",
+      "d": "manutan.es",
+      "t": "manutanes",
+      "u": "https://www.manutan.es/SearchDisplay?storeId=11704&sType=SimpleSearch&searchTerm={{{s}}}",
+      "c": "Shopping",
+      "sc": "Online"
+    },
+    {
+      "s": "Manutan Hungary",
+      "d": "manutan.hu",
+      "t": "manutanhu",
+      "u": "https://www.manutan.hu/SearchDisplay?storeId=11717&sType=SimpleSearch&searchTerm={{{s}}}",
+      "c": "Shopping",
+      "sc": "Online"
+    },
+    {
+      "s": "Manutan United Kingdom",
+      "d": "manutan.co.uk",
+      "t": "manutanuk",
+      "u": "https://www.manutan.co.uk/SearchDisplay?storeId=11709&sType=SimpleSearch&searchTerm={{{s}}}",
+      "c": "Shopping",
+      "sc": "Online"
+    },
+    {
+      "s": "Manutan Portugal",
+      "d": "manutan.pt",
+      "t": "manutanpt",
+      "u": "https://www.manutan.pt/SearchDisplay?storeId=11703&sType=SimpleSearch&searchTerm={{{s}}}",
+      "c": "Shopping",
+      "sc": "Online"
+    },
+    {
+      "s": "Manutan Czech Republic",
+      "d": "manutan.cz",
+      "t": "manutancz",
+      "u": "https://www.manutan.cz/SearchDisplay?storeId=11716&sType=SimpleSearch&searchTerm={{{s}}}",
+      "c": "Shopping",
+      "sc": "Online"
+    },
+    {
+      "s": "Manutan Switzerland",
+      "d": "manutan.ch",
+      "t": "manutanch",
+      "u": "https://www.manutan.ch/SearchDisplay?storeId=11705&sType=SimpleSearch&searchTerm={{{s}}}",
+      "c": "Shopping",
+      "sc": "Online"
+    },
+    {
+      "s": "Manutan Collectivès",
+      "d": "manutan-collectivites.fr",
+      "t": "manutancollectives",
+      "u": "https://www.manutan-collectivites.fr/catalogsearch/result/?q={{{s}}}",
+      "c": "Shopping",
+      "sc": "Online"
+    },
+    {
+      "s": "Rapid Racking",
+      "d": "rapidracking.com",
+      "t": "rapidracking",
+      "u": "https://www.rapidracking.com/SearchDisplay?storeId=11612&sType=SimpleSearch&searchTerm={{{s}}}",
+      "c": "Shopping",
+      "sc": "Online"
+    },
+    {
+      "s": "Witre Denmark",
+      "d": "witre.dk",
+      "t": "witredk",
+      "u": "https://www.witre.dk/SearchDisplay?storeId=11712&sType=SimpleSearch&searchTerm={{{s}}}",
+      "c": "Shopping",
+      "sc": "Online"
+    },
+    {
+      "s": "Witre Finland",
+      "d": "witre.fi",
+      "t": "witrefi",
+      "u": "https://www.witre.fi/SearchDisplay?storeId=11713&sType=SimpleSearch&searchTerm={{{s}}}",
+      "c": "Shopping",
+      "sc": "Online"
+    },
+    {
+      "s": "Witre Norway",
+      "d": "witre.no",
+      "t": "witreno",
+      "u": "https://www.witre.no/no/wno/SearchDisplay?storeId=11714&sType=SimpleSearch&searchTerm={{{s}}}",
+      "c": "Shopping",
+      "sc": "Online"
+    },
+    {
+      "s": "Witre Sweden",
+      "d": "witre.se",
+      "t": "witrese",
+      "u": "https://www.witre.se/SearchDisplay?storeId=11715&sType=SimpleSearch&searchTerm={{{s}}}",
+      "c": "Shopping",
+      "sc": "Online"
+    },
+    {
+      "s": "Kruizinga",
+      "d": "kruizinga.de",
+      "t": "kruizinga",
+      "u": "https://www.kruizinga.de/search?q={{{s}}}",
+      "c": "Shopping",
+      "sc": "Online"
+    }  
 ]
