@@ -109572,7 +109572,7 @@
     "s": "Startech",
     "d": "www.startech.com",
     "t": "startech",
-    "u": "https://startech/en-us/search?search_term={{{s}}}",
+    "u": "https://www.startech.com/en-us/search?search_term={{{s}}}",
     "c": "Shopping",
     "sc": "Tech"
   }
