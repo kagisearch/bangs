@@ -521,7 +521,7 @@
   },
   {
     "s": "4chan (Kagi Search)",
-    "d": "4chan.org",
+    "d": "kagi.com",
     "t": "4chan",
     "u": "/search?q={{{s}}}+site:4chan.org",
     "c": "Multimedia",
@@ -2050,7 +2050,7 @@
   },
   {
     "s": "Adventure Rider Forum (Kagi Search)",
-    "d": "advrider.com",
+    "d": "kagi.com",
     "t": "adv",
     "u": "/search?q={{{s}}}+site:advrider.com",
     "c": "Entertainment",
@@ -2131,7 +2131,7 @@
   },
   {
     "s": "Aeris Blog (Kagi Search)",
-    "d": "imirhil.fr",
+    "d": "kagi.com",
     "t": "aeris",
     "u": "/search?q={{{s}}}+site:imirhil.fr",
     "c": "Tech",
@@ -2307,7 +2307,7 @@
   },
   {
     "s": "Grateful Dead Lyrics (Kagi Search)",
-    "d": "ucsc.edu",
+    "d": "kagi.com",
     "t": "agdl",
     "u": "/search?q={{{s}}}+site:artsites.ucsc.edu/GDead/agdl/",
     "c": "Multimedia",
@@ -4156,7 +4156,7 @@
   },
   {
     "s": "R Analysis (Kagi Search)",
-    "d": "larmarange.github.io",
+    "d": "kagi.com",
     "t": "analyser",
     "u": "/search?q={{{s}}}+site:https://larmarange.github.io/analyse-R",
     "c": "Research",
@@ -4293,7 +4293,7 @@
   },
   {
     "s": "Angular (Kagi Search)",
-    "d": "angular.io",
+    "d": "kagi.com",
     "t": "ang",
     "u": "/search?q={{{s}}}+site:angular.io",
     "c": "Tech",
@@ -4796,7 +4796,7 @@
   },
   {
     "s": "Apache Docs (Kagi Search)",
-    "d": "apache.org",
+    "d": "kagi.com",
     "t": "apache",
     "u": "/search?q={{{s}}}+site:https://httpd.apache.org/docs/current/",
     "c": "Tech",
@@ -4923,7 +4923,7 @@
   },
   {
     "s": "API Platform (Kagi Search)",
-    "d": "api-platform.com",
+    "d": "kagi.com",
     "t": "apiplatform",
     "u": "/search?q={{{s}}}+site:api-platform.com",
     "c": "Tech",
@@ -5244,7 +5244,7 @@
   },
   {
     "s": "Apple Trailers (Kagi Search)",
-    "d": "trailers.apple.com",
+    "d": "kagi.com",
     "t": "appletrailer",
     "u": "/search?q={{{s}}}+site:trailers.apple.com",
     "c": "Entertainment",
@@ -5253,7 +5253,7 @@
   },
   {
     "s": "Apple TV (Kagi Search)",
-    "d": "tv.apple.com",
+    "d": "kagi.com",
     "t": "appletv",
     "u": "/search?q={{{s}}}+site:tv.apple.com",
     "c": "Entertainment",
@@ -5797,7 +5797,7 @@
   },
   {
     "s": "Arduino Reference (Kagi Search)",
-    "d": "arduino.cc",
+    "d": "kagi.com",
     "t": "arduinoreference",
     "u": "/search?q={{{s}}}+site:arduino.cc",
     "c": "Tech",
@@ -5838,7 +5838,7 @@
   },
   {
     "s": "AR15 (Kagi Search)",
-    "d": "ar15.com",
+    "d": "kagi.com",
     "t": "arf",
     "u": "/search?q={{{s}}}+site:ar15.com",
     "c": "Online Services",
@@ -6471,7 +6471,7 @@
   },
   {
     "s": "Asterisk Wiki (Kagi Search)",
-    "d": "wiki.asterisk.org",
+    "d": "kagi.com",
     "t": "asterisk",
     "u": "/search?q={{{s}}}+site:wiki.asterisk.org",
     "c": "Tech",
@@ -7760,7 +7760,7 @@
   },
   {
     "s": "Bambali Marketplace (Kagi Search)",
-    "d": "bambali.net",
+    "d": "kagi.com",
     "t": "bambali",
     "u": "/search?q={{{s}}}+site:bambali.net",
     "c": "Shopping",
@@ -7929,7 +7929,7 @@
   },
   {
     "s": "Bascan Rambouillet (Kagi Search)",
-    "d": "lyc-bascan-rambouillet.ac-versailles.fr",
+    "d": "kagi.com",
     "t": "bascan",
     "u": "/search?q={{{s}}}+site:www.lyc-bascan-rambouillet.ac-versailles.fr",
     "c": "Research",
@@ -7978,7 +7978,7 @@
   },
   {
     "s": "Greg's Bash Wiki (Kagi Search)",
-    "d": "mywiki.wooledge.org",
+    "d": "kagi.com",
     "t": "bash",
     "u": "/search?q={{{s}}}+site:mywiki.wooledge.org,wiki.bash-hackers.org",
     "c": "Tech",
@@ -8043,7 +8043,7 @@
   },
   {
     "s": "Bay 12 Games (Kagi Search)",
-    "d": "bay12games.com",
+    "d": "kagi.com",
     "t": "bay12",
     "u": "/search?q={{{s}}}+site:bay12games.com",
     "c": "Entertainment",
@@ -10408,7 +10408,7 @@
   },
   {
     "s": "Duck Blog (Kagi Search)",
-    "d": "duck.co",
+    "d": "kagi.com",
     "t": "blog",
     "u": "/search?q={{{s}}}+site:duck.co/blog",
     "c": "Tech",
@@ -11179,7 +11179,7 @@
   },
   {
     "s": "Battle of the Bits (Kagi Search)",
-    "d": "battleofthebits.com",
+    "d": "kagi.com",
     "t": "botb",
     "u": "/search?q={{{s}}}+site:battleofthebits.com",
     "c": "Multimedia",
@@ -11701,7 +11701,7 @@
   },
   {
     "s": "Broadsign (Kagi Search)",
-    "d": "broadsign.com",
+    "d": "kagi.com",
     "t": "broadsign",
     "u": "/search?q={{{s}}}+site:broadsign.com",
     "c": "Multimedia",
@@ -16920,7 +16920,7 @@
   },
   {
     "s": "Cool Math Games (Kagi Search)",
-    "d": "coolmathgames.com",
+    "d": "kagi.com",
     "t": "coolmath",
     "u": "/search?q={{{s}}}+site:coolmathgames.com",
     "c": "Entertainment",
@@ -18477,7 +18477,7 @@
   },
   {
     "s": "CurseForge (Kagi Search)",
-    "d": "curseforge.com",
+    "d": "kagi.com",
     "t": "curseforge",
     "u": "/search?q={{{s}}}+site:curseforge.com",
     "c": "Tech",
@@ -18992,7 +18992,7 @@
   },
   {
     "s": "Abrete Libro Forum (Kagi Search)",
-    "d": "abretelibro.com",
+    "d": "kagi.com",
     "t": "dal",
     "u": "/search?q={{{s}}}+site:abretelibro.com",
     "c": "Entertainment",
@@ -19831,7 +19831,7 @@
   },
   {
     "s": "DansDeals Forum (Kagi Search)",
-    "d": "forums.dansdeals.com",
+    "d": "kagi.com",
     "t": "ddf",
     "u": "/search?q={{{s}}}+site:forums.dansdeals.com",
     "c": "Tech",
@@ -19984,7 +19984,7 @@
   },
   {
     "s": "Reddit (Kagi Search)",
-    "d": "reddit.com",
+    "d": "kagi.com",
     "t": "ddgr",
     "u": "/search?q={{{s}}}+site:reddit.com",
     "c": "Research",
@@ -20025,7 +20025,7 @@
   },
   {
     "s": "DansDeals (Kagi Search)",
-    "d": "dansdeals.com",
+    "d": "kagi.com",
     "t": "ddms",
     "u": "/search?q={{{s}}}+site:dansdeals.com",
     "c": "Tech",
@@ -20058,7 +20058,7 @@
   },
   {
     "s": "Stack Overflow (Kagi Search)",
-    "d": "stackoverflow.com",
+    "d": "kagi.com",
     "t": "ddso",
     "u": "/search?q={{{s}}}+site:stackoverflow.com",
     "c": "Tech",
@@ -21334,7 +21334,7 @@
   },
   {
     "s": "OpenGL Docs (Kagi Search)",
-    "d": "docs.gl",
+    "d": "kagi.com",
     "t": "dgl4",
     "u": "/search?q={{{s}}}+site:docs.gl/gl4",
     "c": "Tech",
@@ -22417,7 +22417,7 @@
   },
   {
     "s": "D Language (Kagi Search)",
-    "d": "dlang.org",
+    "d": "kagi.com",
     "t": "dlang",
     "u": "/search?q={{{s}}}+site:dlang.org",
     "c": "Tech",
@@ -22634,7 +22634,7 @@
   },
   {
     "s": "Deb Multimedia (Kagi Search)",
-    "d": "deb-multimedia.org",
+    "d": "kagi.com",
     "t": "dmo",
     "u": "/search?q={{{s}}}+site:deb-multimedia.org/pool/",
     "c": "Tech",
@@ -22915,7 +22915,7 @@
   },
   {
     "s": "Ubuntu FR Docs (Kagi Search)",
-    "d": "doc.ubuntu-fr.org",
+    "d": "kagi.com",
     "t": "docubufr",
     "u": "/search?q={{{s}}}+site:doc.ubuntu-fr.org",
     "c": "Tech",
@@ -23380,7 +23380,7 @@
   },
   {
     "s": "PC Soft Docs (Kagi Search)",
-    "d": "doc.pcsoft.fr",
+    "d": "kagi.com",
     "t": "dpcs",
     "u": "/search?q={{{s}}}+site:doc.pcsoft.fr",
     "c": "Tech",
@@ -23405,7 +23405,7 @@
   },
   {
     "s": "D Language (Kagi Search)",
-    "d": "dlang.org",
+    "d": "kagi.com",
     "t": "dp",
     "u": "/search?q={{{s}}}+site:dlang.org",
     "c": "Online Services",
@@ -24747,7 +24747,7 @@
   },
   {
     "s": "Effective Altruism (Kagi Search)",
-    "d": "effective-altruism.com",
+    "d": "kagi.com",
     "t": "eaf",
     "u": "/search?q={{{s}}}+site:http://effective-altruism.com",
     "c": "Online Services",
@@ -25828,7 +25828,7 @@
   },
   {
     "s": "EllisLab Forums (Kagi Search)",
-    "d": "ellislab.com",
+    "d": "kagi.com",
     "t": "ee",
     "u": "/search?q={{{s}}}+site:http://ellislab.com/forums/",
     "c": "Tech",
@@ -25893,7 +25893,7 @@
   },
   {
     "s": "Epguides (Kagi Search)",
-    "d": "epguides.com",
+    "d": "kagi.com",
     "t": "eg",
     "u": "/search?q={{{s}}}+site:epguides.com",
     "c": "Entertainment",
@@ -25902,7 +25902,7 @@
   },
   {
     "s": "Eurogamer Forums (Kagi Search)",
-    "d": "eurogamer.net",
+    "d": "kagi.com",
     "t": "egforums",
     "u": "/search?q={{{s}}}+site:eurogamer.net/forums",
     "c": "Entertainment",
@@ -26063,7 +26063,7 @@
   },
   {
     "s": "Econ Job Rumors (Kagi Search)",
-    "d": "econjobrumors.com",
+    "d": "kagi.com",
     "t": "ejmr",
     "u": "/search?q={{{s}}}+site:econjobrumors.com",
     "c": "Online Services",
@@ -26464,7 +26464,7 @@
   },
   {
     "s": "Elixir Docs (Kagi Search)",
-    "d": "elixir-lang.org",
+    "d": "kagi.com",
     "t": "elixir-docs",
     "u": "/search?q={{{s}}}+site:elixir-lang.org/docs",
     "c": "Tech",
@@ -26601,7 +26601,7 @@
   },
   {
     "s": "Emacs Wiki (Kagi Search)",
-    "d": "emacswiki.org",
+    "d": "kagi.com",
     "t": "emacs",
     "u": "/search?q={{{s}}}+site:emacswiki.org",
     "c": "Online Services",
@@ -26610,7 +26610,7 @@
   },
   {
     "s": "Emacs Wiki (Kagi Search)",
-    "d": "emacswiki.org",
+    "d": "kagi.com",
     "t": "emacswiki",
     "u": "/search?q={{{s}}}+site:emacswiki.org",
     "c": "Tech",
@@ -26651,7 +26651,7 @@
   },
   {
     "s": "Ember API (Kagi Search)",
-    "d": "emberjs.com",
+    "d": "kagi.com",
     "t": "ember",
     "u": "/search?q={{{s}}}+site:https://api.emberjs.com",
     "c": "Tech",
@@ -27612,7 +27612,7 @@
   },
   {
     "s": "EP Guides (Kagi Search)",
-    "d": "epguides.com",
+    "d": "kagi.com",
     "t": "epg",
     "u": "/search?q={{{s}}}+site:epguides.com",
     "c": "Entertainment",
@@ -27774,7 +27774,7 @@
   },
   {
     "s": "Equestria Daily (Kagi Search)",
-    "d": "equestriadaily.com",
+    "d": "kagi.com",
     "t": "equestriadaily",
     "u": "/search?q={{{s}}}+site:equestriadaily.com",
     "c": "News",
@@ -27815,7 +27815,7 @@
   },
   {
     "s": "Erlang (Kagi Search)",
-    "d": "erlang.org",
+    "d": "kagi.com",
     "t": "erlang",
     "u": "/search?q={{{s}}}+site:erlang.org",
     "c": "Tech",
@@ -28800,7 +28800,7 @@
   },
   {
     "s": "Entertainment Weekly (Kagi Search)",
-    "d": "ew.com",
+    "d": "kagi.com",
     "t": "ew",
     "u": "/search?q={{{s}}}+site:ew.com",
     "c": "Entertainment",
@@ -29697,7 +29697,7 @@
   },
   {
     "s": "Footballguys (Kagi Search)",
-    "d": "footballguys.com",
+    "d": "kagi.com",
     "t": "fbg",
     "u": "/search?q={{{s}}}+site:footballguys.com",
     "c": "Entertainment",
@@ -29842,7 +29842,7 @@
   },
   {
     "s": "FreeCAD (Kagi Search)",
-    "d": "freecadweb.org",
+    "d": "kagi.com",
     "t": "fc",
     "u": "/search?q={{{s}}}+site: freecadweb.org",
     "c": "Tech",
@@ -30385,7 +30385,7 @@
   },
   {
     "s": "Gentoo Forums (Kagi Search)",
-    "d": "forums.gentoo.org",
+    "d": "kagi.com",
     "t": "fgentoo",
     "u": "/search?q={{{s}}}+site:forums.gentoo.org",
     "c": "Tech",
@@ -30474,7 +30474,7 @@
   },
   {
     "s": "Gladys Celtic Corner (Kagi Search)",
-    "d": "gladyscelticcorner.com",
+    "d": "kagi.com",
     "t": "fiddling",
     "u": "/search?q={{{s}}}+site:gladyscelticcorner.com",
     "c": "Entertainment",
@@ -31099,7 +31099,7 @@
   },
   {
     "s": "Flagpoles (Kagi Search)",
-    "d": "flagpoles.com.au",
+    "d": "kagi.com",
     "t": "flag",
     "u": "/search?q={{{s}}}+site:flagpoles.com.au",
     "c": "Shopping",
@@ -31988,7 +31988,7 @@
   },
   {
     "s": "Martin Fowler (Kagi Search)",
-    "d": "martinfowler.com",
+    "d": "kagi.com",
     "t": "fowler",
     "u": "/search?q={{{s}}}+site:martinfowler.com",
     "c": "Tech",
@@ -32029,7 +32029,7 @@
   },
   {
     "s": "PCSoft Forum (Kagi Search)",
-    "d": "pcsoft.fr",
+    "d": "kagi.com",
     "t": "fpcs",
     "u": "/search?q={{{s}}}+site:forum.pcsoft.fr",
     "c": "Tech",
@@ -33178,7 +33178,7 @@
   },
   {
     "s": "FZ Sweden (Kagi Search)",
-    "d": "fz.se",
+    "d": "kagi.com",
     "t": "fz",
     "u": "/search?q={{{s}}}+site:fz.se",
     "c": "Entertainment",
@@ -33403,7 +33403,7 @@
   },
   {
     "s": "Ábrete Libro (Kagi Search)",
-    "d": "abretelibro.com",
+    "d": "kagi.com",
     "t": "gal",
     "u": "/search?q={{{s}}}+site:abretelibro.com",
     "c": "Entertainment",
@@ -34242,7 +34242,7 @@
   },
   {
     "s": "GDB Manual (Kagi Search)",
-    "d": "sourceware.org",
+    "d": "kagi.com",
     "t": "gdb",
     "u": "/search?q={{{s}}}+site:sourceware.org/gdb/current/onlinedocs/gdb/",
     "c": "Tech",
@@ -34779,7 +34779,7 @@
   },
   {
     "s": "Genma Blog (Kagi Search)",
-    "d": "genma.free.fr",
+    "d": "kagi.com",
     "t": "genma",
     "u": "/search?q={{{s}}}+site:http://genma.free.fr",
     "c": "Tech",
@@ -35362,7 +35362,7 @@
   },
   {
     "s": "GitHub Pages (Kagi Search)",
-    "d": "github.io",
+    "d": "kagi.com",
     "t": "ghio",
     "u": "/search?q={{{s}}}+site:github.io",
     "c": "Tech",
@@ -36190,7 +36190,7 @@
   },
   {
     "s": "Golang (Kagi Search)",
-    "d": "golang.org",
+    "d": "kagi.com",
     "t": "gls",
     "u": "/search?q={{{s}}}+site:golang.org",
     "c": "Tech",
@@ -37919,7 +37919,7 @@
   },
   {
     "s": "Gradle (Kagi Search)",
-    "d": "gradle.org",
+    "d": "kagi.com",
     "t": "gradle",
     "u": "/search?q={{{s}}}+site:gradle.org",
     "c": "Tech",
@@ -38176,7 +38176,7 @@
   },
   {
     "s": "Le Grog (Kagi Search)",
-    "d": "legrog.org",
+    "d": "kagi.com",
     "t": "grog",
     "u": "/search?q={{{s}}}+site:legrog.org",
     "c": "Entertainment",
@@ -38193,7 +38193,7 @@
   },
   {
     "s": "Groovy Documentation (Kagi Search)",
-    "d": "groovy-lang.org",
+    "d": "kagi.com",
     "t": "groovy",
     "u": "/search?q={{{s}}}+site:docs.groovy-lang.org",
     "c": "Tech",
@@ -41298,7 +41298,7 @@
   },
   {
     "s": "The Guardian (Kagi Search)",
-    "d": "theguardian.com",
+    "d": "kagi.com",
     "t": "gu",
     "u": "/search?q={{{s}}}+site:www.theguardian.com",
     "c": "News",
@@ -42516,7 +42516,7 @@
   },
   {
     "s": "Herber.de (Kagi Search)",
-    "d": "herber.de",
+    "d": "kagi.com",
     "t": "herber",
     "u": "/search?q={{{s}}}+site:herber.de",
     "c": "Tech",
@@ -42629,7 +42629,7 @@
   },
   {
     "s": "LinuxFR (Kagi Search)",
-    "d": "linuxfr.org",
+    "d": "kagi.com",
     "t": "hfr",
     "u": "/search?q={{{s}}}+site:linuxfr.org",
     "c": "Research",
@@ -43729,7 +43729,7 @@
   },
   {
     "s": "HyperPhysics (Kagi Search)",
-    "d": "hyperphysics.phy-astr.gsu.edu",
+    "d": "kagi.com",
     "t": "hphys",
     "u": "/search?q={{{s}}}+site:hyperphysics.phy-astr.gsu.edu",
     "c": "Research",
@@ -45100,7 +45100,7 @@
   },
   {
     "s": "IE Search (Kagi Search)",
-    "d": "ie",
+    "d": "kagi.com",
     "t": "ie",
     "u": "/search?q={{{s}}}+site:ie",
     "c": "Online Services",
@@ -47385,7 +47385,7 @@
   },
   {
     "s": "iTunes Spain (Kagi Search)",
-    "d": "itunes.apple.com",
+    "d": "kagi.com",
     "t": "ituneses",
     "u": "/search?q={{{s}}}+site:itunes.apple.com/es/",
     "c": "Multimedia",
@@ -47394,7 +47394,7 @@
   },
   {
     "s": "iTunes (Kagi Search)",
-    "d": "itunes.apple.com",
+    "d": "kagi.com",
     "t": "itunes",
     "u": "/search?q={{{s}}}+site:itunes.apple.com",
     "c": "Entertainment",
@@ -47691,7 +47691,7 @@
   },
   {
     "s": "Joomla API (Kagi Search)",
-    "d": "joomla.org",
+    "d": "kagi.com",
     "t": "japi",
     "u": "/search?q={{{s}}}+site:api.joomla.org",
     "c": "Tech",
@@ -47724,7 +47724,7 @@
   },
   {
     "s": "Jargon File (Kagi Search)",
-    "d": "catb.org",
+    "d": "kagi.com",
     "t": "jargon",
     "u": "/search?q={{{s}}}+site:catb.org inurl:jargon",
     "c": "Online Services",
@@ -47733,7 +47733,7 @@
   },
   {
     "s": "Java 11 API (Kagi Search)",
-    "d": "oracle.com",
+    "d": "kagi.com",
     "t": "java11",
     "u": "/search?q={{{s}}}+site:docs.oracle.com/en/java/javase/11/docs/api/",
     "c": "Tech",
@@ -47774,7 +47774,7 @@
   },
   {
     "s": "Java 8 API (Kagi Search)",
-    "d": "oracle.com",
+    "d": "kagi.com",
     "t": "java8",
     "u": "/search?q={{{s}}}+site:docs.oracle.com/javase/8/docs/api/",
     "c": "Tech",
@@ -48347,7 +48347,7 @@
   },
   {
     "s": "JMonkeyEngine Wiki (Kagi Search)",
-    "d": "jmonkeyengine.org",
+    "d": "kagi.com",
     "t": "jmew",
     "u": "/search?q={{{s}}}+site:wiki.jmonkeyengine.org",
     "c": "Tech",
@@ -49468,7 +49468,7 @@
   },
   {
     "s": "Keybase (Kagi Search)",
-    "d": "keybase.io",
+    "d": "kagi.com",
     "t": "kb",
     "u": "/search?q={{{s}}}+site:keybase.io",
     "c": "Tech",
@@ -51309,7 +51309,7 @@
   },
   {
     "s": "L3utterfish Blog (Kagi Search)",
-    "d": "l3utterfish.blogspot.com",
+    "d": "kagi.com",
     "t": "l3u",
     "u": "/search?q={{{s}}}+site:l3utterfish.blogspot.com",
     "c": "Entertainment",
@@ -52474,7 +52474,7 @@
   },
   {
     "s": "Les Cris (Kagi Search)",
-    "d": "les-cris.com",
+    "d": "kagi.com",
     "t": "lescris",
     "u": "/search?q={{{s}}}+site:les-cris.com",
     "c": "News",
@@ -52595,7 +52595,7 @@
   },
   {
     "s": "Lew Rockwell (Kagi Search)",
-    "d": "lewrockwell.com",
+    "d": "kagi.com",
     "t": "lewrockwell",
     "u": "/search?q={{{s}}}+site:lewrockwell.com",
     "c": "News",
@@ -52764,7 +52764,7 @@
   },
   {
     "s": "LibGDX (Kagi Search)",
-    "d": "libgdx.badlogicgames.com",
+    "d": "kagi.com",
     "t": "libgdx",
     "u": "/search?q={{{s}}}+site:libgdx.badlogicgames.com",
     "c": "Tech",
@@ -53517,7 +53517,7 @@
   },
   {
     "s": "LinuxFR Blogs (Kagi Search)",
-    "d": "linuxfr.org",
+    "d": "kagi.com",
     "t": "linuxfr",
     "u": "/search?q={{{s}}}+site:linuxfr.org",
     "c": "Tech",
@@ -53798,7 +53798,7 @@
   },
   {
     "s": "LiveJournal (Kagi Search)",
-    "d": "livejournal.com",
+    "d": "kagi.com",
     "t": "lj",
     "u": "/search?q={{{s}}}+site:livejournal.com",
     "c": "Entertainment",
@@ -53855,7 +53855,7 @@
   },
   {
     "s": "LLVM (Kagi Search)",
-    "d": "llvm.org",
+    "d": "kagi.com",
     "t": "llvm",
     "u": "/search?q={{{s}}}+site:llvm.org",
     "c": "Tech",
@@ -54272,7 +54272,7 @@
   },
   {
     "s": "LoopBack.js Documentation (Kagi Search)",
-    "d": "loopback.io",
+    "d": "kagi.com",
     "t": "loopbackjs",
     "u": "/search?q={{{s}}}+site:loopback.io/doc/en/lb3",
     "c": "Tech",
@@ -54713,7 +54713,7 @@
   },
   {
     "s": "Linus Tech Tips Forum (Kagi Search)",
-    "d": "linustechtips.com",
+    "d": "kagi.com",
     "t": "lttforum",
     "u": "/search?q={{{s}}}+site:linustechtips.com",
     "c": "Tech",
@@ -54810,7 +54810,7 @@
   },
   {
     "s": "Lucire (Kagi Search)",
-    "d": "lucire.com",
+    "d": "kagi.com",
     "t": "lucire",
     "u": "/search?q={{{s}}}+site:lucire.com",
     "c": "Online Services",
@@ -54915,7 +54915,7 @@
   },
   {
     "s": "Lupa by Piaui (Kagi Search)",
-    "d": "piaui.folha.uol.com.br",
+    "d": "kagi.com",
     "t": "lupa",
     "u": "/search?q={{{s}}}+site:piaui.folha.uol.com.br inurl:lupa",
     "c": "Online Services",
@@ -55044,7 +55044,7 @@
   },
   {
     "s": "LWJGL Javadoc (Kagi Search)",
-    "d": "lwjgl.org",
+    "d": "kagi.com",
     "t": "lwjgl",
     "u": "/search?q={{{s}}}+site:http://lwjgl.org/javadoc/",
     "c": "Online Services",
@@ -55117,7 +55117,7 @@
   },
   {
     "s": "Lyle McDonald Forums (Kagi Search)",
-    "d": "forums.lylemcdonald.com",
+    "d": "kagi.com",
     "t": "lyle",
     "u": "/search?q={{{s}}}+site:forums.lylemcdonald.com",
     "c": "Research",
@@ -55134,7 +55134,7 @@
   },
   {
     "s": "Lyrical Nonsense (Kagi Search)",
-    "d": "lyrical-nonsense.com",
+    "d": "kagi.com",
     "t": "lyrical",
     "u": "/search?q={{{s}}}+site:lyrical-nonsense.com",
     "c": "Multimedia",
@@ -55823,7 +55823,7 @@
   },
   {
     "s": "Man7 Linux Pages (Kagi Search)",
-    "d": "man7.org",
+    "d": "kagi.com",
     "t": "man7",
     "u": "/search?q={{{s}}}+site:man7.org/linux/man-pages",
     "c": "Tech",
@@ -55968,7 +55968,7 @@
   },
   {
     "s": "Apple Developer (Kagi Search)",
-    "d": "developer.apple.com",
+    "d": "kagi.com",
     "t": "manosx",
     "u": "/search?q={{{s}}}+site:developer.apple.com",
     "c": "Tech",
@@ -56225,7 +56225,7 @@
   },
   {
     "s": "Markos Web Tools (Kagi Search)",
-    "d": "markosweb.com",
+    "d": "kagi.com",
     "t": "markos",
     "u": "/search?q={{{s}}}+site:markosweb.com",
     "c": "Online Services",
@@ -56418,7 +56418,7 @@
   },
   {
     "s": "MathWorks (Kagi Search)",
-    "d": "mathworks.com",
+    "d": "kagi.com",
     "t": "mathworks",
     "u": "/search?q={{{s}}}+site:mathworks.com",
     "c": "Research",
@@ -57347,7 +57347,7 @@
   },
   {
     "s": "MDN (Kagi Search)",
-    "d": "developer.mozilla.org",
+    "d": "kagi.com",
     "t": "mdn.s",
     "u": "/search?q={{{s}}}+site:developer.mozilla.org",
     "c": "Tech",
@@ -59872,7 +59872,7 @@
   },
   {
     "s": "MobileRead Forum (Kagi Search)",
-    "d": "mobileread.com",
+    "d": "kagi.com",
     "t": "more",
     "u": "/search?q={{{s}}}+site:https://www.mobileread.com",
     "c": "Entertainment",
@@ -60393,7 +60393,7 @@
   },
   {
     "s": "MuseScore (Kagi Search)",
-    "d": "musescore.org",
+    "d": "kagi.com",
     "t": "mscore",
     "u": "/search?q={{{s}}}+site:musescore.org",
     "c": "Multimedia",
@@ -61354,7 +61354,7 @@
   },
   {
     "s": "MusicWeb International (Kagi Search)",
-    "d": "musicweb-international.com",
+    "d": "kagi.com",
     "t": "mwi",
     "u": "/search?q={{{s}}}+site:musicweb-international.com",
     "c": "Entertainment",
@@ -64781,7 +64781,7 @@
   },
   {
     "s": "NVIDIA (Kagi Search)",
-    "d": "nvidia.com",
+    "d": "kagi.com",
     "t": "nvidia",
     "u": "/search?q={{{s}}}+site:nvidia.com",
     "c": "Tech",
@@ -65062,7 +65062,7 @@
   },
   {
     "s": "The Oatmeal (Kagi Search)",
-    "d": "theoatmeal.com",
+    "d": "kagi.com",
     "t": "oatmeal",
     "u": "/search?q={{{s}}}+site:theoatmeal.com",
     "c": "Entertainment",
@@ -65551,7 +65551,7 @@
   },
   {
     "s": "OpenFrameworks Forum (Kagi Search)",
-    "d": "openframeworks.cc",
+    "d": "kagi.com",
     "t": "of",
     "u": "/search?q={{{s}}}+site:http://forum.openframeworks.cc",
     "c": "Tech",
@@ -65616,7 +65616,7 @@
   },
   {
     "s": "Omniglot (Kagi Search)",
-    "d": "omniglot.com",
+    "d": "kagi.com",
     "t": "og",
     "u": "/search?q={{{s}}}+site:omniglot.com",
     "c": "Research",
@@ -66449,7 +66449,7 @@
   },
   {
     "s": "OCaml OPAM (Kagi Search)",
-    "d": "opam.ocaml.org",
+    "d": "kagi.com",
     "t": "opam",
     "u": "/search?q={{{s}}}+site:https://opam.ocaml.org/packages",
     "c": "Tech",
@@ -66547,7 +66547,7 @@
   },
   {
     "s": "Open Culture (Kagi Search)",
-    "d": "openculture.com",
+    "d": "kagi.com",
     "t": "openculture",
     "u": "/search?q={{{s}}}+site:openculture.com",
     "c": "Multimedia",
@@ -67122,7 +67122,7 @@
   },
   {
     "s": "Oregon Coast Info (Kagi Search)",
-    "d": "theoregoncoast.info",
+    "d": "kagi.com",
     "t": "oregon",
     "u": "/search?q={{{s}}}+site:theoregoncoast.info",
     "c": "Research",
@@ -67187,7 +67187,7 @@
   },
   {
     "s": "Org Mode Manual (Kagi Search)",
-    "d": "orgmode.org",
+    "d": "kagi.com",
     "t": "org",
     "u": "/search?q={{{s}}}+site:http://orgmode.org/manual/",
     "c": "Tech",
@@ -69959,7 +69959,8 @@
   },
   {
     "s": "Phaser 3 Docs (Kagi Search)",
-    "d": "photonstorm.github.io",
+    "d": "kagi.com",
+    "ad": "photonstorm.github.io/phaser3-docs/",
     "t": "phas3r",
     "u": "/search?q={{{s}}}+inurl:https://photonstorm.github.io/phaser3-docs/",
     "c": "Tech",
@@ -70160,7 +70161,7 @@
   },
   {
     "s": "Phrase Finder (Kagi Search)",
-    "d": "phrases.org.uk",
+    "d": "kagi.com",
     "t": "phrase",
     "u": "/search?q={{{s}}}+site:phrases.org.uk",
     "c": "Research",
@@ -70513,7 +70514,7 @@
   },
   {
     "s": "PitchBook Profiles (Kagi Search)",
-    "d": "pitchbook.com",
+    "d": "kagi.com",
     "t": "pitchbook",
     "u": "/search?q={{{s}}}+site:pitchbook.com/profiles/company",
     "c": "Tech",
@@ -70866,7 +70867,7 @@
   },
   {
     "s": "PlayOnLinux (Kagi Search)",
-    "d": "playonlinux.com",
+    "d": "kagi.com",
     "t": "playonlinux",
     "u": "/search?q={{{s}}}+site:playonlinux.com",
     "c": "Entertainment",
@@ -70979,7 +70980,7 @@
   },
   {
     "s": "Ploum Blog (Kagi Search)",
-    "d": "ploum.net",
+    "d": "kagi.com",
     "t": "ploum",
     "u": "/search?q={{{s}}}+site:ploum.net",
     "c": "Tech",
@@ -71172,7 +71173,7 @@
   },
   {
     "s": "PMEG (Kagi Search)",
-    "d": "bertilow.com",
+    "d": "kagi.com",
     "t": "pmeg",
     "u": "/search?q={{{s}}}+site:http://bertilow.com/pmeg/",
     "c": "Online Services",
@@ -74758,7 +74759,7 @@
   },
   {
     "s": "Rails Guides (Kagi Search)",
-    "d": "rubyonrails.org",
+    "d": "kagi.com",
     "t": "railsguides",
     "u": "/search?q={{{s}}}+site:guides.rubyonrails.org",
     "c": "Tech",
@@ -77629,7 +77630,7 @@
   },
   {
     "s": "Rouxbe (Kagi Search)",
-    "d": "rouxbe.com",
+    "d": "kagi.com",
     "t": "rouxbe",
     "u": "/search?q={{{s}}}+site:rouxbe.com",
     "c": "Entertainment",
@@ -78822,7 +78823,7 @@
   },
   {
     "s": "Skeptics Annotated Bible (Kagi Search)",
-    "d": "skepticsannotatedbible.com",
+    "d": "kagi.com",
     "t": "sab",
     "u": "/search?q={{{s}}}+site:skepticsannotatedbible.com",
     "c": "Research",
@@ -78922,7 +78923,7 @@
   },
   {
     "s": "SageMath Docs (Kagi Search)",
-    "d": "sagemath.org",
+    "d": "kagi.com",
     "t": "sage",
     "u": "/search?q={{{s}}}+site:doc.sagemath.org",
     "c": "Research",
@@ -79051,7 +79052,7 @@
   },
   {
     "s": "SaltStack Docs (Kagi Search)",
-    "d": "saltstack.com",
+    "d": "kagi.com",
     "t": "saltstack",
     "u": "/search?q={{{s}}}+site:docs.saltstack.com",
     "c": "Tech",
@@ -79300,7 +79301,7 @@
   },
   {
     "s": "Skeptics Annotated Quran (Kagi Search)",
-    "d": "skepticsannotatedbible.com",
+    "d": "kagi.com",
     "t": "saq",
     "u": "/search?q={{{s}}}+site:skepticsannotatedbible.com/quran/",
     "c": "Research",
@@ -79523,7 +79524,7 @@
   },
   {
     "s": "Science-Based Medicine (Kagi Search)",
-    "d": "sciencebasedmedicine.org",
+    "d": "kagi.com",
     "t": "sbm",
     "u": "/search?q={{{s}}}+site:sciencebasedmedicine.org",
     "c": "Research",
@@ -79700,7 +79701,7 @@
   },
   {
     "s": "Scaruffi Music (Kagi Search)",
-    "d": "scaruffi.com",
+    "d": "kagi.com",
     "t": "scaruffi",
     "u": "/search?q={{{s}}}+site:scaruffi.com",
     "c": "Multimedia",
@@ -80453,7 +80454,7 @@
   },
   {
     "s": "Reddit (Kagi Search)",
-    "d": "reddit.com",
+    "d": "kagi.com",
     "t": "searchr",
     "u": "/search?q={{{s}}}+site:reddit.com",
     "c": "News",
@@ -81007,7 +81008,7 @@
   },
   {
     "s": "Serienjunkies (Kagi Search)",
-    "d": "serienjunkies.de",
+    "d": "kagi.com",
     "t": "serjunk",
     "u": "/search?q={{{s}}}+site:www.serienjunkies.de",
     "c": "Entertainment",
@@ -82137,7 +82138,7 @@
   },
   {
     "s": "Soc Job Rumors (Kagi Search)",
-    "d": "socjobrumors.com",
+    "d": "kagi.com",
     "t": "sjmr",
     "u": "/search?q={{{s}}}+site:socjobrumors.com",
     "c": "Online Services",
@@ -82258,7 +82259,7 @@
   },
   {
     "s": "Skeptic's Dictionary (Kagi Search)",
-    "d": "skepdic.com",
+    "d": "kagi.com",
     "t": "skepdic",
     "u": "/search?q={{{s}}}+site:skepdic.com",
     "c": "Research",
@@ -82267,7 +82268,7 @@
   },
   {
     "s": "Skeptics Annotated Bible (Kagi Search)",
-    "d": "skepticsannotatedbible.com",
+    "d": "kagi.com",
     "t": "skepticsbible",
     "u": "/search?q={{{s}}}+site:skepticsannotatedbible.com",
     "c": "Research",
@@ -82276,7 +82277,7 @@
   },
   {
     "s": "Skeptics Annotated Koran (Kagi Search)",
-    "d": "skepticsannotatedbible.com",
+    "d": "kagi.com",
     "t": "skepticskoran",
     "u": "/search?q={{{s}}}+site:skepticsannotatedbible.com/quran/",
     "c": "Research",
@@ -82285,7 +82286,7 @@
   },
   {
     "s": "Skeptics Annotated Quran (Kagi Search)",
-    "d": "skepticsannotatedbible.com",
+    "d": "kagi.com",
     "t": "skepticsquran",
     "u": "/search?q={{{s}}}+site:skepticsannotatedbible.com/quran/",
     "c": "Research",
@@ -82382,7 +82383,7 @@
   },
   {
     "s": "Scikit-Learn (Kagi Search)",
-    "d": "scikit-learn.org",
+    "d": "kagi.com",
     "t": "sklearn",
     "u": "/search?q={{{s}}}+site:http://scikit-learn.org/stable/modules/generated/",
     "c": "Research",
@@ -82431,7 +82432,7 @@
   },
   {
     "s": "Skyscanner (Kagi Search)",
-    "d": "skyscanner.net",
+    "d": "kagi.com",
     "t": "skyscan",
     "u": "/search?q={{{s}}}+site:http://www.skyscanner.net",
     "c": "Online Services",
@@ -83528,7 +83529,7 @@
   },
   {
     "s": "Stack Overflow (Kagi Search)",
-    "d": "stackoverflow.com",
+    "d": "kagi.com",
     "t": "sod",
     "u": "/search?q={{{s}}}+site:stackoverflow.com",
     "c": "Tech",
@@ -84423,7 +84424,7 @@
   },
   {
     "s": "SPIP (Kagi Search)",
-    "d": "spip.net",
+    "d": "kagi.com",
     "t": "spip",
     "u": "/search?q={{{s}}}+site:spip.net",
     "c": "Tech",
@@ -85008,7 +85009,7 @@
   },
   {
     "s": "SS64 (Kagi Search)",
-    "d": "ss64.com",
+    "d": "kagi.com",
     "t": "ss64",
     "u": "/search?q={{{s}}}+site:www.ss64.com",
     "c": "Tech",
@@ -88258,7 +88259,7 @@
   },
   {
     "s": "TeamSnap (Kagi Search)",
-    "d": "teamsnap.com",
+    "d": "kagi.com",
     "t": "teamsnap",
     "u": "/search?q={{{s}}}+site:teamsnap.com",
     "c": "Online Services",
@@ -88483,7 +88484,7 @@
   },
   {
     "s": "The Ecological Citizen (Kagi Search)",
-    "d": "ecologicalcitizen.net",
+    "d": "kagi.com",
     "t": "tec",
     "u": "/search?q={{{s}}}+site:http://www.ecologicalcitizen.net/",
     "c": "Research",
@@ -92240,7 +92241,7 @@
   },
   {
     "s": "TU Chemnitz (Kagi Search)",
-    "d": "tu-chemnitz.de",
+    "d": "kagi.com",
     "t": "tuc",
     "u": "/search?q={{{s}}}+site:www.tu-chemnitz.de",
     "c": "Research",
@@ -92385,7 +92386,7 @@
   },
   {
     "s": "TutorialsPoint (Kagi Search)",
-    "d": "tutorialspoint.com",
+    "d": "kagi.com",
     "t": "tupo",
     "u": "/search?q={{{s}}}+site:www.tutorialspoint.com",
     "c": "Tech",
@@ -93072,7 +93073,7 @@
   },
   {
     "s": "TypeScript (Kagi Search)",
-    "d": "typescriptlang.org",
+    "d": "kagi.com",
     "t": "typescript",
     "u": "/search?q={{{s}}}+site:www.typescriptlang.org",
     "c": "Tech",
@@ -93218,7 +93219,7 @@
   },
   {
     "s": "Ubuntu Hungary (Kagi Search)",
-    "d": "ubuntu.hu",
+    "d": "kagi.com",
     "t": "ubhu",
     "u": "/search?q={{{s}}}+site:ubuntu.hu",
     "c": "Tech",
@@ -93283,7 +93284,7 @@
   },
   {
     "s": "Ubuntu France (Kagi Search)",
-    "d": "ubuntu-fr.org",
+    "d": "kagi.com",
     "t": "ubufr",
     "u": "/search?q={{{s}}}+site:ubuntu-fr.org",
     "c": "Tech",
@@ -93356,7 +93357,7 @@
   },
   {
     "s": "Ubuntu Wiki DE (Kagi Search)",
-    "d": "ubuntuusers.de",
+    "d": "kagi.com",
     "t": "ubuntuwikide",
     "u": "/search?q={{{s}}}+site:wiki.ubuntuusers.de",
     "c": "Tech",
@@ -93693,7 +93694,7 @@
   },
   {
     "s": "UK App Store (Kagi Search)",
-    "d": "apple.com",
+    "d": "kagi.com",
     "t": "ukappstore",
     "u": "/search?q={{{s}}}+site:apps.apple.com/gb/app/",
     "c": "Shopping",
@@ -94078,7 +94079,7 @@
   },
   {
     "s": "UNHCR (Kagi Search)",
-    "d": "unhcr.org",
+    "d": "kagi.com",
     "t": "unhcr",
     "u": "/search?q={{{s}}}+site:http://www.unhcr.org/",
     "ad": "http%3A//www.unhcr.org/"
@@ -95133,7 +95134,7 @@
   },
   {
     "s": "Ubuntu Users DE (Kagi Search)",
-    "d": "ubuntuusers.de",
+    "d": "kagi.com",
     "t": "uude",
     "u": "/search?q={{{s}}}+site:ubuntuusers.de",
     "c": "Tech",
@@ -95150,7 +95151,7 @@
   },
   {
     "s": "Ubuntu Users (Kagi Search)",
-    "d": "ubuntuusers.de",
+    "d": "kagi.com",
     "t": "uu",
     "u": "/search?q={{{s}}}+site:ubuntuusers.de",
     "c": "Tech",
@@ -95159,7 +95160,7 @@
   },
   {
     "s": "Ubuntu Wiki DE (Kagi Search)",
-    "d": "ubuntuusers.de",
+    "d": "kagi.com",
     "t": "uuwiki",
     "u": "/search?q={{{s}}}+site:wiki.ubuntuusers.de",
     "c": "Tech",
@@ -95168,7 +95169,7 @@
   },
   {
     "s": "Ubuntu Wiki (Kagi Search)",
-    "d": "ubuntuusers.de",
+    "d": "kagi.com",
     "t": "uuw",
     "u": "/search?q={{{s}}}+site:wiki.ubuntuusers.de",
     "c": "Tech",
@@ -95321,7 +95322,7 @@
   },
   {
     "s": "V2EX (Kagi Search)",
-    "d": "v2ex.com",
+    "d": "kagi.com",
     "t": "v2ex",
     "u": "/search?q={{{s}}}+site:v2ex.com/t",
     "c": "Online Services",
@@ -95624,7 +95625,7 @@
   },
   {
     "s": "VBA MSDN (Kagi Search)",
-    "d": "microsoft.com",
+    "d": "kagi.com",
     "t": "vba",
     "u": "/search?q={{{s}}}+site:msdn.microsoft.com/en-us/vba",
     "c": "Tech",
@@ -96505,7 +96506,7 @@
   },
   {
     "s": "Virtus (Kagi Search)",
-    "d": "virtus.com",
+    "d": "kagi.com",
     "t": "virtus",
     "u": "/search?q={{{s}}}+site:virtus.com",
     "c": "News",
@@ -96866,7 +96867,7 @@
   },
   {
     "s": "Karl Voit Blog (Kagi Search)",
-    "d": "Karl-Voit.at",
+    "d": "kagi.com",
     "t": "voit",
     "u": "/search?q={{{s}}}+site:Karl-Voit.at",
     "c": "Tech",
@@ -97348,7 +97349,7 @@
   },
   {
     "s": "W3Schools (Kagi Search)",
-    "d": "w3schools.com",
+    "d": "kagi.com",
     "t": "w3schools",
     "u": "/search?q={{{s}}}+site:w3schools.com",
     "c": "Online Services",
@@ -97374,7 +97375,7 @@
   },
   {
     "s": "W3Schools HTML (Kagi Search)",
-    "d": "w3schools.com",
+    "d": "kagi.com",
     "t": "w3s",
     "u": "/search?q={{{s}}}+site:w3schools.com",
     "c": "Tech",
@@ -98339,7 +98340,7 @@
   },
   {
     "s": "Webtender (Kagi Search)",
-    "d": "webtender.com",
+    "d": "kagi.com",
     "t": "webtender",
     "u": "/search?q={{{s}}}+site:webtender.com",
     "c": "Online Services",
@@ -98788,7 +98789,7 @@
   },
   {
     "s": "What If? XKCD (Kagi Search)",
-    "d": "xkcd.com",
+    "d": "kagi.com",
     "t": "whatif",
     "u": "/search?q={{{s}}}+site:what-if.xkcd.com",
     "c": "Entertainment",
@@ -100325,7 +100326,7 @@
   },
   {
     "s": "Wikinews (Kagi Search)",
-    "d": "wikinews.org",
+    "d": "kagi.com",
     "t": "wnall",
     "u": "/search?q={{{s}}}+site:wikinews.org",
     "c": "News",
@@ -100742,7 +100743,7 @@
   },
   {
     "s": "RootsWorld (Kagi Search)",
-    "d": "rootsworld.com",
+    "d": "kagi.com",
     "t": "worldmusic",
     "u": "/search?q={{{s}}}+site:rootsworld.com,rootsworld.org",
     "c": "Entertainment",
@@ -102515,7 +102516,7 @@
   },
   {
     "s": "Weixin Dev (Kagi Search)",
-    "d": "weixin.qq.com",
+    "d": "kagi.com",
     "t": "wxdev",
     "u": "/search?q={{{s}}}+site:https://developers.weixin.qq.com/miniprogram/dev",
     "c": "Tech",
@@ -103310,7 +103311,7 @@
   },
   {
     "s": "Gabriel Weinberg Blog (Kagi Search)",
-    "d": "gabrielweinberg.com",
+    "d": "kagi.com",
     "t": "yegg",
     "u": "/search?q={{{s}}}+site:http://www.gabrielweinberg.com/blog",
     "c": "Tech",
@@ -104280,7 +104281,7 @@
   },
   {
     "s": "Yahoo Weather (Kagi Search)",
-    "d": "yahoo.com",
+    "d": "kagi.com",
     "t": "yw",
     "u": "/search?q={{{s}}}+site:weather.yahoo.com",
     "c": "News",
@@ -104705,7 +104706,7 @@
   },
   {
     "s": "Zend Framework (Kagi Search)",
-    "d": "zend.com",
+    "d": "kagi.com",
     "t": "zf",
     "u": "/search?q={{{s}}}+site:framework.zend.com",
     "c": "Tech",
@@ -104986,7 +104987,7 @@
   },
   {
     "s": "Zythom Blog (Kagi Search)",
-    "d": "zythom.blogspot.com",
+    "d": "kagi.com",
     "t": "zythom",
     "u": "/search?q={{{s}}}+site:zythom.blogspot.com",
     "c": "Tech",
