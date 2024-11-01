@@ -191,6 +191,12 @@
   {
     "s": "Kagi FastGPT",
     "d": "kagi.com",
+    "t": "fast",
+    "u": "/fastgpt?query={{{s}}}"
+  },
+  {
+    "s": "Kagi FastGPT",
+    "d": "kagi.com",
     "t": "fgpt",
     "u": "/fastgpt?query={{{s}}}"
   },
