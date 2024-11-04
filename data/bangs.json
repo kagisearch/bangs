@@ -95624,7 +95624,7 @@
     "sc": "Downloads (add-ons)"
   },
   {
-    "s": "VBA MSDN (Kagi Search)",
+    "s": "Office VBA Reference (Kagi Search)",
     "d": "kagi.com",
     "t": "vba",
     "u": "/search?q={{{s}}}+site:msdn.microsoft.com/en-us/vba",
@@ -97374,7 +97374,7 @@
     "sc": "Languages (html)"
   },
   {
-    "s": "W3Schools HTML (Kagi Search)",
+    "s": "W3Schools (Kagi Search)",
     "d": "kagi.com",
     "t": "w3s",
     "u": "/search?q={{{s}}}+site:w3schools.com",
