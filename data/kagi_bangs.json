@@ -102,6 +102,15 @@
     ]
   },
   {
+    "s": "Kagi Translate",
+    "d": "translate.kagi.com",
+    "t": "translate",
+    "u": "https://translate.kagi.com/?text={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder"
+    ]
+  },
+  {
     "s": "Kagi Images",
     "d": "kagi.com",
     "t": "i",

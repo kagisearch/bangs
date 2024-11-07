@@ -91535,14 +91535,6 @@
     "sc": "Google"
   },
   {
-    "s": "Google Translate",
-    "d": "translate.google.com",
-    "t": "translate",
-    "u": "https://translate.google.com/#auto/en/{{{s}}}",
-    "c": "Translation",
-    "sc": "Google"
-  },
-  {
     "s": "Google Translate Dutch",
     "d": "translate.google.com",
     "t": "translatenl",
