@@ -69960,7 +69960,6 @@
   {
     "s": "Phaser 3 Docs (Kagi Search)",
     "d": "kagi.com",
-    "ad": "photonstorm.github.io/phaser3-docs/",
     "t": "phas3r",
     "u": "/search?q={{{s}}}+inurl:https://photonstorm.github.io/phaser3-docs/",
     "c": "Tech",
