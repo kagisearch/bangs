@@ -4161,7 +4161,7 @@
     "u": "/search?q={{{s}}}+site:https://larmarange.github.io/analyse-R",
     "c": "Research",
     "sc": "Academic",
-    "ad": "http%3A//larmarange.github.io/analyse-R"
+    "ad": "larmarange.github.io/analyse-R"
   },
   {
     "s": "Anandtech",
@@ -4801,7 +4801,7 @@
     "u": "/search?q={{{s}}}+site:https://httpd.apache.org/docs/current/",
     "c": "Tech",
     "sc": "Sysadmin",
-    "ad": "https%3A//httpd.apache.org/docs/current/"
+    "ad": "httpd.apache.org/docs/current/"
   },
   {
     "s": "ArchLinux Packages",
@@ -5307,7 +5307,7 @@
     "u": "/search?q=site:itunes.apple.com/us/app/+{{{s}}}",
     "c": "Shopping",
     "sc": "Tech",
-    "ad": "itunes.apple.com%2Fus%2Fapp%2F"
+    "ad": "itunes.apple.com/us/app"
   },
   {
     "s": "AppVV",
@@ -7977,13 +7977,12 @@
     "sc": "Academic"
   },
   {
-    "s": "Greg's Bash Wiki (Kagi Search)",
-    "d": "kagi.com",
+    "s": "GNU Bash Homepage",
+    "d": "www.gnu.org",
     "t": "bash",
-    "u": "/search?q={{{s}}}+site:mywiki.wooledge.org,wiki.bash-hackers.org",
+    "u": "https://www.gnu.org/cgi-bin/estseek.cgi?phrase={{{s}}}",
     "c": "Tech",
-    "sc": "Programming",
-    "ad": "mywiki.wooledge.org%2Cwiki.bash-hackers.org"
+    "sc": "Programming"
   },
   {
     "s": "Basketball Reference",
@@ -10417,7 +10416,7 @@
   },
   {
     "s": "Blogspot",
-    "d": "",
+    "d": "kagi.com",
     "ad": "blogspot.com",
     "t": "blogspot",
     "u": "/search?q={{{s}}}+site:blogspot.com",
@@ -11130,7 +11129,7 @@
   },
   {
     "s": "Boost.org",
-    "d": "",
+    "d": "kagi.com",
     "ad": "boost.org",
     "t": "boost",
     "u": "/search?q={{{s}}}+site:boost.org",
@@ -11500,7 +11499,7 @@
   },
   {
     "s": "Homebrew",
-    "d": "brew.sh",
+    "d": "kagi.com",
     "t": "brew",
     "u": "/search?q={{{s}}}+site:formulae.brew.sh",
     "c": "Tech",
@@ -18655,7 +18654,7 @@
   },
   {
     "s": "Cyanide and Happiness",
-    "d": "",
+    "d": "kagi.com",
     "ad": "explosm.net",
     "t": "cyanide",
     "u": "/search?q={{{s}}}+site:explosm.net",
@@ -22224,7 +22223,7 @@
   },
   {
     "s": "diy.org",
-    "d": "",
+    "d": "kagi.com",
     "ad": "diy.org",
     "t": "diyorg",
     "u": "/search?q=site:diy.org+{{{s}}}",
@@ -24752,7 +24751,7 @@
     "u": "/search?q={{{s}}}+site:http://effective-altruism.com",
     "c": "Online Services",
     "sc": "Social news/links",
-    "ad": "http%3A//effective-altruism.com"
+    "ad": "effective-altruism.com"
   },
   {
     "s": "EAN Search",
@@ -25833,7 +25832,7 @@
     "u": "/search?q={{{s}}}+site:http://ellislab.com/forums/",
     "c": "Tech",
     "sc": "Programming",
-    "ad": "http%3A//ellislab.com/forums/"
+    "ad": "ellislab.com/forums/"
   },
   {
     "s": "Easter Eggs",
@@ -26656,7 +26655,7 @@
     "u": "/search?q={{{s}}}+site:https://api.emberjs.com",
     "c": "Tech",
     "sc": "Libraries/Frameworks",
-    "ad": "https%3A//api.emberjs.com"
+    "ad": "api.emberjs.com"
   },
   {
     "s": "Electronic Medicines Compendium",
@@ -29844,10 +29843,10 @@
     "s": "FreeCAD (Kagi Search)",
     "d": "kagi.com",
     "t": "fc",
-    "u": "/search?q={{{s}}}+site: freecadweb.org",
+    "u": "/search?q={{{s}}}+site:freecadweb.org",
     "c": "Tech",
     "sc": "Design",
-    "ad": "%20freecadweb.org"
+    "ad": "freecadweb.org"
   },
   {
     "s": "Florida Center for Instructional Technology",
@@ -34784,7 +34783,7 @@
     "u": "/search?q={{{s}}}+site:http://genma.free.fr",
     "c": "Tech",
     "sc": "Blogs",
-    "ad": "http%3A//genma.free.fr"
+    "ad": "genma.free.fr"
   },
   {
     "s": "Gentoo Packages",
@@ -42030,7 +42029,7 @@
     "s": "Twitter Hashtags",
     "d": "twitter.com",
     "t": "hashtag",
-    "u": "https://twitter.com/search?q=%23{{{s}}}",
+    "u": "https://twitter.com/search?q=\\#{{{s}}}",
     "c": "Online Services",
     "sc": "Social"
   },
@@ -47726,10 +47725,10 @@
     "s": "Jargon File (Kagi Search)",
     "d": "kagi.com",
     "t": "jargon",
-    "u": "/search?q={{{s}}}+site:catb.org inurl:jargon",
+    "u": "/search?q={{{s}}}+site:catb.org+inurl:jargon",
     "c": "Online Services",
     "sc": "Search (DDG)",
-    "ad": "catb.org%20inurl%3Ajargon"
+    "ad": "catb.org"
   },
   {
     "s": "Java 11 API (Kagi Search)",
@@ -48245,7 +48244,7 @@
     "s": "Jisho (kanji search)",
     "d": "jisho.org",
     "t": "jik",
-    "u": "https://jisho.org/search/%23kanji {{{s}}}",
+    "u": "https://jisho.org/search/#kanji {{{s}}}",
     "c": "Research",
     "sc": "Learning (intl)",
     "fmt": [
@@ -54917,10 +54916,10 @@
     "s": "Lupa by Piaui (Kagi Search)",
     "d": "kagi.com",
     "t": "lupa",
-    "u": "/search?q={{{s}}}+site:piaui.folha.uol.com.br inurl:lupa",
+    "u": "/search?q={{{s}}}+site:piaui.folha.uol.com.br+inurl:lupa",
     "c": "Online Services",
     "sc": "Tools",
-    "ad": "piaui.folha.uol.com.br%20inurl%3Alupa"
+    "ad": "piaui.folha.uol.com.br"
   },
   {
     "s": "Lurkmoar",
@@ -55049,7 +55048,7 @@
     "u": "/search?q={{{s}}}+site:http://lwjgl.org/javadoc/",
     "c": "Online Services",
     "sc": "Search (DDG)",
-    "ad": "http%3A//lwjgl.org/javadoc/"
+    "ad": "lwjgl.org/javadoc/"
   },
   {
     "s": "LessWrong",
@@ -59877,7 +59876,7 @@
     "u": "/search?q={{{s}}}+site:https://www.mobileread.com",
     "c": "Entertainment",
     "sc": "Forum",
-    "ad": "https%3A//www.mobileread.com"
+    "ad": "www.mobileread.com"
   },
   {
     "s": "Morfix",
@@ -61745,7 +61744,7 @@
   },
   {
     "s": "MySQL.com",
-    "d": "",
+    "d": "kagi.com",
     "ad": "dev.mysql.com",
     "t": "mysql",
     "u": "/search?q={{{s}}}+site:dev.mysql.com",
@@ -65556,7 +65555,7 @@
     "u": "/search?q={{{s}}}+site:http://forum.openframeworks.cc",
     "c": "Tech",
     "sc": "Libraries/Frameworks",
-    "ad": "http%3A//forum.openframeworks.cc"
+    "ad": "forum.openframeworks.cc"
   },
   {
     "s": "OpenGameArt.org",
@@ -66454,7 +66453,7 @@
     "u": "/search?q={{{s}}}+site:https://opam.ocaml.org/packages",
     "c": "Tech",
     "sc": "Languages (other)",
-    "ad": "https%3A//opam.ocaml.org/packages"
+    "ad": "opam.ocaml.org/packages"
   },
   {
     "s": "OP.GG Brazil - League of Legends Summoners statistics and MMR",
@@ -67192,7 +67191,7 @@
     "u": "/search?q={{{s}}}+site:http://orgmode.org/manual/",
     "c": "Tech",
     "sc": "Languages (other)",
-    "ad": "http%3A//orgmode.org/manual/"
+    "ad": "orgmode.org/manual/"
   },
   {
     "s": "Oria NTNU",
@@ -71177,7 +71176,7 @@
     "u": "/search?q={{{s}}}+site:http://bertilow.com/pmeg/",
     "c": "Online Services",
     "sc": "Search",
-    "ad": "http%3A//bertilow.com/pmeg/"
+    "ad": "bertilow.com/pmeg/"
   },
   {
     "s": "Pale Moon forum en español",
@@ -72724,7 +72723,7 @@
   },
   {
     "s": "Processing.org",
-    "d": "",
+    "d": "kagi.com",
     "ad": "processing.org",
     "t": "processing",
     "u": "/search?q={{{s}}}+site:processing.org",
@@ -72749,7 +72748,7 @@
   },
   {
     "s": "Processing.org",
-    "d": "",
+    "d": "kagi.com",
     "ad": "processing.org",
     "t": "proc",
     "u": "/search?q={{{s}}}+site:processing.org",
@@ -78887,7 +78886,7 @@
   },
   {
     "s": "DDG Safesearch On",
-    "d": "",
+    "d": "kagi.com",
     "ad": "",
     "t": "safe",
     "u": "/search?q={{{s}}}&kp=1",
@@ -78896,7 +78895,7 @@
   },
   {
     "s": "Safe search off",
-    "d": "",
+    "d": "kagi.com",
     "ad": "",
     "t": "safeoff",
     "u": "/search?q={{{s}}}&kp=-2",
@@ -78905,7 +78904,7 @@
   },
   {
     "s": "DDG Safesearch On",
-    "d": "",
+    "d": "kagi.com",
     "ad": "",
     "t": "safeon",
     "u": "/search?q={{{s}}}&kp=1",
@@ -82387,7 +82386,7 @@
     "u": "/search?q={{{s}}}+site:http://scikit-learn.org/stable/modules/generated/",
     "c": "Research",
     "sc": "Academic (math/cs)",
-    "ad": "http%3A//scikit-learn.org/stable/modules/generated/"
+    "ad": "scikit-learn.org/stable/modules/generated/"
   },
   {
     "s": "Skroutz",
@@ -82436,7 +82435,7 @@
     "u": "/search?q={{{s}}}+site:http://www.skyscanner.net",
     "c": "Online Services",
     "sc": "Search (Real-time)",
-    "ad": "http%3A//www.skyscanner.net"
+    "ad": "www.skyscanner.net"
   },
   {
     "s": "Skysports",
@@ -88488,7 +88487,7 @@
     "u": "/search?q={{{s}}}+site:http://www.ecologicalcitizen.net/",
     "c": "Research",
     "sc": "Academic",
-    "ad": "http%3A//www.ecologicalcitizen.net/"
+    "ad": "www.ecologicalcitizen.net/"
   },
   {
     "s": "TedEd",
@@ -93094,7 +93093,7 @@
     "u": "/search?q={{{s}}}+site:typst.app/docs",
     "c": "Tech",
     "sc": "Languages (other)",
-    "ad": "typst.app%2Fdocs"
+    "ad": "typst.app/docs"
   },
   {
     "s": "Typst Universe",
@@ -94073,7 +94072,7 @@
     "d": "kagi.com",
     "t": "unhcr",
     "u": "/search?q={{{s}}}+site:http://www.unhcr.org/",
-    "ad": "http%3A//www.unhcr.org/"
+    "ad": "www.unhcr.org/"
   },
   {
     "s": "Unicat",
@@ -97307,7 +97306,7 @@
   },
   {
     "s": "W3C",
-    "d": "",
+    "d": "kagi.com",
     "ad": "w3.org",
     "t": "w3c",
     "u": "/search?q={{{s}}}+site:w3.org",
@@ -97383,7 +97382,7 @@
   },
   {
     "s": "W3C",
-    "d": "",
+    "d": "kagi.com",
     "ad": "w3.org",
     "t": "w3",
     "u": "/search?q={{{s}}}+site:w3.org",
@@ -100733,13 +100732,13 @@
     "sc": "Games (offline)"
   },
   {
-    "s": "RootsWorld (Kagi Search)",
+    "s": "RootsWorld Magazine and Radio (Kagi Search)",
     "d": "kagi.com",
     "t": "worldmusic",
-    "u": "/search?q={{{s}}}+site:rootsworld.com,rootsworld.org",
+    "u": "/search?q={{{s}}}+site:rootsworld.com",
     "c": "Entertainment",
     "sc": "Audio",
-    "ad": "rootsworld.com%2Crootsworld.org"
+    "ad": "rootsworld.com"
   },
   {
     "s": "World of Spectrum",
@@ -102512,7 +102511,7 @@
     "u": "/search?q={{{s}}}+site:https://developers.weixin.qq.com/miniprogram/dev",
     "c": "Tech",
     "sc": "Libraries/Frameworks",
-    "ad": "https%3A//developers.weixin.qq.com/miniprogram/dev"
+    "ad": "developers.weixin.qq.com/miniprogram/dev"
   },
   {
     "s": "Woxikon.de",
@@ -102828,7 +102827,7 @@
   },
   {
     "s": "xkcd",
-    "d": "",
+    "d": "kagi.com",
     "ad": "xkcd.com",
     "t": "xkcd",
     "u": "/search?q={{{s}}}+site:xkcd.com",
@@ -103307,7 +103306,7 @@
     "u": "/search?q={{{s}}}+site:http://www.gabrielweinberg.com/blog",
     "c": "Tech",
     "sc": "Blogs",
-    "ad": "http%3A//www.gabrielweinberg.com/blog"
+    "ad": "www.gabrielweinberg.com/blog"
   },
   {
     "s": "Yeggi",

@@ -2,6 +2,7 @@ require "json"
 require "rspec"
 require "addressable"
 require "uri"
+require "cgi"
 
 bangs_json = JSON.parse(File.read("data/bangs.json"))
 bang_triggers = bangs_json.map { |b| b["t"] }
@@ -19,29 +20,60 @@ def find_dups(*arr)
     .keys
 end
 
-def match_domains(bangs)
+def match_domains(bangs, check_ad = false)
   bangs.each do |bang|
-    next if bang["u"].start_with?("/")
+    if bang["u"].start_with?("/")
+      it "bangs on kagi.com should have correct domain (#{bang["s"]})" do
+        expect(bang["d"]).to eq("kagi.com")
+      end
 
-    it "domains match template urls (#{bang["s"]})" do
-      template = bang["u"].gsub("{{{s}}}", "example")
-      uri = Addressable::URI.parse(template)
-      domain = bang["d"].gsub("{{{s}}}", "example")
+      if check_ad
+        it "bangs on kagi.com should have alternative domains (#{bang["s"]})" do
+          expect(bang["ad"]).to_not be_nil
+        end
+      end
+    else
+      it "domains match template urls (#{bang["s"]})" do
+        template = bang["u"].gsub("{{{s}}}", "example")
+        uri = Addressable::URI.parse(template)
+        domain = bang["d"].gsub("{{{s}}}", "example")
 
-      expect(domain).to eq(uri.host)
+        expect(domain).to eq(uri.host)
+      end
     end
   end
 end
 
-def uri_encoded_urls(bangs)
-  # TODO(margret):
-  # bangs.each do |bang|
-  #   it "template should be uri encoded (#{bang["s"]})" do
-  #     expect {
-  #       URI.parse(bang["u"].gsub("{{{s}}}", "example"))
-  #     }.to_not raise_exception
-  #   end
-  # end
+def uri_decoded_urls(bangs)
+  bangs.each do |bang|
+    it "template should not be uri encoded (#{bang["s"]})" do
+      expect(CGI.unescapeURIComponent(bang["u"]).to_s).to eq(bang["u"])
+    end
+
+    it "domain should not be uri encoded (#{bang["s"]})" do
+      expect(CGI.unescapeURIComponent(bang["d"]).to_s).to eq(bang["d"])
+    end
+
+    if bang["ad"]
+      it "alt domain should not be uri encoded (#{bang["s"]})" do
+        expect(CGI.unescapeURIComponent(bang["ad"]).to_s).to eq(bang["ad"])
+      end
+    end
+  end
+end
+
+def ad_format_check(bangs)
+  bangs.each do |bang|
+    next unless ad = bang["ad"]
+
+    it "ad should be formatted correctly (#{bang["s"]})" do
+       expect(ad.match?(/http(s)?(:|%3A)\/\//)).to be false
+       expect(ad.match?(/.*,.*/)).to be false
+       expect(ad.include?("%2F")).to be false
+       expect(ad.include?("%20")).to be false
+       expect(ad.include?(" ")).to be false
+    end
+  end
 end
 
 describe "bangs.json" do
@@ -71,8 +103,9 @@ describe "bangs.json" do
     end
   end
 
-  match_domains(bangs_json)
-  uri_encoded_urls(bangs_json)
+  match_domains(bangs_json, check_ad: true)
+  uri_decoded_urls(bangs_json)
+  ad_format_check(bangs_json)
 end
 
 describe "kagi_bangs.json" do
@@ -89,7 +122,8 @@ describe "kagi_bangs.json" do
   end
 
   match_domains(kagi_bangs_json)
-  uri_encoded_urls(kagi_bangs_json)
+  uri_decoded_urls(kagi_bangs_json)
+  ad_format_check(kagi_bangs_json)
 end
 
 describe "assistant_bangs.json" do
@@ -100,5 +134,6 @@ describe "assistant_bangs.json" do
   end
 
   match_domains(assist_bangs_json)
-  uri_encoded_urls(assist_bangs_json)
+  uri_decoded_urls(assist_bangs_json)
+  ad_format_check(assist_bangs_json)
 end
