@@ -76,6 +76,16 @@ def ad_format_check(bangs)
   end
 end
 
+def template_format_check(bangs)
+  bangs.each do |bang|
+    next unless template = bang["u"]
+
+    it "template should contain correct {{{s}}} (#{bang["s"]})" do
+      expect(template.include?("{{{s}}}")).to be true
+    end
+  end
+end
+
 describe "bangs.json" do
   it "doesn't have duplicate bang triggers" do
     dups = find_dups(bang_triggers)
@@ -106,6 +116,7 @@ describe "bangs.json" do
   match_domains(bangs_json, check_ad: true)
   uri_decoded_urls(bangs_json)
   ad_format_check(bangs_json)
+  template_format_check(bangs_json)
 end
 
 describe "kagi_bangs.json" do
@@ -124,6 +135,7 @@ describe "kagi_bangs.json" do
   match_domains(kagi_bangs_json)
   uri_decoded_urls(kagi_bangs_json)
   ad_format_check(kagi_bangs_json)
+  template_format_check(kagi_bangs_json)
 end
 
 describe "assistant_bangs.json" do
@@ -136,4 +148,5 @@ describe "assistant_bangs.json" do
   match_domains(assist_bangs_json)
   uri_decoded_urls(assist_bangs_json)
   ad_format_check(assist_bangs_json)
+  template_format_check(assist_bangs_json)
 end

@@ -15563,7 +15563,7 @@
     "s": "Climed Seviços de Saude",
     "d": "www.climedweb.com",
     "t": "climed",
-    "u": "https://www.climedweb.com/wp/?s=",
+    "u": "https://www.climedweb.com/?s={{{s}}}",
     "c": "Research",
     "sc": "Health"
   },
@@ -15699,7 +15699,7 @@
     "s": "AWS CloudFormation Documentation",
     "d": "docs.aws.amazon.com",
     "t": "cloudformation",
-    "u": "https://docs.aws.amazon.com/search/doc-search.html?searchPath=documentation-guide&searchQuery=example&this_doc_product=AWS+CloudFormation&this_doc_guide=User+Guide&doc_locale=en_us#facet_doc_product=AWS",
+    "u": "https://docs.aws.amazon.com/search/doc-search.html?searchPath=documentation-guide&searchQuery={{{s}}}&this_doc_product=AWS+CloudFormation&this_doc_guide=User+Guide&doc_locale=en_us#facet_doc_product=AWS",
     "c": "Tech",
     "sc": "Sysadmin"
   },
@@ -37216,7 +37216,7 @@
     "s": "Google Korea",
     "d": "www.google.co.kr",
     "t": "google.kr",
-    "u": "https://www.google.co.kr/?gws_rd=cr",
+    "u": "https://www.google.co.kr/search?q={{{s}}}",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -59305,7 +59305,7 @@
     "s": "M&A Critique",
     "d": "mnacritique.mergersindia.com",
     "t": "mna",
-    "u": "https://mnacritique.mergersindia.com/?s=",
+    "u": "https://mnacritique.mergersindia.com/?s={{{s}}}",
     "c": "Multimedia",
     "sc": "Books"
   },
@@ -62235,7 +62235,7 @@
     "s": "Kagi Bangs repo",
     "d": "github.com",
     "t": "nbang",
-    "u": "https://github.com/kagisearch/bangs",
+    "u": "https://github.com/search?q=repo:kagisearch/bangs+{{{s}}}&type=code",
     "c": "Online Services",
     "sc": "Search"
   },
@@ -62427,7 +62427,7 @@
     "s": "DuckDuckGo News DE",
     "d": "duckduckgo.com",
     "t": "nde",
-    "u": "https://duckduckgo.com/?q=test&iar=news&ia=news&kl=de-de",
+    "u": "https://duckduckgo.com/?q={{{s}}}&iar=news&ia=news&kl=de-de",
     "c": "News",
     "sc": "Newspaper"
   },
@@ -66821,7 +66821,7 @@
     "s": "Yelp Open Search",
     "d": "www.yelp.com",
     "t": "open",
-    "u": "https://www.yelp.com/search?find_desc=&ns=1#start=0&open_now=2510"
+    "u": "https://www.yelp.com/search?find_desc={{{s}}}&ns=1#start=0&open_now=2510"
   },
   {
     "s": "Opera Extensions",
