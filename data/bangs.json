@@ -41681,6 +41681,14 @@
     "sc": "Food"
   },
   {
+    "s": "Grok",
+    "d": "x.com/grok",
+    "t": "grok",
+    "u": "https://x.com/i/grok?text={{{s}}}",
+    "c": "Online Services",
+    "sc": "Tools"
+  },
+  {
     "s": "h2g2",
     "d": "www.h2g2.com",
     "t": "h2g2",
