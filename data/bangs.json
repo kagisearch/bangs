@@ -41682,7 +41682,7 @@
   },
   {
     "s": "Grok",
-    "d": "x.com/grok",
+    "d": "x.com",
     "t": "grok",
     "u": "https://x.com/i/grok?text={{{s}}}",
     "c": "Online Services",
