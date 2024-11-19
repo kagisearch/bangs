@@ -23138,6 +23138,18 @@
     "sc": "Online"
   },
   {
+    "s": "DoorDash",
+    "d": "www.doordash.com",
+    "t": "doordash",
+    "u": "https://www.doordash.com/search/store/{{{s}}}?event_type=search",
+    "c": "Shopping",
+    "sc": "Online",
+    "fmt": [
+      "open_base_path",
+      "url_encode_placeholder"
+    ]
+  },
+  {
     "s": "Dopeclics",
     "d": "www.dopeclics.com",
     "t": "dopeclics",
