@@ -90602,6 +90602,14 @@
     "sc": "Tools"
   },
   {
+    "s": "Translink NI",
+    "d": "www.translink.co.uk",
+    "t": "tlni",
+    "u": "https://www.translink.co.uk/timetables?Name={{{s}}}",
+    "c": "Online Services",
+    "sc": "Tools"
+  },
+  {
     "s": "Thorlabs",
     "d": "www.thorlabs.com",
     "t": "tls",
