@@ -14755,7 +14755,7 @@
     "s": "The Chicago Tribune",
     "d": "www.chicagotribune.com",
     "t": "chicagotribune",
-    "u": "https://www.chicagotribune.com/search/dispatcher.front?Query={{{s}}}&sortby=display_time+descending&subheader-search-button=Go&target=article",
+    "u": "https://www.chicagotribune.com/?s={{{s}}}&orderby=date",
     "c": "News",
     "sc": "Newspaper"
   },
