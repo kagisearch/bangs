@@ -99808,7 +99808,7 @@
   },
   {
     "s": "Dutch News",
-    "d": "dutchnews.nl",
+    "d": "www.dutchnews.nl",
     "t": "dutchnews",
     "u": "https://www.dutchnews.nl/?s={{{s}}}&post_type=post",
     "c": "News",
