@@ -5446,14 +5446,6 @@
     "sc": "Blogs"
   },
   {
-    "s": "all recipes",
-    "d": "allrecipes.com",
-    "t": "ar",
-    "u": "https://allrecipes.com/search/default.aspx?qt=k&wt={{{s}}}&rt=r&origin=Recipe Search Results",
-    "c": "Research",
-    "sc": "Food"
-  },
-  {
     "s": "Aramex Tracking",
     "d": "www.aramex.com",
     "t": "aramex",

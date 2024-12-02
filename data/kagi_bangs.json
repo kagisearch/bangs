@@ -604,6 +604,13 @@
     "c": "Region search"
   },
   {
+    "s": "Search in Argentina",
+    "d": "kagi.com",
+    "t": "ar",
+    "u": "/search?q={{{s}}}&r=ar",
+    "c": "Region search"
+  },
+  {
     "s": "Search in Austria",
     "d": "kagi.com",
     "t": "at",

@@ -48,7 +48,6 @@ Adding new region bangs will be handled on a case-by-case basis.
 | al      | AniList                           | Entertainment   | Albania                                      |
 | am      | Amazon.com                        | Shopping        | Armenia                                      |
 | ao      | Amazon Orders                     | Shopping        | Angola                                       |
-| ar      | all recipes                       | Research        | Argentina                                    |
 | as      | Kagi Assistant                    |                 | American Samoa                               |
 | aw      | Arch Linux Wiki                   | Tech            | Aruba                                        |
 | ax      | androidxref                       | Tech            | Åland Islands                                |
