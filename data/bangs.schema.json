@@ -68,6 +68,11 @@
             "url_encode_space_to_plus"
           ]
         }
+      },
+      "skip_tests": {
+        "type": "boolean",
+        "default": false,
+        "description": "Whether specs should be run on this bang"
       }
     },
     "required": [

@@ -1292,7 +1292,7 @@
     "s": "abcya",
     "d": "www.abcya.com",
     "t": "abcya",
-    "u": "https://www.abcya.com/search/?term={{{s}}}&type={{{s}}}",
+    "u": "https://www.abcya.com/search/?term={{{s}}}&type=all",
     "c": "Entertainment",
     "sc": "Games (offline)"
   },
@@ -1508,7 +1508,7 @@
     "s": "Ace Hardware",
     "d": "www.acehardware.com",
     "t": "ace",
-    "u": "https://www.acehardware.com/search/index.jsp?kwCatId=&kw={{{s}}}&origkw={{{s}}}&f=Taxonomy/ACE/19541496&sr=1",
+    "u": "https://www.acehardware.com/search?query={{{s}}}",
     "c": "Shopping",
     "sc": "Big box/department"
   },
@@ -5148,9 +5148,9 @@
   },
   {
     "s": "Apple Daily (Hong Kong)",
-    "d": "hk.appledaily.com",
+    "d": "appledaily.com",
     "t": "appledaily",
-    "u": "https://hk.appledaily.com/search/{{{s}}}?q={{{s}}}",
+    "u": "https://appledaily.com/?s={{{s}}}",
     "c": "News",
     "sc": "Newspaper (intl)"
   },
@@ -9087,9 +9087,9 @@
   },
   {
     "s": "BevMo",
-    "d": "www.bevmo.com",
+    "d": "bevmo.com",
     "t": "bevmo",
-    "u": "https://www.bevmo.com/Shop/ProductList.aspx/_/D-{{{s}}}/N-/Ntt-{{{s}}}?DNID=Home&Dx=mode+matchany&fromsearch=true&Ntk=All&Ntx=mode+matchany",
+    "u": "https://bevmo.com/search?q={{{s}}}",
     "c": "Shopping",
     "sc": "Big box/department"
   },
@@ -10105,7 +10105,7 @@
     "s": "Basketball Reference",
     "d": "www.basketball-reference.com",
     "t": "bkref",
-    "u": "https://www.basketball-reference.com/search/search.fcgi?hint={{{s}}}&search={{{s}}}&pid=&idx=",
+    "u": "https://www.basketball-reference.com/search/search.fcgi?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Sports"
   },
@@ -10129,7 +10129,7 @@
     "s": "blackle",
     "d": "blackle.com",
     "t": "bla",
-    "u": "http://blackle.com/results/?q={{{s}}}#gsc.tab=0&gsc.q={{{s}}}&gsc.page=1",
+    "u": "https://blackle.com/results/?q={{{s}}}",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -10670,14 +10670,6 @@
     "u": "http://www.barnesandnoble.com/s/{{{s}}}",
     "c": "Shopping",
     "sc": "Online"
-  },
-  {
-    "s": "Bing Narrow by Region",
-    "d": "www.bing.com",
-    "t": "bnbr",
-    "u": "https://www.bing.com/search?q={{{s}}}&rf=1&qpvt={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
   },
   {
     "s": "Bandcamp",
@@ -12479,7 +12471,7 @@
     "s": "Better World Books",
     "d": "www.betterworldbooks.com",
     "t": "bwbooks",
-    "u": "http://www.betterworldbooks.com/{{{s}}}-H0.aspx?SearchTerm={{{s}}}",
+    "u": "https://www.betterworldbooks.com/search/results?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
@@ -13875,7 +13867,7 @@
     "s": "Cambridge Dictionaries Online",
     "d": "dictionary.cambridge.org",
     "t": "cdgdic",
-    "u": "https://dictionary.cambridge.org/dictionary/learner-english/{{{s}}}_1?q={{{s}}}",
+    "u": "https://dictionary.cambridge.org/spellcheck/learner-english/?q={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
@@ -15427,7 +15419,7 @@
     "s": "Clas Ohlson Finland",
     "d": "www.clasohlson.com",
     "t": "clasfi",
-    "u": "https://www.clasohlson.com/fi/view/content/search?N=0&Ntk=All&Ntt={{{s}}}&Nty=1&D={{{s}}}&Ntx=mode+matchpartial&Dx=mode+matchpartial&showTabs=true",
+    "u": "https://www.clasohlson.com/se/search?text={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
@@ -16337,11 +16329,12 @@
   },
   {
     "s": "ColdFusion Docs",
-    "d": "community.adobe.com",
+    "d": "helpx.adobe.com",
     "t": "coldfusion",
-    "u": "https://community.adobe.com/help/search.html?searchterm={{{s}}}&go=go&q={{{s}}}&l=coldfusion_product_adobelr&x=0&y=0&area=0&lr=en_US",
+    "u": "https://helpx.adobe.com/search.html?q={{{s}}}&filters={%22products%22%3A[%22ColdFusion%22]}",
     "c": "Tech",
-    "sc": "Companies"
+    "sc": "Companies",
+    "skip_tests": true
   },
   {
     "s": "Coles",
@@ -16563,7 +16556,7 @@
     "s": "Compumundo",
     "d": "www.compumundo.com.ar",
     "t": "compumundo",
-    "u": "https://www.compumundo.com.ar/q/{{{s}}}/srch?q={{{s}}}",
+    "u": "https://www.compumundo.com.ar/shop?search={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
@@ -17522,7 +17515,7 @@
     "s": "Crackberry",
     "d": "crackberry.com",
     "t": "crackberry",
-    "u": "https://crackberry.com/search/google/{{{s}}}?query={{{s}}}",
+    "u": "https://crackberry.com/search/{{{s}}}",
     "c": "Tech",
     "sc": "Blogs"
   },
@@ -21303,7 +21296,7 @@
     "s": "Desiring God",
     "d": "www.desiringgod.org",
     "t": "dg",
-    "u": "https://www.desiringgod.org/search/results?utf8=✓&search_source=navbar&q={{{s}}}#gsc.tab=0&gsc.q={{{s}}}&gsc.page=1",
+    "u": "https://www.desiringgod.org/search/results?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Blogs"
   },
@@ -23543,7 +23536,7 @@
     "s": "DPReview",
     "d": "www.dpreview.com",
     "t": "dpreview",
-    "u": "https://www.dpreview.com/search/?query={{{s}}}&terms={{{s}}}",
+    "u": "https://www.dpreview.com/search/?query={{{s}}}",
     "c": "News",
     "sc": "Specialty"
   },
@@ -24926,10 +24919,10 @@
     "sc": "Services"
   },
   {
-    "s": "Ebates",
-    "d": "www.ebates.com",
+    "s": "Rakuten",
+    "d": "www.rakuten.com",
     "t": "ebates",
-    "u": "https://www.ebates.com/search/all.htm?query={{{s}}}&position=submit&type=suggest&store_name={{{s}}}",
+    "u": "https://www.rakuten.com/search?term={{{s}}}&type=suggest",
     "c": "Shopping",
     "sc": "Online (deals)"
   },
@@ -27105,7 +27098,7 @@
     "s": "Foclóir",
     "d": "www.focloir.ie",
     "t": "enfoc",
-    "u": "https://www.focloir.ie/en/dictionary/ei/{{{s}}}?advSearch=1&q={{{s}}}&inlanguage=en",
+    "u": "https://www.focloir.ie/en/dictionary/ei/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words intl)"
   },
@@ -27731,7 +27724,7 @@
     "s": "ePrice",
     "d": "www.eprice.it",
     "t": "epriceit",
-    "u": "http://www.eprice.it/search/qs={{{s}}}&mets={{{s}}}",
+    "u": "https://www.eprice.it/search/qs={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
@@ -28597,7 +28590,7 @@
     "s": "Electrek",
     "d": "cse.google.com",
     "t": "ev",
-    "u": "https://cse.google.com/cse?cx=008464549922976904202:3wy4ipwvlno&q={{{s}}}&oq={{{s}}}&gs_l=partner-generic.3...27208.27522.3.27758.3.3.0.0.0.0.67.174.3.3.0.gsnos,n=13...0.1844j1376214j6j1...1.34.partner-generic..3.2.102.qiNHoIwD47w",
+    "u": "https://cse.google.com/cse?cx=008464549922976904202:3wy4ipwvlno&q={{{s}}}",
     "c": "News",
     "sc": "Online"
   },
@@ -28608,14 +28601,6 @@
     "u": "https://www.standard.co.uk/search/site/{{{s}}}",
     "c": "News",
     "sc": "International"
-  },
-  {
-    "s": "Eventful",
-    "d": "eventful.com",
-    "t": "eventful",
-    "u": "http://eventful.com/events?ga_type=events&ga_search={{{s}}}&q={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Events"
   },
   {
     "s": "EventID",
@@ -31681,7 +31666,7 @@
     "s": "Identifont",
     "d": "www.identifont.com",
     "t": "font",
-    "u": "http://www.identifont.com/find?font={{{s}}}&similar={{{s}}}",
+    "u": "http://www.identifont.com/find?similar={{{s}}}",
     "c": "Research",
     "sc": "Reference"
   },
@@ -33039,7 +33024,7 @@
     "s": "BKK Futár",
     "d": "futar.bkk.hu",
     "t": "futar",
-    "u": "https://futar.bkk.hu/?toCoord={{{s}}}&toName={{{s}}}&toSubName={{{s}}}&layers=GSVB",
+    "u": "https://futar.bkk.hu/search/query/?query={{{s}}}",
     "c": "Online Services",
     "sc": "Maps"
   },
@@ -33326,9 +33311,9 @@
   },
   {
     "s": "Gadgets Now",
-    "d": "www.gadgetsnow.com",
+    "d": "gadgetsnow.indiatimes.com",
     "t": "gadgetsnow",
-    "u": "https://www.gadgetsnow.com/topic/{{{s}}}?SEARCH_STRING={{{s}}}",
+    "u": "https://gadgetsnow.indiatimes.com/topic/{{{s}}}",
     "c": "Tech",
     "sc": "Blogs"
   },
@@ -33376,7 +33361,7 @@
     "s": "Foclóir",
     "d": "www.focloir.ie",
     "t": "gafoc",
-    "u": "https://www.focloir.ie/en/dictionary/ei/{{{s}}}?advSearch=1&q={{{s}}}&inlanguage=ga",
+    "u": "https://www.focloir.ie/en/dictionary/ei/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words intl)"
   },
@@ -35904,10 +35889,10 @@
     "sc": "Programming"
   },
   {
-    "s": "https://www.google.fr/maps/dir/",
+    "s": "Google Maps (French)",
     "d": "www.google.fr",
     "t": "giti",
-    "u": "https://www.google.fr/maps/dir/{{{s}}}/{{{s}}}",
+    "u": "https://www.google.fr/maps/dir/{{{s}}}",
     "c": "Research",
     "sc": "Travel"
   },
@@ -36051,7 +36036,7 @@
     "s": "Glassdoor",
     "d": "www.glassdoor.com",
     "t": "gld",
-    "u": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword={{{s}}}+&sc.keyword={{{s}}}+&locT=&locId=&jobType=",
+    "u": "https://www.glassdoor.com/Search/results.htm?keyword={{{s}}}",
     "c": "Online Services",
     "sc": "Jobs"
   },
@@ -36604,7 +36589,7 @@
     "s": "Google News (Canada)",
     "d": "news.google.com",
     "t": "gnca",
-    "u": "https://news.google.com/news/search/section/q/{{{s}}}/{{{s}}}?hl=en-CA&ned=ca",
+    "u": "https://news.google.com/search?hl=en-CA&q={{{s}}}&gl=CA&ceid=CA:en",
     "c": "News",
     "sc": "Aggregators"
   },
@@ -36644,7 +36629,7 @@
     "s": "Google News",
     "d": "news.google.com",
     "t": "gnews",
-    "u": "https://news.google.com/news/search/section/q/{{{s}}}/{{{s}}}",
+    "u": "https://news.google.com/search?q={{{s}}}",
     "c": "News",
     "sc": "Aggregators"
   },
@@ -36796,7 +36781,7 @@
     "s": "Google News",
     "d": "news.google.com",
     "t": "gnus",
-    "u": "https://news.google.com/news/search/section/q/{{{s}}}/{{{s}}}?hl=en&ned=us",
+    "u": "https://news.google.com/search?q={{{s}}}&hl=en-US&gl=US&ceid=US:en",
     "c": "News",
     "sc": "Aggregators"
   },
@@ -38013,7 +37998,7 @@
     "s": "GraphHopper Maps",
     "d": "graphhopper.com",
     "t": "graphhopper",
-    "u": "https://graphhopper.com/maps/?point={{{s}}}&point={{{s}}}",
+    "u": "https://graphhopper.com/maps/?point={{{s}}}",
     "c": "Online Services",
     "sc": "Maps"
   },
@@ -42505,7 +42490,7 @@
     "s": "Henrys",
     "d": "www.henrys.com",
     "t": "henry",
-    "u": "https://www.henrys.com/Search/{{{s}}}.aspx?q={{{s}}}",
+    "u": "https://www.henrys.com/search?q={{{s}}}",
     "c": "Shopping",
     "sc": "Tech"
   },
@@ -42513,7 +42498,7 @@
     "s": "Henrys",
     "d": "www.henrys.com",
     "t": "henrysphoto",
-    "u": "https://www.henrys.com/Search/{{{s}}}.aspx?q={{{s}}}",
+    "u": "https://www.henrys.com/search?q={{{s}}}",
     "c": "Shopping",
     "sc": "Tech"
   },
@@ -43326,7 +43311,7 @@
     "s": "Home Depot Canada",
     "d": "www.homedepot.ca",
     "t": "homedepotca",
-    "u": "https://www.homedepot.ca/en/home/search.html?q={{{s}}}#!q={{{s}}}",
+    "u": "https://www.homedepot.ca/en/home/search.html?q={{{s}}}",
     "c": "Shopping",
     "sc": "Big box/department"
   },
@@ -44929,7 +44914,7 @@
     "s": "IdealWorld.tv",
     "d": "www.idealworld.tv",
     "t": "ideal",
-    "u": "https://www.idealworld.tv/search/{{{s}}}?fh_location=//IdealWorld/en_GB/$s={{{s}}}&gs={{{s}}}",
+    "u": "https://www.idealworld.tv/navigation/?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
@@ -45065,7 +45050,7 @@
     "s": "Idos",
     "d": "jizdnirady.idnes.cz",
     "t": "idos",
-    "u": "https://jizdnirady.idnes.cz/vlakyautobusymhdvse/spojeni/?f={{{s}}}&t={{{s}}}",
+    "u": "https://jizdnirady.idnes.cz/vlakyautobusymhdvse/spojeni/?f={{{s}}}",
     "c": "Online Services",
     "sc": "Maps"
   },
@@ -45869,10 +45854,10 @@
     "sc": "Tools"
   },
   {
-    "s": "Google Image Search - Tagged for Reuse with modification",
-    "d": "google.com",
+    "s": "Google Image Search - Creative Commons",
+    "d": "www.google.com",
     "t": "imgrwm",
-    "u": "https://google.com/search?tbm=isch&q={{{s}}}&tbs=imgo:1#q={{{s}}}&tbs=imgo:1,sur:fmc&tbm=isch",
+    "u": "https://www.google.com/search?q={{{s}}}&udm=2&source=lnt&tbs=sur:cl",
     "c": "Multimedia",
     "sc": "Images"
   },
@@ -45912,7 +45897,7 @@
     "s": "iMore",
     "d": "www.imore.com",
     "t": "imore",
-    "u": "https://www.imore.com/search/{{{s}}}?query={{{s}}}",
+    "u": "https://www.imore.com/search?searchTerm={{{s}}}",
     "c": "Tech",
     "sc": "Blogs (intl)"
   },
@@ -46155,14 +46140,6 @@
     "u": "https://inflooenz.com/?artist={{{s}}}",
     "c": "Entertainment",
     "sc": "Audio"
-  },
-  {
-    "s": "Infobae",
-    "d": "www.infobae.com",
-    "t": "infobae",
-    "u": "https://www.infobae.com/search/{{{s}}}/?q={{{s}}}",
-    "c": "News",
-    "sc": "Newspaper (intl)"
   },
   {
     "s": "Infogalactic",
@@ -47240,7 +47217,7 @@
     "s": "iStockPhoto",
     "d": "www.istockphoto.com",
     "t": "istock",
-    "u": "https://www.istockphoto.com/photos/{{{s}}}?phrase={{{s}}}",
+    "u": "https://www.istockphoto.com/search/2/image?phrase={{{s}}}",
     "c": "Multimedia",
     "sc": "Images"
   },
@@ -47480,7 +47457,7 @@
     "s": "ivoox",
     "d": "www.ivoox.com",
     "t": "ivoox",
-    "u": "https://www.ivoox.com/{{{s}}}_sb.html?sb={{{s}}}",
+    "u": "https://www.ivoox.com/{{{s}}}_sb.html",
     "c": "Entertainment",
     "sc": "Audio"
   },
@@ -51627,7 +51604,7 @@
     "s": "Larousse",
     "d": "www.larousse.fr",
     "t": "larfrit",
-    "u": "https://www.larousse.fr/dictionnaires/francais-italien/{{{s}}}/?q={{{s}}}",
+    "u": "https://www.larousse.fr/dictionnaires/francais-italien/{{{s}}}/",
     "c": "Translation",
     "sc": "General"
   },
@@ -51835,7 +51812,7 @@
     "s": "Lawphil.net",
     "d": "cse.google.com",
     "t": "lawphil",
-    "u": "https://cse.google.com/cse?cx=000327027907964447955:65fjwortx5c&q={{{s}}}&oq={{{s}}}&gs_l=partner-generic.3...6080.6409.0.9078.4.4.0.0.0.0.157.426.2j2.4.0.gsnos,n=13...0.264j30168j4...1.34.partner-generic..2.2.173.cXIan67Quoc",
+    "u": "https://cse.google.com/cse?cx=000327027907964447955:65fjwortx5c&q={{{s}}}",
     "c": "Research",
     "sc": "Law"
   },
@@ -52321,9 +52298,9 @@
   },
   {
     "s": "Varusteleka",
-    "d": "www.varusteleka.fi",
+    "d": "www.varusteleka.com",
     "t": "leka",
-    "u": "https://www.varusteleka.fi/fi/bestsearch/{{{s}}}?q={{{s}}}",
+    "u": "https://www.varusteleka.com/fi/search?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
@@ -58919,7 +58896,7 @@
     "s": "Městská knihovna v Praze",
     "d": "search.mlp.cz",
     "t": "mkp",
-    "u": "https://search.mlp.cz/cz/?query={{{s}}}&kde=all#/c_s_ol=query-eq:{{{s}}}",
+    "u": "https://search.mlp.cz/cz/?query={{{s}}}",
     "c": "Multimedia",
     "sc": "Books"
   },
@@ -60196,11 +60173,12 @@
   },
   {
     "s": "Max Planck Publication Repository",
-    "d": "pubman.mpdl.mpg.de",
+    "d": "pure.mpg.de",
     "t": "mpgpure",
-    "u": "https://pubman.mpdl.mpg.de/pubman/faces/SearchResultListPage.jsp?cql=escidoc.objecttype=\"item\"+AND+escidoc.content-model.objid=\"escidoc:persistent4\"+AND+((escidoc.metadata=\"{{{s}}}\")+OR+((escidoc.any-identifier=\"{{{s}}}\"+OR+escidoc.property.latest-release.objid=\"{{{s}}}\"))+)",
+    "u": "https://pure.mpg.de/pubman/faces/SearchResultListPage.jsp?cql=escidoc.objecttype=item+AND+escidoc.content-model.objid=escidoc:persistent4+AND+((escidoc.metadata={{{s}}})+OR+((escidoc.any-identifier={{{s}}}+OR+escidoc.property.latest-release.objid={{{s}}})))",
     "c": "Research",
-    "sc": "Reference (science)"
+    "sc": "Reference (science)",
+    "skip_tests": true
   },
   {
     "s": "MPG.ReNa - Max Planck Reseource Navigator",
@@ -62119,7 +62097,7 @@
     "s": "Native Instruments User Library",
     "d": "www.native-instruments.com",
     "t": "nativeinstruments",
-    "u": "https://www.native-instruments.com/en/reaktor-community/reaktor-user-library/all/all/all/all/{{{s}}}/latest/1/all/?q={{{s}}}&t=userlib",
+    "u": "https://www.native-instruments.com/en/reaktor-community/reaktor-user-library/all/all/all/all/{{{s}}}/latest/1/all/",
     "c": "Tech",
     "sc": "Downloads"
   },
@@ -65425,10 +65403,10 @@
     "sc": "Tracking"
   },
   {
-    "s": "Oxford Dictionary",
-    "d": "oxforddictionaries.com",
+    "s": "Oxford English Dictionary",
+    "d": "www.oed.com",
     "t": "od",
-    "u": "https://oxforddictionaries.com/definition/english/{{{s}}}?q={{{s}}}",
+    "u": "https://www.oed.com/search/dictionary/?q={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -68355,7 +68333,8 @@
     "t": "pagesjaunes",
     "u": "https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui={{{s}}}&monochamp={{{s}}}",
     "c": "Online Services",
-    "sc": "Search"
+    "sc": "Search",
+    "skip_tests": true
   },
   {
     "s": "Google PageSpeed insights",
@@ -72521,7 +72500,7 @@
     "s": "Price Grabber",
     "d": "www.pricegrabber.com",
     "t": "pricegrabber",
-    "u": "https://www.pricegrabber.com/{{{s}}}/products.html/form_keyword={{{s}}}/st=query/sv=findit_top",
+    "u": "https://www.pricegrabber.com/{{{s}}}/products/",
     "c": "Shopping",
     "sc": "Online (deals)"
   },
@@ -75508,7 +75487,7 @@
     "s": "Native Instruments User Library",
     "d": "www.native-instruments.com",
     "t": "reaktor",
-    "u": "https://www.native-instruments.com/en/reaktor-community/reaktor-user-library/all/all/all/all/{{{s}}}/latest/1/all/?q={{{s}}}&t=userlib",
+    "u": "https://www.native-instruments.com/en/reaktor-community/reaktor-user-library/all/all/all/all/{{{s}}}/latest/1/all/",
     "c": "Tech",
     "sc": "Downloads"
   },
@@ -76135,14 +76114,6 @@
     "u": "https://www.reisartikelen.nl/search/?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
-  },
-  {
-    "s": "Reittiopas",
-    "d": "www.reittiopas.fi",
-    "t": "reittiopas",
-    "u": "https://www.reittiopas.fi/?showsearchformsaved=hide&from_in={{{s}}}&from=&via_in=&via=&via_time=0&to_in={{{s}}}&to=&hour=15&minute=39&timetype=departure&date_cb=on&day=7&month=7&year=2015&cmargin=3&wspeed=70&method=1&stz=0&mc1=0&mc2=0&mc3=0&mc4=0&mc5=0&mc6=0&mc0=1&nroutes=3&gotoHash=",
-    "c": "News",
-    "sc": "Weather"
   },
   {
     "s": "Releases",
@@ -77559,10 +77530,10 @@
     "u": "https://rosettacode.org/w/index.php?search={{{s}}}&title=Special:Search&wprov=acrw1"
   },
   {
-    "s": "RobotOS",
-    "d": "www.ros.org",
+    "s": "RobotOS Package Index",
+    "d": "index.ros.org",
     "t": "ros",
-    "u": "https://www.ros.org/search/index.html?input={{{s}}}&q={{{s}}}",
+    "u": "https://index.ros.org/search/?term={{{s}}}",
     "c": "Tech",
     "sc": "Libraries/Frameworks"
   },
@@ -77634,7 +77605,7 @@
     "s": "Le Guide Du Routard",
     "d": "www.routard.com",
     "t": "routard",
-    "u": "https://www.routard.com/recherche.asp?q={{{s}}}&edt_cleRech={{{s}}}",
+    "u": "https://www.routard.com/recherche.asp?q={{{s}}}",
     "c": "Research",
     "sc": "Travel"
   },
@@ -82244,14 +82215,6 @@
     "sc": "Online (marketplace)"
   },
   {
-    "s": "kb.workfusion.com",
-    "d": "kb.workfusion.com",
-    "t": "skb",
-    "u": "https://kb.workfusion.com/dosearchsite.action?cql=siteSearch+~+\"{{{s}}}\"&queryString={{{s}}}",
-    "c": "Tech",
-    "sc": "Programming"
-  },
-  {
     "s": "Slovenské slovníky",
     "d": "slovniky.korpus.sk",
     "t": "skd",
@@ -84933,7 +84896,7 @@
     "s": "Scheme Request for Implementation",
     "d": "srfi.schemers.org",
     "t": "srfi",
-    "u": "https://srfi.schemers.org/srfi-{{{s}}}/srfi-{{{s}}}.html",
+    "u": "https://srfi.schemers.org/?q={{{s}}}",
     "c": "Tech",
     "sc": "Languages (scheme)"
   },
@@ -85220,9 +85183,9 @@
   },
   {
     "s": "SurreySearch",
-    "d": "surrey-primotc.hosted.exlibrisgroup.com",
+    "d": "surrey.primo.exlibrisgroup.com",
     "t": "ss",
-    "u": "https://surrey-primotc.hosted.exlibrisgroup.com/primo-explore/search?vl(freeText0)={{{s}}}&fn=search&vid=44SUR_VU1&tab=default_tab&query=any,contains,{{{s}}}&search_scope=default_scope",
+    "u": "https://surrey.primo.exlibrisgroup.com/discovery/search?vid=44SUR_INST:44SUR_VU1&tab=Everything&query=any,contains,{{{s}}}",
     "c": "Research",
     "sc": "Reference"
   },
@@ -85374,7 +85337,7 @@
     "s": "Staples Canada",
     "d": "www.staples.ca",
     "t": "staplesca",
-    "u": "https://www.staples.ca/{{{s}}}/directory_{{{s}}}_20051_1_20001",
+    "u": "https://www.staples.ca/search?query={{{s}}}",
     "c": "Shopping",
     "sc": "Big box/department"
   },
@@ -85382,7 +85345,7 @@
     "s": "Staples.com",
     "d": "www.staples.com",
     "t": "staples",
-    "u": "https://www.staples.com/{{{s}}}/directory_{{{s}}}",
+    "u": "https://www.staples.com/search?query={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
@@ -88617,7 +88580,7 @@
     "s": "Tekstowo",
     "d": "www.tekstowo.pl",
     "t": "tekstowo",
-    "u": "https://www.tekstowo.pl/szukaj,wykonawca,{{{s}}},tytul,{{{s}}}.html",
+    "u": "https://www.tekstowo.pl/szukaj,{{{s}}}.html",
     "c": "Multimedia",
     "sc": "Music (Lyrics)"
   },
@@ -89413,7 +89376,7 @@
     "s": "The Crag",
     "d": "www.thecrag.com",
     "t": "thecrag",
-    "u": "https://www.thecrag.com/nodes/fuzzy-search/{{{s}}}?S={{{s}}}&ST=w",
+    "u": "https://www.thecrag.com/nodes/fuzzy-search/{{{s}}}",
     "c": "Entertainment",
     "sc": "Sports"
   },
@@ -90725,7 +90688,7 @@
     "s": "Temátika",
     "d": "www.tematika.com",
     "t": "tmk",
-    "u": "https://www.tematika.com/buscar.do?txtencoded={{{s}}}&idSeccionPropia=0&optSeleccionada=DuckDuckGo.com&idSeccion=0&seccionDeBusqueda=DuckDuckGo.com&texto={{{s}}}",
+    "u": "https://www.tematika.com/catalogsearch/result/?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online (intl)"
   },
@@ -91853,7 +91816,7 @@
     "s": "Trisquel",
     "d": "trisquel.info",
     "t": "trisquel",
-    "u": "https://trisquel.info/en/search/node/{{{s}}}& https://trisquel.info/en/search/node/{{{s}}}",
+    "u": "https://trisquel.info/en/search/node/{{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin"
   },
@@ -97216,7 +97179,7 @@
     "s": "Vuetifyjs",
     "d": "vuetifyjs.com",
     "t": "vuetify",
-    "u": "https://vuetifyjs.com/en/components/{{{s}}}#{{{s}}}",
+    "u": "https://vuetifyjs.com/en/components/{{{s}}}",
     "c": "Tech",
     "sc": "Programming"
   },
@@ -102598,14 +102561,6 @@
     "sc": "Aggregators"
   },
   {
-    "s": "https://wynk.in/",
-    "d": "wynk.in",
-    "t": "wynk",
-    "u": "https://wynk.in/music/detailsearch/{{{s}}}?q={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Music"
-  },
-  {
     "s": "Wynncraft Wiki",
     "d": "wynncraft.gamepedia.com",
     "t": "wynn",
@@ -103422,7 +103377,8 @@
     "t": "yesasia",
     "u": "https://www.yesasia.com/us/search/{{{s}}}/0-0-0-q.{{{s}}}_bpt.48-en/list.html",
     "c": "Shopping",
-    "sc": "Online"
+    "sc": "Online",
+    "skip_tests": true
   },
   {
     "s": "YetiGoGo",
@@ -103500,7 +103456,7 @@
     "s": "Yidio",
     "d": "www.yidio.com",
     "t": "yidio",
-    "u": "https://www.yidio.com/search/entertainment/{{{s}}}/1?find={{{s}}}",
+    "u": "https://www.yidio.com/{{{s}}}",
     "c": "Entertainment",
     "sc": "Movies"
   },
@@ -104935,7 +104891,7 @@
     "s": "zulily",
     "d": "www.zulily.com",
     "t": "zulily",
-    "u": "https://www.zulily.com/{{{s}}}?fromSearch=true&searchTerm={{{s}}}",
+    "u": "https://www.zulily.com/search?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online (deals)"
   },

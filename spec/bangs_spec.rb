@@ -46,6 +46,8 @@ end
 
 def uri_decoded_urls(bangs)
   bangs.each do |bang|
+    next if bang["skip_tests"]
+
     it "template should not be uri encoded (#{bang["s"]})" do
       expect(CGI.unescapeURIComponent(bang["u"]).to_s).to eq(bang["u"])
     end
@@ -64,6 +66,7 @@ end
 
 def ad_format_check(bangs)
   bangs.each do |bang|
+    next if bang["skip_tests"]
     next unless ad = bang["ad"]
 
     it "ad should be formatted correctly (#{bang["s"]})" do
@@ -78,10 +81,15 @@ end
 
 def template_format_check(bangs)
   bangs.each do |bang|
+    next if bang["skip_tests"]
     next unless template = bang["u"]
 
     it "template should contain correct {{{s}}} (#{bang["s"]})" do
       expect(template.include?("{{{s}}}")).to be true
+    end
+
+    it "template should only contain one {{{s}}} (#{bang["s"]})" do
+      expect(template.scan(/(?={{{s}}})/).count).to eq(1)
     end
   end
 end
