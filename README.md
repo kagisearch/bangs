@@ -122,6 +122,7 @@ Adding new region bangs will be handled on a case-by-case basis.
 | jo      | Jotrin Electronics                | Shopping        | Jordan                                       |
 | kg      | KG-Portal                         | Entertainment   | Kyrgyzstan                                   |
 | kh      | Kubeapps Hub                      | Tech            | Cambodia                                     |
+| ki      | Kagi Assistant (with Ki)          | Tech            | Kiribati                                     |
 | km      | Karaoke Mugen                     | Multimedia      | Comoros                                      |
 | kn      | Knoema                            | Research        | Saint Kitts and Nevis                        |
 | kp      | Kupujemprodajem                   | Shopping        | North Korea                                  |
