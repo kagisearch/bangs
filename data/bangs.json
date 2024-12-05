@@ -95645,6 +95645,14 @@
     "sc": "Games (specific)"
   },
   {
+    "s": "Vexillology Wiki",
+    "d": "vexillology.fandom.com",
+    "t": "vex",
+    "u": "https://vexillology.fandom.com/wiki/Special:Search?query={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
     "s": "Vim Awesome",
     "d": "vimawesome.com",
     "t": "va",
