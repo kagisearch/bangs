@@ -87551,6 +87551,22 @@
     "sc": "Tools"
   },
   {
+    "s": "OSM Community",
+    "d": "community.openstreetmap.org",
+    "t": "osmcommunity",
+    "u": "https://community.openstreetmap.org/search?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Tools"
+  },
+  {
+    "s": "OSM Com",
+    "d": "community.openstreetmap.org",
+    "t": "osmcom",
+    "u": "https://community.openstreetmap.org/search?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Tools"
+  }, 
+  {
     "s": "OpenStreetMap Taginfo",
     "d": "taginfo.openstreetmap.org",
     "t": "taginfo",
