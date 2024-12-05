@@ -72987,13 +72987,29 @@
     "sc": "Games (general)"
   },
   {
-    "s": "ProtonMail",
-    "d": "mail.protonmail.com",
-    "t": "protonmail",
-    "u": "https://mail.protonmail.com/search?keyword={{{s}}}",
+    "s": "Proton Calendar",
+    "d": "calendar.proton.me",
+    "t": "protoncalendar",
+    "u": "https://calendar.proton.me/search#keyword={{{s}}}",
     "c": "Online Services",
-    "sc": "Search"
+    "sc": "Tools"
   },
+  {
+    "s": "Proton Drive",
+    "d": "drive.proton.me",
+    "t": "protondrive",
+    "u": "https://drive.proton.me/search#q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Tools"
+  },
+  {
+    "s": "Proton Mail",
+    "d": "mail.proton.me",
+    "t": "protonmail",
+    "u": "https://mail.proton.me/#keyword={{{s}}}",
+    "c": "Online Services",
+    "sc": "Tools"
+  },  
   {
     "s": "Provigo Grocery Store",
     "d": "www.provigo.ca",
