@@ -49352,7 +49352,7 @@
   },
   {
     "s": "KDE Bugtracking System",
-    "d": "https://bugs.kde.org/",
+    "d": "bugs.kde.org",
     "t": "kdebugs",
     "u": "https://bugs.kde.org/buglist.cgi?quicksearch={{{s}}}",
     "c": "Tech",
