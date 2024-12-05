@@ -74347,6 +74347,14 @@
     "sc": "General"
   },
   {
+    "s": "Query.rs",
+    "d": "query.rs",
+    "t": "queryrs",
+    "u": "https://query.rs/?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Languages (other)"
+  },
+  {
     "s": "QueryPosts",
     "d": "queryposts.com",
     "t": "queryposts",
