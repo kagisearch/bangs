@@ -49351,6 +49351,14 @@
     "sc": "Libraries/Frameworks (KDE)"
   },
   {
+    "s": "KDE Bugtracking System",
+    "d": "https://bugs.kde.org/",
+    "t": "kdebugs",
+    "u": "https://bugs.kde.org/buglist.cgi?quicksearch={{{s}}}",
+    "c": "Tech",
+    "sc": "Tools"
+  },
+  {
     "s": "Khan Academy (Profile Page)",
     "d": "www.khanacademy.org",
     "t": "kaprof",
