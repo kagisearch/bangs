@@ -67393,17 +67393,18 @@
   },
   {
     "s": "Openstreetmap forum Netherlands",
-    "d": "forum.openstreetmap.org",
+    "d": "community.openstreetmap.org",
     "t": "osmforumnl",
-    "u": "https://forum.openstreetmap.org/search.php?action=search&keywords={{{s}}}&forums[]=12",
+    "u": "https://community.openstreetmap.org/search?q={{{s}}}%20%23communities%3Anl",
     "c": "Online Services",
-    "sc": "Maps"
+    "sc": "Maps",
+    "skip_tests": true
   },
   {
-    "s": "OpenStreetMap Forum",
-    "d": "forum.openstreetmap.org",
+    "s": "OpenStreetMap Community Forum",
+    "d": "community.openstreetmap.org",
     "t": "osmforum",
-    "u": "https://forum.openstreetmap.org/search.php?action=search&keywords={{{s}}}&author=&forums=&search_in=0&sort_by=0&sort_dir=DESC&show_as=topics",
+    "u": "https://community.openstreetmap.org/search?q={{{s}}}",
     "c": "Online Services",
     "sc": "Social"
   },
