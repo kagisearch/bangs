@@ -67395,7 +67395,7 @@
     "s": "Openstreetmap forum Netherlands",
     "d": "community.openstreetmap.org",
     "t": "osmforumnl",
-    "u": "https://community.openstreetmap.org/search?q={{{s}}} #communities:nl",
+    "u": "https://community.openstreetmap.org/search?q={{{s}}}%20%23communities%3Anl",
     "c": "Online Services",
     "sc": "Maps"
   },
