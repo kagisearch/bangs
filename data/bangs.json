@@ -67397,7 +67397,8 @@
     "t": "osmforumnl",
     "u": "https://community.openstreetmap.org/search?q={{{s}}}%20%23communities%3Anl",
     "c": "Online Services",
-    "sc": "Maps"
+    "sc": "Maps",
+    "skip_tests": true
   },
   {
     "s": "OpenStreetMap Community Forum",
