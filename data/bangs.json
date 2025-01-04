@@ -60431,9 +60431,9 @@
   },
   {
     "s": "MSDN",
-    "d": "social.msdn.microsoft.com",
+    "d": "learn.microsoft.com",
     "t": "msdn",
-    "u": "https://social.msdn.microsoft.com/Search/en-US?query={{{s}}}&ac=8",
+    "u": "https://learn.microsoft.com/en-us/search?terms={{{s}}}",
     "c": "Tech",
     "sc": "Companies"
   },
