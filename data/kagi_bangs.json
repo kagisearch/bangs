@@ -917,6 +917,16 @@
     ]
   },
   {
+    "s": "Kagi Feedback (discussions)",
+    "d": "kagifeedback.org/d",
+    "t": "kfd",
+    "u": "https://kagifeedback.org/?q={{{s}}}",
+    "fmt": [
+      "open_base_path",
+      "url_encode_placeholder"
+    ]
+  },
+  {
     "s": "News in International",
     "d": "kagi.com",
     "t": "knint",
