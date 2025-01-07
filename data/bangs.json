@@ -109799,5 +109799,13 @@
     "u": "https://www.startech.com/de-ch/search?search_term={{{s}}}",
     "c": "Shopping",
     "sc": "Tech"
-  }
+  },
+  {
+    "s": "Home Assistant Community",
+    "d": "community.home-assistant.io",
+    "t": "hac",
+    "u": "https://community.home-assistant.io/search?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Tools"
+  }  
 ]
