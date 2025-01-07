@@ -35600,14 +35600,6 @@
     "sc": "Blogs"
   },
   {
-    "s": "Giphy",
-    "d": "giphy.com",
-    "t": "gif",
-    "u": "https://giphy.com/search/{{{s}}}",
-    "c": "Multimedia",
-    "sc": "Images"
-  },
-  {
     "s": "Google: I'm Feeling Lucky",
     "d": "google.com",
     "t": "gifl",
