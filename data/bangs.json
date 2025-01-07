@@ -109805,5 +109805,13 @@
     "u": "https://translate.kagi.com/?text={{{s}}}&from=Automatic&to=Proofread",
     "c": "Translation",
     "sc": "General"
+  },
+  {
+    "s": "Home Assistant Community",
+    "d": "community.home-assistant.io",
+    "t": "hac",
+    "u": "https://community.home-assistant.io/search?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Tools"
   }
 ]
