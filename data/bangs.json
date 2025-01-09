@@ -24317,15 +24317,6 @@
     "sc": "Images"
   },
   {
-    "s": "Kagi Search",
-    "d": "kagi.com",
-    "ad": "",
-    "t": "?",
-    "u": "/search?q={{{s}}}+",
-    "c": "Online Services",
-    "sc": "Search (DDG)"
-  },
-  {
     "s": "Duck Duck Go Español",
     "d": "duckduckgo.com",
     "t": "duckgoes",
@@ -92934,14 +92925,6 @@
     "u": "https://twitter.com/search?q={{{s}}}",
     "c": "Online Services",
     "sc": "Social"
-  },
-  {
-    "s": "Twitter User Page",
-    "d": "twitter.com",
-    "t": "@",
-    "u": "https://twitter.com/{{{s}}}",
-    "c": "News",
-    "sc": "International"
   },
   {
     "s": "Twitter User",
