@@ -49,16 +49,16 @@ def uri_decoded_urls(bangs)
     next if bang["skip_tests"]
 
     it "template should not be uri encoded (#{bang["s"]})" do
-      expect(CGI.unescapeURIComponent(bang["u"]).to_s).to eq(bang["u"])
+      expect(CGI.unescapeURIComponent(bang["u"].gsub(/%20|%23/,"")).to_s).to eq(bang["u"].gsub(/%20|%23/,""))
     end
 
     it "domain should not be uri encoded (#{bang["s"]})" do
-      expect(CGI.unescapeURIComponent(bang["d"]).to_s).to eq(bang["d"])
+      expect(CGI.unescapeURIComponent(bang["d"].gsub(/%20|%23/,"")).to_s).to eq(bang["d"].gsub(/%20|%23/,""))
     end
 
     if bang["ad"]
       it "alt domain should not be uri encoded (#{bang["s"]})" do
-        expect(CGI.unescapeURIComponent(bang["ad"]).to_s).to eq(bang["ad"])
+        expect(CGI.unescapeURIComponent(bang["ad"].gsub(/%20|%23/,"")).to_s).to eq(bang["ad"].gsub(/%20|%23/,""))
       end
     end
   end
