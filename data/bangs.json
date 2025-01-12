@@ -86333,6 +86333,14 @@
     "sc": "Misc"
   },
   {
+    "s": "Substack",
+    "d": "substack.com",
+    "t": "substack",
+    "u": "https://substack.com/search/{{{s}}}",
+    "c": "Tech",
+    "sc": "Blogs"
+  },
+  {
     "s": "Subtle Patterns",
     "d": "subtlepatterns.com",
     "t": "subtlepatterns",
