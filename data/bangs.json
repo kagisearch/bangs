@@ -109797,5 +109797,13 @@
     "u": "https://www.startech.com/de-ch/search?search_term={{{s}}}",
     "c": "Shopping",
     "sc": "Tech"
+  },
+  {
+    "s": "Kagi Translate (Proofread)",
+    "d": "translate.kagi.com",
+    "t": "kpr",
+    "u": "https://translate.kagi.com/?text={{{s}}}&from=Automatic&to=Proofread",
+    "c": "Translation",
+    "sc": "General"
   }
 ]
