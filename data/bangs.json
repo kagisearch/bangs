@@ -35600,14 +35600,6 @@
     "sc": "Blogs"
   },
   {
-    "s": "Giphy",
-    "d": "giphy.com",
-    "t": "gif",
-    "u": "https://giphy.com/search/{{{s}}}",
-    "c": "Multimedia",
-    "sc": "Images"
-  },
-  {
     "s": "Google: I'm Feeling Lucky",
     "d": "google.com",
     "t": "gifl",
@@ -109813,5 +109805,13 @@
     "u": "https://translate.kagi.com/?text={{{s}}}&from=Automatic&to=Proofread",
     "c": "Translation",
     "sc": "General"
+  },
+  {
+    "s": "Home Assistant Community",
+    "d": "community.home-assistant.io",
+    "t": "hac",
+    "u": "https://community.home-assistant.io/search?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Tools"
   }
 ]
