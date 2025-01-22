@@ -917,10 +917,11 @@
     ]
   },
   {
-    "s": "Kagi Feedback (discussions)",
-    "d": "kagifeedback.org/d",
+    "s": "Kagi Feedback (Discussions)",
+    "d": "kagifeedback.org",
     "t": "kfd",
     "u": "https://kagifeedback.org/?q={{{s}}}",
+    "ad": "kagifeedback.org/d",
     "fmt": [
       "open_base_path",
       "url_encode_placeholder"
