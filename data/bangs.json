@@ -109813,5 +109813,16 @@
     "u": "https://community.home-assistant.io/search?q={{{s}}}",
     "c": "Tech",
     "sc": "Tools"
+  },
+  {
+    "s": "Cloudflare Developer Documentation",
+    "d": "developers.cloudflare.com",
+    "t": "cdev",
+    "u": "https://developers.cloudflare.com/search/?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Sysadmin (man)",
+    "fmt": [
+      "open_base_path"
+    ]
   }
 ]
