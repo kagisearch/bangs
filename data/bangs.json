@@ -91788,14 +91788,6 @@
     "sc": "Specialty"
   },
   {
-    "s": "Google Translate",
-    "d": "translate.google.com",
-    "t": "tr",
-    "u": "https://translate.google.com/?text={{{s}}}",
-    "c": "Translation",
-    "sc": "Google"
-  },
-  {
     "s": "Tric Trac",
     "d": "www.trictrac.net",
     "t": "trictrac",
