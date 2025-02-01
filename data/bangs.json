@@ -102712,10 +102712,11 @@
     "sc": "Programming"
   },
   {
-    "s": "https://xe.com/",
-    "d": "xe.com",
+    "s": "XE",
+    "d": "kagi.com",
+    "ad": "www.xe.com",
     "t": "xe",
-    "u": "https://xe.com/currency/{{{s}}}",
+    "u": "/search?q={{{s}}}+site:www.xe.com/currency",
     "c": "News",
     "sc": "Business"
   },
