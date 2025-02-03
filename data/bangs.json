@@ -95631,7 +95631,7 @@
     "s": "Vexillology Wiki",
     "d": "vexillology.fandom.com",
     "t": "vex",
-    "u": "https://vexillology.fandom.com/wiki/Special:Search?query={{{s}}}",
+    "u": "https://vexillology.fandom.com/wiki/{{{s}}}",
     "c": "Research",
     "sc": "Reference"
   },
