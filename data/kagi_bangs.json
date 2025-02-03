@@ -111,6 +111,15 @@
     ]
   },
   {
+    "s": "Kagi Translate",
+    "d": "translate.kagi.com",
+    "t": "tr",
+    "u": "https://translate.kagi.com/?text={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder"
+    ]
+  },
+  {
     "s": "Kagi Images",
     "d": "kagi.com",
     "t": "i",
@@ -169,6 +178,15 @@
     "d": "kagi.com",
     "t": "pictures",
     "u": "/images?q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder"
+    ]
+  },
+  {
+    "s": "Kagi Images (GIF)",
+    "d": "kagi.com",
+    "t": "gif",
+    "u": "/images?q={{{s}}}&image_type=animatedGifHttps",
     "fmt": [
       "url_encode_placeholder"
     ]
@@ -902,6 +920,17 @@
     "d": "kagifeedback.org",
     "t": "kf",
     "u": "https://kagifeedback.org/?q={{{s}}}",
+    "fmt": [
+      "open_base_path",
+      "url_encode_placeholder"
+    ]
+  },
+  {
+    "s": "Kagi Feedback (Discussions)",
+    "d": "kagifeedback.org",
+    "t": "kfd",
+    "u": "https://kagifeedback.org/?q={{{s}}}",
+    "ad": "kagifeedback.org/d",
     "fmt": [
       "open_base_path",
       "url_encode_placeholder"
