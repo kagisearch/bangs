@@ -14520,7 +14520,31 @@
     "t": "chatgpt",
     "u": "https://chatgpt.com/?q={{{s}}}",
     "c": "Online Services",
-    "sc": "Tools"
+    "sc": "AI Chatbots"
+  },
+  {
+    "s": "Claude",
+    "d": "claude.ai",
+    "t": "claude",
+    "u": "https://claude.ai/new?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "AI Chatbots"
+  },
+  {
+    "s": "T3 Chat",
+    "d": "www.t3.chat",
+    "t": "t3",
+    "u": "https://www.t3.chat/new?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "AI Chatbots"
+  },
+  {
+    "s": "Le Chat",
+    "d": "chat.mistral.ai",
+    "t": "lechat",
+    "u": "https://chat.mistral.ai/chat?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "AI Chatbots"
   },
   {
     "s": "Chatters Salons",

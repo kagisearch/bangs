@@ -346,6 +346,7 @@ This is a list of possible categories, with their corresponding subcategories.
 <details>
 <summary>Subcategories</summary>
 
+  - AI Chatbots
   - Events
   - Google
   - Jobs
