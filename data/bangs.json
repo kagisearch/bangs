@@ -77659,9 +77659,9 @@
   },
   {
     "s": "Royal Road",
-    "d": "royalroadl.com",
-    "t": "royalroadl",
-    "u": "https://royalroadl.com/fictions/search?keyword={{{s}}}",
+    "d": "www.royalroad.com",
+    "t": "royalroad",
+    "u": "https://www.royalroad.com/fictions/search?title={{{s}}}",
     "c": "Multimedia",
     "sc": "Books"
   },
