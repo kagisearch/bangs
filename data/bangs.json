@@ -2427,6 +2427,17 @@
     "sc": "Programming"
   },
   {
+    "s": "AutoHotkey v2 Docs",
+    "d": "www.autohotkey.com",
+    "t": "ahkd",
+    "u": "https://www.autohotkey.com/docs/v2/search.htm?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Programming",
+    "fmt": [
+      "url_encode_placeholder"
+    ]
+  },
+  {
     "s": "Ahmet Çadırcı",
     "d": "ahmetcadirci.com.tr",
     "t": "ahmetcadirci",
