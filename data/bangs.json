@@ -35443,12 +35443,15 @@
     ]
   },
   {
-    "s": "Github",
+    "s": "Github Repo",
     "d": "github.com",
     "t": "ghr",
     "u": "https://github.com/{{{s}}}",
     "c": "Tech",
-    "sc": "Programming"
+    "sc": "Programming",
+    "fmt": [
+      "open_base_path"
+    ]
   },
   {
     "s": "Github - Trending",
