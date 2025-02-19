@@ -195,37 +195,55 @@
     "s": "Kagi Podcasts",
     "d": "kagi.com",
     "t": "p",
-    "u": "/podcasts?q={{{s}}}"
+    "u": "/podcasts?q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder"
+    ]
   },
   {
     "s": "Kagi Podcasts",
     "d": "kagi.com",
     "t": "podcast",
-    "u": "/podcasts?q={{{s}}}"
+    "u": "/podcasts?q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder"
+    ]
   },
   {
     "s": "Kagi Podcasts",
     "d": "kagi.com",
     "t": "podcasts",
-    "u": "/podcasts?q={{{s}}}"
+    "u": "/podcasts?q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder"
+    ]
   },
   {
     "s": "Kagi Discussion",
     "d": "kagi.com",
     "t": "discussdoc",
-    "u": "/discussdoc?url={{{s}}}"
+    "u": "/discussdoc?url={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder"
+    ]
   },
   {
     "s": "Kagi FastGPT",
     "d": "kagi.com",
     "t": "fast",
-    "u": "/fastgpt?query={{{s}}}"
+    "u": "/fastgpt?query={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder"
+    ]
   },
   {
     "s": "Kagi FastGPT",
     "d": "kagi.com",
     "t": "fgpt",
-    "u": "/fastgpt?query={{{s}}}"
+    "u": "/fastgpt?query={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder"
+    ]
   },
   {
     "s": "Kagi Quick Answer",
