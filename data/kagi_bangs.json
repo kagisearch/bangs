@@ -710,6 +710,13 @@
     "c": "Region search"
   },
   {
+    "s": "Search in Estonia (ee)",
+    "d": "kagi.com",
+    "t": "ee",
+    "u": "/search?q={{{s}}}&r=ee",
+    "c": "Region search"
+  },
+  {
     "s": "Search in Spain (es)",
     "d": "kagi.com",
     "t": "es",

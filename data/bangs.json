@@ -25867,7 +25867,7 @@
   {
     "s": "EllisLab Forums (Kagi Search)",
     "d": "kagi.com",
-    "t": "ee",
+    "t": "elab",
     "u": "/search?q={{{s}}}+site:http://ellislab.com/forums/",
     "c": "Tech",
     "sc": "Programming",
