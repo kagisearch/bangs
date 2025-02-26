@@ -64734,12 +64734,12 @@
     "sc": "Languages (python)"
   },
   {
-    "s": "Nu.nl",
+    "s": "nu.nl",
     "d": "www.nu.nl",
     "t": "nu",
-    "u": "https://www.nu.nl/zoeken/?q={{{s}}}",
+    "u": "https://www.nu.nl/zoeken?q={{{s}}}",
     "c": "News",
-    "sc": "Newspaper"
+    "sc": "Online"
   },
   {
     "s": "Nusagates Institute",
