@@ -109863,5 +109863,21 @@
     "fmt": [
       "open_base_path"
     ]
+  },
+  {
+    "s": "Hugging Face Datasets",
+    "d": "huggingface.co",
+    "t": "hfd",
+    "u": "https://huggingface.co/datasets?search={{{s}}}",
+    "c": "Tech",
+    "sc": "Libraries/Frameworks"
+  },
+  {
+    "s": "Hugging Face Models",
+    "d": "huggingface.co",
+    "t": "hfm",
+    "u": "https://huggingface.co/models?search={{{s}}}",
+    "c": "Tech",
+    "sc": "Libraries/Frameworks"
   }
 ]
