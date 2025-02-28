@@ -83835,10 +83835,10 @@
     "sc": "Audio"
   },
   {
-    "s": "song.link",
+    "s": "Songlink/Odesli",
     "d": "odesli.co",
     "t": "songlink",
-    "u": "https://odesli.co/embed?url={{{s}}}",
+    "u": "https://odesli.co/?q={{{s}}}",
     "c": "Online Services",
     "sc": "Tools (URLs)"
   },
