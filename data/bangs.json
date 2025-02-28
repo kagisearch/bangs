@@ -76284,7 +76284,7 @@
     "s": "Repology",
     "d": "repology.org",
     "t": "repology",
-    "u": "https://repology.org/metapackages/?search={{{s}}}",
+    "u": "https://repology.org/projects/?search={{{s}}}",
     "c": "Tech",
     "sc": "Downloads (code)"
   },
