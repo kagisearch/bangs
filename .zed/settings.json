@@ -1,0 +1,20 @@
+// Folder-specific settings
+//
+// For a full list of overridable settings, and general information on folder-specific settings,
+// see the documentation: https://zed.dev/docs/configuring-zed#settings-files
+{
+  "lsp": {
+    "json-language-server": {
+      "settings": {
+        "json": {
+          "schemas": [
+            {
+              "fileMatch": ["*/data/bangs.json", "*/data/kagi_bangs.json", "*/data/assistant_bangs.json"],
+              "url": "./data/bangs.schema.json"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
