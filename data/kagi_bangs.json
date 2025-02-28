@@ -3273,5 +3273,131 @@
     "fmt": [
       "url_encode_placeholder"
     ]
+  },
+  {
+    "s": "The Assistant (GPT-4o)",
+    "d": "kagi.com",
+    "t": "gpt-4o",
+    "u": "/assistant?profile=gpt-4o&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (GPT-4o mini)",
+    "d": "kagi.com",
+    "t": "gpt-4o-mini",
+    "u": "/assistant?profile=gpt-4o-mini&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (o3 mini)",
+    "d": "kagi.com",
+    "t": "o3-mini",
+    "u": "/assistant?profile=o3-mini&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (Claude 3 Haiku)",
+    "d": "kagi.com",
+    "t": "haiku",
+    "u": "/assistant?profile=claude-3-haiku&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (Claude 3.5 Sonnet)",
+    "d": "kagi.com",
+    "t": "sonnet",
+    "u": "/assistant?profile=claude-3-sonnet&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (Claude 3.7 Sonnet)",
+    "d": "kagi.com",
+    "t": "claude-3-7-sonnet",
+    "u": "/assistant?profile=claude-3-7-sonnet&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (Claude 3 Opus)",
+    "d": "kagi.com",
+    "t": "opus",
+    "u": "/assistant?profile=claude-3-opus&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (Gemini Flash)",
+    "d": "kagi.com",
+    "t": "gemini-flash",
+    "u": "/assistant?profile=gemini-flash&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (Gemini Pro)",
+    "d": "kagi.com",
+    "t": "gemini-pro",
+    "u": "/assistant?profile=gemini-pro&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (Mistral Pixtral)",
+    "d": "kagi.com",
+    "t": "pixtral",
+    "u": "/assistant?profile=mistral-nemo&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (Mistral Large)",
+    "d": "kagi.com",
+    "t": "mistral-large",
+    "u": "/assistant?profile=mistral-large&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (Llama 3.3 70B)",
+    "d": "kagi.com",
+    "t": "llama-3",
+    "u": "/assistant?profile=llama-3-70b&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (Llama 3.1 405B)",
+    "d": "kagi.com",
+    "t": "llama-3-405b",
+    "u": "/assistant?profile=llama-3-405b&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (Qwen QwQ 32b)",
+    "d": "kagi.com",
+    "t": "qwen-qwq-32b",
+    "u": "/assistant?profile=qwen-qwq-32b&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (Nova Lite)",
+    "d": "kagi.com",
+    "t": "nova-lite",
+    "u": "/assistant?profile=nova-lite&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (Nova Pro)",
+    "d": "kagi.com",
+    "t": "nova-pro",
+    "u": "/assistant?profile=nova-pro&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (DeepSeek Chat V3)",
+    "d": "kagi.com",
+    "t": "deepseek",
+    "u": "/assistant?profile=deepseek&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (DeepSeek R1)",
+    "d": "kagi.com",
+    "t": "r1",
+    "u": "/assistant?profile=deepseek-r1&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (deepseek-r1-distill-llama-70b)",
+    "d": "kagi.com",
+    "t": "r1-llama",
+    "u": "/assistant?profile=deepseek-r1-distill-llama-70b&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (Ki Lite)",
+    "d": "kagi.com",
+    "t": "ki-lite",
+    "u": "/assistant?profile=ki_lite&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (Ki Deep Research)",
+    "d": "kagi.com",
+    "t": "ki-deep-research",
+    "u": "/assistant?profile=ki_deep_research&q={{{s}}}"
   }
 ]
