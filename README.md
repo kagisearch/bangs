@@ -163,7 +163,7 @@ Adding new region bangs will be handled on a case-by-case basis.
 | ni      | National Instruments              | Tech            | Nicaragua                                    |
 | np      | The Noun Project                  | Multimedia      | Nepal                                        |
 | nr      | Nixpkgs Repository                | Tech            | Nauru                                        |
-| nu      | Nu.nl                             | News            | Niue                                         |
+| nu      | nu.nl                             | News            | The Netherlands                              |
 | pa      | Páginas Amarillas                 | Online Services | Panama                                       |
 | pe      | Dicionário Porto Editora          | Research        | Peru                                         |
 | pf      | PrintFriendly                     | Online Services | French Polynesia                             |
