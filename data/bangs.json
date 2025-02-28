@@ -57035,6 +57035,42 @@
     ]
   },
   {
+    "s": "Modrinth (Resource Packs)",
+    "d": "modrinth.com",
+    "t": "mdresourcepacks",
+    "u": "https://modrinth.com/resourcepacks?q={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (Minecraft)",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Modrinth (Datapacks)",
+    "d": "modrinth.com",
+    "t": "mddatapacks",
+    "u": "https://modrinth.com/datapacks?q={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (Minecraft)",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Modrinth (Shaders)",
+    "d": "modrinth.com",
+    "t": "mdshaders",
+    "u": "https://modrinth.com/shaders?q={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (Minecraft)",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
     "s": "Modrinth (Modpacks)",
     "d": "modrinth.com",
     "t": "mdmodpacks",
