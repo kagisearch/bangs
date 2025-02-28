@@ -44876,6 +44876,14 @@
     "sc": "Design"
   },
   {
+    "s": "Icônes",
+    "d": "icones.js.org",
+    "t": "icones",
+    "u": "https://icones.js.org/collection/all?s={{{s}}}",
+    "c": "Tech",
+    "sc": "Design"
+  },
+  {
     "s": "Icons8",
     "d": "icons8.com",
     "t": "icons8",
@@ -64398,6 +64406,14 @@
     "sc": "Languages (javascript)"
   },
   {
+    "s": "npm jump to",
+    "d": "njt.vercel.app",
+    "t": "njt",
+    "u": "https://njt.vercel.app/jump?to={{{s}}}",
+    "c": "Tech",
+    "sc": "Languages (javascript)"
+  },
+  {
     "s": "NPM Search",
     "d": "npmsearch.com",
     "t": "npms",
@@ -75071,6 +75087,14 @@
     "u": "https://rawg.io/search?query={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (general)"
+  },
+  {
+    "s": "Raycast Store",
+    "d": "www.raycast.com",
+    "t": "raycast",
+    "u": "https://www.raycast.com/search?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Downloads (add-ons)"
   },
   {
     "s": "Raymond-nh",
