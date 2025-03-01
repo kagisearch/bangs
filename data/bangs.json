@@ -7852,17 +7852,17 @@
   },
   {
     "s": "Search all !bangs",
-    "d": "duckduckgo.com",
+    "d": "kbe.smaertness.net",
     "t": "bang",
-    "u": "https://duckduckgo.com/bang?q={{{s}}}",
+    "u": "https://kbe.smaertness.net/search?q={{{s}}}",
     "c": "Tech",
     "sc": "Search (DDG)"
   },
   {
     "s": "Search all !bangs",
-    "d": "duckduckgo.com",
+    "d": "kbe.smaertness.net",
     "t": "bangs",
-    "u": "https://duckduckgo.com/bang?q={{{s}}}",
+    "u": "https://kbe.smaertness.net/search?q={{{s}}}",
     "c": "Online Services",
     "sc": "Search (DDG)"
   },
