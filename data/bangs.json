@@ -7365,7 +7365,7 @@
     "s": "AboutYou",
     "d": "www.aboutyou.de",
     "t": "ay",
-    "u": "https://www.aboutyou.de/suche?term={{{s}}}&search_source=ddgo",
+    "u": "https://www.aboutyou.de/suche?term={{{s}}}",
     "c": "Shopping",
     "sc": "Online (marketplace)"
   },
@@ -7975,7 +7975,7 @@
     "s": "BASE Search",
     "d": "www.base-search.net",
     "t": "basesearch",
-    "u": "https://www.base-search.net/Search/Results?lookfor={{{s}}}&refid=duckduckgo",
+    "u": "https://www.base-search.net/Search/Results?lookfor={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -12850,7 +12850,7 @@
     "s": "Cambridge Dictionary",
     "d": "dictionary.cambridge.org",
     "t": "cald",
-    "u": "https://dictionary.cambridge.org/search/british/?source=duckduckgo&q={{{s}}}",
+    "u": "https://dictionary.cambridge.org/search/british/?q={{{s}}}",
     "c": "Research",
     "sc": "Reference"
   },
@@ -25244,7 +25244,7 @@
     "s": "European Bioinformatics Institute",
     "d": "www.ebi.ac.uk",
     "t": "ebi",
-    "u": "https://www.ebi.ac.uk/ebisearch/search.ebi?db=allebi&query={{{s}}}&requestFrom=duckduckgo",
+    "u": "https://www.ebi.ac.uk/ebisearch/search.ebi?db=allebi&query={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -29161,7 +29161,7 @@
     "s": "Fab",
     "d": "fab.com",
     "t": "fab",
-    "u": "https://fab.com/search/?q={{{s}}}&ref=ddb",
+    "u": "https://fab.com/search/?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
@@ -29529,7 +29529,7 @@
     "s": "FARMALINE",
     "d": "www.farmaline.be",
     "t": "farmaline",
-    "u": "https://www.farmaline.be/apotheek/zoeken/{{{s}}}/?ref=duckduckgo",
+    "u": "https://www.farmaline.be/apotheek/zoeken/{{{s}}}/",
     "c": "Shopping",
     "sc": "Online"
   },
@@ -33347,7 +33347,7 @@
     "s": "G Adventures",
     "d": "www.gadventures.com",
     "t": "gadv",
-    "u": "https://www.gadventures.com/search/?q={{{s}}}&ref=ddgsearch",
+    "u": "https://www.gadventures.com/search/?q={{{s}}}",
     "c": "Research",
     "sc": "Travel"
   },
@@ -67800,7 +67800,7 @@
     "s": "OuiCar",
     "d": "www.ouicar.fr",
     "t": "ouicar",
-    "u": "http://www.ouicar.fr/car/search?where={{{s}}}&from=ddgbang",
+    "u": "http://www.ouicar.fr/car/search?where={{{s}}}",
     "c": "Research",
     "sc": "Travel"
   },
@@ -76428,7 +76428,7 @@
     "s": "Resto.lu",
     "d": "www.resto.lu",
     "t": "restolu",
-    "u": "https://www.resto.lu/fr/Luxembourg/guide.cfm?searchmode=classic&RESTOTYPE=isresto&nom={{{s}}}&idcuisine_type=&ville=&region=&idprix=ddg@pivert.org",
+    "u": "https://www.resto.lu/fr/Luxembourg/guide.cfm?searchmode=classic&RESTOTYPE=isresto&nom={{{s}}}&idcuisine_type=&ville=&region=",
     "c": "Online Services",
     "sc": "Search"
   },
@@ -96286,7 +96286,7 @@
     "s": "Viasona",
     "d": "www.viasona.cat",
     "t": "viasona",
-    "u": "https://www.viasona.cat/cerca?que={{{s}}}&cerca=&sourceid=duckduckgo",
+    "u": "https://www.viasona.cat/cerca?que={{{s}}}&cerca=",
     "c": "Multimedia",
     "sc": "Music (Lyrics)"
   },
@@ -100667,7 +100667,7 @@
     "s": "Wooroll",
     "d": "www.wooroll.com",
     "t": "wooroll",
-    "u": "http://www.wooroll.com/search.html?q={{{s}}}&ref=duckduckgo",
+    "u": "http://www.wooroll.com/search.html?q={{{s}}}",
     "c": "Online Services",
     "sc": "Jobs"
   },
