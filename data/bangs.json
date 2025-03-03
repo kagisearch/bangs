@@ -45723,6 +45723,14 @@
     "sc": "Movies"
   },
   {
+    "s": "IMBD",
+    "d": "www.imdb.com",
+    "t": "tv",
+    "u": "https://www.imdb.com/find?q={{{s}}}&s=all",
+    "c": "Entertainment",
+    "sc": "Movies"
+  },
+  {
     "s": "imbiomed",
     "d": "www.imbiomed.com.mx",
     "t": "imb",
