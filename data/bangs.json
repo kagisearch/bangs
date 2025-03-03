@@ -109935,5 +109935,13 @@
     "u": "https://vibe.naver.com/search?query={{{s}}}",
     "c": "Multimedia",
     "sc": "Music"
+  },
+  {
+    "s": "Phind",
+    "d": "www.phind.com",
+    "t": "phind",
+    "u": "https://www.phind.com/search?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "AI Chatbots"
   }
 ]
