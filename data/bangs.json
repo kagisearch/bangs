@@ -69841,6 +69841,14 @@
     "sc": "TV"
   },
   {
+    "s": "Phind",
+    "d": "www.phind.com",
+    "t": "phind",
+    "u": "https://www.phind.com/search?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "AI Chatbots"
+  },
+  {
     "s": "The Portable Freeware Collection",
     "d": "www.portablefreeware.com",
     "t": "pfw",
