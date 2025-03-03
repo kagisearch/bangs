@@ -109903,5 +109903,37 @@
     "u": "https://huggingface.co/models?search={{{s}}}",
     "c": "Tech",
     "sc": "Libraries/Frameworks"
+  },
+  {
+    "s": "Bugs!",
+    "d": "music.bugs.co.kr",
+    "t": "bugs",
+    "u": "https://music.bugs.co.kr/search/integrated?q={{{s}}}",
+    "c": "Multimedia",
+    "sc": "Music"
+  },
+  {
+    "s": "Melon",
+    "d": "www.melon.com",
+    "t": "melon",
+    "u": "https://www.melon.com/search/total/index.htm?q={{{s}}}",
+    "c": "Multimedia",
+    "sc": "Music"
+  },
+  {
+    "s": "Genie",
+    "d": "www.genie.co.kr",
+    "t": "genie",
+    "u": "https://www.genie.co.kr/search/searchMain?query={{{s}}}",
+    "c": "Multimedia",
+    "sc": "Music"
+  },
+  {
+    "s": "Vibe",
+    "d": "vibe.naver.com",
+    "t": "vibe",
+    "u": "https://vibe.naver.com/search?query={{{s}}}",
+    "c": "Multimedia",
+    "sc": "Music"
   }
 ]
