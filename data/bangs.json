@@ -48159,14 +48159,6 @@
     "sc": "Companies"
   },
   {
-    "s": "Jet.com",
-    "d": "jet.com",
-    "t": "jet",
-    "u": "https://jet.com/search?term={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
     "s": "The Happy Jetlagger",
     "d": "thehappyjetlagger.com",
     "t": "jetlag",
@@ -48329,14 +48321,6 @@
     "u": "https://www.jouwictvacature.nl/vacatures?s={{{s}}}",
     "c": "Online Services",
     "sc": "Jobs"
-  },
-  {
-    "s": "Jet.com",
-    "d": "jet.com",
-    "t": "j",
-    "u": "https://jet.com/search?term={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online (marketplace)"
   },
   {
     "s": "Jinja",
