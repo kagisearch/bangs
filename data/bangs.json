@@ -13667,14 +13667,6 @@
     "sc": "Business"
   },
   {
-    "s": "CNET",
-    "d": "www.cnet.com",
-    "t": "c",
-    "u": "https://www.cnet.com/1770-5_1-0.html?query={{{s}}}",
-    "c": "Tech",
-    "sc": "Downloads"
-  },
-  {
     "s": "Cheapies NZ",
     "d": "www.cheapies.nz",
     "t": "ccnz",
