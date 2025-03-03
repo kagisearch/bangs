@@ -13667,14 +13667,6 @@
     "sc": "Business"
   },
   {
-    "s": "CNET",
-    "d": "www.cnet.com",
-    "t": "c",
-    "u": "https://www.cnet.com/1770-5_1-0.html?query={{{s}}}",
-    "c": "Tech",
-    "sc": "Downloads"
-  },
-  {
     "s": "Cheapies NZ",
     "d": "www.cheapies.nz",
     "t": "ccnz",
@@ -15918,25 +15910,9 @@
     "s": "CNET",
     "d": "www.cnet.com",
     "t": "cnet",
-    "u": "https://www.cnet.com/1770-5_1-0.html?query={{{s}}}&tag=srch&target=nw",
+    "u": "https://www.cnet.com/search/?searchQuery={{{s}}}",
     "c": "Tech",
     "sc": "Blogs"
-  },
-  {
-    "s": "CNET en español",
-    "d": "www.cnet.com",
-    "t": "cnete",
-    "u": "https://www.cnet.com/es/busqueda/?query={{{s}}}",
-    "c": "Tech",
-    "sc": "Blogs (intl)"
-  },
-  {
-    "s": "CNET UK",
-    "d": "www.cnet.com",
-    "t": "cnetuk",
-    "u": "https://www.cnet.com/search/?query={{{s}}}",
-    "c": "Tech",
-    "sc": "Blogs (intl)"
   },
   {
     "s": "Conservative Home",
@@ -23360,22 +23336,6 @@
     "u": "https://downforeveryoneorjustme.com/{{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
-  },
-  {
-    "s": "Cnet Downloads",
-    "d": "download.cnet.com",
-    "t": "downloadcnet",
-    "u": "https://download.cnet.com/1770-20_4-0.html?query={{{s}}}&platformSelect=&tag=srch&searchtype=downloads&filterName=platform=Windows,Mobile,Mac,Webware&filter=platform=Windows,Mobile,Mac,Webware",
-    "c": "Tech",
-    "sc": "Downloads (software)"
-  },
-  {
-    "s": "Download.com",
-    "d": "download.cnet.com",
-    "t": "download",
-    "u": "https://download.cnet.com/1770-20_4-0.html?searchtype=downloads&query={{{s}}}&tg=dl-20&search.x=0&search.y=0&search=+Go!",
-    "c": "Tech",
-    "sc": "Downloads (software)"
   },
   {
     "s": "Downpour",
@@ -81402,14 +81362,6 @@
     "sc": "Libraries/Frameworks"
   },
   {
-    "s": "Download.com",
-    "d": "download.cnet.com",
-    "t": "shareware",
-    "u": "https://download.cnet.com/1770-20_4-0.html?searchtype=downloads&query={{{s}}}&tg=dl-20&search.x=0&search.y=0&search=+Go!",
-    "c": "Tech",
-    "sc": "Downloads (software)"
-  },
-  {
     "s": "Shaw",
     "d": "www.shaw.ca",
     "t": "shaw",
@@ -83655,14 +83607,6 @@
     "d": "www.softpedia.com",
     "t": "softpedia",
     "u": "https://www.softpedia.com/dyn-search.php?search_term={{{s}}}&x=0&y=0",
-    "c": "Tech",
-    "sc": "Downloads (software)"
-  },
-  {
-    "s": "Download.com",
-    "d": "download.cnet.com",
-    "t": "software",
-    "u": "https://download.cnet.com/1770-20_4-0.html?searchtype=downloads&query={{{s}}}&tg=dl-20&search.x=0&search.y=0&search=+Go!",
     "c": "Tech",
     "sc": "Downloads (software)"
   },
