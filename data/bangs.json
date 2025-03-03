@@ -15910,7 +15910,7 @@
     "s": "CNET",
     "d": "www.cnet.com",
     "t": "cnet",
-    "u": "https://www.cnet.com/1770-5_1-0.html?query={{{s}}}&tag=srch&target=nw",
+    "u": "https://www.cnet.com/search/?searchQuery={{{s}}}",
     "c": "Tech",
     "sc": "Blogs"
   },
