@@ -109940,7 +109940,7 @@
     "s": "Chromium Code Search",
     "d": "source.chromium.org",
     "t": "chromium",
-    "u": "https://source.chromium.org/search?q={{{s}}}&ss=chromium%2Fchromium%2Fsrc",
+    "u": "https://source.chromium.org/search?q={{{s}}}&ss=chromium/chromium/src",
     "c": "Tech",
     "sc": "Programming"
   }
