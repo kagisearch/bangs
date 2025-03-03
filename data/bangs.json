@@ -105062,14 +105062,6 @@
     "sc": "Music"
   },
   {
-    "s": "www.zalando.de",
-    "d": "www.zalando.de",
-    "t": "z",
-    "u": "https://www.zalando.de/katalog/?q={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
     "s": "Zephyr Cross Reference",
     "d": "elixir.bootlin.com",
     "t": "zxr",
