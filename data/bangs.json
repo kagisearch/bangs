@@ -15915,22 +15915,6 @@
     "sc": "Blogs"
   },
   {
-    "s": "CNET en español",
-    "d": "www.cnet.com",
-    "t": "cnete",
-    "u": "https://www.cnet.com/es/busqueda/?query={{{s}}}",
-    "c": "Tech",
-    "sc": "Blogs (intl)"
-  },
-  {
-    "s": "CNET UK",
-    "d": "www.cnet.com",
-    "t": "cnetuk",
-    "u": "https://www.cnet.com/search/?query={{{s}}}",
-    "c": "Tech",
-    "sc": "Blogs (intl)"
-  },
-  {
     "s": "Conservative Home",
     "d": "www.conservativehome.com",
     "t": "cnh",
