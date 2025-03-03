@@ -80504,14 +80504,6 @@
     "ad": "reddit.com"
   },
   {
-    "s": "Search.com",
-    "d": "www.search.com",
-    "t": "search",
-    "u": "https://www.search.com/search?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
     "s": "Search Tempest",
     "d": "www.searchtempest.com",
     "t": "searchtempest",
