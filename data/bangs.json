@@ -45723,6 +45723,14 @@
     "sc": "Movies"
   },
   {
+    "s": "IMBD",
+    "d": "www.imdb.com",
+    "t": "tv",
+    "u": "https://www.imdb.com/find?q={{{s}}}&s=all",
+    "c": "Entertainment",
+    "sc": "Movies"
+  },
+  {
     "s": "imbiomed",
     "d": "www.imbiomed.com.mx",
     "t": "imb",
@@ -92612,14 +92620,6 @@
     "sc": "Online (marketplace)"
   },
   {
-    "s": "TV.com",
-    "d": "www.tv.com",
-    "t": "tvcom",
-    "u": "http://www.tv.com/search?q={{{s}}}",
-    "c": "Entertainment",
-    "sc": "TV"
-  },
-  {
     "s": "TheTVDB",
     "d": "www.thetvdb.com",
     "t": "tvdbfr",
@@ -92754,14 +92754,6 @@
     "u": "https://tvtropes.org/pmwiki/search_result.php?q={{{s}}}",
     "c": "Research",
     "sc": "Reference (fun)"
-  },
-  {
-    "s": "tv.com",
-    "d": "www.tv.com",
-    "t": "tv",
-    "u": "http://www.tv.com/search?q={{{s}}}",
-    "c": "Entertainment",
-    "sc": "TV"
   },
   {
     "s": "Wirecutter (A New York Times Company)",
