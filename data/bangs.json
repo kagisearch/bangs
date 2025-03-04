@@ -56987,6 +56987,42 @@
     ]
   },
   {
+    "s": "Modrinth (Resource Packs)",
+    "d": "modrinth.com",
+    "t": "mdresourcepacks",
+    "u": "https://modrinth.com/resourcepacks?q={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (Minecraft)",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Modrinth (Datapacks)",
+    "d": "modrinth.com",
+    "t": "mddatapacks",
+    "u": "https://modrinth.com/datapacks?q={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (Minecraft)",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Modrinth (Shaders)",
+    "d": "modrinth.com",
+    "t": "mdshaders",
+    "u": "https://modrinth.com/shaders?q={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (Minecraft)",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
     "s": "Modrinth (Modpacks)",
     "d": "modrinth.com",
     "t": "mdmodpacks",
@@ -57002,6 +57038,78 @@
     "s": "Modrinth (Plugins)",
     "d": "modrinth.com",
     "t": "mdplugins",
+    "u": "https://modrinth.com/plugins?q={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (Minecraft)",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Modrinth (Mods)",
+    "d": "modrinth.com",
+    "t": "mrmods",
+    "u": "https://modrinth.com/mods?q={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (Minecraft)",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Modrinth (Resource Packs)",
+    "d": "modrinth.com",
+    "t": "mrresourcepacks",
+    "u": "https://modrinth.com/resourcepacks?q={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (Minecraft)",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Modrinth (Datapacks)",
+    "d": "modrinth.com",
+    "t": "mrdatapacks",
+    "u": "https://modrinth.com/datapacks?q={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (Minecraft)",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Modrinth (Shaders)",
+    "d": "modrinth.com",
+    "t": "mrshaders",
+    "u": "https://modrinth.com/shaders?q={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (Minecraft)",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Modrinth (Modpacks)",
+    "d": "modrinth.com",
+    "t": "mrmodpacks",
+    "u": "https://modrinth.com/modpacks?q={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (Minecraft)",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Modrinth (Plugins)",
+    "d": "modrinth.com",
+    "t": "mrplugins",
     "u": "https://modrinth.com/plugins?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (Minecraft)",
