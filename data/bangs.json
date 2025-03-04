@@ -5884,7 +5884,7 @@
     "s": "ARIN Whois",
     "d": "whois.arin.net",
     "t": "arin",
-    "u": "https://whois.arin.net/rest/nets;q={{{s}}}?showDetails=true&showARIN=false&ext=netref2",
+    "u": "https://whois.arin.net/ui/query.do?queryinput={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin (network)"
   },
