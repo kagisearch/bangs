@@ -9241,6 +9241,22 @@
     "sc": "Sysadmin (network)"
   },
   {
+    "s": "bgp.tools",
+    "d": "bgp.tools",
+    "t": "bgpt",
+    "u": "https://bgp.tools/search?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Sysadmin (network)"
+  },
+  {
+    "s": "bgp.tools",
+    "d": "bgp.tools",
+    "t": "bgptools",
+    "u": "https://bgp.tools/search?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Sysadmin (network)"
+  },
+  {
     "s": "BoardGamePrices",
     "d": "boardgameprices.co.uk",
     "t": "bgpuk",
