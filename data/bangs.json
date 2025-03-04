@@ -1409,14 +1409,6 @@
     "sc": "Government"
   },
   {
-    "s": "Mi abuela vende",
-    "d": "miabuelavende.com",
-    "t": "abuela",
-    "u": "http://miabuelavende.com/?s={{{s}}}&post_type=product",
-    "c": "Shopping",
-    "sc": "Online (marketplace)"
-  },
-  {
     "s": "AbuseIPDB",
     "d": "www.abuseipdb.com",
     "t": "abuseip",
@@ -13475,14 +13467,6 @@
     "sc": "TV"
   },
   {
-    "s": "Codebottle",
-    "d": "codebottle.io",
-    "t": "cbottle",
-    "u": "https://codebottle.io/?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Programming"
-  },
-  {
     "s": "Comic Book Roundup",
     "d": "comicbookroundup.com",
     "t": "cbr",
@@ -16151,14 +16135,6 @@
     "d": "codeberg.org",
     "t": "codeberg",
     "u": "https://codeberg.org/explore/repos?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Programming"
-  },
-  {
-    "s": "CodeBottle",
-    "d": "codebottle.io",
-    "t": "codebottle",
-    "u": "https://codebottle.io/?q={{{s}}}",
     "c": "Tech",
     "sc": "Programming"
   },
@@ -19545,14 +19521,6 @@
     "u": "https://dbnl.nl/zoeken/zoekeninteksten/index.php?zoek={{{s}}}",
     "c": "Multimedia",
     "sc": "Books"
-  },
-  {
-    "s": "Discord Boats",
-    "d": "discord.boats",
-    "t": "dboats",
-    "u": "https://discord.boats/bots?search={{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools"
   },
   {
     "s": "BukkitDev",
@@ -35638,14 +35606,6 @@
     "sc": "Sysadmin"
   },
   {
-    "s": "Giga Cultures",
-    "d": "giga-cultures.com",
-    "t": "giga-cultures",
-    "u": "http://giga-cultures.com/recherche?controller=search&search_query={{{s}}}:",
-    "c": "Shopping",
-    "sc": "Online (deals)"
-  },
-  {
     "s": "GIGABLAST",
     "d": "www.gigablast.org",
     "t": "giga",
@@ -36783,14 +36743,6 @@
     "sc": "Online"
   },
   {
-    "s": "Duck Go !Bang",
-    "d": "duckgobang.com",
-    "t": "gobang",
-    "u": "http://duckgobang.com/?s={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "Golang Cafe",
     "d": "golang.cafe",
     "t": "gocafe",
@@ -37709,14 +37661,6 @@
     "u": "https://www.greenpeace.org/india/en/System-templates/Search-results/?all={{{s}}}",
     "c": "News",
     "sc": "Specialty"
-  },
-  {
-    "s": "GPIO Support Services",
-    "d": "gpio.co.uk",
-    "t": "gpio",
-    "u": "https://gpio.co.uk/?s={{{s}}}",
-    "c": "Tech",
-    "sc": "Blogs"
   },
   {
     "s": "Go Package Reference",
@@ -47716,14 +47660,6 @@
     "sc": "Languages (java)"
   },
   {
-    "s": "Le Jargon Français",
-    "d": "jargonf.org",
-    "t": "jargonf",
-    "u": "https://jargonf.org/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words intl)"
-  },
-  {
     "s": "Jargon File (Kagi Search)",
     "d": "kagi.com",
     "t": "jargon",
@@ -51221,14 +51157,6 @@
     "sc": "Search"
   },
   {
-    "s": "http://kodexploit.com/",
-    "d": "kodexploit.com",
-    "t": "kx",
-    "u": "http://kodexploit.com/blog/search?search={{{s}}}",
-    "c": "Tech",
-    "sc": "Languages (php)"
-  },
-  {
     "s": "kx Reference",
     "d": "code.kx.com",
     "t": "kxref",
@@ -51428,14 +51356,6 @@
     "u": "https://www.lambdatest.com/blog/?s={{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
-  },
-  {
-    "s": "LamLam inkings",
-    "d": "lamlaminkings.com.ng",
-    "t": "lamlaminkings",
-    "u": "https://lamlaminkings.com.ng/?s={{{s}}}&submit=Search",
-    "c": "Entertainment",
-    "sc": "Blogs"
   },
   {
     "s": "LAMMPS Documentation",
@@ -58222,14 +58142,6 @@
     "sc": "Music"
   },
   {
-    "s": "Roma and Mac Metal Scrap Corporation",
-    "d": "romaandmacmetalscrap.com",
-    "t": "metalscrap",
-    "u": "https://romaandmacmetalscrap.com/?product_cat=0&s={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online (marketplace)"
-  },
-  {
     "s": "Metal Storm",
     "d": "www.metalstorm.net",
     "t": "metalstorm",
@@ -61614,14 +61526,6 @@
     "sc": "Online (marketplace)"
   },
   {
-    "s": "mywellbrain",
-    "d": "mywellbrain.com",
-    "t": "mybrain",
-    "u": "https://mywellbrain.com/?s={{{s}}}",
-    "c": "Research",
-    "sc": "Health"
-  },
-  {
     "s": "mycomicshop",
     "d": "www.mycomicshop.com",
     "t": "myc",
@@ -61941,14 +61845,6 @@
     "u": "https://www.biblegateway.com/passage/?search={{{s}}}&version=NABRE",
     "c": "Research",
     "sc": "Reference (religion)"
-  },
-  {
-    "s": "gbpicx",
-    "d": "gbpicx.de",
-    "t": "nacht",
-    "u": "https://gbpicx.de//?s={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Images"
   },
   {
     "s": "Native American Ethnobotany",
@@ -63101,14 +62997,6 @@
     "u": "https://www.news24.com/search?q={{{s}}}",
     "c": "News",
     "sc": "Online"
-  },
-  {
-    "s": "News365 Club",
-    "d": "news365.club",
-    "t": "news365club",
-    "u": "https://news365.club/arama?q={{{s}}}",
-    "c": "News",
-    "sc": "Newspaper"
   },
   {
     "s": "Google News Archive",
@@ -64346,22 +64234,6 @@
     "sc": "Blogs"
   },
   {
-    "s": "not Evil",
-    "d": "hss3uro2hsxfogfq.onion",
-    "t": "notevil",
-    "u": "http://hss3uro2hsxfogfq.onion/index.php?q={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "NoticiaDOS",
-    "d": "noticiados.net",
-    "t": "noticiados",
-    "u": "http://noticiados.net/blog/buscar/?query={{{s}}}",
-    "c": "News",
-    "sc": "Magazine"
-  },
-  {
     "s": "The Noun Project",
     "d": "thenounproject.com",
     "t": "nounproject",
@@ -65071,14 +64943,6 @@
     "d": "query.nytimes.com",
     "t": "nyt",
     "u": "https://query.nytimes.com/search/sitesearch?query={{{s}}}&srchst=cse",
-    "c": "News",
-    "sc": "Newspaper"
-  },
-  {
-    "s": "The New York Times Onion Service",
-    "d": "www.nytimes3xbfgragh.onion",
-    "t": "nyto",
-    "u": "https://www.nytimes3xbfgragh.onion/search?query={{{s}}}",
     "c": "News",
     "sc": "Newspaper"
   },
@@ -65974,14 +65838,6 @@
     "sc": "Books"
   },
   {
-    "s": "Oliverse",
-    "d": "oliverse.ch",
-    "t": "oliverse",
-    "u": "https://oliverse.ch/?search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Blogs"
-  },
-  {
     "s": "Dizionario Italiano Olivetti",
     "d": "www.dizionario-italiano.it",
     "t": "olivetti",
@@ -66430,14 +66286,6 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "Online Link Scan",
-    "d": "onlinelinkscan.com",
-    "t": "onlinelinkscan",
-    "u": "http://onlinelinkscan.com/results/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools (URLs)"
-  },
-  {
     "s": "Oblivion NexusMods",
     "d": "www.nexusmods.com",
     "t": "onm",
@@ -66589,14 +66437,6 @@
     "u": "http://fr.openclassrooms.com/recherche/?search={{{s}}}",
     "c": "Tech",
     "sc": "Programming"
-  },
-  {
-    "s": "OpenBadges",
-    "d": "openbadges.it",
-    "t": "openbadges",
-    "u": "https://openbadges.it/search/{{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
   },
   {
     "s": "Openbox",
@@ -69402,14 +69242,6 @@
     "sc": "Reference (science)"
   },
   {
-    "s": "Podcast List",
-    "d": "podcastlist.ca",
-    "t": "pdcstlst",
-    "u": "https://podcastlist.ca/?s={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Audio"
-  },
-  {
     "s": "PrintFriendly & PDF",
     "d": "www.printfriendly.com",
     "t": "pdfy",
@@ -69600,14 +69432,6 @@
     "u": "https://www.pelando.com.br/search?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online (deals)"
-  },
-  {
-    "s": "pengicau",
-    "d": "pengicau.com",
-    "t": "pengicau",
-    "u": "https://pengicau.com/w/index.php?search={{{s}}}&title=Special:Search&fulltext=1",
-    "c": "Multimedia",
-    "sc": "Music"
   },
   {
     "s": "Penguin Magic",
@@ -72570,14 +72394,6 @@
     "sc": "Online"
   },
   {
-    "s": "Pretium",
-    "d": "pretium.direct",
-    "t": "pretium",
-    "u": "http://pretium.direct/search/?query={{{s}}}",
-    "c": "Shopping",
-    "sc": "Tech"
-  },
-  {
     "s": "Prezi",
     "d": "prezi.com",
     "t": "prezi",
@@ -72778,14 +72594,6 @@
     "sc": "Design"
   },
   {
-    "s": "Printeera",
-    "d": "printeera.com",
-    "t": "printeera",
-    "u": "https://printeera.com/search?type=product&q={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
     "s": "Prisguide.no",
     "d": "www.prisguide.no",
     "t": "prisguide",
@@ -72832,14 +72640,6 @@
     "u": "https://www.prosieben.de/suche?q={{{s}}}",
     "c": "Entertainment",
     "sc": "TV"
-  },
-  {
-    "s": "prostor-av.com",
-    "d": "prostor-av.com",
-    "t": "proav",
-    "u": "https://prostor-av.com/search/?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Social news/links"
   },
   {
     "s": "Probuilds",
@@ -72914,14 +72714,6 @@
     "u": "https://help.profitopia.de/search.html?q={{{s}}}&check_keywords=yes&area=default",
     "c": "Entertainment",
     "sc": "Games (general)"
-  },
-  {
-    "s": "ProgAccess33",
-    "d": "progaccess33.net",
-    "t": "progaccess",
-    "u": "https://progaccess33.net/search/?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Downloads (software)"
   },
   {
     "s": "Prog Archives",
@@ -73564,14 +73356,6 @@
     "sc": "Languages (other)"
   },
   {
-    "s": "Pubg Mobile Update",
-    "d": "pubgmobileupdate.com",
-    "t": "pubg",
-    "u": "https://pubgmobileupdate.com/?s={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (WOW)"
-  },
-  {
     "s": "PLAYERUNKNOWN'S BATTLEGROUNDS Wiki",
     "d": "pubg.wiki.gg",
     "t": "pubgwiki",
@@ -73794,14 +73578,6 @@
     "u": "https://www.pokewiki.de/index.php?search={{{s}}}&title=Spezial:Suche&go=Seite",
     "c": "Entertainment",
     "sc": "Games (Pokemon)"
-  },
-  {
-    "s": "Polarweldfin",
-    "d": "polarweldfin.com",
-    "t": "pwf",
-    "u": "https://polarweldfin.com/etsi?controller=search&s={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
   },
   {
     "s": "PsychonautWiki",
@@ -76293,14 +76069,6 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "Release Monitor",
-    "d": "releasemonitor.de",
-    "t": "remo",
-    "u": "https://releasemonitor.de/s?q={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (general)"
-  },
-  {
     "s": "https://remywiki.com",
     "d": "remywiki.com",
     "t": "remy",
@@ -76699,14 +76467,6 @@
     "u": "https://reviewmeta.com/search?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
-  },
-  {
-    "s": "ReviewsCon",
-    "d": "reviewscon.com",
-    "t": "reviews",
-    "u": "https://reviewscon.com/?s={{{s}}}&post_type=&catid=",
-    "c": "Shopping",
-    "sc": "Online (deals)"
   },
   {
     "s": "Reverso Context",
@@ -80909,14 +80669,6 @@
     "sc": "Academic"
   },
   {
-    "s": "Select Fashion",
-    "d": "selectfashion.pk",
-    "t": "select",
-    "u": "http://selectfashion.pk/?term={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
     "s": "SELFHTML",
     "d": "de.selfhtml.org",
     "t": "selfhtml",
@@ -81123,14 +80875,6 @@
     "u": "https://serenesforest.net/?s={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
-  },
-  {
-    "s": "Serialvilla",
-    "d": "serialvilla.com",
-    "t": "serialvilla.com",
-    "u": "http://serialvilla.com/search? keyword={{{s}}}",
-    "c": "Entertainment",
-    "sc": "TV"
   },
   {
     "s": "Seriebox",
@@ -82132,14 +81876,6 @@
     "u": "http://sinopak.net/search?controller=search&orderby=position&orderway=desc&search_query={{{s}}}&submit_search=Search",
     "c": "Shopping",
     "sc": "Online"
-  },
-  {
-    "s": "Sip Read Repeat",
-    "d": "sipreadrepeat.com",
-    "t": "sip",
-    "u": "https://sipreadrepeat.com/?s={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Blogs"
   },
   {
     "s": "Should I remove It?",
@@ -84037,14 +83773,6 @@
     "sc": "Languages (r)"
   },
   {
-    "s": "Soruso",
-    "d": "soruso.com",
-    "t": "soruso",
-    "u": "https://soruso.com/?s={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Music"
-  },
-  {
     "s": "Stack Overflow",
     "d": "stackoverflow.com",
     "t": "soscrapy",
@@ -85287,14 +85015,6 @@
     "sc": "Video"
   },
   {
-    "s": "Shop Smart Reviews",
-    "d": "shopsmartreviews.in",
-    "t": "ssr",
-    "u": "https://shopsmartreviews.in/?s={{{s}}}",
-    "c": "Tech",
-    "sc": "Blogs"
-  },
-  {
     "s": "SimilarSiteSearch",
     "d": "www.similarsitesearch.com",
     "t": "ssses",
@@ -85877,14 +85597,6 @@
     "u": "https://stellaris.paradoxwikis.com/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
-  },
-  {
-    "s": "StellarFed",
-    "d": "stellarfed.org",
-    "t": "stellar",
-    "u": "https://stellarfed.org/search?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
   },
   {
     "s": "Steam",
@@ -88072,14 +87784,6 @@
     "sc": "Travel"
   },
   {
-    "s": "Txt Tax",
-    "d": "isittaxed.ca",
-    "t": "tax",
-    "u": "http://isittaxed.ca/search.php?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
     "s": "Tayda Electronics",
     "d": "www.taydaelectronics.com",
     "t": "tayda",
@@ -88441,14 +88145,6 @@
     "sc": "Blogs"
   },
   {
-    "s": "Tech dai",
-    "d": "techdai.info",
-    "t": "techdai",
-    "u": "https://techdai.info/?s={{{s}}}",
-    "c": "Tech",
-    "sc": "Blogs"
-  },
-  {
     "s": "TechDirt",
     "d": "www.techdirt.com",
     "t": "techdirt",
@@ -88559,14 +88255,6 @@
     "u": "https://www.techspot.com/search/?q={{{s}}}",
     "c": "News",
     "sc": "Specialty"
-  },
-  {
-    "s": "Technxt code labs",
-    "d": "technxt.net",
-    "t": "tech",
-    "u": "https://technxt.net/?s={{{s}}}",
-    "c": "Tech",
-    "sc": "Blogs"
   },
   {
     "s": "TechTips4U",
@@ -89382,14 +89070,6 @@
     "sc": "Social"
   },
   {
-    "s": "Translate.Ge",
-    "d": "translate.ge",
-    "t": "tge",
-    "u": "https://translate.ge/word/{{{s}}}",
-    "c": "Translation",
-    "sc": "General"
-  },
-  {
     "s": "Tangorin Japanese Dictionary",
     "d": "tangorin.com",
     "t": "tgr",
@@ -89420,14 +89100,6 @@
     "u": "https://www.target.com/s?searchTerm={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
-  },
-  {
-    "s": "ThaiLyrics.top",
-    "d": "thailyrics.top",
-    "t": "thail",
-    "u": "https://thailyrics.top/results/?q={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Music (Lyrics)"
   },
   {
     "s": "thai-language.com",
@@ -90918,14 +90590,6 @@
     "sc": "Government"
   },
   {
-    "s": "Tnbc1.com",
-    "d": "tnbc1.com",
-    "t": "tnbc1",
-    "u": "https://tnbc1.com/?s={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Blogs"
-  },
-  {
     "s": "The Noun Project",
     "d": "thenounproject.com",
     "t": "tnp",
@@ -92300,14 +91964,6 @@
     "u": "https://toontownrewritten.wiki/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
-  },
-  {
-    "s": "ttruyen.com",
-    "d": "truyendi.com",
-    "t": "ttruyen",
-    "u": "http://truyendi.com/tim-kiem-truyen.html?q={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Comics"
   },
   {
     "s": "Trieste Trasporti",
@@ -96744,14 +96400,6 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "Vicol’s Journey – Free Photography",
-    "d": "vjphotos.net",
-    "t": "vj",
-    "u": "http://vjphotos.net/?s={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Images"
-  },
-  {
     "s": "Vikidia",
     "d": "fr.vikidia.org",
     "t": "vkdia",
@@ -98939,14 +98587,6 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "What up in town",
-    "d": "whatupintown.com",
-    "t": "whatupintown",
-    "u": "https://whatupintown.com/search/?q={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Events"
-  },
-  {
     "s": "WoWHead Classic",
     "d": "classic.wowhead.com",
     "t": "whc",
@@ -99137,14 +98777,6 @@
     "u": "http://whoiz.herokuapp.com/lookup?url={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin (network)"
-  },
-  {
-    "s": "Whonix",
-    "d": "kkkkkkkkkk63ava6.onion",
-    "t": "whonix",
-    "u": "http://kkkkkkkkkk63ava6.onion/w/index.php?search={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin (debian)"
   },
   {
     "s": "who.pm",
@@ -102972,14 +102604,6 @@
     "sc": "Online"
   },
   {
-    "s": "Xploremycity",
-    "d": "xploremycity.com",
-    "t": "xmc",
-    "u": "https://xploremycity.com/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Search (Real-time)"
-  },
-  {
     "s": "Xmo Strata",
     "d": "xmostrata.com",
     "t": "xmostrata",
@@ -103152,14 +102776,6 @@
     "d": "auctions.search.yahoo.co.jp",
     "t": "yajp",
     "u": "http://auctions.search.yahoo.co.jp/search?p={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online (marketplace)"
-  },
-  {
-    "s": "Ya Market",
-    "d": "ya-market.org",
-    "t": "yamarket",
-    "u": "https://ya-market.org/products?search={{{s}}}",
     "c": "Shopping",
     "sc": "Online (marketplace)"
   },
@@ -104014,14 +103630,6 @@
     "u": "https://search.yahoo.com/search?p=/{{{s}}}",
     "c": "Entertainment",
     "sc": "Sports"
-  },
-  {
-    "s": "YStream.TV",
-    "d": "ystream.tv",
-    "t": "ystream",
-    "u": "https://ystream.tv/q/?s={{{s}}}",
-    "c": "Entertainment",
-    "sc": "TV"
   },
   {
     "s": "Яндекс.Словари",
@@ -105113,14 +104721,6 @@
     "u": "https://www.sahifatv.com/category/{{{s}}}",
     "c": "News",
     "sc": "Newspaper"
-  },
-  {
-    "s": "شرکت پخش ستاره",
-    "d": "setareh-co.com",
-    "t": "پخشستاره",
-    "u": "https://setareh-co.com/?s={{{s}}}&submit=",
-    "c": "Shopping",
-    "sc": "Online (marketplace)"
   },
   {
     "s": "موقع تبسيط",
