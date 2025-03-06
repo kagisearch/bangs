@@ -29233,7 +29233,7 @@
     "s": "Font Awesome",
     "d": "fontawesome.com",
     "t": "faicon",
-    "u": "https://fontawesome.com/icons?d=gallery&q={{{s}}}",
+    "u": "https://fontawesome.com/search?q={{{s}}}",
     "c": "Tech",
     "sc": "Design"
   },
@@ -29545,7 +29545,7 @@
     "s": "Font Awesome",
     "d": "fontawesome.com",
     "t": "fas",
-    "u": "https://fontawesome.com/icons?d=gallery&q={{{s}}}",
+    "u": "https://fontawesome.com/search?q={{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
   },
@@ -31620,7 +31620,7 @@
     "s": "Font Awesome",
     "d": "fontawesome.com",
     "t": "fonta",
-    "u": "https://fontawesome.com/icons?d=gallery&q={{{s}}}",
+    "u": "https://fontawesome.com/search?q={{{s}}}",
     "c": "Tech",
     "sc": "Libraries/Frameworks"
   },
@@ -31628,7 +31628,7 @@
     "s": "Font Awesome",
     "d": "fontawesome.com",
     "t": "fontawesome",
-    "u": "https://fontawesome.com/icons?q={{{s}}}",
+    "u": "https://fontawesome.com/search?q={{{s}}}",
     "c": "Tech",
     "sc": "Design"
   },
