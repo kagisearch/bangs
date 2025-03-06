@@ -69618,6 +69618,22 @@
     "sc": "Tools"
   },
   {
+    "s": "Perplexity AI",
+    "d": "perplexity.ai",
+    "t": "ppx",
+    "u": "https://perplexity.ai/?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Tools"
+  },
+  {
+    "s": "Perplexity AI",
+    "d": "perplexity.ai",
+    "t": "pplx",
+    "u": "https://perplexity.ai/?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Tools"
+  },
+  {
     "s": "Personality Database",
     "d": "personality-database.com",
     "t": "per",
