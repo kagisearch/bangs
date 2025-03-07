@@ -109517,7 +109517,7 @@
     "s": "Cloudflare Developer Documentation",
     "d": "developers.cloudflare.com",
     "t": "cdev",
-    "u": "https://developers.cloudflare.com/search/?q={{{s}}}",
+    "u": "https://developers.cloudflare.com/search/?query={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin (man)",
     "fmt": [
