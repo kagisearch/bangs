@@ -10,7 +10,7 @@
           "schemas": [
             {
               "fileMatch": ["*/data/bangs.json", "*/data/kagi_bangs.json", "*/data/assistant_bangs.json"],
-              "url": "./data/bangs.schema.json"
+              "url": "https://raw.githubusercontent.com/kagisearch/bangs/refs/heads/main/data/bangs.schema.json"
             }
           ]
         }
