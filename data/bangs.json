@@ -82152,6 +82152,22 @@
     "sc": "Tools"
   },
   {
+    "s": "Standard Korean Language Dictionary",
+    "d": "stdict.korean.go.kr",
+    "t": "stdict",
+    "u": "https://stdict.korean.go.kr/search/searchResult.do?searchKeyword={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Standard Korean Language Dictionary",
+    "d": "stdict.korean.go.kr",
+    "t": "사전",
+    "u": "https://stdict.korean.go.kr/search/searchResult.do?searchKeyword={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
     "s": "Skeptic's Dictionary (Kagi Search)",
     "d": "kagi.com",
     "t": "skepdic",
