@@ -563,6 +563,13 @@
     "c": "Region search"
   },
   {
+    "s": "Search in Turkey",
+    "d": "kagi.com",
+    "t": "tur",
+    "u": "/search?q={{{s}}}&r=tr",
+    "c": "Region search"
+  },
+  {
     "s": "Search in Tonga",
     "d": "kagi.com",
     "t": "to",
