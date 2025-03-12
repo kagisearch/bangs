@@ -11935,6 +11935,14 @@
     "sc": "Social"
   },
   {
+    "s": "Bluesky",
+    "d": "bsky.app",
+    "t": "bluesky",
+    "u": "https://bsky.app/search?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Social"
+  },
+  {
     "s": "SignBSL",
     "d": "www.signbsl.com",
     "t": "bsl",
