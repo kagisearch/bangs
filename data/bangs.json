@@ -52966,9 +52966,9 @@
   },
   {
     "s": "Lifeprint",
-    "d": "www.google.com",
+    "d": "cse.google.com",
     "t": "lifeprint",
-    "u": "https://www.google.com/cse?cx=partner-pub-2513564923850231:nzof3qz9abm&ie=ISO-8859-1&q=time#gsc.tab=0&gsc.q={{{s}}}&gsc.page=1",
+    "u": "https://cse.google.com/cse?cx=partner-pub-2513564923850231:nzof3qz9abm&ie=ISO-8859-1&q={{{s}}}&sa=Search",
     "c": "Research",
     "sc": "Learning (intl)"
   },
