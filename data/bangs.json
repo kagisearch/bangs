@@ -69832,14 +69832,6 @@
     "sc": "Games (Pokemon)"
   },
   {
-    "s": "KnightOS Package Index",
-    "d": "packages.knightos.org",
-    "t": "pko",
-    "u": "https://packages.knightos.org/search?terms={{{s}}}",
-    "c": "Tech",
-    "sc": "Downloads (software)"
-  },
-  {
     "s": "Peekier",
     "d": "peekier.com",
     "t": "pk",
