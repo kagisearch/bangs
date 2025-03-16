@@ -1684,7 +1684,7 @@
     "s": "Ada 2005 Manual",
     "d": "www.ada-auth.org",
     "t": "ada",
-    "u": "https://www.ada-auth.org/search-rm05.cgi?SearchA={{{s}}}&SearchO=&SearchN=",
+    "u": "http://www.ada-auth.org/search-rm05.cgi?SearchA={{{s}}}&SearchO=&SearchN=",
     "c": "Research",
     "sc": "Academic"
   },
