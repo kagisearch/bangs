@@ -29070,14 +29070,6 @@
     "sc": "Specialty"
   },
   {
-    "s": "Fairmondo",
-    "d": "www.fairmondo.de",
-    "t": "fairmondo",
-    "u": "https://www.fairmondo.de/articles?article_search_form[q]={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online (marketplace)"
-  },
-  {
     "s": "fairtragen",
     "d": "www.fairtragen.de",
     "t": "fairtragen",
