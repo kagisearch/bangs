@@ -67465,14 +67465,6 @@
     "sc": "Big box/department"
   },
   {
-    "s": "PackageMapping",
-    "d": "www.packagemapping.com",
-    "t": "package",
-    "u": "http://www.packagemapping.com/?action=track&tracknum={{{s}}}",
-    "c": "Online Services",
-    "sc": "Tracking"
-  },
-  {
     "s": "Packagist",
     "d": "packagist.org",
     "t": "packagist",
