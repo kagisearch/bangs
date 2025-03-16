@@ -61816,9 +61816,9 @@
   },
   {
     "s": "NetBSD manual pages",
-    "d": "netbsd.gw.com",
+    "d": "man.netbsd.org",
     "t": "nbsdman",
-    "u": "http://netbsd.gw.com/cgi-bin/man-cgi?{{{s}}}",
+    "u": "https://man.netbsd.org/{{{s}}}",
     "c": "Tech",
     "sc": "Blogs"
   },
