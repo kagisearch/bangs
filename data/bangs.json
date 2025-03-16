@@ -70340,9 +70340,9 @@
   },
   {
     "s": "Project Management Institute",
-    "d": "search.pmi.org",
+    "d": "www.pmi.org",
     "t": "pmi",
-    "u": "https://search.pmi.org/default.aspx?q={{{s}}}",
+    "u": "https://www.pmi.org/search#q={{{s}}}&sort=relevancy",
     "c": "Research",
     "sc": "Reference"
   },
