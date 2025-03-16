@@ -102666,14 +102666,6 @@
     "sc": "Online (intl)"
   },
   {
-    "s": "zoomthelist",
-    "d": "zoomthelist.com",
-    "t": "zoomthelist",
-    "u": "http://zoomthelist.com/?q={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online (marketplace)"
-  },
-  {
     "s": "zoom.us",
     "d": "zoom.us",
     "t": "zoom.us",
