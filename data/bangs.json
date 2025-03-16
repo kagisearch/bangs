@@ -62415,14 +62415,6 @@
     "sc": "Blogs"
   },
   {
-    "s": "networkx",
-    "d": "networkx.lanl.gov",
-    "t": "networkx",
-    "u": "http://networkx.lanl.gov/search.html?q={{{s}}}&check_keywords=yes&area=default",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
     "s": "Netzpolitik.org",
     "d": "netzpolitik.org",
     "t": "netzpolitik",
@@ -64385,14 +64377,6 @@
     "u": "https://www.nextinpact.com/recherche?_search={{{s}}}",
     "c": "News",
     "sc": "Magazine"
-  },
-  {
-    "s": "networkx",
-    "d": "networkx.lanl.gov",
-    "t": "nx",
-    "u": "http://networkx.lanl.gov/search.html?q={{{s}}}&check_keywords=yes&area=default",
-    "c": "Research",
-    "sc": "Academic"
   },
   {
     "s": "Nyheter Idag",
