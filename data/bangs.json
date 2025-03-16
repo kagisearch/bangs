@@ -10355,14 +10355,6 @@
     "sc": "Search (DDG)"
   },
   {
-    "s": "blogs.splunk.com",
-    "d": "blogs.splunk.com",
-    "t": "blogs.splunk",
-    "u": "https://blogs.splunk.com/?s={{{s}}}",
-    "c": "Tech",
-    "sc": "Companies"
-  },
-  {
     "s": "BlogTalkRadio",
     "d": "blogtalkradio.com",
     "t": "blogtalkradio",
