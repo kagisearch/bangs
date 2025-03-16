@@ -68458,14 +68458,6 @@
     "sc": "Online"
   },
   {
-    "s": "PC World Bulgaria",
-    "d": "pcworld.bg",
-    "t": "pcworldbg",
-    "u": "http://pcworld.bg/search/all/{{{s}}}",
-    "c": "Tech",
-    "sc": "Blogs"
-  },
-  {
     "s": "PC World",
     "d": "www.pcworld.com",
     "t": "pcworld",
