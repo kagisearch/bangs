@@ -42790,14 +42790,6 @@
     "sc": "Newspaper"
   },
   {
-    "s": "Hard-Light Productions",
-    "d": "hlp-search.tproxy.de",
-    "t": "hlp",
-    "u": "https://hlp-search.tproxy.de/search?q={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
-  },
-  {
     "s": "How Long To Beat",
     "d": "howlongtobeat.com",
     "t": "hltb",
