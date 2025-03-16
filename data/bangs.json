@@ -51766,14 +51766,6 @@
     "sc": "Languages (other)"
   },
   {
-    "s": "Learn Zone",
-    "d": "learnzone.org.uk",
-    "t": "learnzone",
-    "u": "https://learnzone.org.uk/courses/?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
     "s": "LowEndBox",
     "d": "lowendbox.com",
     "t": "leb",
