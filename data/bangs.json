@@ -77188,14 +77188,6 @@
     "sc": "TV"
   },
   {
-    "s": "RTVNH",
-    "d": "www.rtvnh.nl",
-    "t": "rtvnh",
-    "u": "http://www.rtvnh.nl/zoeken/1/{{{s}}}",
-    "c": "News",
-    "sc": "Broadcast"
-  },
-  {
     "s": "RuboCop",
     "d": "rubocop.readthedocs.io",
     "t": "rubocop",
