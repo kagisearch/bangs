@@ -62808,14 +62808,6 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "Newgistics Tracking",
-    "d": "tracking.newgistics.com",
-    "t": "ngt",
-    "u": "https://tracking.newgistics.com/?trackingvalue={{{s}}}",
-    "c": "Online Services",
-    "sc": "Tracking"
-  },
-  {
     "s": "NGÜ auf Bibleserver",
     "d": "www.bibleserver.com",
     "t": "ngü",
