@@ -5442,9 +5442,9 @@
   },
   {
     "s": "Agentur für Arbeit",
-    "d": "con.arbeitsagentur.de",
+    "d": "www.arbeitsagentur.de",
     "t": "arbeitsagentur",
-    "u": "https://con.arbeitsagentur.de/prod/jobboerse/jobsuche-ui/?VOLLTEXT={{{s}}}&FCT.ANGEBOTSART=ARBEIT&FCT.AKTUALITAET=100&FCT.BEHINDERUNG=AUS&page=1&size=10&sort=Relevanz&s=5",
+    "u": "https://www.arbeitsagentur.de/jobsuche/suche?sort=Relevanz&angebotsart=1&was={{{s}}}",
     "c": "Online Services",
     "sc": "Search"
   },
