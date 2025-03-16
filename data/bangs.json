@@ -83863,14 +83863,6 @@
     "sc": "Online"
   },
   {
-    "s": "StakingReturns",
-    "d": "stakingreturns.com",
-    "t": "stake",
-    "u": "https://stakingreturns.com/coins/{{{s}}}",
-    "c": "Tech",
-    "sc": "Cryptocurrency"
-  },
-  {
     "s": "De Standaard",
     "d": "www.standaard.be",
     "t": "standaard",
