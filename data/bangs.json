@@ -87615,9 +87615,9 @@
   },
   {
     "s": "Theraputic Goods Administration",
-    "d": "search.tga.gov.au",
+    "d": "www.tga.gov.au",
     "t": "tga",
-    "u": "https://search.tga.gov.au/s/search.html?collection=tga-websites-web&query={{{s}}}&op=Search",
+    "u": "https://www.tga.gov.au/resources/artg?keywords={{{s}}}",
     "c": "Research",
     "sc": "Government"
   },
