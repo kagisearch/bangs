@@ -100940,14 +100940,6 @@
     "sc": "Business"
   },
   {
-    "s": "Yahoo Search Japan",
-    "d": "dic.search.yahoo.co.jp",
-    "t": "yahoojdic",
-    "u": "http://dic.search.yahoo.co.jp/search?p={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "Yahoo!",
     "d": "search.yahoo.com",
     "t": "yahoo",
@@ -101165,14 +101157,6 @@
     "sc": "Aggregators"
   },
   {
-    "s": "Yahoo! Japan Chiebukuro",
-    "d": "chiebukuro.search.yahoo.co.jp",
-    "t": "ychiejp",
-    "u": "http://chiebukuro.search.yahoo.co.jp/search?p={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Forum"
-  },
-  {
     "s": "Youdao Dict",
     "d": "dict.youdao.com",
     "t": "ydd",
@@ -101187,14 +101171,6 @@
     "u": "https://de.yahoo.com/?q={{{s}}}",
     "c": "Online Services",
     "sc": "Search"
-  },
-  {
-    "s": "Yahoo!辞書",
-    "d": "dic.search.yahoo.co.jp",
-    "t": "ydic",
-    "u": "http://dic.search.yahoo.co.jp/search?ei=UTF-8&p={{{s}}}&stype=full&fr=dic",
-    "c": "Research",
-    "sc": "Learning"
   },
   {
     "s": "YourDictionary",
@@ -101411,14 +101387,6 @@
     "d": "images.search.yahoo.com",
     "t": "yi",
     "u": "https://images.search.yahoo.com/search/images?p={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
-    "s": "Yahoo Jisho",
-    "d": "dic.search.yahoo.co.jp",
-    "t": "yjisho",
-    "u": "http://dic.search.yahoo.co.jp/search?ei=UTF-8&p={{{s}}}&fr=dic&stype=prefix",
     "c": "Online Services",
     "sc": "Search"
   },
