@@ -64083,9 +64083,9 @@
   },
   {
     "s": "Nuke Dev Guide",
-    "d": "docs.thefoundry.co.uk",
+    "d": "learn.foundry.com",
     "t": "nukepy",
-    "u": "https://docs.thefoundry.co.uk/products/nuke/developers/80/pythondevguide/search.html?q={{{s}}}&check_keywords=yes&area=default",
+    "u": "https://learn.foundry.com/nuke/developers/11.2/pythondevguide/search.html?q={{{s}}}&check_keywords=yes&area=default",
     "c": "Tech",
     "sc": "Languages (python)"
   },
