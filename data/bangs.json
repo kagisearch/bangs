@@ -90664,14 +90664,6 @@
     "sc": "Social"
   },
   {
-    "s": "Новости TUT.BY / TUT.BY news",
-    "d": "news.tut.by",
-    "t": "tutnews",
-    "u": "http://news.tut.by/search/?str={{{s}}}",
-    "c": "News",
-    "sc": "Aggregators"
-  },
-  {
     "s": "Tutorilio Tech",
     "d": "www.tutorilio.com",
     "t": "tutorilio",
@@ -90718,14 +90710,6 @@
     "u": "https://www.tuttocitta.it/mappe/{{{s}}}",
     "c": "Online Services",
     "sc": "Maps"
-  },
-  {
-    "s": "TUT.BY",
-    "d": "search.tut.by",
-    "t": "tut",
-    "u": "http://search.tut.by/?status=1&ru=1&encoding=1&page=0&how=rlv&query={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search (non-US)"
   },
   {
     "s": "TU Dresden",
