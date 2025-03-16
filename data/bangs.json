@@ -61134,14 +61134,6 @@
     "sc": "TV"
   },
   {
-    "s": "MyECP",
-    "d": "my.ecp.fr",
-    "t": "myecp",
-    "u": "https://my.ecp.fr/search?query={{{s}}}",
-    "c": "Online Services",
-    "sc": "Social"
-  },
-  {
     "s": "Myer",
     "d": "www.myer.com.au",
     "t": "myer",
