@@ -83558,14 +83558,6 @@
     "sc": "Social news/links"
   },
   {
-    "s": "srthealing.com",
-    "d": "srthealing.com",
-    "t": "srtblog",
-    "u": "https://srthealing.com/?s={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search (non-US)"
-  },
-  {
     "s": "Subreddit sorted top/ all time",
     "d": "www.reddit.com",
     "t": "srtop",
