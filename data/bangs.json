@@ -65297,7 +65297,7 @@
     "s": "Olx India",
     "d": "www.olx.in",
     "t": "olxin",
-    "u": "https://www.olx.in/?{{{s}}}",
+    "u": "https://www.olx.in/items/q-{{{s}}}?isSearchCall=true",
     "c": "Shopping",
     "sc": "Online (marketplace)"
   },
