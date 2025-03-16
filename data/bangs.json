@@ -60207,14 +60207,6 @@
     "sc": "Blogs"
   },
   {
-    "s": "Morningstar Quote",
-    "d": "quote.morningstar.com",
-    "t": "msq",
-    "u": "http://quote.morningstar.com/stock/s.aspx?t={{{s}}}",
-    "c": "Research",
-    "sc": "Topical"
-  },
-  {
     "s": "MusicRadar",
     "d": "www.musicradar.com",
     "t": "msrd",
