@@ -97191,14 +97191,6 @@
     ]
   },
   {
-    "s": "wiggle",
-    "d": "www.wiggle.co.uk",
-    "t": "wiggle",
-    "u": "https://www.wiggle.co.uk/?s={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
     "s": "WhoIsHostingThis",
     "d": "www.whoishostingthis.com",
     "t": "wiht",
