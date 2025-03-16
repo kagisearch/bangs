@@ -65406,14 +65406,6 @@
     "sc": "Blogs"
   },
   {
-    "s": "Open Mapquest France",
-    "d": "open.mapquest.fr",
-    "t": "omfr",
-    "u": "http://open.mapquest.fr/?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Maps"
-  },
-  {
     "s": "OMG! Chrome!",
     "d": "www.omgchrome.com",
     "t": "omgchrome",
