@@ -93011,14 +93011,6 @@
     "sc": "Tools"
   },
   {
-    "s": "USDA Food Composition Database",
-    "d": "ndb.nal.usda.gov",
-    "t": "usda",
-    "u": "https://ndb.nal.usda.gov/ndb/search/list?SYNCHRONIZER_TOKEN=f84a82f2-08ef-411f-a08f-2ae87edece78&SYNCHRONIZER_URI=/ndb/search/list&qt=&qlookup={{{s}}}&ds=&manu=",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "Machineseeker.com - Used machinery search engine",
     "d": "www.machineseeker.com",
     "t": "used",
