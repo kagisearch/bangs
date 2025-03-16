@@ -93456,22 +93456,6 @@
     "ad": "v2ex.com/t"
   },
   {
-    "s": "verb2verbe.com",
-    "d": "www.verb2verbe.com",
-    "t": "v2ve",
-    "u": "http://www.verb2verbe.com/EnglishConj.aspx?verb={{{s}}}&tail=&type=query",
-    "c": "Online Services",
-    "sc": "Tools"
-  },
-  {
-    "s": "verb2verbe.com",
-    "d": "www.verb2verbe.com",
-    "t": "v2vf",
-    "u": "http://www.verb2verbe.com/francais/FrenchConj.aspx?verb={{{s}}}&tail=&ref=0&type=query",
-    "c": "Online Services",
-    "sc": "Tools"
-  },
-  {
     "s": "Vagalume",
     "d": "www.vagalume.com.br",
     "t": "vagalume",
