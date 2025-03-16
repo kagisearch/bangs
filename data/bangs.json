@@ -98741,14 +98741,6 @@
     "sc": "Games (general)"
   },
   {
-    "s": "WORLD Magazine",
-    "d": "world.wng.org",
-    "t": "world",
-    "u": "https://world.wng.org/search/site/{{{s}}}}",
-    "c": "News",
-    "sc": "Magazine"
-  },
-  {
     "s": "Worms Knowledge Base",
     "d": "worms2d.info",
     "t": "worms",
