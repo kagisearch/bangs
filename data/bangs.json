@@ -15523,14 +15523,6 @@
     "sc": "Blogs"
   },
   {
-    "s": "Cliqz",
-    "d": "beta.cliqz.com",
-    "t": "cliqz",
-    "u": "https://beta.cliqz.com/search?q={{{s}}}&lang=en",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
     "s": "ClojureDocs",
     "d": "clojuredocs.org",
     "t": "clj",
@@ -73954,14 +73946,6 @@
     "u": "https://qlcrew.com/?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (general)"
-  },
-  {
-    "s": "Cliqz",
-    "d": "beta.cliqz.com",
-    "t": "qli",
-    "u": "https://beta.cliqz.com/search?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
   },
   {
     "s": "Qwant Maps",
