@@ -78539,22 +78539,6 @@
     "ad": "scaruffi.com"
   },
   {
-    "s": "Statistics Sweden",
-    "d": "www.sverigeisiffror.scb.se",
-    "t": "scben",
-    "u": "http://www.sverigeisiffror.scb.se/hitta-statistik/sok/?query={{{s}}}",
-    "c": "Research",
-    "sc": "Government"
-  },
-  {
-    "s": "Statistiska centralbyrån",
-    "d": "www.sverigeisiffror.scb.se",
-    "t": "scb",
-    "u": "http://www.sverigeisiffror.scb.se/hitta-statistik/sok/?query={{{s}}}",
-    "c": "Research",
-    "sc": "Government"
-  },
-  {
     "s": "Sana Clara County Library District",
     "d": "sccl.bibliocommons.com",
     "t": "sccl",
