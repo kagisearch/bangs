@@ -82207,14 +82207,6 @@
     "sc": "Tech"
   },
   {
-    "s": "SofticWeb",
-    "d": "www.billing.softicweb.com",
-    "t": "softicweb",
-    "u": "https://www.billing.softicweb.com/cart.php?a=add&domain=register&query={{{s}}}",
-    "c": "Shopping",
-    "sc": "Tech (domains)"
-  },
-  {
     "s": "Softpedia",
     "d": "www.softpedia.com",
     "t": "softpedia",
