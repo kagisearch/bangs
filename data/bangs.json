@@ -37938,14 +37938,6 @@
     "sc": "Tech"
   },
   {
-    "s": "Grossoshop",
-    "d": "www.grossoshop.net",
-    "t": "grossoshop",
-    "u": "http://www.grossoshop.net/index.php?route=product/search&search={{{s}}}",
-    "c": "Shopping",
-    "sc": "Tech"
-  },
-  {
     "s": "GrottoPress",
     "d": "www.grottopress.com",
     "t": "grottopress",
