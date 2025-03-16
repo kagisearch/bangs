@@ -61511,14 +61511,6 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "나오라",
-    "d": "www.naora.me",
-    "t": "naora",
-    "u": "https://www.naora.me/web?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
     "s": "Narutopedia",
     "d": "naruto.wikia.com",
     "t": "naruto",
