@@ -74653,14 +74653,6 @@
     "sc": "Food"
   },
   {
-    "s": "Reciva",
-    "d": "www.reciva.com",
-    "t": "reciva",
-    "u": "https://www.reciva.com/stations/search?q={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Music"
-  },
-  {
     "s": "http://reck.dk",
     "d": "reck.dk",
     "t": "reck",
