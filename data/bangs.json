@@ -82054,14 +82054,6 @@
     "sc": "Topical"
   },
   {
-    "s": "Soapbox",
-    "d": "www.sp-bx.com",
-    "t": "soapbox",
-    "u": "https://www.sp-bx.com/?s={{{s}}}",
-    "c": "News",
-    "sc": "Magazine"
-  },
-  {
     "s": "SOAPnote",
     "d": "www.soapnote.org",
     "t": "soapnote",
