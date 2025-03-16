@@ -86585,9 +86585,9 @@
   },
   {
     "s": "Teaching Channel",
-    "d": "www.teachingchannel.org",
+    "d": "www.teachingchannel.com",
     "t": "tch",
-    "u": "https://www.teachingchannel.org/search?q={{{s}}}",
+    "u": "https://www.teachingchannel.com/?ss360Query={{{s}}}",
     "c": "Multimedia",
     "sc": "Video"
   },
