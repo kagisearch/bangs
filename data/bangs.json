@@ -61278,14 +61278,6 @@
     "sc": "Online (deals)"
   },
   {
-    "s": "mysupermarket.co.uk",
-    "d": "www.mysupermarket.co.uk",
-    "t": "mys",
-    "u": "http://www.mysupermarket.co.uk/Shopping/FindProducts.aspx?Query={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online (deals)"
-  },
-  {
     "s": "mySongBook",
     "d": "www.mysongbook.com",
     "t": "mysongbook",
