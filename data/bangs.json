@@ -92356,9 +92356,9 @@
   },
   {
     "s": "UniSA Library Catalogue",
-    "d": "search.library.unisa.edu.au",
+    "d": "find.library.unisa.edu.au",
     "t": "unisalib",
-    "u": "http://search.library.unisa.edu.au/?query=any,contains,{{{s}}}",
+    "u": "https://find.library.unisa.edu.au/discovery/search?query=any,contains,{{{s}}}&tab=LIBCOLL&search_scope=MyInst_and_CI&vid=61USOUTHAUS_INST:UNISA&offset=0",
     "c": "Research",
     "sc": "Academic"
   },
