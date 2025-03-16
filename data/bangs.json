@@ -6353,14 +6353,6 @@
     "sc": "Misc"
   },
   {
-    "s": "Ask Sutra",
-    "d": "www.asksutra.com",
-    "t": "asksutra",
-    "u": "http://www.asksutra.com/en/serp.php?q={{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
     "s": "Ask Ubuntu",
     "d": "askubuntu.com",
     "t": "asku",
