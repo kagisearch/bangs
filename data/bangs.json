@@ -10073,14 +10073,6 @@
     "sc": "Services"
   },
   {
-    "s": "blackle",
-    "d": "blackle.com",
-    "t": "bla",
-    "u": "https://blackle.com/results/?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Google"
-  },
-  {
     "s": "BlackBook",
     "d": "www.blackbookmag.com",
     "t": "blackbook",
