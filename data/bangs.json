@@ -60151,14 +60151,6 @@
     "sc": "Companies"
   },
   {
-    "s": "MSMVPs.com",
-    "d": "msmvps.com",
-    "t": "msmvps",
-    "u": "http://msmvps.com/search/SearchResults.aspx?q={{{s}}}&o=Relevance",
-    "c": "Tech",
-    "sc": "Blogs"
-  },
-  {
     "s": "MSNBC",
     "d": "www.msnbc.com",
     "t": "msnbc",
