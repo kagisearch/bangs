@@ -65945,14 +65945,6 @@
     "sc": "Books"
   },
   {
-    "s": "Open Listings",
-    "d": "www.openlistings.co",
-    "t": "openlistings",
-    "u": "https://www.openlistings.co/s/{{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
     "s": "OpenStreetMap",
     "d": "www.openstreetmap.org",
     "t": "openmaps",
