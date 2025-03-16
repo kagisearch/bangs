@@ -17435,14 +17435,6 @@
     "sc": "Languages (r)"
   },
   {
-    "s": "Crystal Ann (Crystal related news)",
-    "d": "crystal-ann.com",
-    "t": "crann",
-    "u": "https://crystal-ann.com/?query={{{s}}}",
-    "c": "Tech",
-    "sc": "Languages (Crystal)"
-  },
-  {
     "s": "crate.io",
     "d": "crate.io",
     "t": "crate",
