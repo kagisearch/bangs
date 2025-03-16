@@ -51342,14 +51342,6 @@
     "sc": "Online"
   },
   {
-    "s": "latency.apex.sh",
-    "d": "latency.apex.sh",
-    "t": "latency",
-    "u": "https://latency.apex.sh/?url={{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools (URLs)"
-  },
-  {
     "s": "LaTeX - Wikibooks",
     "d": "en.wikibooks.org",
     "t": "latexwb",
