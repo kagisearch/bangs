@@ -68882,14 +68882,6 @@
     "sc": "Big box/department"
   },
   {
-    "s": "Petey Vid",
-    "d": "www.peteyvid.com",
-    "t": "peteyvid",
-    "u": "https://www.peteyvid.com/index.php?q={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Video"
-  },
-  {
     "s": "Petit Web",
     "d": "www.petitweb.fr",
     "t": "petitweb",
