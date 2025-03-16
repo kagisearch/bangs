@@ -10225,14 +10225,6 @@
     "sc": "Images"
   },
   {
-    "s": "Blendle",
-    "d": "blendle.nl",
-    "t": "blendle",
-    "u": "https://blendle.nl/search/{{{s}}}",
-    "c": "News",
-    "sc": "Aggregators"
-  },
-  {
     "s": "_ Blender Stack Exchange",
     "d": "blender.stackexchange.com",
     "t": "blex",
