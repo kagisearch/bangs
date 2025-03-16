@@ -94562,7 +94562,7 @@
     "s": "Ving",
     "d": "www.ving.no",
     "t": "ving",
-    "u": "https://www.ving.no/searchresult?q={{{s}}}",
+    "u": "https://www.ving.no/websearchresult?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online (deals)"
   },
