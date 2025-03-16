@@ -61439,14 +61439,6 @@
     "sc": "Tech (domains)"
   },
   {
-    "s": "Nameling",
-    "d": "nameling.net",
-    "t": "nameling",
-    "u": "http://nameling.net/name/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
     "s": "NameMC",
     "d": "de.namemc.com",
     "t": "namemc",
