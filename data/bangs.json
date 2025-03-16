@@ -83624,9 +83624,9 @@
   },
   {
     "s": "Sensagent",
-    "d": "dictionnaire.sensagent.leparisien.fr",
+    "d": "dictionnaire.sensagent.com",
     "t": "ssg",
-    "u": "https://dictionnaire.sensagent.leparisien.fr/{{{s}}}/fr-fr/",
+    "u": "https://dictionnaire.sensagent.com/{{{s}}}/fr-fr/",
     "c": "Research",
     "sc": "Reference (words)"
   },
