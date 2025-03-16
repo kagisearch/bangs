@@ -62776,14 +62776,6 @@
     "sc": "Libraries/Frameworks"
   },
   {
-    "s": "nginx wiki",
-    "d": "wiki.nginx.org",
-    "t": "nginxwiki",
-    "u": "https://wiki.nginx.org/Special:Search?search={{{s}}}&fulltext=Search",
-    "c": "Tech",
-    "sc": "Companies"
-  },
-  {
     "s": "Google Ngram Viewer",
     "d": "books.google.com",
     "t": "ngram",
