@@ -63200,14 +63200,6 @@
     "sc": "Downloads"
   },
   {
-    "s": "Nixtodon",
-    "d": "masto.nixnet.xyz",
-    "t": "nixtodon",
-    "u": "https://masto.nixnet.xyz/@{{{s}}}",
-    "c": "Online Services",
-    "sc": "Social (intl)"
-  },
-  {
     "s": "Njalla",
     "d": "njal.la",
     "t": "njalla",
