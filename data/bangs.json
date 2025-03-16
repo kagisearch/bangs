@@ -85328,14 +85328,6 @@
     "sc": "Video"
   },
   {
-    "s": "Voat",
-    "d": "voat.co",
-    "t": "sv",
-    "u": "https://voat.co/v/{{{s}}}",
-    "c": "Entertainment",
-    "sc": "Forum"
-  },
-  {
     "s": "Stardew Valley Wiki Español",
     "d": "es.stardewvalleywiki.com",
     "t": "svwe",
