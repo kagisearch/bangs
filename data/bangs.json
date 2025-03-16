@@ -80206,14 +80206,6 @@
     "sc": "Online (deals)"
   },
   {
-    "s": "ShopAtHome.com",
-    "d": "www.shopathome.com",
-    "t": "shopathome",
-    "u": "https://www.shopathome.com/search?query={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
     "s": "Shopcade",
     "d": "www.shopcade.com",
     "t": "shopcade",
