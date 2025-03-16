@@ -68690,14 +68690,6 @@
     "sc": "Search (Private)"
   },
   {
-    "s": "Peppermint OS forums",
-    "d": "forum.peppermintos.com",
-    "t": "peppermintos",
-    "u": "https://forum.peppermintos.com/index.php?action=search2&search={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin"
-  },
-  {
     "s": "Pepper NL",
     "d": "nl.pepper.com",
     "t": "peppernl",
@@ -70425,14 +70417,6 @@
     "u": "https://pixelmon.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search&ns0=1&ns14=1",
     "c": "Entertainment",
     "sc": "Games (Minecraft)"
-  },
-  {
-    "s": "PeppermintOS Community Support Forum",
-    "d": "forum.peppermintos.com",
-    "t": "pmos",
-    "u": "https://forum.peppermintos.com/index.php?action=search2&search={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin"
   },
   {
     "s": "pubmed",
