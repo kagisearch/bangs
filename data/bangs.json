@@ -49389,14 +49389,6 @@
     "sc": "Local"
   },
   {
-    "s": "Bagian Kerjasama Kota Bandung",
-    "d": "kerjasama.bandung.go.id",
-    "t": "kerjasama",
-    "u": "https://kerjasama.bandung.go.id/?s={{{s}}}",
-    "c": "Research",
-    "sc": "Government"
-  },
-  {
     "s": "The Linux Kernel Archives",
     "d": "git.kernel.org",
     "t": "ker",
