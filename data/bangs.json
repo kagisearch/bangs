@@ -43433,14 +43433,6 @@
     "sc": "Forum"
   },
   {
-    "s": "hphosts",
-    "d": "hosts-file.net",
-    "t": "hphosts",
-    "u": "https://hosts-file.net/default.asp?s={{{s}}}",
-    "c": "Tech",
-    "sc": "Domains"
-  },
-  {
     "s": "HP",
     "d": "search.hp.com",
     "t": "hp",
