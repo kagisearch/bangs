@@ -64154,14 +64154,6 @@
     "sc": "Academic"
   },
   {
-    "s": "nutritiondata",
-    "d": "nutritiondata.self.com",
-    "t": "nutridata",
-    "u": "https://nutritiondata.self.com/foods-{{{s}}}}000000000000000000000.html",
-    "c": "Research",
-    "sc": "Food"
-  },
-  {
     "s": "NutritionData",
     "d": "nutritiondata.self.com",
     "t": "nutritiondata",
