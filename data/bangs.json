@@ -80318,14 +80318,6 @@
     "sc": "Tools"
   },
   {
-    "s": "SymbolHound",
-    "d": "symbolhound.com",
-    "t": "sho",
-    "u": "http://symbolhound.com/?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
     "s": "Shoutcast Streaming Internet Radio",
     "d": "directory.shoutcast.com",
     "t": "shoutcast",
@@ -85704,14 +85696,6 @@
     "sc": "Tools"
   },
   {
-    "s": "Symbol Hound",
-    "d": "symbolhound.com",
-    "t": "symbolhound",
-    "u": "http://symbolhound.com/?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Programming"
-  },
-  {
     "s": "Symbolab",
     "d": "www.symbolab.com",
     "t": "symb",
@@ -85742,14 +85726,6 @@
     "u": "https://www.sympygamma.com/input/?i={{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
-  },
-  {
-    "s": "Symbolhound",
-    "d": "symbolhound.com",
-    "t": "sym",
-    "u": "http://symbolhound.com/?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Programming"
   },
   {
     "s": "Sage Synapse",
