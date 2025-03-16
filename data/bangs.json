@@ -65486,14 +65486,6 @@
     "sc": "Aggregators"
   },
   {
-    "s": "Omnum",
-    "d": "omnum.se",
-    "t": "omnum",
-    "u": "https://omnum.se/search/?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
     "s": "On MSFT",
     "d": "www.onmsft.com",
     "t": "oms",
