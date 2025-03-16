@@ -95756,14 +95756,6 @@
     "u": "http://www.watchcount.com/completed.php?bkw={{{s}}}&bcat=0&bcts=&sfsb=Show+Me!&csbin=all&cssrt=ts&bslr=&bnp=&bxp="
   },
   {
-    "s": "MyrWatches",
-    "d": "myrwatches.com",
-    "t": "watches",
-    "u": "https://myrwatches.com/?s={{{s}}}&post_type=product",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
     "s": "Watchkin",
     "d": "watchkin.com",
     "t": "watchkin",
