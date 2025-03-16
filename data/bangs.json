@@ -75765,14 +75765,6 @@
     "sc": "Online (marketplace)"
   },
   {
-    "s": "F-Secure Riddler",
-    "d": "riddler.io",
-    "t": "riddler",
-    "u": "https://riddler.io/search?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Domains"
-  },
-  {
     "s": "Ridibooks",
     "d": "ridibooks.com",
     "t": "ridi",
