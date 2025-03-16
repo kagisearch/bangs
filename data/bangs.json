@@ -97464,9 +97464,9 @@
   },
   {
     "s": "WikiTox",
-    "d": "curriculum.toxicology.wikispaces.net",
+    "d": "www.wikitox.org",
     "t": "wikitox",
-    "u": "http://curriculum.toxicology.wikispaces.net/search/view/{{{s}}}",
+    "u": "https://www.wikitox.org/doku.php?do=search&id=start&q={{{s}}}",
     "c": "Research",
     "sc": "Health"
   },
