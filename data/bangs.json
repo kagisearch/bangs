@@ -76053,14 +76053,6 @@
     "sc": "Social news/links"
   },
   {
-    "s": "Gurusfirmware",
-    "d": "www.gurusrom.net",
-    "t": "rm",
-    "u": "http://www.gurusrom.net/search/term={{{s}}}",
-    "c": "Tech",
-    "sc": "Downloads"
-  },
-  {
     "s": "RMIT University",
     "d": "www.rmit.edu.au",
     "t": "rmit",
