@@ -70414,7 +70414,7 @@
     "s": "Proceedings of the National Academy of Sciences",
     "d": "www.pnas.org",
     "t": "pnas",
-    "u": "http://www.pnas.org/search/{{{s}}} numresults:10 sort:relevance-rank format_result:standard",
+    "u": "https://www.pnas.org/action/doSearch?AllField={{{s}}}",
     "c": "Research",
     "sc": "Reference (science)"
   },
