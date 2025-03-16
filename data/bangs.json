@@ -73589,9 +73589,9 @@
   },
   {
     "s": "Російсько-українські словники",
-    "d": "www.r2u.org.ua",
+    "d": "r2u.org.ua",
     "t": "r2u",
-    "u": "http://www.r2u.org.ua/s?w={{{s}}}&scope=all&dicts=all&highlight=on",
+    "u": "https://r2u.org.ua/s?w={{{s}}}&scope=all&dicts=all&highlight=on",
     "c": "Online Services",
     "sc": "Tools"
   },
