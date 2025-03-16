@@ -84472,9 +84472,9 @@
   },
   {
     "s": "Stortinget",
-    "d": "sok.stortinget.no",
+    "d": "www.stortinget.no",
     "t": "stortinget",
-    "u": "https://sok.stortinget.no/?querytext={{{s}}}",
+    "u": "https://www.stortinget.no/no/sok/?query={{{s}}}",
     "c": "News",
     "sc": "International"
   },
