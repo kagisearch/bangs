@@ -65102,14 +65102,6 @@
     "sc": "Jobs"
   },
   {
-    "s": "Oxford Index",
-    "d": "oxfordindex.oup.com",
-    "t": "oi",
-    "u": "http://oxfordindex.oup.com/search?q={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "Oiseaux.net",
     "d": "www.oiseaux.net",
     "t": "oiseaux",
