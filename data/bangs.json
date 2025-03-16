@@ -66634,9 +66634,9 @@
   },
   {
     "s": "Ocean State (Rhode Island) Libraries",
-    "d": "encore.oslri.net",
+    "d": "catalog.oslri.net",
     "t": "oslri",
-    "u": "https://encore.oslri.net/iii/encore/search?target={{{s}}}",
+    "u": "https://catalog.oslri.net/Union/Search?view=list&lookfor={{{s}}}&searchIndex=Keyword&searchSource=local",
     "c": "Research",
     "sc": "Local"
   },
