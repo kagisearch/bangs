@@ -60167,22 +60167,6 @@
     "sc": "Languages (.net)"
   },
   {
-    "s": "MSN Money",
-    "d": "investing.money.msn.com",
-    "t": "msnm",
-    "u": "http://investing.money.msn.com/investments/stock-price?Symbol={{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools"
-  },
-  {
-    "s": "MSN",
-    "d": "www.msn.al",
-    "t": "msn",
-    "u": "https://www.msn.al/?s={{{s}}}",
-    "c": "News",
-    "sc": "International"
-  },
-  {
     "s": "Mastodon Social",
     "d": "mastodon.social",
     "t": "msocial",
