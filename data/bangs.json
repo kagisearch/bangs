@@ -54711,14 +54711,6 @@
     "sc": "Music (Lyrics)"
   },
   {
-    "s": "LyricsTUNE",
-    "d": "www.lyricstune.in",
-    "t": "lyricstune",
-    "u": "https://www.lyricstune.in/search?q={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Blogs"
-  },
-  {
     "s": "LyricWiki",
     "d": "lyrics.wikia.com",
     "t": "lyricswiki",
