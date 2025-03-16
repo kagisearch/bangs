@@ -97319,14 +97319,6 @@
     "sc": "Reference"
   },
   {
-    "s": "Hybris Wiki",
-    "d": "wiki.hybris.com",
-    "t": "wikihybris",
-    "u": "https://wiki.hybris.com/dosearchsite.action?queryString={{{s}}}",
-    "c": "Tech",
-    "sc": "Libraries/Frameworks"
-  },
-  {
     "s": "WikiIndex",
     "d": "wikiindex.org",
     "t": "wikiindex",
