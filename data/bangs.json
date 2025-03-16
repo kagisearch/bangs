@@ -62039,14 +62039,6 @@
     "sc": "Aggregators"
   },
   {
-    "s": "Nebis",
-    "d": "recherche.nebis.ch",
-    "t": "nebis",
-    "u": "https://recherche.nebis.ch/primo-explore/search?query=any,contains,{{{s}}}&tab=default_tab&search_scope=default_scope&vid=NEBIS",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
     "s": "Nebula",
     "d": "nebula.tv",
     "t": "nebula",
