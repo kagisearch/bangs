@@ -79293,14 +79293,6 @@
     "sc": "Aggregators"
   },
   {
-    "s": "Sears Canada",
-    "d": "www.sears.ca",
-    "t": "searsca",
-    "u": "http://www.sears.ca/en/search?q={{{s}}}&lang=default",
-    "c": "Shopping",
-    "sc": "Big box/department"
-  },
-  {
     "s": "Sears Outlet",
     "d": "www.searsoutlet.com",
     "t": "searsoutlet",
