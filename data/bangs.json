@@ -65734,14 +65734,6 @@
     "sc": "Games (general)"
   },
   {
-    "s": "OPAC Uni Greifswald",
-    "d": "lhgrw.gbv.de",
-    "t": "opachgw",
-    "u": "https://lhgrw.gbv.de/DB=1/SET=18/TTL=1/CMD?ACT=SRCHA&IKT=1016&SRT=YOP&TRM={{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
     "s": "Universitätsbibliothek Humboldt (Grimmzentrum)",
     "d": "hu-berlin.hosted.exlibrisgroup.com",
     "t": "opachu",
