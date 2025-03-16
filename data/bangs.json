@@ -93759,14 +93759,6 @@
     "sc": "Video"
   },
   {
-    "s": "http://www.vbprofiles.com/",
-    "d": "www.vbprofiles.com",
-    "t": "vbp",
-    "u": "http://www.vbprofiles.com/search?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Startups"
-  },
-  {
     "s": "VedaBase",
     "d": "vedabase.com",
     "t": "vb",
