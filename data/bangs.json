@@ -51598,14 +51598,6 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "Linux Cross Reference",
-    "d": "lxr.free-electrons.com",
-    "t": "lcr",
-    "u": "http://lxr.free-electrons.com/ident?i={{{s}}}",
-    "c": "Tech",
-    "sc": "Programming"
-  },
-  {
     "s": "LCSC",
     "d": "lcsc.com",
     "t": "lcsc",
