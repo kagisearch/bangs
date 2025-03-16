@@ -88718,14 +88718,6 @@
     "sc": "Magazine"
   },
   {
-    "s": "TiVo",
-    "d": "www3.tivo.com",
-    "t": "tivo",
-    "u": "http://www3.tivo.com/tivo-tco/search.do?dispatch=simplesearch&searchFor={{{s}}}",
-    "c": "Entertainment",
-    "sc": "TV"
-  },
-  {
     "s": "This is why I'm broke",
     "d": "www.thisiswhyimbroke.com",
     "t": "tiwimb",
