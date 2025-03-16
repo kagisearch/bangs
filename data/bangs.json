@@ -97287,14 +97287,6 @@
     "sc": "Reference"
   },
   {
-    "s": "WikiDevi",
-    "d": "wikidevi.com",
-    "t": "wikidevi",
-    "u": "https://wikidevi.com/w/index.php?search={{{s}}}&title=Special:Search&go=Go",
-    "c": "Tech",
-    "sc": "Design"
-  },
-  {
     "s": "WikiDex",
     "d": "www.wikidex.net",
     "t": "wikidex",
@@ -98121,14 +98113,6 @@
     "u": "https://bugs.webkit.org/buglist.cgi?quicksearch={{{s}}}",
     "c": "Tech",
     "sc": "Libraries/Frameworks"
-  },
-  {
-    "s": "WikiDevi",
-    "d": "wikidevi.com",
-    "t": "wkd",
-    "u": "https://wikidevi.com/w/index.php?search={{{s}}}",
-    "c": "Tech",
-    "sc": "Design"
   },
   {
     "s": "Wikidex",
