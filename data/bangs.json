@@ -50342,9 +50342,9 @@
   },
   {
     "s": "Slovenské slovníky",
-    "d": "slovniky.korpus.sk",
+    "d": "slovnik.juls.savba.sk",
     "t": "korpus",
-    "u": "https://slovniky.korpus.sk/?w={{{s}}}",
+    "u": "https://slovnik.juls.savba.sk/?w={{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
   },
@@ -81833,9 +81833,9 @@
   },
   {
     "s": "Slovenské slovníky",
-    "d": "slovniky.korpus.sk",
+    "d": "slovnik.juls.savba.sk",
     "t": "skd",
-    "u": "https://slovniky.korpus.sk/?w={{{s}}}",
+    "u": "https://slovnik.juls.savba.sk/?w={{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
   },
@@ -82319,9 +82319,9 @@
   },
   {
     "s": "Slovenské slovníky",
-    "d": "slovniky.korpus.sk",
+    "d": "slovnik.juls.savba.sk",
     "t": "slovak",
-    "u": "https://slovniky.korpus.sk/?w={{{s}}}",
+    "u": "https://slovnik.juls.savba.sk/?w={{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
   },
@@ -82343,9 +82343,9 @@
   },
   {
     "s": "Slovenské slovníky",
-    "d": "slovniky.korpus.sk",
+    "d": "slovnik.juls.savba.sk",
     "t": "slovniky",
-    "u": "https://slovniky.korpus.sk/?w={{{s}}}",
+    "u": "https://slovnik.juls.savba.sk/?w={{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
   },
