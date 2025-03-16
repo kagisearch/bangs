@@ -98708,14 +98708,6 @@
     "sc": "Reference (fun)"
   },
   {
-    "s": "WorldCat Mobile Web",
-    "d": "worldcatmobile.org",
-    "t": "worldcatm",
-    "u": "http://worldcatmobile.org/?q={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "WorldCat.org",
     "d": "www.worldcat.org",
     "t": "worldcat",
