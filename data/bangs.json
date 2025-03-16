@@ -58681,7 +58681,7 @@
     "s": "Manitoba Liquor Marts",
     "d": "www.liquormarts.ca",
     "t": "mll",
-    "u": "https://www.liquormarts.ca/search-products/%/{{{s}}}",
+    "u": "https://www.liquormarts.ca/search-products/all?search_api_fulltext={{{s}}}",
     "c": "Shopping",
     "sc": "Big box/department"
   },
