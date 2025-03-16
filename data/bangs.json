@@ -1185,14 +1185,6 @@
     "sc": "General"
   },
   {
-    "s": "Airbitz",
-    "d": "airbitz.co",
-    "t": "ab",
-    "u": "http://airbitz.co/search?term={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
     "s": "Abandonia",
     "d": "www.abandonia.com",
     "t": "abandonia",
