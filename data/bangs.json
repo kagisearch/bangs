@@ -62688,14 +62688,6 @@
     "sc": "Business"
   },
   {
-    "s": "NFL.com",
-    "d": "search.nfl.com",
-    "t": "nfl",
-    "u": "http://search.nfl.com/search/?query={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Sports"
-  },
-  {
     "s": "NFL Player Search",
     "d": "www.nfl.com",
     "t": "nflps",
