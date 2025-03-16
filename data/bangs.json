@@ -74813,14 +74813,6 @@
     "sc": "Online (deals)"
   },
   {
-    "s": "Redford Evangelical Lutheran Church",
-    "d": "www.relcdetroit.org",
-    "t": "redford",
-    "u": "http://www.relcdetroit.org/index.php?p_id=1{{{s}}}",
-    "c": "Online Services",
-    "sc": "Social"
-  },
-  {
     "s": "Redis Command Reference",
     "d": "redis.io",
     "t": "redis",
