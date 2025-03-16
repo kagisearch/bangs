@@ -3086,14 +3086,6 @@
     "sc": "Tracking"
   },
   {
-    "s": "Aliseeks",
-    "d": "aliseeks.com",
-    "t": "aliseeks",
-    "u": "http://aliseeks.com/search?SearchText={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online (deals)"
-  },
-  {
     "s": "Aljazeera English",
     "d": "english.aljazeera.net",
     "t": "aljazeera",
