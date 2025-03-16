@@ -54484,22 +54484,6 @@
     "ad": "piaui.folha.uol.com.br"
   },
   {
-    "s": "Lurkmoar",
-    "d": "lurkmore.to",
-    "t": "lurk",
-    "u": "http://lurkmore.to/index.php?search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Blogs"
-  },
-  {
-    "s": "Lurkmore",
-    "d": "lurkmore.to",
-    "t": "lurkmore",
-    "u": "http://lurkmore.to/index.php?search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Misc"
-  },
-  {
     "s": "BibleServer Lutherbibel 2017",
     "d": "www.bibleserver.com",
     "t": "lut",
