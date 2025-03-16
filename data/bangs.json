@@ -65278,22 +65278,6 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "OLX Argentina",
-    "d": "www.olx.com.ar",
-    "t": "olxar",
-    "u": "https://www.olx.com.ar/nf/search/{{{s}}}",
-    "c": "Shopping",
-    "sc": "Online (marketplace)"
-  },
-  {
-    "s": "OLX",
-    "d": "bahiablanca.olx.com.ar",
-    "t": "olxbb",
-    "u": "https://bahiablanca.olx.com.ar/nf/search/{{{s}}}",
-    "c": "Shopping",
-    "sc": "Online (marketplace)"
-  },
-  {
     "s": "OLX Bulgaria",
     "d": "www.olx.bg",
     "t": "olxbg",
@@ -65310,22 +65294,6 @@
     "sc": "Online (marketplace)"
   },
   {
-    "s": "OLX DF",
-    "d": "df.olx.com.br",
-    "t": "olxdf",
-    "u": "https://df.olx.com.br/?q={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
-    "s": "Olxid",
-    "d": "m.olx.co.id",
-    "t": "olxid",
-    "u": "https://m.olx.co.id/all-results/q-{{{s}}}",
-    "c": "Shopping",
-    "sc": "Online (marketplace)"
-  },
-  {
     "s": "Olx India",
     "d": "www.olx.in",
     "t": "olxin",
@@ -65334,28 +65302,12 @@
     "sc": "Online (marketplace)"
   },
   {
-    "s": "OLX Lebanon",
-    "d": "olxliban.com",
-    "t": "olxlb",
-    "u": "https://olxliban.com/en/ads/q-{{{s}}}",
-    "c": "Shopping",
-    "sc": "Online (deals)"
-  },
-  {
     "s": "OLX Poland",
     "d": "www.olx.pl",
     "t": "olx",
     "u": "https://www.olx.pl/oferty/q-{{{s}}}/",
     "c": "Shopping",
     "sc": "Online (deals)"
-  },
-  {
-    "s": "OLX Philippines",
-    "d": "www.olx.ph",
-    "t": "olxph",
-    "u": "https://www.olx.ph/all-results?q={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online (marketplace)"
   },
   {
     "s": "OLX.pl",
