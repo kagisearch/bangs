@@ -92883,22 +92883,6 @@
     "sc": "Online (marketplace)"
   },
   {
-    "s": "URealms Forums",
-    "d": "forums.urealms.com",
-    "t": "urealmsforums",
-    "u": "https://forums.urealms.com/search?Search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Misc"
-  },
-  {
-    "s": "URealms Wiki",
-    "d": "wiki.urealms.com",
-    "t": "urealms",
-    "u": "https://wiki.urealms.com/index.php?search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Misc"
-  },
-  {
     "s": "Ureka: Earth Heart Communityure",
     "d": "www.ureka.org",
     "t": "ureka",
