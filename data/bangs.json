@@ -80046,14 +80046,6 @@
     "sc": "Sysadmin"
   },
   {
-    "s": "ServiceNow",
-    "d": "share.servicenow.com",
-    "t": "sharesnc",
-    "u": "https://share.servicenow.com/app.do#/search-result?search_query={{{s}}}",
-    "c": "Tech",
-    "sc": "Libraries/Frameworks"
-  },
-  {
     "s": "Shaw",
     "d": "www.shaw.ca",
     "t": "shaw",
