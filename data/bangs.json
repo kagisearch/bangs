@@ -68227,9 +68227,9 @@
   },
   {
     "s": "PCCaseGear",
-    "d": "search.pccasegear.com",
+    "d": "www.pccasegear.com",
     "t": "pccg",
-    "u": "http://search.pccasegear.com/search#w={{{s}}}",
+    "u": "https://www.pccasegear.com/search?query={{{s}}}",
     "c": "Shopping",
     "sc": "Tech"
   },
