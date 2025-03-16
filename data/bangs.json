@@ -67537,14 +67537,6 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "Puzzle & Dragon Database",
-    "d": "www.puzzledragonx.com",
-    "t": "padx",
-    "u": "http://www.puzzledragonx.com/en/search.asp?q={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (general)"
-  },
-  {
     "s": "Pagely",
     "d": "pagely.com",
     "t": "pagely",
@@ -68576,14 +68568,6 @@
     "u": "https://folkets-lexikon.csc.kth.se/folkets/folkets.en.html#lookup&{{{s}}}&0",
     "c": "Research",
     "sc": "Reference (words intl)"
-  },
-  {
-    "s": "Puzzle & Dragons Database",
-    "d": "puzzledragonx.com",
-    "t": "pdx",
-    "u": "http://puzzledragonx.com/en/search.asp?q={{{s}}}&searchoption=1",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
   },
   {
     "s": "Peapod",
