@@ -49725,14 +49725,6 @@
     "sc": "Online (marketplace)"
   },
   {
-    "s": "Kinige",
-    "d": "kinige.com",
-    "t": "kinige",
-    "u": "http://kinige.com/ksearch.php?searchfor={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
     "s": "Kinopoisk",
     "d": "www.kinopoisk.ru",
     "t": "kino",
