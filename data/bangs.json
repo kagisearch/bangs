@@ -71089,14 +71089,6 @@
     "sc": "International"
   },
   {
-    "s": "PortalLinux",
-    "d": "portallinux.es",
-    "t": "portallinux",
-    "u": "http://portallinux.es/?s={{{s}}}",
-    "c": "Tech",
-    "sc": "Blogs"
-  },
-  {
     "s": "Portal Wiki",
     "d": "theportalwiki.com",
     "t": "portalwiki",
