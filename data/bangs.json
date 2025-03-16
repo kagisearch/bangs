@@ -67105,14 +67105,6 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "Ovi Store",
-    "d": "store.ovi.com",
-    "t": "ovi",
-    "u": "http://store.ovi.com/search?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Downloads (apps)"
-  },
-  {
     "s": "StackOverflow",
     "d": "stackoverflow.com",
     "t": "ov",
