@@ -68362,14 +68362,6 @@
     "sc": "Tracking"
   },
   {
-    "s": "PCL Documentation",
-    "d": "docs.pointclouds.org",
-    "t": "pcl",
-    "u": "http://docs.pointclouds.org/trunk/search.php?query={{{s}}}",
-    "c": "Tech",
-    "sc": "Libraries/Frameworks"
-  },
-  {
     "s": "PCMag",
     "d": "www.pcmag.com",
     "t": "pcmag",
