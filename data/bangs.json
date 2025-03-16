@@ -88422,14 +88422,6 @@
     "sc": "Forum"
   },
   {
-    "s": "The Indie Game Database",
-    "d": "db.tigsource.com",
-    "t": "tigdb",
-    "u": "http://db.tigsource.com/search?game[name]={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (general)"
-  },
-  {
     "s": "TigerDirect",
     "d": "www.tigerdirect.com",
     "t": "tigerdirect",
