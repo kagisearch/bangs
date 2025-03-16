@@ -101052,14 +101052,6 @@
     "sc": "Search (Private)"
   },
   {
-    "s": "yaoota",
-    "d": "www.yaoota.com",
-    "t": "yaoota",
-    "u": "https://www.yaoota.com/en/search/?q={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
     "s": "Yarn",
     "d": "yarnpkg.com",
     "t": "yarnpkg",
