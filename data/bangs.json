@@ -82054,14 +82054,6 @@
     "sc": "Topical"
   },
   {
-    "s": "ServiceNow Wiki",
-    "d": "wiki.servicenow.com",
-    "t": "snw",
-    "u": "http://wiki.servicenow.com/search-results.php?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Companies"
-  },
-  {
     "s": "Soapbox",
     "d": "www.sp-bx.com",
     "t": "soapbox",
