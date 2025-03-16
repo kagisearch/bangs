@@ -63786,17 +63786,9 @@
     "sc": "Languages (javascript)"
   },
   {
-    "s": "node.js Package Search Utility",
-    "d": "npmsearch.com",
-    "t": "npmsearch",
-    "u": "https://npmsearch.com/?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Languages (javascript)"
-  },
-  {
-    "s": "npms",
+    "s": "npms.io",
     "d": "npms.io",
-    "t": "npmsio",
+    "t": "npms",
     "u": "https://npms.io/search?q={{{s}}}",
     "c": "Tech",
     "sc": "Languages (javascript)"
@@ -63808,14 +63800,6 @@
     "u": "https://njt.vercel.app/jump?to={{{s}}}",
     "c": "Tech",
     "sc": "Languages (javascript)"
-  },
-  {
-    "s": "NPM Search",
-    "d": "npmsearch.com",
-    "t": "npms",
-    "u": "http://npmsearch.com/?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Programming"
   },
   {
     "s": "NPM Trends",
