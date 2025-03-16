@@ -88327,9 +88327,9 @@
   },
   {
     "s": "Tibia",
-    "d": "secure.tibia.com",
+    "d": "www.tibia.com",
     "t": "tibia",
-    "u": "https://secure.tibia.com/community/?subtopic=characters&name={{{s}}}",
+    "u": "https://www.tibia.com/community/?subtopic=characters&name={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
