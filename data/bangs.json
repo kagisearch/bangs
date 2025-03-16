@@ -74621,14 +74621,6 @@
     "sc": "Search"
   },
   {
-    "s": "Guia Recetas",
-    "d": "www.guiarecetas.com",
-    "t": "recetas",
-    "u": "https://www.guiarecetas.com/?s={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Blogs (intl)"
-  },
-  {
     "s": "Recettes du Québec",
     "d": "www.recettes.qc.ca",
     "t": "recettesqc",
