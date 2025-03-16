@@ -91209,9 +91209,9 @@
   },
   {
     "s": "TV Tokyo",
-    "d": "search2.tv-tokyo.co.jp",
+    "d": "www.tv-tokyo.co.jp",
     "t": "tx",
-    "u": "http://search2.tv-tokyo.co.jp/pc/?enc=UTF-8&q={{{s}}}",
+    "u": "https://www.tv-tokyo.co.jp/search/?q={{{s}}}",
     "c": "Entertainment",
     "sc": "TV"
   },
