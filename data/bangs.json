@@ -87130,14 +87130,6 @@
     "sc": "Companies"
   },
   {
-    "s": "SuperPages",
-    "d": "yellowpages.superpages.com",
-    "t": "tel",
-    "u": "http://yellowpages.superpages.com/listings.jsp?C={{{s}}}&CS=L&MCBP=true&search=Find+It&SRC=&STYPE=S&SCS=&channelId=&sessionId=",
-    "c": "Research",
-    "sc": "Local"
-  },
-  {
     "s": "Telsu.fi",
     "d": "www.telsu.fi",
     "t": "telsu",
