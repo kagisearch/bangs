@@ -168,14 +168,6 @@
     "sc": "Comics"
   },
   {
-    "s": "OneDrive",
-    "d": "onedrive.live.com",
-    "t": "1dr",
-    "u": "http://onedrive.live.com/?q={{{s}}}",
-    "c": "Multimedia",
-    "sc": "General"
-  },
-  {
     "s": "1gabba",
     "d": "1gabba.net",
     "t": "1gabba",
