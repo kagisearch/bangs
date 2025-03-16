@@ -92635,14 +92635,6 @@
     "sc": "Topical"
   },
   {
-    "s": "Unvisit.me",
-    "d": "unvis.it",
-    "t": "unv",
-    "u": "http://unvis.it/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools (URLs)"
-  },
-  {
     "s": "Uncyclopedia",
     "d": "uncyclopedia.wikia.com",
     "t": "unwiki",
