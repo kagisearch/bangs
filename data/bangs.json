@@ -67757,7 +67757,7 @@
     "s": "PortableApps.com",
     "d": "portableapps.com",
     "t": "papps",
-    "u": "https://portableapps.com/search/node/{{{s}}} type:app",
+    "u": "https://portableapps.com/search/node/{{{s}}}%20type:app",
     "c": "Tech",
     "sc": "Downloads (software)"
   },
