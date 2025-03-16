@@ -72708,14 +72708,6 @@
     "sc": "Tools"
   },
   {
-    "s": "Pricewatch",
-    "d": "www.pricewatch.com",
-    "t": "pw",
-    "u": "http://www.pricewatch.com/search?q={{{s}}}",
-    "c": "Shopping",
-    "sc": "Tech"
-  },
-  {
     "s": "Programador Web Valencia",
     "d": "programadorwebvalencia.com",
     "t": "pwv",
