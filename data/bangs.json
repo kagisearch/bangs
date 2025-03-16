@@ -51414,14 +51414,6 @@
     "sc": "Audio"
   },
   {
-    "s": "Motore Lavoro",
-    "d": "www.motorelavoro.it",
-    "t": "lavoro",
-    "u": "http://www.motorelavoro.it/?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Jobs"
-  },
-  {
     "s": "Legal Information Institute",
     "d": "www.law.cornell.edu",
     "t": "law",
