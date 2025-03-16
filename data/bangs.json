@@ -74749,14 +74749,6 @@
     "sc": "Sports"
   },
   {
-    "s": "Recreation Hobbies Center",
-    "d": "www.recreationhobbiescenter.com",
-    "t": "redcat",
-    "u": "https://www.recreationhobbiescenter.com/pages/search-results-page?q={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
     "s": "Reddit (old version)",
     "d": "old.reddit.com",
     "t": "redditold",
