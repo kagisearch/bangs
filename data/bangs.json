@@ -44389,9 +44389,9 @@
   },
   {
     "s": "ICANNWiki",
-    "d": "icannwiki.com",
+    "d": "icannwiki.org",
     "t": "icannwiki",
-    "u": "https://icannwiki.com/index.php?search={{{s}}}",
+    "u": "https://icannwiki.org/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Topical"
   },
