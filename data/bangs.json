@@ -94240,9 +94240,9 @@
   },
   {
     "s": "Video Game Price Charts",
-    "d": "videogames.pricecharting.com",
+    "d": "www.pricecharting.com",
     "t": "vgpc",
-    "u": "https://videogames.pricecharting.com/search?q={{{s}}}&submit=Go",
+    "u": "https://www.pricecharting.com/search-products?type=prices&q={{{s}}}&sort=popularity&broad-category=video-games&console-uid=&exclude-variants=false&region-name=all&show-images=true",
     "c": "Entertainment",
     "sc": "Games (general)"
   },
