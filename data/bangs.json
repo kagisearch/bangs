@@ -100185,14 +100185,6 @@
     "sc": "Weather"
   },
   {
-    "s": "Wunderlist",
-    "d": "www.wunderlist.com",
-    "t": "wunderlist",
-    "u": "https://www.wunderlist.com/#/search/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools"
-  },
-  {
     "s": "wurmweb",
     "d": "www.wurmweb.at",
     "t": "wurmweb",
