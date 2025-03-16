@@ -92739,14 +92739,6 @@
     "sc": "Sysadmin (Ubuntu)"
   },
   {
-    "s": "UPC Database",
-    "d": "www.upcdatabase.com",
-    "t": "upc",
-    "u": "https://www.upcdatabase.com/item/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "DownForEveryone?",
     "d": "downforeveryoneorjustme.com",
     "t": "updown",
