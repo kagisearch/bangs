@@ -13083,14 +13083,6 @@
     "sc": "Business"
   },
   {
-    "s": "CapFriendly",
-    "d": "www.capfriendly.com",
-    "t": "capf",
-    "u": "https://www.capfriendly.com/search?s={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Sports"
-  },
-  {
     "s": "Capital.bg",
     "d": "www.capital.bg",
     "t": "capital",
