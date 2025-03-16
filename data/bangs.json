@@ -43993,14 +43993,6 @@
     "sc": "Local"
   },
   {
-    "s": "Hoaxbuster",
-    "d": "www.hoaxbuster.com",
-    "t": "hxb",
-    "u": "https://www.hoaxbuster.com/search/node/{{{s}}} type:article",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "Hex.pm",
     "d": "hex.pm",
     "t": "hx",
