@@ -32426,7 +32426,7 @@
     "s": "Food Standards Agency - Food Hygiene Ratings",
     "d": "ratings.food.gov.uk",
     "t": "fsarating",
-    "u": "https://ratings.food.gov.uk/enhanced-search/en-GB/{{{s}}}/^/alpha/0/^/^/1/1/10",
+    "u": "https://ratings.food.gov.uk/business-search?business-name-search={{{s}}}&business_type=-1&country_or_la=all&hygiene_rating=all&range=Equal&hygiene_status=all",
     "c": "Research",
     "sc": "Food"
   },
