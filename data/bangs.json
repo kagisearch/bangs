@@ -3038,10 +3038,10 @@
     "sc": "Forum"
   },
   {
-    "s": "Alice Mail",
-    "d": "mail.alice.it",
-    "t": "alicemail",
-    "u": "https://mail.alice.it/?q={{{s}}}",
+    "s": "Tim Mail",
+    "d": "mail.tim.it",
+    "t": "timmail",
+    "u": "https://mail.tim.it/?q={{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
   },
