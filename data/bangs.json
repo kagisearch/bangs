@@ -93124,9 +93124,9 @@
   },
   {
     "s": "University of Sydney Library",
-    "d": "opac.library.usyd.edu.au",
+    "d": "sydney.primo.exlibrisgroup.com",
     "t": "usydlib",
-    "u": "http://opac.library.usyd.edu.au/search/?searchtype=X&SORT=D&searcharg={{{s}}}&searchscope=4&submit=Submit",
+    "u": "https://sydney.primo.exlibrisgroup.com/discovery/search?query=any,contains,{{{s}}}&tab=Everything&search_scope=MyInst_and_CI&vid=61USYD_INST:sydney&offset=0",
     "c": "Research",
     "sc": "Academic"
   },
