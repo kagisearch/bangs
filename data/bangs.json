@@ -22837,10 +22837,10 @@
     "sc": "Travel"
   },
   {
-    "s": "Docker Store",
-    "d": "store.docker.com",
+    "s": "Docker Hub",
+    "d": "hub.docker.com",
     "t": "docker",
-    "u": "https://store.docker.com/search?q={{{s}}}",
+    "u": "https://hub.docker.com/search?q={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin"
   },
