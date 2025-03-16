@@ -80022,14 +80022,6 @@
     "sc": "Programming"
   },
   {
-    "s": "Shaarli River",
-    "d": "river.libox.fr",
-    "t": "shaarli",
-    "u": "https://river.libox.fr/search.php?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Blogs"
-  },
-  {
     "s": "https://www.hebcal.com/",
     "d": "www.hebcal.com",
     "t": "shabbat",
