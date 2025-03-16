@@ -101263,14 +101263,6 @@
     "skip_tests": true
   },
   {
-    "s": "YetiGoGo",
-    "d": "yetigogo.com",
-    "t": "yeti",
-    "u": "https://yetigogo.com/?q={{{s}}}",
-    "c": "News",
-    "sc": "Aggregators"
-  },
-  {
     "s": "Yahoo Finance Charts",
     "d": "finance.yahoo.com",
     "t": "yfc",
