@@ -78579,14 +78579,6 @@
     "sc": "Academic"
   },
   {
-    "s": "SCEPTR",
-    "d": "sceptr.net",
-    "t": "sceptr",
-    "u": "https://sceptr.net/?s={{{s}}}",
-    "c": "News",
-    "sc": "Newspaper"
-  },
-  {
     "s": "SyncFile",
     "d": "syncfile.co",
     "t": "scf",
