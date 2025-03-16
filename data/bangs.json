@@ -26922,9 +26922,9 @@
   },
   {
     "s": "Engadin St. Moritz",
-    "d": "www.engadin.stmoritz.ch",
+    "d": "www.engadin.ch",
     "t": "engadin",
-    "u": "https://www.engadin.stmoritz.ch/suche/q.{{{s}}}/",
+    "u": "https://www.engadin.ch/de/guide/suche?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
@@ -85567,10 +85567,10 @@
     "sc": "Design"
   },
   {
-    "s": "Engadin St. Moritz",
-    "d": "www.engadin.stmoritz.ch",
+    "s": "Engadin",
+    "d": "www.engadin.ch",
     "t": "stmoritz",
-    "u": "https://www.engadin.stmoritz.ch/suche/q.{{{s}}}/",
+    "u": "https://www.engadin.ch/de/guide/suche?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
