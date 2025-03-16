@@ -89982,14 +89982,6 @@
     "sc": "Search"
   },
   {
-    "s": "TrendyScooter",
-    "d": "trendyscooter.com",
-    "t": "trendyscooter",
-    "u": "http://trendyscooter.com/?route=product/search&search={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
     "s": "Google Translate (EN-TH)",
     "d": "translate.google.com",
     "t": "trenth",
