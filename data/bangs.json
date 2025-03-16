@@ -85888,14 +85888,6 @@
     "sc": "Online"
   },
   {
-    "s": "Tor 2 Web",
-    "d": "{{{s}}}.tor2web.org",
-    "t": "t2w",
-    "u": "https://{{{s}}}.tor2web.org/",
-    "c": "Tech",
-    "sc": "Domains"
-  },
-  {
     "s": "t3n",
     "d": "t3n.de",
     "t": "t3n",
@@ -89636,14 +89628,6 @@
     "u": "https://torrentfreak.com/search/{{{s}}}",
     "c": "News",
     "sc": "Specialty"
-  },
-  {
-    "s": "Tor 2 Web",
-    "d": "{{{s}}}.tor2web.org",
-    "t": "tor",
-    "u": "https://{{{s}}}.tor2web.org/",
-    "c": "Tech",
-    "sc": "Domains"
   },
   {
     "s": "Torproject Wiki",
