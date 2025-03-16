@@ -79541,14 +79541,6 @@
     "sc": "Languages (html)"
   },
   {
-    "s": "Southeastern Louisiana University",
-    "d": "search.selu.edu",
-    "t": "selu",
-    "u": "http://search.selu.edu/search?q={{{s}}}",
-    "c": "Shopping",
-    "sc": "Services"
-  },
-  {
     "s": "Semantic Scholar",
     "d": "www.semanticscholar.org",
     "t": "semantic",
