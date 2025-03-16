@@ -68050,14 +68050,6 @@
     "sc": "Academic"
   },
   {
-    "s": "Persian ArchWiki",
-    "d": "wiki.archusers.ir",
-    "t": "paw",
-    "u": "http://wiki.archusers.ir/index.php?search={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin (Arch)"
-  },
-  {
     "s": "Páxinas Galegas",
     "d": "www.paxinasgalegas.es",
     "t": "paxgal",
