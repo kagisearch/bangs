@@ -30142,6 +30142,14 @@
     "sc": "Tools"
   },
   {
+    "s": "Felo",
+    "d": "felo.ai",
+    "t": "felo",
+    "u": "https://felo.ai/search?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "AI Chatbots"
+  },
+  {
     "s": "LaFeltrinelli",
     "d": "www.lafeltrinelli.it",
     "t": "feltrinelli",
@@ -47303,6 +47311,14 @@
     "u": "https://translate.google.com/#it/hu/{{{s}}}",
     "c": "Online Services",
     "sc": "Google"
+  },
+  {
+    "s": "Ithy",
+    "d": "ithy.com",
+    "t": "ithy",
+    "u": "https://ithy.com/?query={{{s}}}",
+    "c": "Online Services",
+    "sc": "AI Chatbots"
   },
   {
     "s": "IT-NEWS: Новости Интернета",
