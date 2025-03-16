@@ -86248,10 +86248,10 @@
     "sc": "Online"
   },
   {
-    "s": "Tapastic",
-    "d": "tapastic.com",
-    "t": "tapastic",
-    "u": "https://tapastic.com/search/SERIES/list?query={{{s}}}",
+    "s": "Tapas",
+    "d": "tapas.io",
+    "t": "tapas",
+    "u": "https://tapas.io/search?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Comics"
   },
