@@ -66641,14 +66641,6 @@
     "sc": "Local"
   },
   {
-    "s": "OSMCha",
-    "d": "osmcha.mapbox.com",
-    "t": "osmcha",
-    "u": "https://osmcha.mapbox.com/changesets/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Maps"
-  },
-  {
     "s": "OSMC",
     "d": "discourse.osmc.tv",
     "t": "osmc",
