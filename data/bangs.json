@@ -15923,14 +15923,6 @@
     "sc": "Magazine"
   },
   {
-    "s": "Canna Newswire",
-    "d": "cannanewswire.co",
-    "t": "cnw",
-    "u": "https://cannanewswire.co/?s={{{s}}}",
-    "c": "News",
-    "sc": "Specialty"
-  },
-  {
     "s": "XE",
     "d": "www.xe.com",
     "t": "cny2eur",
