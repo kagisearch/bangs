@@ -47942,7 +47942,7 @@
     "s": "Jisho (kanji search)",
     "d": "jisho.org",
     "t": "jik",
-    "u": "https://jisho.org/search/#kanji {{{s}}}",
+    "u": "https://jisho.org/search/{{{s}}}%20%23kanji",
     "c": "Research",
     "sc": "Learning (intl)",
     "fmt": [
