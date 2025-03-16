@@ -70211,9 +70211,9 @@
   },
   {
     "s": "PLyrics.com",
-    "d": "search.plyrics.com",
+    "d": "www.plyrics.com",
     "t": "plyrics",
-    "u": "http://search.plyrics.com/search.php?q={{{s}}}",
+    "u": "http://www.plyrics.com/search.php?q={{{s}}}",
     "c": "Multimedia",
     "sc": "Music (Lyrics)"
   },
