@@ -85200,14 +85200,6 @@
     "sc": "Books"
   },
   {
-    "s": "Stanford People Search (StanfordWho)",
-    "d": "stanford.rimeto.io",
-    "t": "suwho",
-    "u": "https://stanford.rimeto.io/search/{{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
     "s": "Svenska Akademiens Ordböcker",
     "d": "svenska.se",
     "t": "svao",
