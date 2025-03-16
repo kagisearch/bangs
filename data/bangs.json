@@ -68626,14 +68626,6 @@
     "sc": "Jobs"
   },
   {
-    "s": "Kirkkonummen verkkokirjasto",
-    "d": "pegasos.kirjas.to",
-    "t": "pegasos",
-    "u": "http://pegasos.kirjas.to/selaushaku.asp?kohde=vapaasana&hakuehto={{{s}}}",
-    "c": "Research",
-    "sc": "Local"
-  },
-  {
     "s": "Peggo",
     "d": "peggo.co",
     "t": "peggo",
