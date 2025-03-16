@@ -79389,14 +79389,6 @@
     "sc": "Sysadmin"
   },
   {
-    "s": "Secondbike",
-    "d": "www.secondbike.co.uk",
-    "t": "secondbike",
-    "u": "https://www.secondbike.co.uk/search?q={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Sports"
-  },
-  {
     "s": "SEC.gov",
     "d": "secsearch.sec.gov",
     "t": "sec",
