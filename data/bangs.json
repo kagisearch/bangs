@@ -77668,22 +77668,6 @@
     "sc": "Learning"
   },
   {
-    "s": "Sabayon Bugzilla",
-    "d": "bugs.sabayon.org",
-    "t": "sabayonbugs",
-    "u": "https://bugs.sabayon.org/buglist.cgi?bug_status=__all__&content={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin"
-  },
-  {
-    "s": "Sabayon Forums",
-    "d": "forum.sabayon.org",
-    "t": "sabayonforums",
-    "u": "https://forum.sabayon.org/search.php?keywords={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin"
-  },
-  {
     "s": "Sabhow",
     "d": "sabhow.blogspot.com",
     "t": "sabhow",
