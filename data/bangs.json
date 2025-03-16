@@ -75261,14 +75261,6 @@
     "sc": "Audio"
   },
   {
-    "s": "Respawners",
-    "d": "www.respawners.net",
-    "t": "respawners",
-    "u": "https://www.respawners.net/search?query={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (general)"
-  },
-  {
     "s": "Respaper",
     "d": "www.respaper.com",
     "t": "resp",
