@@ -69752,14 +69752,6 @@
     "sc": "Images"
   },
   {
-    "s": "Pixbreak",
-    "d": "shop.pixbreak.com",
-    "t": "pix",
-    "u": "https://shop.pixbreak.com/?s={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
     "s": "PJ Media",
     "d": "pjmedia.com",
     "t": "pjm",
