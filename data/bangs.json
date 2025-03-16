@@ -51078,14 +51078,6 @@
     "sc": "Search"
   },
   {
-    "s": "لمحة تك",
-    "d": "www.lamhatech.com",
-    "t": "lamhatech",
-    "u": "https://www.lamhatech.com/search?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Blogs"
-  },
-  {
     "s": "LambdaTest",
     "d": "www.lambdatest.com",
     "t": "lam",
