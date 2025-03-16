@@ -79309,22 +79309,6 @@
     "sc": "Big box/department"
   },
   {
-    "s": "searx.me",
-    "d": "searx.me",
-    "t": "searx.me",
-    "u": "http://searx.me/?q={{{s}}}&pageno=1&category_general",
-    "c": "Online Services",
-    "sc": "Search (Private)"
-  },
-  {
-    "s": "searX",
-    "d": "searx.me",
-    "t": "searx",
-    "u": "https://searx.me/?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
     "s": "searchcode.com",
     "d": "searchcode.com",
     "t": "sea",
