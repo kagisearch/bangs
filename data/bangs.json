@@ -88158,14 +88158,6 @@
     "sc": "Online"
   },
   {
-    "s": "ThMods",
-    "d": "thmods.com",
-    "t": "thmods",
-    "u": "http://thmods.com/forum/search.php?keywords={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
-  },
-  {
     "s": "thomann.de",
     "d": "www.thomann.de",
     "t": "thm",
