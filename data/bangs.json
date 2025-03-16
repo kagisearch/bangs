@@ -8125,14 +8125,6 @@
     "sc": "International"
   },
   {
-    "s": "bodybuilding.com",
-    "d": "search.bodybuilding.com",
-    "t": "bbcom",
-    "u": "https://search.bodybuilding.com/slp/full?context=all&query={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
     "s": "BBC Resources",
     "d": "www.bbc.co.uk",
     "t": "bbcr",
