@@ -65937,14 +65937,6 @@
     "sc": "Misc"
   },
   {
-    "s": "OpenLibra",
-    "d": "openlibra.com",
-    "t": "openlib",
-    "u": "https://openlibra.com/en/collection/search/term/{{{s}}}/",
-    "c": "Multimedia",
-    "sc": "Books"
-  },
-  {
     "s": "Open Library",
     "d": "openlibrary.org",
     "t": "openlibrary",
