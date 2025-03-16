@@ -61151,9 +61151,9 @@
   },
   {
     "s": "Myfonts",
-    "d": "new.myfonts.com",
+    "d": "www.myfonts.com",
     "t": "myfonts",
-    "u": "http://new.myfonts.com/search/{{{s}}}/",
+    "u": "https://www.myfonts.com/search?query={{{s}}}",
     "c": "Tech",
     "sc": "Design"
   },
