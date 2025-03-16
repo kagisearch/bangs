@@ -51102,14 +51102,6 @@
     "sc": "Online"
   },
   {
-    "s": "La Nación",
-    "d": "buscar.lanacion.com.ar",
-    "t": "lanacion",
-    "u": "https://buscar.lanacion.com.ar/{{{s}}}/sort-new",
-    "c": "News",
-    "sc": "Newspaper (intl)"
-  },
-  {
     "s": "Langenscheidt",
     "d": "en.langenscheidt.com",
     "t": "langen",
