@@ -100449,14 +100449,6 @@
     "sc": "Reference"
   },
   {
-    "s": "WWWJDIC",
-    "d": "nihongo.monash.edu",
-    "t": "wwwjdic",
-    "u": "http://nihongo.monash.edu/cgi-bin/wwwjdic?1MUE{{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words)"
-  },
-  {
     "s": "PublicWWW",
     "d": "publicwww.com",
     "t": "www",
