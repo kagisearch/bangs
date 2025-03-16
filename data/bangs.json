@@ -55866,14 +55866,6 @@
     "sc": "Blogs"
   },
   {
-    "s": "Unmask Parasites",
-    "d": "www.UnmaskParasites.com",
-    "t": "mask",
-    "u": "https://www.UnmaskParasites.com/security-report/?page={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin"
-  },
-  {
     "s": "Massdrop",
     "d": "drop.com",
     "t": "massdrop",
