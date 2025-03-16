@@ -77701,14 +77701,6 @@
     "sc": "Magazine"
   },
   {
-    "s": "ActiveHi News",
-    "d": "activehi.com",
-    "t": "/?s",
-    "u": "https://activehi.com/?s={{{s}}}",
-    "c": "News",
-    "sc": "International"
-  },
-  {
     "s": "Amazon Smiles (Germany)",
     "d": "smile.amazon.de",
     "t": "sade",
