@@ -97067,14 +97067,6 @@
     "sc": "Sysadmin (network)"
   },
   {
-    "s": "who.pm",
-    "d": "who.pm",
-    "t": "whopm",
-    "u": "https://who.pm/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools"
-  },
-  {
     "s": "Who Sampled",
     "d": "whosampled.com",
     "t": "whosampled",
