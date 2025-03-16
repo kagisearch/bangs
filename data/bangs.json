@@ -95788,14 +95788,6 @@
     "sc": "Online (intl)"
   },
   {
-    "s": "Water Container Store",
-    "d": "watercontainerstore.com",
-    "t": "watertank",
-    "u": "https://watercontainerstore.com/search?type=product&q={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
     "s": "Watson",
     "d": "www.watson.ch",
     "t": "watson",
