@@ -80367,9 +80367,9 @@
   },
   {
     "s": "TSS Saver",
-    "d": "stor.1conan.com",
+    "d": "stor.tsssaver.1conan.com",
     "t": "shsh",
-    "u": "https://stor.1conan.com/tsssaver/shsh/{{{s}}}",
+    "u": "https://stor.tsssaver.1conan.com/shsh/{{{s}}}/",
     "c": "Tech",
     "sc": "Sysadmin"
   },
