@@ -62768,10 +62768,10 @@
     "sc": "Games (general)"
   },
   {
-    "s": "Nginx wiki",
-    "d": "www.nginx.com",
+    "s": "Nginx Docs",
+    "d": "docs.nginx.com",
     "t": "nginx",
-    "u": "https://www.nginx.com/resources/wiki/search/?q={{{s}}}",
+    "u": "https://docs.nginx.com/search.html#q={{{s}}}&sort=relevancy",
     "c": "Tech",
     "sc": "Libraries/Frameworks"
   },
