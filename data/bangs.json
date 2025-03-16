@@ -61711,10 +61711,10 @@
     "sc": "Search"
   },
   {
-    "s": "Naver Maps (yanndch)",
-    "d": "beta.map.naver.com",
+    "s": "Naver Maps",
+    "d": "map.naver.com",
     "t": "navm",
-    "u": "https://beta.map.naver.com/search/{{{s}}}",
+    "u": "https://map.naver.com/p/search/{{{s}}}",
     "c": "Online Services",
     "sc": "Maps"
   },
