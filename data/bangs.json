@@ -85960,14 +85960,6 @@
     "sc": "Music"
   },
   {
-    "s": "TabScout",
-    "d": "www.tabscout.com",
-    "t": "tabscout",
-    "u": "https://www.tabscout.com/?action=search&query={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Music (Lyrics)"
-  },
-  {
     "s": "Ultimate Guitar",
     "d": "www.ultimate-guitar.com",
     "t": "tabs",
