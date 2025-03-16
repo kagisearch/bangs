@@ -72188,22 +72188,6 @@
     "sc": "Reference"
   },
   {
-    "s": "Parsijoo Image Search",
-    "d": "image.parsijoo.ir",
-    "t": "psji",
-    "u": "http://image.parsijoo.ir/image?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search (non-US)"
-  },
-  {
-    "s": "Parsijoo",
-    "d": "parsijoo.ir",
-    "t": "psj",
-    "u": "http://parsijoo.ir/web?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search (non-US)"
-  },
-  {
     "s": "PowerShell Module Browser",
     "d": "docs.microsoft.com",
     "t": "psmb",
