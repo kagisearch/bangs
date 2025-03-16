@@ -82054,14 +82054,6 @@
     "sc": "Topical"
   },
   {
-    "s": "SOAPnote",
-    "d": "www.soapnote.org",
-    "t": "soapnote",
-    "u": "https://www.soapnote.org/?s={{{s}}}",
-    "c": "Research",
-    "sc": "Health"
-  },
-  {
     "s": "Stack Overflow Bash Search",
     "d": "stackoverflow.com",
     "t": "sobash",
