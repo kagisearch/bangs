@@ -70436,9 +70436,9 @@
   },
   {
     "s": "Pick n Pay",
-    "d": "shop.pnp.co.za",
+    "d": "www.pnp.co.za",
     "t": "pnp",
-    "u": "http://shop.pnp.co.za/b2c_pnp/b2c/display/(cpgsize=12&layout=5.1-6_2_4_86_92_8_3&uiarea=1&carea=$ROOT&cpgnum=1&cquery={{{s}}})/.do?rf=y",
+    "u": "https://www.pnp.co.za/search/{{{s}}}",
     "c": "Shopping",
     "sc": "Big box/department"
   },
