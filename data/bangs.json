@@ -101496,14 +101496,6 @@
     "sc": "Search"
   },
   {
-    "s": "Yobi3D",
-    "d": "www.yobi3d.com",
-    "t": "yobi3d",
-    "u": "https://www.yobi3d.com/#!/search?q={{{s}}}",
-    "c": "Multimedia",
-    "sc": "General"
-  },
-  {
     "s": "Yodobashi.com",
     "d": "www.yodobashi.com",
     "t": "yodobashi",
