@@ -60602,7 +60602,7 @@
     "s": "Makeuseof",
     "d": "www.makeuseof.com",
     "t": "muo",
-    "u": "https://www.makeuseof.com/?s={{{s}}}",
+    "u": "https://www.makeuseof.com/search/?q={{{s}}}",
     "c": "Tech",
     "sc": "Blogs"
   },
