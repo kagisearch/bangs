@@ -79517,14 +79517,6 @@
     "sc": "Academic"
   },
   {
-    "s": "Search Engine Land",
-    "d": "search.searchengineland.com",
-    "t": "seland",
-    "u": "http://search.searchengineland.com/search?w={{{s}}}",
-    "c": "News",
-    "sc": "Specialty"
-  },
-  {
     "s": "Selectome",
     "d": "selectome.unil.ch",
     "t": "selectome",
