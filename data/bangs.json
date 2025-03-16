@@ -76349,14 +76349,6 @@
     "sc": "Online (deals)"
   },
   {
-    "s": "Roku",
-    "d": "owner.roku.com",
-    "t": "roku",
-    "u": "https://owner.roku.com/Add/{{{s}}}",
-    "c": "Multimedia",
-    "sc": "Video"
-  },
-  {
     "s": "old reddit design",
     "d": "old.reddit.com",
     "t": "rold",
