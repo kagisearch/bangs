@@ -96932,9 +96932,9 @@
   },
   {
     "s": "Which",
-    "d": "search.which.co.uk",
+    "d": "www.which.co.uk",
     "t": "which",
-    "u": "https://search.which.co.uk/search?w={{{s}}}",
+    "u": "https://www.which.co.uk/search?asug=&mainresult=mainresult:yes&intcmp=GNH-Search&w={{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
   },
