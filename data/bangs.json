@@ -60303,14 +60303,6 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "mt-content-search-engine.000webhostapp.com",
-    "d": "mt-content-search-engine.000webhostapp.com",
-    "t": "mtcontent",
-    "u": "https://mt-content-search-engine.000webhostapp.com/?search={{{s}}}&do_search=",
-    "c": "Multimedia",
-    "sc": "General"
-  },
-  {
     "s": "Mandarin Tools Chinese-English Dictionary (English)",
     "d": "www.mandarintools.com",
     "t": "mten",
