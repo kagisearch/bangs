@@ -865,10 +865,10 @@
     "sc": "Topical"
   },
   {
-    "s": "89.9 LightFM",
-    "d": "www.lightfm.com.au",
+    "s": "89.9 TheLight",
+    "d": "thelight.com.au",
     "t": "89.9",
-    "u": "https://www.lightfm.com.au/?s={{{s}}}",
+    "u": "https://thelight.com.au/?s={{{s}}}",
     "c": "Entertainment",
     "sc": "Radio"
   },
