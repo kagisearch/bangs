@@ -71884,14 +71884,6 @@
     "sc": "Programming"
   },
   {
-    "s": "ProgrammableWeb",
-    "d": "www.programmableweb.com",
-    "t": "programmableweb",
-    "u": "http://www.programmableweb.com/search/{{{s}}}",
-    "c": "Tech",
-    "sc": "Programming"
-  },
-  {
     "s": "Reddit /r/ProgrammerHumor",
     "d": "www.reddit.com",
     "t": "programmerhumor",
