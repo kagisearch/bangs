@@ -28726,14 +28726,6 @@
     "sc": "Tools"
   },
   {
-    "s": "Expedia",
-    "d": "search.expedia.com",
-    "t": "expedia",
-    "u": "http://search.expedia.com/socialsearch/query?st=1&cn=expedia&cc=www&q={{{s}}}",
-    "c": "Shopping",
-    "sc": "Services"
-  },
-  {
     "s": "Expert",
     "d": "www.expert.nl",
     "t": "expert-nl",
