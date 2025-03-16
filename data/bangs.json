@@ -53528,14 +53528,6 @@
     "sc": "General"
   },
   {
-    "s": "Linio México",
-    "d": "www.linio.com.mx",
-    "t": "lmx",
-    "u": "https://www.linio.com.mx/search?q={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
     "s": "The Light Novel Database",
     "d": "lndb.info",
     "t": "lndb",
