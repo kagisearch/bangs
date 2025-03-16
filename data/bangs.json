@@ -28718,14 +28718,6 @@
     "sc": "Online"
   },
   {
-    "s": "Expressmojo",
-    "d": "www.expressmojo.com",
-    "t": "exmojo",
-    "u": "https://www.expressmojo.com/search/?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
     "s": "εxodus Privacy",
     "d": "reports.exodus-privacy.eu.org",
     "t": "exodus",
