@@ -92915,14 +92915,6 @@
     "sc": "Tools (URLs)"
   },
   {
-    "s": "Universität Regensburg",
-    "d": "suche.uni-regensburg.de",
-    "t": "ur",
-    "u": "https://suche.uni-regensburg.de/index.php?q={{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
     "s": "usal",
     "d": "www.usal.es",
     "t": "usal",
