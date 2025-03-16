@@ -86184,14 +86184,6 @@
     "sc": "Newspaper"
   },
   {
-    "s": "Tandem Tech",
-    "d": "tandemtech.be",
-    "t": "tandemtech",
-    "u": "https://tandemtech.be/search?q={{{s}}}",
-    "c": "News",
-    "sc": "Specialty"
-  },
-  {
     "s": "Tangorin",
     "d": "tangorin.com",
     "t": "tangorin",
