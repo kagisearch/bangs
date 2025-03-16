@@ -19139,14 +19139,6 @@
     "sc": "Government"
   },
   {
-    "s": "Datazar",
-    "d": "www.datazar.com",
-    "t": "datazar",
-    "u": "https://www.datazar.com/search/data/?q={{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
     "s": "DATEV",
     "d": "www.datev.de",
     "t": "datev",
