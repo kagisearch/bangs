@@ -92620,9 +92620,9 @@
   },
   {
     "s": "UN terminology search portal",
-    "d": "untermportal.un.org",
+    "d": "unterm.un.org",
     "t": "unterm",
-    "u": "http://untermportal.un.org/search/{{{s}}}",
+    "u": "https://unterm.un.org/unterm2/en/search?searchTerm={{{s}}}",
     "c": "Research",
     "sc": "Reference (words intl)"
   },
