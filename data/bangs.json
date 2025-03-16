@@ -90519,14 +90519,6 @@
     "sc": "Food"
   },
   {
-    "s": "土豆网",
-    "d": "so.tudou.com",
-    "t": "tudou",
-    "u": "http://so.tudou.com/nisearch.do?kw={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Video"
-  },
-  {
     "s": "Tuffy Security Products",
     "d": "www.tuffyproducts.com",
     "t": "tuffyproducts",
