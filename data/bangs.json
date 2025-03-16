@@ -67161,14 +67161,6 @@
     "sc": "Companies"
   },
   {
-    "s": "http://www.lechuza.org/",
-    "d": "buscador.lechuza.org",
-    "t": "owl",
-    "u": "http://buscador.lechuza.org/resultados.php?texto={{{s}}}&xx=buscar",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
     "s": "Overwatch Liquipedia",
     "d": "liquipedia.net",
     "t": "owliquipedia",
