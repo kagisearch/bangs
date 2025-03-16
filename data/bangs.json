@@ -89678,14 +89678,6 @@
     "sc": "Domains"
   },
   {
-    "s": "Network-Tools.com",
-    "d": "network-tools.com",
-    "t": "traceroute",
-    "u": "https://network-tools.com/default.asp?prog=trace&host={{{s}}}",
-    "c": "Tech",
-    "sc": "Domains"
-  },
-  {
     "s": "Trackitdown",
     "d": "www.trackitdown.net",
     "t": "trackitdown",
