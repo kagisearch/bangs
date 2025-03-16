@@ -9465,14 +9465,6 @@
     "sc": "Online (marketplace)"
   },
   {
-    "s": "Bidvoy",
-    "d": "bidvoy.net",
-    "t": "bidvoy",
-    "u": "https://bidvoy.net/\"{{{s}}}",
-    "c": "Shopping",
-    "sc": "Online (deals)"
-  },
-  {
     "s": "Bioinfo-fr",
     "d": "bioinfo-fr.net",
     "t": "bifr",
