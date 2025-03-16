@@ -69848,14 +69848,6 @@
     "sc": "Big box/department"
   },
   {
-    "s": "Plan3t.info",
-    "d": "plan3t.info",
-    "t": "plan3t",
-    "u": "http://plan3t.info/?s={{{s}}}",
-    "c": "News",
-    "sc": "Aggregators"
-  },
-  {
     "s": "Plancke",
     "d": "plancke.io",
     "t": "plancke",
