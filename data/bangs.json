@@ -83655,14 +83655,6 @@
     "sc": "Reference"
   },
   {
-    "s": "SSLLabs Dev",
-    "d": "dev.ssllabs.com",
-    "t": "ssllabsdev",
-    "u": "https://dev.ssllabs.com/ssltest/analyze.html?latest&d={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin (network)"
-  },
-  {
     "s": "ssllabs",
     "d": "www.ssllabs.com",
     "t": "ssllabs",
