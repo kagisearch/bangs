@@ -82378,7 +82378,7 @@
     "s": "Songfacts",
     "d": "www.songfacts.com",
     "t": "songfacts",
-    "u": "https://www.songfacts.com/search-song-1.php?{{{s}}}",
+    "u": "https://www.songfacts.com/search/songs/{{{s}}}",
     "c": "Entertainment",
     "sc": "Audio"
   },
