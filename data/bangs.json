@@ -5289,14 +5289,6 @@
     "ad": "itunes.apple.com/us/app"
   },
   {
-    "s": "AppVV",
-    "d": "www.appvv.com",
-    "t": "appvv",
-    "u": "http://www.appvv.com/search.htm?search={{{s}}}&device=1",
-    "c": "Tech",
-    "sc": "Downloads (apps)"
-  },
-  {
     "s": "April",
     "d": "www.april.org",
     "t": "april",
