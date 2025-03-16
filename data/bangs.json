@@ -14219,14 +14219,6 @@
     "sc": "Academic"
   },
   {
-    "s": "Champion.gg",
-    "d": "champion.gg",
-    "t": "cgg",
-    "u": "http://champion.gg/champion/{{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
-  },
-  {
     "s": "craigslist",
     "d": "pittsburgh.craigslist.org",
     "t": "cgl",
