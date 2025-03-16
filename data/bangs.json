@@ -91392,14 +91392,6 @@
     "sc": "Reference"
   },
   {
-    "s": "Beluga Uni Hamburg",
-    "d": "beluga.sub.uni-hamburg.de",
-    "t": "ubhh",
-    "u": "https://beluga.sub.uni-hamburg.de/vufind/Search/Results?lookfor={{{s}}}&submitForm=Suchen&library=BELUGA_ALL",
-    "c": "Research",
-    "sc": "Reference (science)"
-  },
-  {
     "s": "Ubuntu Hungary (Kagi Search)",
     "d": "kagi.com",
     "t": "ubhu",
