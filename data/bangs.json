@@ -82455,14 +82455,6 @@
     "sc": "Audio"
   },
   {
-    "s": "Soov",
-    "d": "soov-ee.postimees.ee",
-    "t": "soov",
-    "u": "http://soov-ee.postimees.ee/keyword-{{{s}}}/listings.html",
-    "c": "Shopping",
-    "sc": "Online (intl)"
-  },
-  {
     "s": "Sophos Community",
     "d": "community.sophos.com",
     "t": "sophoscom",
