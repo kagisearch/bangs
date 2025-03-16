@@ -65366,14 +65366,6 @@
     "sc": "Sports"
   },
   {
-    "s": "OMBE.com",
-    "d": "www.ombe.com",
-    "t": "ombe",
-    "u": "http://www.ombe.com/find/{{{s}}}",
-    "c": "Shopping",
-    "sc": "Online (marketplace)"
-  },
-  {
     "s": "Open Media Database",
     "d": "www.omdb.org",
     "t": "omdb",
