@@ -83518,14 +83518,6 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "Shoryuken",
-    "d": "shoryuken.com",
-    "t": "srk",
-    "u": "http://shoryuken.com/?s={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
-  },
-  {
     "s": "Old Reddit by Subreddit",
     "d": "old.reddit.com",
     "t": "srold",
