@@ -17751,10 +17751,18 @@
     "sc": "Movies"
   },
   {
-    "s": "Crystal Language Libraries",
-    "d": "crystalshards.xyz",
+    "s": "Crystal Shards",
+    "d": "shards.info",
     "t": "crsh",
-    "u": "https://crystalshards.xyz/?filter={{{s}}}",
+    "u": "https://shards.info/search?query={{{s}}}",
+    "c": "Tech",
+    "sc": "Languages (Crystal)"
+  },
+  {
+    "s": "Crystal Shards",
+    "d": "shards.info",
+    "t": "shards",
+    "u": "https://shards.info/search?query={{{s}}}",
     "c": "Tech",
     "sc": "Languages (Crystal)"
   },
