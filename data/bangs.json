@@ -74415,7 +74415,7 @@
   },
   {
     "s": "RubyDoc.info",
-    "d": "rubydoc.info",
+    "d": "www.rubydoc.info",
     "t": "rdoc",
     "u": "https://www.rubydoc.info/find/gems?q={{{s}}}",
     "c": "Tech",
