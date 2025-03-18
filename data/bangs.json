@@ -74415,9 +74415,9 @@
   },
   {
     "s": "RubyDoc.info",
-    "d": "rdoc.info",
+    "d": "rubydoc.info",
     "t": "rdoc",
-    "u": "http://rdoc.info/find/github?q={{{s}}}",
+    "u": "https://www.rubydoc.info/find/gems?q={{{s}}}",
     "c": "Tech",
     "sc": "Languages (ruby)"
   },
