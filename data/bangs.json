@@ -74094,9 +74094,10 @@
   },
   {
     "s": "Current ruby docs",
-    "d": "rubydocs.org",
+    "d": "www.google.com",
+    "ad": "docs.ruby-lang.org",
     "t": "rb",
-    "u": "https://rubydocs.org/d/ruby-latest/?q={{{s}}}",
+    "u": "https://www.google.com/cse?q={{{s}}}&cx=013598269713424429640:g5orptiw95w&ie=UTF-8",
     "c": "Tech",
     "sc": "Programming"
   },
@@ -74414,9 +74415,9 @@
   },
   {
     "s": "RubyDoc.info",
-    "d": "rdoc.info",
+    "d": "www.rubydoc.info",
     "t": "rdoc",
-    "u": "http://rdoc.info/find/github?q={{{s}}}",
+    "u": "https://www.rubydoc.info/find/gems?q={{{s}}}",
     "c": "Tech",
     "sc": "Languages (ruby)"
   },
@@ -77254,6 +77255,7 @@
   {
     "s": "Ruby-lang.org",
     "d": "www.google.com",
+    "ad": "docs.ruby-lang.org",
     "t": "ruby",
     "u": "https://www.google.com/cse?q={{{s}}}&cx=013598269713424429640:g5orptiw95w&ie=UTF-8",
     "c": "Tech",
