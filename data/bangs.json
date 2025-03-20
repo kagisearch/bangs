@@ -80568,6 +80568,14 @@
     "sc": "Tools"
   },
   {
+    "s": "Simple Icons",
+    "d": "simpleicons.org",
+    "t": "sicons",
+    "u": "https://simpleicons.org/?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Design"
+  },
+  {
     "s": "Simplicité.io",
     "d": "www.simplicite.io",
     "t": "simplicite",
