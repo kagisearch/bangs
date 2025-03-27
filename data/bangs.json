@@ -72804,6 +72804,22 @@
     "sc": "Search"
   },
   {
+    "s": "phoenix",
+    "d": "www.phoenix.de",
+    "t": "phoenix",
+    "u": "https://www.phoenix.de/suche.html?vt={{{s}}}",
+    "c": "News",
+    "sc": "Broadcast"
+  },
+  {
+    "s": "phoenix",
+    "d": "www.phoenix.de",
+    "t": "phoenixde",
+    "u": "https://www.phoenix.de/suche.html?vt={{{s}}}",
+    "c": "News",
+    "sc": "Broadcast"
+  },
+  {
     "s": "Phoenix Contact",
     "d": "www.phoenixcontact.com",
     "t": "pxc",
