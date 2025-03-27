@@ -73748,6 +73748,22 @@
     "sc": "Broadcast"
   },
   {
+    "s": "Radiobremen",
+    "d": "www.radiobremen.de",
+    "t": "radiobremen",
+    "u": "https://www.radiobremen.de/service/suche/suche-112.html?term={{{s}}}",
+    "c": "News",
+    "sc": "Broadcast"
+  },
+  {
+    "s": "Radiobremen",
+    "d": "www.radiobremen.de",
+    "t": "rbde",
+    "u": "https://www.radiobremen.de/service/suche/suche-112.html?term={{{s}}}",
+    "c": "News",
+    "sc": "Broadcast"
+  },
+  {
     "s": "https://radiopaedia.org/",
     "d": "radiopaedia.org",
     "t": "radio",
