@@ -95720,6 +95720,14 @@
     "sc": "Food"
   },
   {
+    "s": "Westdeutscher Rundfunk",
+    "d": "www1.wdr.de",
+    "t": "wdrde",
+    "u": "https://www1.wdr.de/suche/index.jsp?q={{{s}}}",
+    "c": "News",
+    "sc": "Broadcast"
+  },
+  {
     "s": "WhatsApp",
     "d": "api.whatsapp.com",
     "t": "wapp",
