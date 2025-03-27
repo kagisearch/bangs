@@ -6009,6 +6009,14 @@
     "sc": "Online"
   },
   {
+    "s": "Arte (DE)",
+    "d": "www.arte.tv",
+    "t": "artede",
+    "u": "https://www.arte.tv/de/search/?q={{{s}}}&page=1",
+    "c": "Entertainment",
+    "sc": "TV"
+  },
+  {
     "s": "Arte (FR)",
     "d": "www.arte.tv",
     "t": "arte",
