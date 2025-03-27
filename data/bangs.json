@@ -43177,6 +43177,22 @@
     "sc": "Academic"
   },
   {
+    "s": "Hessischer Rundfunk",
+    "d": "www.hr.de",
+    "t": "hr",
+    "u": "https://www.hr.de/suche/index.nc.html?query={{{s}}}",
+    "c": "News",
+    "sc": "Broadcast"
+  },
+  {
+    "s": "Hessischer Rundfunk",
+    "d": "www.hr.de",
+    "t": "hrde",
+    "u": "https://www.hr.de/suche/index.nc.html?query={{{s}}}",
+    "c": "News",
+    "sc": "Broadcast"
+  },
+  {
     "s": "Hornbach",
     "d": "www.hornbach.de",
     "t": "hornbach",
