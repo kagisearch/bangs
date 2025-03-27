@@ -74165,6 +74165,30 @@
     "sc": "Search (non-US)"
   },
   {
+    "s": "Rundfunk Berlin-Brandenburg",
+    "d": "www.rbb24.de",
+    "t": "rbb",
+    "u": "https://www.rbb24.de/suche/#searchform_q__{{{s}}}",
+    "c": "News",
+    "sc": "Broadcast"
+  },
+  {
+    "s": "Rundfunk Berlin-Brandenburg",
+    "d": "www.rbb24.de",
+    "t": "rbb24",
+    "u": "https://www.rbb24.de/suche/#searchform_q__{{{s}}}",
+    "c": "News",
+    "sc": "Broadcast"
+  },
+  {
+    "s": "Rundfunk Berlin-Brandenburg",
+    "d": "www.rbb24.de",
+    "t": "rbbde",
+    "u": "https://www.rbb24.de/suche/#searchform_q__{{{s}}}",
+    "c": "News",
+    "sc": "Broadcast"
+  },
+  {
     "s": "Current ruby docs",
     "d": "www.google.com",
     "ad": "docs.ruby-lang.org",
