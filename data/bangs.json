@@ -62023,12 +62023,12 @@
     "sc": "Academic"
   },
   {
-    "s": "NDR.de - Der Norddeutsche Rundfunk",
-    "d": "ndr.de",
+    "s": "Norddeutscher Rundfunk",
+    "d": "www.ndr.de",
     "t": "ndrde",
-    "u": "https://ndr.de/suche10.html?query={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Video"
+    "u": "https://www.ndr.de/suche10.html?query={{{s}}}",
+    "c": "News",
+    "sc": "Magazine"
   },
   {
     "s": "Norddeutscher Rundfunk",
