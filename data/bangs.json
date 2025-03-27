@@ -7682,6 +7682,14 @@
     "sc": "Search (non-US)"
   },
   {
+    "s": "Bayerischer Rundfunk",
+    "d": "www.br.de",
+    "t": "brde",
+    "u": "https://www.br.de/service/suche/index.html?query={{{s}}}",
+    "c": "News",
+    "sc": "Broadcast"
+  },
+  {
     "s": "British and Irish Legal Information Institute",
     "d": "www.bailii.org",
     "t": "bailii",
