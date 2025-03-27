@@ -77774,6 +77774,14 @@
     "sc": "Forum"
   },
   {
+    "s": "Saarländischer Rundfunk",
+    "d": "www.sr.de",
+    "t": "srde",
+    "u": "https://www.sr.de/sr/suche.jsp?phrase={{{s}}}",
+    "c": "News",
+    "sc": "Broadcast"
+  },
+  {
     "s": "Saavn",
     "d": "www.jiosaavn.com",
     "t": "saavn",
