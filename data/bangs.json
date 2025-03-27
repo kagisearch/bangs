@@ -61407,6 +61407,22 @@
     "sc": "Newspaper"
   },
   {
+    "s": "Mitteldeutscher Rundfunk",
+    "d": "www.mdr.de",
+    "t": "mdr",
+    "u": "https://www.mdr.de/nachrichten/index.html?q={{{s}}}",
+    "c": "News",
+    "sc": "Broadcast"
+  },
+  {
+    "s": "Mitteldeutscher Rundfunk",
+    "d": "www.mdr.de",
+    "t": "mdrde",
+    "u": "https://www.mdr.de/nachrichten/index.html?q={{{s}}}",
+    "c": "News",
+    "sc": "Broadcast"
+  },
+  {
     "s": "n11.com",
     "d": "www.n11.com",
     "t": "n11",
