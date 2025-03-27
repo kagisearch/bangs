@@ -86045,7 +86045,7 @@
     "s": "Tagesschau",
     "d": "www.tagesschau.de",
     "t": "tagesschau",
-    "u": "https://www.tagesschau.de/suche2.html?query={{{s}}}",
+    "u": "https://www.tagesschau.de/suche#/all/1/?searchText={{{s}}}",
     "c": "News",
     "sc": "Broadcast"
   },
