@@ -76814,25 +76814,25 @@
   },
   {
     "s": "Royal Society Collections Catalogues, archives",
-    "d": "catalogues.royalsociety.org/CalmView",
+    "d": "catalogues.royalsociety.org",
     "t": "rsca",
-    "u": "https://catalogues.royalsociety.org/CalmView/Overview.aspx?src=CalmView.Catalog&r=((((text)=%27{{{s}}}%27)))",
+    "u": "https://catalogues.royalsociety.org/CalmView/Overview.aspx?src=CalmView.Catalog&r=((((text)='{{{s}}}')))",
     "c": "Research",
     "sc": "Academic"
   },
   {
     "s": "Royal Society Collections Catalogues, printed works",
-    "d": "catalogues.royalsociety.org/CalmView",
+    "d": "catalogues.royalsociety.org",
     "t": "rscp",
-    "u": "https://catalogues.royalsociety.org/CalmView/Overview.aspx?src=CalmView.CatalogL&r=((((text)=%27{{{s}}}%27)))",
+    "u": "https://catalogues.royalsociety.org/CalmView/Overview.aspx?src=CalmView.CatalogL&r=((((text)='{{{s}}}')))",
     "c": "Research",
     "sc": "Academic"
   },
   {
     "s": "Royal Society Collections Catalogues, past Fellows by surname",
-    "d": "catalogues.royalsociety.org/CalmView",
+    "d": "catalogues.royalsociety.org",
     "t": "rscf",
-    "u": "https://catalogues.royalsociety.org/CalmView/Overview.aspx?src=CalmView.Persons&r=(((Surname=%27{{{s}}}%27)))",
+    "u": "https://catalogues.royalsociety.org/CalmView/Overview.aspx?src=CalmView.Persons&r=(((Surname='{{{s}}}')))",
     "c": "Research",
     "sc": "Academic"
   },
