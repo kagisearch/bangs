@@ -76814,7 +76814,7 @@
   },
   {
     "s": "Royal Society Collections Catalogues, archives",
-    "d": "https://catalogues.royalsociety.org/CalmView/default.aspx",
+    "d": "catalogues.royalsociety.org/CalmView",
     "t": "rsca",
     "u": "https://catalogues.royalsociety.org/CalmView/Overview.aspx?src=CalmView.Catalog&r=((((text)=%27{{{s}}}%27)))",
     "c": "Research",
@@ -76822,7 +76822,7 @@
   },
   {
     "s": "Royal Society Collections Catalogues, printed works",
-    "d": "https://catalogues.royalsociety.org/CalmView/default.aspx",
+    "d": "catalogues.royalsociety.org/CalmView",
     "t": "rscp",
     "u": "https://catalogues.royalsociety.org/CalmView/Overview.aspx?src=CalmView.CatalogL&r=((((text)=%27{{{s}}}%27)))",
     "c": "Research",
@@ -76830,7 +76830,7 @@
   },
   {
     "s": "Royal Society Collections Catalogues, past Fellows by surname",
-    "d": "https://catalogues.royalsociety.org/CalmView/default.aspx",
+    "d": "catalogues.royalsociety.org/CalmView",
     "t": "rscf",
     "u": "https://catalogues.royalsociety.org/CalmView/Overview.aspx?src=CalmView.Persons&r=(((Surname=%27{{{s}}}%27)))",
     "c": "Research",
