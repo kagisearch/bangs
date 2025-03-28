@@ -100993,7 +100993,7 @@
     "s": "Yahoo Finance Australia",
     "d": "au.finance.yahoo.com",
     "t": "yahoofinau",
-    "u": "https://au.finance.yahoo.com/q?s={{{s}}}",
+    "u": "https://au.finance.yahoo.com/quote/{{{s}}}",
     "c": "News",
     "sc": "Business"
   },
@@ -101324,7 +101324,7 @@
     "s": "Yahoo Finance Charts",
     "d": "finance.yahoo.com",
     "t": "yfc",
-    "u": "https://finance.yahoo.com/echarts?s={{{s}}}",
+    "u": "https://finance.yahoo.com/chart/{{{s}}}",
     "c": "News",
     "sc": "Business"
   },
@@ -101340,7 +101340,7 @@
     "s": "Yahoo Finance",
     "d": "finance.yahoo.com",
     "t": "yfinance",
-    "u": "https://finance.yahoo.com/q?s={{{s}}}",
+    "u": "https://finance.yahoo.com/quote/{{{s}}}",
     "c": "News",
     "sc": "Business"
   },
@@ -101348,7 +101348,7 @@
     "s": "Yahoo Finance (Company Profile)",
     "d": "finance.yahoo.com",
     "t": "yfp",
-    "u": "https://finance.yahoo.com/q/pr?s={{{s}}}+Profile",
+    "u": "https://finance.yahoo.com/quote/{{{s}}}/profile",
     "c": "News",
     "sc": "Business"
   },
@@ -101356,9 +101356,9 @@
     "s": "Yahoo Finance",
     "d": "finance.yahoo.com",
     "t": "yf",
-    "u": "https://finance.yahoo.com/q?s={{{s}}}",
-    "c": "Research",
-    "sc": "Health"
+    "u": "https://finance.yahoo.com/quote/{{{s}}}",
+    "c": "News",
+    "sc": "Business"
   },
   {
     "s": "Yu-Gi-Oh! Wikia",
