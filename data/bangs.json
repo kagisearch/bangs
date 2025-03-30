@@ -107835,6 +107835,14 @@
     "sc": "Music"
   },
   {
+    "s": "v0",
+    "d": "v0.dev",
+    "t": "v0",
+    "u": "https://v0.dev/chat?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "AI Chatbots"
+  },
+  {
     "s": "Vibe",
     "d": "vibe.naver.com",
     "t": "vibe",
