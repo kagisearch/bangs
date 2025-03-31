@@ -41420,11 +41420,11 @@
   },
   {
     "s": "Grok",
-    "d": "x.com",
+    "d": "grok.com",
     "t": "grok",
-    "u": "https://x.com/i/grok?text={{{s}}}",
+    "u": "https://grok.com/?q={{{s}}}",
     "c": "Online Services",
-    "sc": "Tools"
+    "sc": "AI Chatbots"
   },
   {
     "s": "h2g2",
