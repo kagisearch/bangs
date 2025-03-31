@@ -96885,9 +96885,9 @@
   },
   {
     "s": "WARFRAME Wiki",
-    "d": "warframe.wikia.com",
+    "d": "wiki.warframe.com",
     "t": "wfen",
-    "u": "https://warframe.wikia.com/wiki/Special:Search?query={{{s}}}",
+    "u": "https://wiki.warframe.com/?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
@@ -96925,11 +96925,11 @@
   },
   {
     "s": "Warframe",
-    "d": "warframe.wikia.com",
+    "d": "wiki.warframe.com",
     "t": "wframe",
-    "u": "https://warframe.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search&ns0=1&ns14=1",
-    "c": "Online Services",
-    "sc": "Search"
+    "u": "https://wiki.warframe.com/?search={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (specific)"
   },
   {
     "s": "Wordreference",
@@ -96949,17 +96949,17 @@
   },
   {
     "s": "WARFRAME Wiki",
-    "d": "warframe.wikia.com",
+    "d": "wiki.warframe.com",
     "t": "wfwiki",
-    "u": "https://warframe.wikia.com/wiki/Special:Search?search={{{s}}}",
+    "u": "https://wiki.warframe.com/?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
   {
     "s": "WARFRAME Wiki",
-    "d": "warframe.wikia.com",
+    "d": "wiki.warframe.com",
     "t": "wfw",
-    "u": "https://warframe.wikia.com/wiki/Special:WikiaSearch?search={{{s}}}&fulltext=Search",
+    "u": "https://wiki.warframe.com/?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
