@@ -95881,11 +95881,11 @@
   },
   {
     "s": "Warframe",
-    "d": "warframe.wikia.com",
+    "d": "wiki.warframe.com",
     "t": "warframe",
-    "u": "https://warframe.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search&ns0=1&ns14=1",
-    "c": "Online Services",
-    "sc": "Search"
+    "u": "https://wiki.warframe.com/?search={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (specific)"
   },
   {
     "s": "Total war Warhammer Wiki",
