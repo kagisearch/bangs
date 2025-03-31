@@ -25545,14 +25545,6 @@
     "sc": "Tools"
   },
   {
-    "s": "University of Edinburgh Libraries DiscoverEd Catalogue",
-    "d": "discovered.ed.ac.uk",
-    "t": "uoel",
-    "u": "https://discovered.ed.ac.uk/discovery/search?query=any,contains,{{{s}}}&tab=Everything&search_scope=UoE&vid=44UOE_INST:44UOE_VU2&offset=0",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
     "s": "editus.lu",
     "d": "www.editus.lu",
     "t": "editus",
@@ -92737,6 +92729,14 @@
     "d": "udallas.edu",
     "t": "uod",
     "u": "https://udallas.edu/searchresults.html?q={{{s}}}",
+    "c": "Research",
+    "sc": "Academic"
+  },
+  {
+    "s": "University of Edinburgh Libraries DiscoverEd Catalogue",
+    "d": "discovered.ed.ac.uk",
+    "t": "uoel",
+    "u": "https://discovered.ed.ac.uk/discovery/search?query=any,contains,{{{s}}}&tab=Everything&search_scope=UoE&vid=44UOE_INST:44UOE_VU2&offset=0",
     "c": "Research",
     "sc": "Academic"
   },
