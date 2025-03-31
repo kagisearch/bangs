@@ -6009,9 +6009,25 @@
     "sc": "Online"
   },
   {
-    "s": "Arte TV",
+    "s": "Arte (DE)",
+    "d": "www.arte.tv",
+    "t": "artede",
+    "u": "https://www.arte.tv/de/search/?q={{{s}}}&page=1",
+    "c": "Entertainment",
+    "sc": "TV"
+  },
+  {
+    "s": "Arte (FR)",
     "d": "www.arte.tv",
     "t": "arte",
+    "u": "https://www.arte.tv/fr/search/?q={{{s}}}&page=1",
+    "c": "Entertainment",
+    "sc": "TV"
+  },
+  {
+    "s": "Arte (FR)",
+    "d": "www.arte.tv",
+    "t": "artefr",
     "u": "https://www.arte.tv/fr/search/?q={{{s}}}&page=1",
     "c": "Entertainment",
     "sc": "TV"
@@ -7664,6 +7680,14 @@
     "u": "https://www.baidu.com/s?wd={{{s}}}&cl=3",
     "c": "Online Services",
     "sc": "Search (non-US)"
+  },
+  {
+    "s": "Bayerischer Rundfunk",
+    "d": "www.br.de",
+    "t": "brde",
+    "u": "https://www.br.de/service/suche/index.html?query={{{s}}}",
+    "c": "News",
+    "sc": "Broadcast"
   },
   {
     "s": "British and Irish Legal Information Institute",
@@ -43153,6 +43177,14 @@
     "sc": "Academic"
   },
   {
+    "s": "Hessischer Rundfunk",
+    "d": "www.hr.de",
+    "t": "hrde",
+    "u": "https://www.hr.de/suche/index.nc.html?query={{{s}}}",
+    "c": "News",
+    "sc": "Broadcast"
+  },
+  {
     "s": "Hornbach",
     "d": "www.hornbach.de",
     "t": "hornbach",
@@ -61367,6 +61399,22 @@
     "sc": "Newspaper"
   },
   {
+    "s": "Mitteldeutscher Rundfunk",
+    "d": "www.mdr.de",
+    "t": "mdr",
+    "u": "https://www.mdr.de/nachrichten/index.html?q={{{s}}}",
+    "c": "News",
+    "sc": "Broadcast"
+  },
+  {
+    "s": "Mitteldeutscher Rundfunk",
+    "d": "www.mdr.de",
+    "t": "mdrde",
+    "u": "https://www.mdr.de/nachrichten/index.html?q={{{s}}}",
+    "c": "News",
+    "sc": "Broadcast"
+  },
+  {
     "s": "n11.com",
     "d": "www.n11.com",
     "t": "n11",
@@ -62023,12 +62071,12 @@
     "sc": "Academic"
   },
   {
-    "s": "NDR.de - Der Norddeutsche Rundfunk",
-    "d": "ndr.de",
+    "s": "Norddeutscher Rundfunk",
+    "d": "www.ndr.de",
     "t": "ndrde",
-    "u": "https://ndr.de/suche10.html?query={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Video"
+    "u": "https://www.ndr.de/suche10.html?query={{{s}}}",
+    "c": "News",
+    "sc": "Magazine"
   },
   {
     "s": "Norddeutscher Rundfunk",
@@ -72748,6 +72796,22 @@
     "sc": "Search"
   },
   {
+    "s": "phoenix",
+    "d": "www.phoenix.de",
+    "t": "phoenix",
+    "u": "https://www.phoenix.de/suche.html?vt={{{s}}}",
+    "c": "News",
+    "sc": "Broadcast"
+  },
+  {
+    "s": "phoenix",
+    "d": "www.phoenix.de",
+    "t": "phoenixde",
+    "u": "https://www.phoenix.de/suche.html?vt={{{s}}}",
+    "c": "News",
+    "sc": "Broadcast"
+  },
+  {
     "s": "Phoenix Contact",
     "d": "www.phoenixcontact.com",
     "t": "pxc",
@@ -73692,6 +73756,22 @@
     "sc": "Broadcast"
   },
   {
+    "s": "Radiobremen",
+    "d": "www.radiobremen.de",
+    "t": "radiobremen",
+    "u": "https://www.radiobremen.de/service/suche/suche-112.html?term={{{s}}}",
+    "c": "News",
+    "sc": "Broadcast"
+  },
+  {
+    "s": "Radiobremen",
+    "d": "www.radiobremen.de",
+    "t": "rbde",
+    "u": "https://www.radiobremen.de/service/suche/suche-112.html?term={{{s}}}",
+    "c": "News",
+    "sc": "Broadcast"
+  },
+  {
     "s": "https://radiopaedia.org/",
     "d": "radiopaedia.org",
     "t": "radio",
@@ -74091,6 +74171,30 @@
     "u": "https://www.rbcroyalbank.com/search-public/index.html?question={{{s}}}",
     "c": "Online Services",
     "sc": "Search (non-US)"
+  },
+  {
+    "s": "Rundfunk Berlin-Brandenburg",
+    "d": "www.rbb24.de",
+    "t": "rbb",
+    "u": "https://www.rbb24.de/suche/#searchform_q__{{{s}}}",
+    "c": "News",
+    "sc": "Broadcast"
+  },
+  {
+    "s": "Rundfunk Berlin-Brandenburg",
+    "d": "www.rbb24.de",
+    "t": "rbb24",
+    "u": "https://www.rbb24.de/suche/#searchform_q__{{{s}}}",
+    "c": "News",
+    "sc": "Broadcast"
+  },
+  {
+    "s": "Rundfunk Berlin-Brandenburg",
+    "d": "www.rbb24.de",
+    "t": "rbbde",
+    "u": "https://www.rbb24.de/suche/#searchform_q__{{{s}}}",
+    "c": "News",
+    "sc": "Broadcast"
   },
   {
     "s": "Current ruby docs",
@@ -77700,6 +77804,14 @@
     "u": "https://www.saabforum.nl/search.php?keywords={{{s}}}",
     "c": "Entertainment",
     "sc": "Forum"
+  },
+  {
+    "s": "Saarländischer Rundfunk",
+    "d": "www.sr.de",
+    "t": "srde",
+    "u": "https://www.sr.de/sr/suche.jsp?phrase={{{s}}}",
+    "c": "News",
+    "sc": "Broadcast"
   },
   {
     "s": "Saavn",
@@ -86069,7 +86181,7 @@
     "s": "Tagesschau",
     "d": "www.tagesschau.de",
     "t": "tagesschau",
-    "u": "https://www.tagesschau.de/suche2.html?query={{{s}}}",
+    "u": "https://www.tagesschau.de/suche#/all/1/?searchText={{{s}}}",
     "c": "News",
     "sc": "Broadcast"
   },
@@ -95742,6 +95854,14 @@
     "u": "https://www.westonaprice.org/?s={{{s}}}",
     "c": "Research",
     "sc": "Food"
+  },
+  {
+    "s": "Westdeutscher Rundfunk",
+    "d": "www1.wdr.de",
+    "t": "wdrde",
+    "u": "https://www1.wdr.de/suche/index.jsp?q={{{s}}}",
+    "c": "News",
+    "sc": "Broadcast"
   },
   {
     "s": "WhatsApp",
