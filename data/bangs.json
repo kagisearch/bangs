@@ -80074,14 +80074,6 @@
     "sc": "Companies"
   },
   {
-    "s": "Shopomo",
-    "d": "www.shopomo.com",
-    "t": "shopomo",
-    "u": "https://www.shopomo.com/search?q={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online (deals)"
-  },
-  {
     "s": "Google Shopping",
     "d": "www.google.com",
     "t": "shopping",
