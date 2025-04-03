@@ -80338,14 +80338,6 @@
     "sc": "Online"
   },
   {
-    "s": "sitealytics.com",
-    "d": "www.sitealytics.com",
-    "t": "sitealytics",
-    "u": "https://www.sitealytics.com/{{{s}}}/",
-    "c": "Online Services",
-    "sc": "Tools"
-  },
-  {
     "s": "Kagi Search",
     "d": "kagi.com",
     "ad": "",
