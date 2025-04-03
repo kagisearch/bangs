@@ -14627,14 +14627,6 @@
     "sc": "Online"
   },
   {
-    "s": "Champion.gg",
-    "d": "champion.gg",
-    "t": "chgg",
-    "u": "http://champion.gg/champion/{{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
-  },
-  {
     "s": "The Chicago Tribune",
     "d": "www.chicagotribune.com",
     "t": "chicagotribune",
