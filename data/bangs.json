@@ -1412,7 +1412,7 @@
     "s": "academia.edu",
     "d": "www.academia.edu",
     "t": "academia",
-    "u": "https://www.academia.edu/people/search?utf8=✓&q={{{s}}}",
+    "u": "https://www.academia.edu/people/search?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -4649,7 +4649,7 @@
     "s": "Archive of our Own",
     "d": "archiveofourown.org",
     "t": "ao3",
-    "u": "https://archiveofourown.org/works/search?utf8=✓&work_search[query]={{{s}}}",
+    "u": "https://archiveofourown.org/works/search?utf8=%E2%9C%93&work_search[query]={{{s}}}",
     "c": "Entertainment",
     "sc": "Misc"
   },
@@ -6629,7 +6629,7 @@
     "s": "atom.io",
     "d": "atom.io",
     "t": "atomio",
-    "u": "https://atom.io/packages/search?utf8=✓&q={{{s}}}",
+    "u": "https://atom.io/packages/search?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Tech",
     "sc": "Downloads (add-ons)"
   },
@@ -6813,7 +6813,7 @@
     "s": "AudioJungle",
     "d": "audiojungle.net",
     "t": "audiojungle",
-    "u": "https://audiojungle.net/search?utf8=✓&term={{{s}}}",
+    "u": "https://audiojungle.net/search?utf8=%E2%9C%93&term={{{s}}}",
     "c": "Shopping",
     "sc": "Tech"
   },
@@ -8578,7 +8578,7 @@
     "s": "Beauty MNL",
     "d": "beautymnl.com",
     "t": "beautymnl",
-    "u": "https://beautymnl.com/search?utf8=✓&q={{{s}}}",
+    "u": "https://beautymnl.com/search?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
@@ -11962,7 +11962,7 @@
     "s": "BUCea - Bibliotecas UCM",
     "d": "ucm.summon.serialssolutions.com",
     "t": "bucea",
-    "u": "http://ucm.summon.serialssolutions.com/es-ES/#!/search?ho=t&fvf=ContentType,Newspaper Article,t&l=es-ES&q={{{s}}}&pg=buscador&utf8=✓",
+    "u": "http://ucm.summon.serialssolutions.com/es-ES/#!/search?ho=t&fvf=ContentType,Newspaper Article,t&l=es-ES&q={{{s}}}&pg=buscador&utf8=%E2%9C%93",
     "c": "Research",
     "sc": "Academic"
   },
@@ -11970,7 +11970,7 @@
     "s": "Buch7",
     "d": "www.buch7.de",
     "t": "buch7",
-    "u": "https://www.buch7.de/store/simple_search_results?utf8=✓&navkat=&search={{{s}}}&commit.x=0&commit.y=0",
+    "u": "https://www.buch7.de/store/simple_search_results?utf8=%E2%9C%93&navkat=&search={{{s}}}&commit.x=0&commit.y=0",
     "c": "Shopping",
     "sc": "Online"
   },
@@ -12066,7 +12066,7 @@
     "s": "Bukalapak",
     "d": "www.bukalapak.com",
     "t": "bukalapak",
-    "u": "https://www.bukalapak.com/products?utf8=✓&search[keywords]={{{s}}}",
+    "u": "https://www.bukalapak.com/products?utf8=%E2%9C%93&search[keywords]={{{s}}}",
     "c": "Shopping",
     "sc": "Online (marketplace)"
   },
@@ -13862,7 +13862,7 @@
     "s": "CDP (Carbon Disclosure Project)",
     "d": "www.cdp.net",
     "t": "cdp",
-    "u": "https://www.cdp.net/en/responses?utf8=✓&queries[name]={{{s}}}",
+    "u": "https://www.cdp.net/en/responses?utf8=%E2%9C%93&queries[name]={{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
   },
@@ -15278,7 +15278,7 @@
     "s": "Cloudinary",
     "d": "support.cloudinary.com",
     "t": "cld",
-    "u": "https://support.cloudinary.com/hc/en-us/search?utf8=✓&query={{{s}}}",
+    "u": "https://support.cloudinary.com/hc/en-us/search?utf8=%E2%9C%93&query={{{s}}}",
     "c": "Tech",
     "sc": "Companies"
   },
@@ -15934,7 +15934,7 @@
     "s": "CodeCanyon",
     "d": "codecanyon.net",
     "t": "codecanyon",
-    "u": "https://codecanyon.net/search?utf8=✓&term={{{s}}}",
+    "u": "https://codecanyon.net/search?utf8=%E2%9C%93&term={{{s}}}",
     "c": "Shopping",
     "sc": "Tech"
   },
@@ -16581,7 +16581,7 @@
     "s": "Chef Supermarket",
     "d": "supermarket.chef.io",
     "t": "coobook",
-    "u": "https://supermarket.chef.io/cookbooks?utf8=✓&q={{{s}}}",
+    "u": "https://supermarket.chef.io/cookbooks?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin"
   },
@@ -18162,7 +18162,7 @@
     "s": "cults3d",
     "d": "cults3d.com",
     "t": "cults3d",
-    "u": "https://cults3d.com/fr/recherche?utf8=✓&q={{{s}}}",
+    "u": "https://cults3d.com/fr/recherche?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Tech",
     "sc": "Design"
   },
@@ -19334,7 +19334,7 @@
     "s": "Danbooru Artists",
     "d": "danbooru.donmai.us",
     "t": "dbrartist",
-    "u": "https://danbooru.donmai.us/artists?commit=Search&search[any_name_matches]={{{s}}}&search[order]=created_at&utf8=✓",
+    "u": "https://danbooru.donmai.us/artists?commit=Search&search[any_name_matches]={{{s}}}&search[order]=created_at&utf8=%E2%9C%93",
     "c": "Multimedia",
     "sc": "Images"
   },
@@ -19382,7 +19382,7 @@
     "s": "Dotabuff",
     "d": "www.dotabuff.com",
     "t": "dbuff",
-    "u": "https://www.dotabuff.com/search?utf8=✓&q={{{s}}}",
+    "u": "https://www.dotabuff.com/search?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (WOW)"
   },
@@ -20690,7 +20690,7 @@
     "s": "Derpibooru",
     "d": "derpibooru.org",
     "t": "derpibooru",
-    "u": "https://derpibooru.org/search?utf8=✓&sbq={{{s}}}",
+    "u": "https://derpibooru.org/search?utf8=%E2%9C%93&sbq={{{s}}}",
     "c": "Multimedia",
     "sc": "Images"
   },
@@ -20698,7 +20698,7 @@
     "s": "Derpibooru.org",
     "d": "derpibooru.org",
     "t": "derpibooruorg",
-    "u": "https://derpibooru.org/search?utf8=✓&sbq={{{s}}}",
+    "u": "https://derpibooru.org/search?utf8=%E2%9C%93&sbq={{{s}}}",
     "c": "Multimedia",
     "sc": "Images"
   },
@@ -23167,7 +23167,7 @@
     "s": "Digital Public Library of America",
     "d": "dp.la",
     "t": "dpla",
-    "u": "https://dp.la/search?utf8=✓&q={{{s}}}",
+    "u": "https://dp.la/search?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Multimedia",
     "sc": "General"
   },
@@ -23731,7 +23731,7 @@
     "s": "Debian Screenshots",
     "d": "screenshots.debian.net",
     "t": "dsc",
-    "u": "https://screenshots.debian.net/packages?utf8=✓&search={{{s}}}",
+    "u": "https://screenshots.debian.net/packages?utf8=%E2%9C%93&search={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin"
   },
@@ -24844,7 +24844,7 @@
     "s": "RogerEbert.com",
     "d": "www.rogerebert.com",
     "t": "ebert",
-    "u": "https://www.rogerebert.com/search?utf8=✓&q={{{s}}}",
+    "u": "https://www.rogerebert.com/search?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Entertainment",
     "sc": "Movies"
   },
@@ -25743,7 +25743,7 @@
     "s": "GitHub",
     "d": "github.com",
     "t": "eips",
-    "u": "https://github.com/ethereum/EIPs/issues?utf8=✓&q={{{s}}}",
+    "u": "https://github.com/ethereum/EIPs/issues?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Tech",
     "sc": "Cryptocurrency"
   },
@@ -26988,7 +26988,7 @@
     "s": "https://ojibwe.lib.umn.edu",
     "d": "ojibwe.lib.umn.edu",
     "t": "enoj",
-    "u": "https://ojibwe.lib.umn.edu/search?utf8=✓&q={{{s}}}&commit=Search&type=english",
+    "u": "https://ojibwe.lib.umn.edu/search?utf8=%E2%9C%93&q={{{s}}}&commit=Search&type=english",
     "c": "Research",
     "sc": "Learning"
   },
@@ -27800,7 +27800,7 @@
     "s": "Estante Virtual",
     "d": "www.estantevirtual.com.br",
     "t": "estantevirtual",
-    "u": "https://www.estantevirtual.com.br/busca?utf8=✓&type=q&new=&q={{{s}}}",
+    "u": "https://www.estantevirtual.com.br/busca?utf8=%E2%9C%93&type=q&new=&q={{{s}}}",
     "c": "Shopping",
     "sc": "Online (marketplace)"
   },
@@ -29515,7 +29515,7 @@
     "s": "FCP Euro",
     "d": "www.fcpeuro.com",
     "t": "fcpeuro",
-    "u": "https://www.fcpeuro.com/products?utf8=✓&keywords={{{s}}}",
+    "u": "https://www.fcpeuro.com/products?utf8=%E2%9C%93&keywords={{{s}}}",
     "c": "Shopping",
     "sc": "Online (marketplace)"
   },
@@ -29531,7 +29531,7 @@
     "s": "FDA",
     "d": "search.usa.gov",
     "t": "fda",
-    "u": "https://search.usa.gov/search?utf8=✓&affiliate=fda&query={{{s}}}&commit=Search",
+    "u": "https://search.usa.gov/search?utf8=%E2%9C%93&affiliate=fda&query={{{s}}}&commit=Search",
     "c": "Research",
     "sc": "Government"
   },
@@ -29555,7 +29555,7 @@
     "s": "fdb.pl",
     "d": "fdb.pl",
     "t": "fdbpl",
-    "u": "https://fdb.pl/szukaj?utf8=✓&query={{{s}}}",
+    "u": "https://fdb.pl/szukaj?utf8=%E2%9C%93&query={{{s}}}",
     "c": "Entertainment",
     "sc": "Movies"
   },
@@ -34235,7 +34235,7 @@
     "s": "RubyGems",
     "d": "rubygems.org",
     "t": "gem",
-    "u": "https://rubygems.org/search?utf8=✓&query={{{s}}}",
+    "u": "https://rubygems.org/search?utf8=%E2%9C%93&query={{{s}}}",
     "c": "Tech",
     "sc": "Languages (ruby)"
   },
@@ -34930,7 +34930,7 @@
     "s": "GitHub Code",
     "d": "github.com",
     "t": "ghc",
-    "u": "https://github.com/search?utf8=✓&q={{{s}}}&type=Code",
+    "u": "https://github.com/search?utf8=%E2%9C%93&q={{{s}}}&type=Code",
     "c": "Tech",
     "sc": "Programming"
   },
@@ -34938,7 +34938,7 @@
     "s": "Github (code search)",
     "d": "github.com",
     "t": "ghcode",
-    "u": "https://github.com/search?utf8=✓&q={{{s}}}&type=Code",
+    "u": "https://github.com/search?utf8=%E2%9C%93&q={{{s}}}&type=Code",
     "c": "Tech",
     "sc": "Programming"
   },
@@ -34954,7 +34954,7 @@
     "s": "GitHub",
     "d": "github.com",
     "t": "gh",
-    "u": "https://github.com/search?utf8=✓&q={{{s}}}",
+    "u": "https://github.com/search?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Tech",
     "sc": "Programming"
   },
@@ -35425,7 +35425,7 @@
     "s": "Github",
     "d": "github.com",
     "t": "git",
-    "u": "https://github.com/search?utf8=✓&q={{{s}}}",
+    "u": "https://github.com/search?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Tech",
     "sc": "Programming"
   },
@@ -35449,7 +35449,7 @@
     "s": "Github Stars",
     "d": "github.com",
     "t": "githubstars",
-    "u": "https://github.com/stars?utf8=✓&q={{{s}}}",
+    "u": "https://github.com/stars?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Tech",
     "sc": "Programming"
   },
@@ -35473,7 +35473,7 @@
     "s": "GitLab",
     "d": "gitlab.com",
     "t": "gitlab",
-    "u": "https://gitlab.com/search?utf8=✓&search={{{s}}}&group_id=&repository_ref=",
+    "u": "https://gitlab.com/search?utf8=%E2%9C%93&search={{{s}}}&group_id=&repository_ref=",
     "c": "Tech",
     "sc": "Downloads (code)"
   },
@@ -35585,7 +35585,7 @@
     "s": "GitLab",
     "d": "gitlab.com",
     "t": "glab",
-    "u": "https://gitlab.com/search?utf8=✓&search={{{s}}}",
+    "u": "https://gitlab.com/search?utf8=%E2%9C%93&search={{{s}}}",
     "c": "Tech",
     "sc": "Programming"
   },
@@ -36386,7 +36386,7 @@
     "s": "GoComics",
     "d": "www.gocomics.com",
     "t": "gocomics",
-    "u": "https://www.gocomics.com/search/results?utf8=✓&terms={{{s}}}",
+    "u": "https://www.gocomics.com/search/results?utf8=%E2%9C%93&terms={{{s}}}",
     "c": "Entertainment",
     "sc": "Comics"
   },
@@ -37531,7 +37531,7 @@
     "s": "GraphicRiver",
     "d": "graphicriver.net",
     "t": "graphicriver",
-    "u": "https://graphicriver.net/search?utf8=✓&term={{{s}}}",
+    "u": "https://graphicriver.net/search?utf8=%E2%9C%93&term={{{s}}}",
     "c": "Shopping",
     "sc": "Tech"
   },
@@ -37579,7 +37579,7 @@
     "s": "goodreads",
     "d": "www.goodreads.com",
     "t": "greads",
-    "u": "https://www.goodreads.com/search?utf8=✓&query={{{s}}}",
+    "u": "https://www.goodreads.com/search?utf8=%E2%9C%93&query={{{s}}}",
     "c": "Multimedia",
     "sc": "Books"
   },
@@ -43196,7 +43196,7 @@
     "s": "Half Price Books",
     "d": "www.hpb.com",
     "t": "hpb",
-    "u": "https://www.hpb.com/products?utf8=✓&keywords={{{s}}}",
+    "u": "https://www.hpb.com/products?utf8=%E2%9C%93&keywords={{{s}}}",
     "c": "Multimedia",
     "sc": "Books"
   },
@@ -44503,7 +44503,7 @@
     "s": "I Do Imaging",
     "d": "idoimaging.com",
     "t": "idi",
-    "u": "https://idoimaging.com/programs/fulltext?utf8=✓&Program[fulltext]={{{s}}}",
+    "u": "https://idoimaging.com/programs/fulltext?utf8=%E2%9C%93&Program[fulltext]={{{s}}}",
     "c": "Tech",
     "sc": "Downloads (apps)"
   },
@@ -47160,7 +47160,7 @@
     "s": "Cambridge ArchiveSearch",
     "d": "archivesearch.lib.cam.ac.uk",
     "t": "janus",
-    "u": "https://archivesearch.lib.cam.ac.uk/search?utf8=✓&op[]=&q[]={{{s}}}",
+    "u": "https://archivesearch.lib.cam.ac.uk/search?utf8=%E2%9C%93&op[]=&q[]={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -47668,7 +47668,7 @@
     "s": "Johns Hopkins University Library",
     "d": "catalyst.library.jhu.edu",
     "t": "jhulib",
-    "u": "https://catalyst.library.jhu.edu/multi_search?utf8=✓&search_field=all_fields&q={{{s}}}",
+    "u": "https://catalyst.library.jhu.edu/multi_search?utf8=%E2%9C%93&search_field=all_fields&q={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -48994,7 +48994,7 @@
     "s": "Kanji Damage",
     "d": "kanjidamage.com",
     "t": "kd",
-    "u": "http://kanjidamage.com/kanji/search?utf8=✓&q={{{s}}}",
+    "u": "http://kanjidamage.com/kanji/search?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Research",
     "sc": "Learning (intl)"
   },
@@ -49154,7 +49154,7 @@
     "s": "KDE GitLab",
     "d": "invent.kde.org",
     "t": "kgitlab",
-    "u": "https://invent.kde.org/search?utf8=✓&snippets=&scope=&search={{{s}}}",
+    "u": "https://invent.kde.org/search?utf8=%E2%9C%93&snippets=&scope=&search={{{s}}}",
     "c": "Tech",
     "sc": "Downloads (code)"
   },
@@ -49170,7 +49170,7 @@
     "s": "Khamsat | خمسات",
     "d": "khamsat.com",
     "t": "khamsat",
-    "u": "https://khamsat.com/search?utf8=✓&q={{{s}}}",
+    "u": "https://khamsat.com/search?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Online Services",
     "sc": "Jobs"
   },
@@ -49242,7 +49242,7 @@
     "s": "Kickstarter",
     "d": "www.kickstarter.com",
     "t": "kickstarter",
-    "u": "https://www.kickstarter.com/projects/search?utf8=✓&term={{{s}}}",
+    "u": "https://www.kickstarter.com/projects/search?utf8=%E2%9C%93&term={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
@@ -49474,7 +49474,7 @@
     "s": "KissKissBankBank",
     "d": "www.kisskissbankbank.com",
     "t": "kissbb",
-    "u": "https://www.kisskissbankbank.com/fr/search?utf8=✓&q={{{s}}}",
+    "u": "https://www.kisskissbankbank.com/fr/search?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Shopping",
     "sc": "Online (marketplace)"
   },
@@ -49778,7 +49778,7 @@
     "s": "Know Your Meme",
     "d": "knowyourmeme.com",
     "t": "knowyourmeme",
-    "u": "https://knowyourmeme.com/search?utf8=✓&q={{{s}}}",
+    "u": "https://knowyourmeme.com/search?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Research",
     "sc": "Reference (fun)"
   },
@@ -50298,7 +50298,7 @@
     "s": "Kickstarter",
     "d": "www.kickstarter.com",
     "t": "ks",
-    "u": "http://www.kickstarter.com/projects/search?utf8=✓&term={{{s}}}+",
+    "u": "http://www.kickstarter.com/projects/search?utf8=%E2%9C%93&term={{{s}}}+",
     "c": "Online Services",
     "sc": "Tools (fundraising)"
   },
@@ -50610,7 +50610,7 @@
     "s": "Know Your Meme",
     "d": "knowyourmeme.com",
     "t": "kym",
-    "u": "https://knowyourmeme.com/search?utf8=✓&q={{{s}}}",
+    "u": "https://knowyourmeme.com/search?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Research",
     "sc": "Reference (fun)"
   },
@@ -54160,7 +54160,7 @@
     "s": "LumenDatabase",
     "d": "lumendatabase.org",
     "t": "lumen",
-    "u": "https://lumendatabase.org/notices/search?utf8=✓&term={{{s}}}",
+    "u": "https://lumendatabase.org/notices/search?utf8=%E2%9C%93&term={{{s}}}",
     "c": "Research",
     "sc": "Law"
   },
@@ -56933,7 +56933,7 @@
     "s": "http://megalyrics.ru/",
     "d": "megalyrics.ru",
     "t": "megalyr",
-    "u": "http://megalyrics.ru/search?utf8=✓&search={{{s}}}",
+    "u": "http://megalyrics.ru/search?utf8=%E2%9C%93&search={{{s}}}",
     "c": "Multimedia",
     "sc": "Music (Lyrics)"
   },
@@ -57053,7 +57053,7 @@
     "s": "Know Your Meme",
     "d": "knowyourmeme.com",
     "t": "meme",
-    "u": "https://knowyourmeme.com/search?utf8=✓&q={{{s}}}",
+    "u": "https://knowyourmeme.com/search?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Research",
     "sc": "Reference (fun)"
   },
@@ -59129,7 +59129,7 @@
     "s": "moviepilot",
     "d": "www.moviepilot.de",
     "t": "mopi",
-    "u": "https://www.moviepilot.de/suche?utf8=✓&q={{{s}}}",
+    "u": "https://www.moviepilot.de/suche?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Entertainment",
     "sc": "Movies"
   },
@@ -59290,7 +59290,7 @@
     "s": "Moviepilot Mobile",
     "d": "m.moviepilot.de",
     "t": "moviepilotm",
-    "u": "https://m.moviepilot.de/suche?utf8=✓&q={{{s}}}",
+    "u": "https://m.moviepilot.de/suche?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Entertainment",
     "sc": "Movies"
   },
@@ -59298,7 +59298,7 @@
     "s": "Moviepilot",
     "d": "www.moviepilot.de",
     "t": "moviepilot",
-    "u": "https://www.moviepilot.de/suche?utf8=✓&q={{{s}}}",
+    "u": "https://www.moviepilot.de/suche?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Entertainment",
     "sc": "Movies"
   },
@@ -59450,7 +59450,7 @@
     "s": "Max Planck Gesellschaft",
     "d": "www.mpg.de",
     "t": "mpgde",
-    "u": "https://www.mpg.de/en/search?utf8=✓&searchfield={{{s}}}",
+    "u": "https://www.mpg.de/en/search?utf8=%E2%9C%93&searchfield={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -59458,7 +59458,7 @@
     "s": "Max Planck Gesellschaft",
     "d": "www.mpg.de",
     "t": "mpg",
-    "u": "https://www.mpg.de/en/search?utf8=✓&searchfield={{{s}}}",
+    "u": "https://www.mpg.de/en/search?utf8=%E2%9C%93&searchfield={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -59611,7 +59611,7 @@
     "s": "the Movie Review Query Engine",
     "d": "www.mrqe.com",
     "t": "mrqe",
-    "u": "https://www.mrqe.com/search?utf8=✓&q={{{s}}}",
+    "u": "https://www.mrqe.com/search?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Entertainment",
     "sc": "Movies"
   },
@@ -60955,7 +60955,7 @@
     "s": "mySongBook",
     "d": "www.mysongbook.com",
     "t": "mysongbook",
-    "u": "https://www.mysongbook.com/search?utf8=✓&search[type_item]=4&search[name]={{{s}}}",
+    "u": "https://www.mysongbook.com/search?utf8=%E2%9C%93&search[type_item]=4&search[name]={{{s}}}",
     "c": "Multimedia",
     "sc": "Music (Lyrics)"
   },
@@ -61172,7 +61172,7 @@
     "s": "Não Intendo",
     "d": "www.naointendo.com.br",
     "t": "naointendo",
-    "u": "https://www.naointendo.com.br/blog/busca?utf8=✓&q={{{s}}}",
+    "u": "https://www.naointendo.com.br/blog/busca?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Entertainment",
     "sc": "Blogs"
   },
@@ -61204,7 +61204,7 @@
     "s": "NASA",
     "d": "nasasearch.nasa.gov",
     "t": "nasa",
-    "u": "https://nasasearch.nasa.gov/search?query={{{s}}}&affiliate=nasa&utf8=✓",
+    "u": "https://nasasearch.nasa.gov/search?query={{{s}}}&affiliate=nasa&utf8=%E2%9C%93",
     "c": "Research",
     "sc": "Government"
   },
@@ -62613,7 +62613,7 @@
     "s": "NIH",
     "d": "search.nih.gov",
     "t": "nih",
-    "u": "https://search.nih.gov/search?utf8=✓&affiliate=nih&query={{{s}}}&commit=Search&btnG.x=0&btnG.y=0&btnG=search",
+    "u": "https://search.nih.gov/search?utf8=%E2%9C%93&affiliate=nih&query={{{s}}}&commit=Search&btnG.x=0&btnG.y=0&btnG=search",
     "c": "Research",
     "sc": "Health"
   },
@@ -64433,7 +64433,7 @@
     "s": "Oxford Dictionaries",
     "d": "en.oxforddictionaries.com",
     "t": "odic",
-    "u": "https://en.oxforddictionaries.com/search?utf8=✓&filter=dictionary&query={{{s}}}",
+    "u": "https://en.oxforddictionaries.com/search?utf8=%E2%9C%93&filter=dictionary&query={{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
   },
@@ -64473,7 +64473,7 @@
     "s": "Odpiralni časi",
     "d": "odpiralnicasi.com",
     "t": "odpiralni",
-    "u": "https://odpiralnicasi.com/spots?utf8=✓&q={{{s}}}",
+    "u": "https://odpiralnicasi.com/spots?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Online Services",
     "sc": "Search (non-US)"
   },
@@ -64771,7 +64771,7 @@
     "s": "https://ojibwe.lib.umn.edu",
     "d": "ojibwe.lib.umn.edu",
     "t": "ojen",
-    "u": "https://ojibwe.lib.umn.edu/search?utf8=✓&q={{{s}}}&commit=Search&type=ojibwe",
+    "u": "https://ojibwe.lib.umn.edu/search?utf8=%E2%9C%93&q={{{s}}}&commit=Search&type=ojibwe",
     "c": "Research",
     "sc": "Learning"
   },
@@ -65558,7 +65558,7 @@
     "s": "OpenHours Denmark",
     "d": "openhours.dk",
     "t": "openhours",
-    "u": "https://openhours.dk/spots?utf8=✓&q={{{s}}}",
+    "u": "https://openhours.dk/spots?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Shopping",
     "sc": "Services"
   },
@@ -65844,7 +65844,7 @@
     "s": "OpenPlaques",
     "d": "openplaques.org",
     "t": "op",
-    "u": "https://openplaques.org/search?utf8=✓&phrase={{{s}}}",
+    "u": "https://openplaques.org/search?utf8=%E2%9C%93&phrase={{{s}}}",
     "c": "Research",
     "sc": "Local"
   },
@@ -66061,7 +66061,7 @@
     "s": "Orell Füssli",
     "d": "www.orellfuessli.ch",
     "t": "orell",
-    "u": "https://www.orellfuessli.ch/suche?utf8=✓&filterPATHROOT=&sq={{{s}}}",
+    "u": "https://www.orellfuessli.ch/suche?utf8=%E2%9C%93&filterPATHROOT=&sq={{{s}}}",
     "c": "Shopping",
     "sc": "Online (marketplace)"
   },
@@ -66366,7 +66366,7 @@
     "s": "openSUSE",
     "d": "software.opensuse.org",
     "t": "os",
-    "u": "https://software.opensuse.org/search?utf8=✓&q={{{s}}}&search_devel=false&search_unsupported=false&baseproject=openSUSE:13.1",
+    "u": "https://software.opensuse.org/search?utf8=%E2%9C%93&q={{{s}}}&search_devel=false&search_unsupported=false&baseproject=openSUSE:13.1",
     "c": "Tech",
     "sc": "Sysadmin (RedHat)"
   },
@@ -66942,7 +66942,7 @@
     "s": "Oxford Dictionary",
     "d": "www.lexico.com",
     "t": "ox",
-    "u": "https://www.lexico.com/search?utf8=✓&filter=noad&dictionary=en&query={{{s}}}",
+    "u": "https://www.lexico.com/search?utf8=%E2%9C%93&filter=noad&dictionary=en&query={{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
   },
@@ -67239,7 +67239,7 @@
     "s": "Paleo Hacks",
     "d": "www.paleohacks.com",
     "t": "paleo",
-    "u": "https://www.paleohacks.com/searches?utf8=✓&query={{{s}}}&commit=Search",
+    "u": "https://www.paleohacks.com/searches?utf8=%E2%9C%93&query={{{s}}}&commit=Search",
     "c": "Research",
     "sc": "Food"
   },
@@ -67847,7 +67847,7 @@
     "s": "Princeton University Library Catalog",
     "d": "catalog.princeton.edu",
     "t": "pcat",
-    "u": "https://catalog.princeton.edu/catalog?utf8=✓&search_field=all_fields&q={{{s}}}",
+    "u": "https://catalog.princeton.edu/catalog?utf8=%E2%9C%93&search_field=all_fields&q={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -68891,7 +68891,7 @@
     "s": "PhotoDune",
     "d": "photodune.net",
     "t": "photodune",
-    "u": "https://photodune.net/search?utf8=✓&term={{{s}}}",
+    "u": "https://photodune.net/search?utf8=%E2%9C%93&term={{{s}}}",
     "c": "Shopping",
     "sc": "Tech"
   },
@@ -70990,7 +70990,7 @@
     "s": "Plymouth (Indiana) Public Library",
     "d": "plymouthpubliclibrary.bibliocommons.com",
     "t": "ppl",
-    "u": "https://plymouthpubliclibrary.bibliocommons.com/search?utf8=✓&t=smart&search_category=keyword&q={{{s}}}",
+    "u": "https://plymouthpubliclibrary.bibliocommons.com/search?utf8=%E2%9C%93&t=smart&search_category=keyword&q={{{s}}}",
     "c": "Multimedia",
     "sc": "Books"
   },
@@ -73193,7 +73193,7 @@
     "s": "http://www.rapid7.com",
     "d": "www.rapid7.com",
     "t": "r7",
-    "u": "https://www.rapid7.com/db/search?utf8=✓&q={{{s}}}&t=a",
+    "u": "https://www.rapid7.com/db/search?utf8=%E2%9C%93&q={{{s}}}&t=a",
     "c": "Tech",
     "sc": "Sysadmin"
   },
@@ -73281,7 +73281,7 @@
     "s": "https://radiopaedia.org/",
     "d": "radiopaedia.org",
     "t": "radio",
-    "u": "https://radiopaedia.org/search?utf8=✓&q={{{s}}}&scope=all",
+    "u": "https://radiopaedia.org/search?utf8=%E2%9C%93&q={{{s}}}&scope=all",
     "c": "Research",
     "sc": "Health"
   },
@@ -73321,7 +73321,7 @@
     "s": "Radiopaedia",
     "d": "radiopaedia.org",
     "t": "rad",
-    "u": "https://radiopaedia.org/search?utf8=✓&q={{{s}}}&scope=all",
+    "u": "https://radiopaedia.org/search?utf8=%E2%9C%93&q={{{s}}}&scope=all",
     "c": "Multimedia",
     "sc": "General"
   },
@@ -75723,7 +75723,7 @@
     "s": "Radio New Zealand",
     "d": "www.radionz.co.nz",
     "t": "rnz",
-    "u": "https://www.radionz.co.nz/search/results?utf8=✓&q={{{s}}}&commit=Search",
+    "u": "https://www.radionz.co.nz/search/results?utf8=%E2%9C%93&q={{{s}}}&commit=Search",
     "c": "News",
     "sc": "Newspaper"
   },
@@ -75827,7 +75827,7 @@
     "s": "RocketHub",
     "d": "rockethub.com",
     "t": "rockethub",
-    "u": "https://rockethub.com/projects?utf8=✓&q={{{s}}}",
+    "u": "https://rockethub.com/projects?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Online Services",
     "sc": "Tools (fundraising)"
   },
@@ -75915,7 +75915,7 @@
     "s": "Roger Ebert",
     "d": "www.rogerebert.com",
     "t": "rogerebert",
-    "u": "https://www.rogerebert.com/search?utf8=✓&q={{{s}}}",
+    "u": "https://www.rogerebert.com/search?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Entertainment",
     "sc": "Movies"
   },
@@ -76859,7 +76859,7 @@
     "s": "Ruby Toolbox",
     "d": "www.ruby-toolbox.com",
     "t": "rubytoolbox",
-    "u": "https://www.ruby-toolbox.com/search?utf8=✓&q={{{s}}}",
+    "u": "https://www.ruby-toolbox.com/search?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Tech",
     "sc": "Languages (ruby)"
   },
@@ -77003,7 +77003,7 @@
     "s": "Rust RFC GitHub.com",
     "d": "github.com",
     "t": "rustrfc",
-    "u": "https://github.com/rust-lang/rfcs/issues?utf8=✓&q={{{s}}}",
+    "u": "https://github.com/rust-lang/rfcs/issues?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Tech",
     "sc": "Programming"
   },
@@ -78714,7 +78714,7 @@
     "s": "syntaxdb.com",
     "d": "syntaxdb.com",
     "t": "sdb",
-    "u": "https://syntaxdb.com/reference/search?utf8=✓&search={{{s}}}",
+    "u": "https://syntaxdb.com/reference/search?utf8=%E2%9C%93&search={{{s}}}",
     "c": "Tech",
     "sc": "Programming"
   },
@@ -79853,7 +79853,7 @@
     "s": "Shopify",
     "d": "help.shopify.com",
     "t": "shopify",
-    "u": "https://help.shopify.com/en/search?utf8=✓&q={{{s}}}",
+    "u": "https://help.shopify.com/en/search?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Tech",
     "sc": "Companies"
   },
@@ -82645,7 +82645,7 @@
     "s": "The Seattle Public Library",
     "d": "seattle.bibliocommons.com",
     "t": "spl",
-    "u": "https://seattle.bibliocommons.com/search?utf8=✓&t=smart&search_category=keyword&commit=Search&q={{{s}}}",
+    "u": "https://seattle.bibliocommons.com/search?utf8=%E2%9C%93&t=smart&search_category=keyword&commit=Search&q={{{s}}}",
     "c": "Multimedia",
     "sc": "General"
   },
@@ -83406,7 +83406,7 @@
     "s": "Stack Social",
     "d": "stacksocial.com",
     "t": "stacksocial",
-    "u": "https://stacksocial.com/search?utf8=✓&query={{{s}}}",
+    "u": "https://stacksocial.com/search?utf8=%E2%9C%93&query={{{s}}}",
     "c": "Shopping",
     "sc": "Tech"
   },
@@ -84118,7 +84118,7 @@
     "s": "Strava",
     "d": "www.strava.com",
     "t": "strava",
-    "u": "https://www.strava.com/athletes/search?utf8=✓&text={{{s}}}&gsf=1",
+    "u": "https://www.strava.com/athletes/search?utf8=%E2%9C%93&text={{{s}}}&gsf=1",
     "c": "Online Services",
     "sc": "Social"
   },
@@ -84134,7 +84134,7 @@
     "s": "StreetEasy",
     "d": "streeteasy.com",
     "t": "street",
-    "u": "https://streeteasy.com/search?utf8=✓&search={{{s}}}",
+    "u": "https://streeteasy.com/search?utf8=%E2%9C%93&search={{{s}}}",
     "c": "Shopping",
     "sc": "Services"
   },
@@ -84598,7 +84598,7 @@
     "s": "Chef Supermarket",
     "d": "supermarket.chef.io",
     "t": "super",
-    "u": "https://supermarket.chef.io/cookbooks?utf8=✓&q={{{s}}}",
+    "u": "https://supermarket.chef.io/cookbooks?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Tech",
     "sc": "Downloads (software)"
   },
@@ -84719,7 +84719,7 @@
     "s": "openSUSE",
     "d": "software.opensuse.org",
     "t": "sus",
-    "u": "https://software.opensuse.org/search?utf8=✓&q={{{s}}}&search_devel=false&search_unsupported=false&baseproject=openSUSE:13.1",
+    "u": "https://software.opensuse.org/search?utf8=%E2%9C%93&q={{{s}}}&search_devel=false&search_unsupported=false&baseproject=openSUSE:13.1",
     "c": "Tech",
     "sc": "Sysadmin"
   },
@@ -85055,7 +85055,7 @@
     "s": "Stanford SearchWorks",
     "d": "searchworks.stanford.edu",
     "t": "sworks",
-    "u": "https://searchworks.stanford.edu/?utf8=✓&search_field=search&q={{{s}}}",
+    "u": "https://searchworks.stanford.edu/?utf8=%E2%9C%93&search_field=search&q={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -86231,7 +86231,7 @@
     "s": "The Conversation",
     "d": "theconversation.com",
     "t": "tcv",
-    "u": "https://theconversation.com/global/search?utf8=✓&q={{{s}}}",
+    "u": "https://theconversation.com/global/search?utf8=%E2%9C%93&q={{{s}}}",
     "c": "News",
     "sc": "Aggregators"
   },
@@ -86513,7 +86513,7 @@
     "s": "TedEd",
     "d": "ed.ted.com",
     "t": "teded",
-    "u": "https://ed.ted.com/search?utf8=✓&qs={{{s}}}",
+    "u": "https://ed.ted.com/search?utf8=%E2%9C%93&qs={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -87437,7 +87437,7 @@
     "s": "ThemeForest",
     "d": "themeforest.net",
     "t": "themeforest",
-    "u": "https://themeforest.net/search?utf8=✓&term={{{s}}}",
+    "u": "https://themeforest.net/search?utf8=%E2%9C%93&term={{{s}}}",
     "c": "Shopping",
     "sc": "Tech"
   },
@@ -88941,7 +88941,7 @@
     "s": "Tophatter",
     "d": "tophatter.com",
     "t": "tophatter",
-    "u": "https://tophatter.com/catalogs/search?utf8=✓&category=&query={{{s}}}",
+    "u": "https://tophatter.com/catalogs/search?utf8=%E2%9C%93&category=&query={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
@@ -89325,7 +89325,7 @@
     "s": "Trakt",
     "d": "trakt.tv",
     "t": "trakt",
-    "u": "https://trakt.tv/search?utf8=✓&query={{{s}}}",
+    "u": "https://trakt.tv/search?utf8=%E2%9C%93&query={{{s}}}",
     "c": "Entertainment",
     "sc": "TV"
   },
@@ -90207,7 +90207,7 @@
     "s": "Envato Tuts+",
     "d": "tutsplus.com",
     "t": "tutsplus",
-    "u": "https://tutsplus.com/tutorials/search?utf8=✓&search[topic]=&search[terms]={{{s}}}&button=",
+    "u": "https://tutsplus.com/tutorials/search?utf8=%E2%9C%93&search[topic]=&search[terms]={{{s}}}&button=",
     "c": "Tech",
     "sc": "Design"
   },
@@ -90215,7 +90215,7 @@
     "s": "Tuts+",
     "d": "hub.tutsplus.com",
     "t": "tuts",
-    "u": "https://hub.tutsplus.com/search?utf8=✓&view=grid&search[keywords]={{{s}}}",
+    "u": "https://hub.tutsplus.com/search?utf8=%E2%9C%93&view=grid&search[keywords]={{{s}}}",
     "c": "Tech",
     "sc": "Design"
   },
@@ -91603,7 +91603,7 @@
     "s": "YouMagine",
     "d": "www.youmagine.com",
     "t": "umagine",
-    "u": "https://www.youmagine.com/search/designs?utf8=✓&search={{{s}}}",
+    "u": "https://www.youmagine.com/search/designs?utf8=%E2%9C%93&search={{{s}}}",
     "c": "Tech",
     "sc": "Design"
   },
@@ -92090,7 +92090,7 @@
     "s": "unsplash.com",
     "d": "unsplash.com",
     "t": "unsplash",
-    "u": "https://unsplash.com/search?utf8=✓&keyword={{{s}}}",
+    "u": "https://unsplash.com/search?utf8=%E2%9C%93&keyword={{{s}}}",
     "c": "Multimedia",
     "sc": "Images"
   },
@@ -92106,7 +92106,7 @@
     "s": "Unsplash",
     "d": "unsplash.com",
     "t": "unspl",
-    "u": "https://unsplash.com/search?utf8=✓&keyword={{{s}}}",
+    "u": "https://unsplash.com/search?utf8=%E2%9C%93&keyword={{{s}}}",
     "c": "Multimedia",
     "sc": "Images"
   },
@@ -92458,7 +92458,7 @@
     "s": "USA.gov",
     "d": "search.usa.gov",
     "t": "usa",
-    "u": "https://search.usa.gov/search?utf8=✓&affiliate=usagov&query={{{s}}}",
+    "u": "https://search.usa.gov/search?utf8=%E2%9C%93&affiliate=usagov&query={{{s}}}",
     "c": "Research",
     "sc": "Government"
   },
@@ -93430,7 +93430,7 @@
     "s": "Vegewel",
     "d": "vegewel.com",
     "t": "vegewel",
-    "u": "https://vegewel.com/en/search?utf8=✓&q[g][1][restaurant_search]={{{s}}}&q[g][0][m]=or&commit=Search",
+    "u": "https://vegewel.com/en/search?utf8=%E2%9C%93&q[g][1][restaurant_search]={{{s}}}&q[g][0][m]=or&commit=Search",
     "c": "Online Services",
     "sc": "Search"
   },
@@ -93654,7 +93654,7 @@
     "s": "VideoETA",
     "d": "videoeta.com",
     "t": "ve",
-    "u": "https://videoeta.com/search?utf8=✓&keywords={{{s}}}",
+    "u": "https://videoeta.com/search?utf8=%E2%9C%93&keywords={{{s}}}",
     "c": "Entertainment",
     "sc": "Movies"
   },
@@ -93918,7 +93918,7 @@
     "s": "VideoHive",
     "d": "videohive.net",
     "t": "videohive",
-    "u": "https://videohive.net/search?utf8=✓&term={{{s}}}",
+    "u": "https://videohive.net/search?utf8=%E2%9C%93&term={{{s}}}",
     "c": "Shopping",
     "sc": "Tech"
   },
@@ -95485,7 +95485,7 @@
     "s": "World Cube Association Championships",
     "d": "www.worldcubeassociation.org",
     "t": "wcach",
-    "u": "https://www.worldcubeassociation.org/competitions?utf8=✓&region={{{s}}}&search=&state=present&year=all+years&display=list",
+    "u": "https://www.worldcubeassociation.org/competitions?utf8=%E2%9C%93&region={{{s}}}&search=&state=present&year=all+years&display=list",
     "c": "Entertainment",
     "sc": "Sports"
   },
@@ -96105,7 +96105,7 @@
     "s": "Wesleyan Library OneSearch",
     "d": "wesleyan.summon.serialssolutions.com",
     "t": "wes1",
-    "u": "https://wesleyan.summon.serialssolutions.com/search?utf8=✓&s.q={{{s}}}",
+    "u": "https://wesleyan.summon.serialssolutions.com/search?utf8=%E2%9C%93&s.q={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -96113,7 +96113,7 @@
     "s": "Wesleyan Library OneSearch",
     "d": "wesleyan.summon.serialssolutions.com",
     "t": "weslib",
-    "u": "https://wesleyan.summon.serialssolutions.com/search?utf8=✓&s.q={{{s}}}",
+    "u": "https://wesleyan.summon.serialssolutions.com/search?utf8=%E2%9C%93&s.q={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -100379,7 +100379,7 @@
     "s": "Y8",
     "d": "www.y8.com",
     "t": "y8",
-    "u": "https://www.y8.com/search?utf8=✓&kind=game&q={{{s}}}",
+    "u": "https://www.y8.com/search?utf8=%E2%9C%93&kind=game&q={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (general)"
   },
@@ -101087,7 +101087,7 @@
     "s": "YouMagine",
     "d": "www.youmagine.com",
     "t": "youmagine",
-    "u": "https://www.youmagine.com/search/designs?utf8=✓&search={{{s}}}",
+    "u": "https://www.youmagine.com/search/designs?utf8=%E2%9C%93&search={{{s}}}",
     "c": "Tech",
     "sc": "Design"
   },
@@ -102000,7 +102000,7 @@
     "s": "Zurb Foundation Forum",
     "d": "foundation.zurb.com",
     "t": "zff",
-    "u": "https://foundation.zurb.com/forum/posts?utf8=✓&search={{{s}}}&button=",
+    "u": "https://foundation.zurb.com/forum/posts?utf8=%E2%9C%93&search={{{s}}}&button=",
     "c": "Tech",
     "sc": "Libraries/Frameworks"
   },
