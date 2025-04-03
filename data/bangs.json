@@ -77989,14 +77989,6 @@
     "sc": "Search"
   },
   {
-    "s": "bibleforums",
-    "d": "bibleforums.org",
-    "t": "sbg",
-    "u": "https://bibleforums.org/search.php?s={{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
     "s": "Google Search by Image",
     "d": "www.google.com",
     "t": "sbi",
