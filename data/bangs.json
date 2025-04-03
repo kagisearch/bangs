@@ -11478,14 +11478,6 @@
     "sc": "Online"
   },
   {
-    "s": "Brightstorm",
-    "d": "www.brightstorm.com",
-    "t": "brightstorm",
-    "u": "http://www.brightstorm.com/search/?k={{{s}}}",
-    "c": "Research",
-    "sc": "Academic (math/cs)"
-  },
-  {
     "s": "Bricks in Motion",
     "d": "www.bricksinmotion.com",
     "t": "brim",
