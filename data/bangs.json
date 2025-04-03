@@ -48364,14 +48364,6 @@
     "sc": "Forum"
   },
   {
-    "s": "Junespringmedia",
-    "d": "junespringmultimedia.com",
-    "t": "jsm",
-    "u": "https://junespringmultimedia.com/?s={{{s}}}&post_type=page",
-    "c": "Tech",
-    "sc": "Design"
-  },
-  {
     "s": "Mozilla Developer Network",
     "d": "developer.mozilla.org",
     "t": "js",
