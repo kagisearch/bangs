@@ -45651,14 +45651,6 @@
     "sc": "Newspaper"
   },
   {
-    "s": "indyaconnects",
-    "d": "www.indyaconnects.com",
-    "t": "indyaconnects",
-    "u": "https://www.indyaconnects.com/catalogsearch/result/?q={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online (marketplace)"
-  },
-  {
     "s": "Inet",
     "d": "www.inet.se",
     "t": "inet",
