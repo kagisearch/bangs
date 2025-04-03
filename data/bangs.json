@@ -56928,14 +56928,6 @@
     "sc": "Newspaper"
   },
   {
-    "s": "MDT",
-    "d": "www.mdt.co.uk",
-    "t": "mdt",
-    "u": "https://www.mdt.co.uk/catalogsearch/result/?q={{{s}}}&t=general&order=most_viewed",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
     "s": "Mediatize",
     "d": "www.mediatize.info",
     "t": "mdtz",
