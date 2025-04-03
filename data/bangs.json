@@ -55320,14 +55320,6 @@
     "sc": "Comics"
   },
   {
-    "s": "Mango TV",
-    "d": "mangotv.co",
-    "t": "mangotv",
-    "u": "https://mangotv.co/?s={{{s}}}",
-    "c": "News",
-    "sc": "Newspaper"
-  },
-  {
     "s": "Manjaro Wiki",
     "d": "wiki.manjaro.org",
     "t": "manjaro",
