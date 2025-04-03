@@ -65015,9 +65015,9 @@
   },
   {
     "s": "Search OID registry",
-    "d": "www.oid-info.com",
+    "d": "oid-base.com",
     "t": "oid",
-    "u": "http://www.oid-info.com/cgi-bin/display?oid={{{s}}}&submit=Display&action=display",
+    "u": "https://oid-base.com/cgi-bin/display?oid={{{s}}}&submit=Display&action=display",
     "c": "Tech",
     "sc": "Design"
   },
