@@ -4296,14 +4296,6 @@
     "sc": "Music"
   },
   {
-    "s": "Angle News",
-    "d": "www.anglenews.com",
-    "t": "anglenews",
-    "u": "https://www.anglenews.com/?s={{{s}}}",
-    "c": "News",
-    "sc": "Newspaper (intl)"
-  },
-  {
     "s": "Angry Metal Guy",
     "d": "www.angrymetalguy.com",
     "t": "angry",
