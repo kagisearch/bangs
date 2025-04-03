@@ -55802,14 +55802,6 @@
     "sc": "Online (deals)"
   },
   {
-    "s": "Masterseek",
-    "d": "www.masterseek.com",
-    "t": "masterseek",
-    "u": "https://www.masterseek.com/lead_generation_final.aspx?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
     "s": "materiel.net",
     "d": "www.materiel.net",
     "t": "materiel",
