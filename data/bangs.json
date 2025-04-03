@@ -27105,14 +27105,6 @@
     "sc": "Search"
   },
   {
-    "s": "EntranceAdda - Best Exam Portal",
-    "d": "entranceadda.in",
-    "t": "entrance",
-    "u": "https://entranceadda.in/?s={{{s}}}",
-    "c": "News",
-    "sc": "Online"
-  },
-  {
     "s": "Entrez",
     "d": "www.ncbi.nlm.nih.gov",
     "t": "entrez",
