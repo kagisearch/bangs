@@ -93483,14 +93483,6 @@
     "sc": "Travel"
   },
   {
-    "s": "Vegan Essentials",
-    "d": "store.veganessentials.com",
-    "t": "vegess",
-    "u": "https://store.veganessentials.com/categories.aspx?Keyword={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
     "s": "Vegewel",
     "d": "vegewel.com",
     "t": "vegewel",
