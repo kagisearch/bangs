@@ -75120,14 +75120,6 @@
     "sc": "Tech"
   },
   {
-    "s": "ReviewMeta",
-    "d": "reviewmeta.com",
-    "t": "reviewmeta",
-    "u": "https://reviewmeta.com/search?q={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
     "s": "Reverso Context",
     "d": "context.reverso.net",
     "t": "reviten",
