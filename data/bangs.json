@@ -4861,14 +4861,6 @@
     "sc": "Search (DDG)"
   },
   {
-    "s": "Apility.io",
-    "d": "apility.io",
-    "t": "apility",
-    "u": "https://apility.io/search/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools"
-  },
-  {
     "s": "Academic Progress India",
     "d": "academicprogress.in",
     "t": "apin",
