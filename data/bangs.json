@@ -70565,14 +70565,6 @@
     "sc": "Tools"
   },
   {
-    "s": "Polyratings",
-    "d": "polyratings.com",
-    "t": "polyratings",
-    "u": "https://polyratings.com/search.php?type=ProfName&terms={{{s}}}&format=long&sort=name",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
     "s": "pomagalo.com",
     "d": "search.pomagalo.com",
     "t": "pomagalo",
