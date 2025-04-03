@@ -1593,14 +1593,6 @@
     "sc": "Tools (URLs)"
   },
   {
-    "s": "AcquiredBy",
-    "d": "acquiredby.co",
-    "t": "acquiredby",
-    "u": "https://acquiredby.co/?s={{{s}}}",
-    "c": "Tech",
-    "sc": "Companies"
-  },
-  {
     "s": "Acronym Finder",
     "d": "www.acronymfinder.com",
     "t": "acr",
