@@ -88394,14 +88394,6 @@
     "sc": "Movies"
   },
   {
-    "s": "trovu",
-    "d": "trovu.komun.org",
-    "t": "tko",
-    "u": "https://trovu.komun.org/?q={{{s}}}&categories=general&language=en-US",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
     "s": "Tokopedia",
     "d": "www.tokopedia.com",
     "t": "tkpd",
