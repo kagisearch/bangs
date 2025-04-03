@@ -44164,14 +44164,6 @@
     "sc": "Tools"
   },
   {
-    "s": "Inde à Paris",
-    "d": "indeaparis.com",
-    "t": "iap",
-    "u": "https://indeaparis.com/component/finder/search?q={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Events"
-  },
-  {
     "s": "iAppMag",
     "d": "www.iappmag.de",
     "t": "iappmag",
