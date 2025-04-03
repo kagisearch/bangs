@@ -92301,14 +92301,6 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "Unix How",
-    "d": "unixhow.com",
-    "t": "unixhow",
-    "u": "https://unixhow.com/search?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin"
-  },
-  {
     "s": "The Unix Tree",
     "d": "minnie.tuhs.org",
     "t": "unix",
