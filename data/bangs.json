@@ -46483,14 +46483,6 @@
     "sc": "Tools"
   },
   {
-    "s": "iprice",
-    "d": "iprice.my",
-    "t": "iprice",
-    "u": "https://iprice.my/search/?term={{{s}}}",
-    "c": "Shopping",
-    "sc": "Big box/department"
-  },
-  {
     "s": "iProfesional.com",
     "d": "www.iprofesional.com",
     "t": "ipro",
