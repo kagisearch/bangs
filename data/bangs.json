@@ -35551,9 +35551,9 @@
   },
   {
     "s": "libgit2 documentation",
-    "d": "libgit2.github.com",
+    "d": "libgit2.github.io",
     "t": "git2",
-    "u": "https://libgit2.github.com/libgit2/#HEAD/search/{{{s}}}",
+    "u": "https://libgit2.github.io/libgit2/#HEAD/search/{{{s}}}",
     "c": "Tech",
     "sc": "Libraries/Frameworks"
   },
