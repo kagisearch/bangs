@@ -4478,14 +4478,6 @@
     "u": "https://www.apertium.org/index.eng.html?dir=nld-afr&q={{{s}}}"
   },
   {
-    "s": "ANMAT",
-    "d": "www.anmat.gov.ar",
-    "t": "anmat",
-    "u": "http://www.anmat.gov.ar/resultados.asp?q={{{s}}}",
-    "c": "Research",
-    "sc": "Health"
-  },
-  {
     "s": "Anime News Network",
     "d": "www.animenewsnetwork.com",
     "t": "ann",
