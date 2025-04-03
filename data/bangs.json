@@ -51791,9 +51791,9 @@
   },
   {
     "s": "LEGO.com",
-    "d": "search2.lego.com",
+    "d": "www.lego.com",
     "t": "lego",
-    "u": "https://search2.lego.com/en-GB/{{{s}}}",
+    "u": "https://www.lego.com/en-us/search?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
