@@ -73567,14 +73567,6 @@
     "sc": "Misc"
   },
   {
-    "s": "Raru",
-    "d": "raru.co.za",
-    "t": "raru",
-    "u": "https://raru.co.za/search/{{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
     "s": "Raspberry Pi",
     "d": "www.raspberrypi.org",
     "t": "raspberrypi",
