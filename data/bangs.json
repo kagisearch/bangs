@@ -61991,14 +61991,6 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "Nerdscoop",
-    "d": "www.nerdscoop.com",
-    "t": "nerdscoop",
-    "u": "https://www.nerdscoop.com/?s={{{s}}}",
-    "c": "News",
-    "sc": "Magazine"
-  },
-  {
     "s": "Nerd Store",
     "d": "www.nerdstore.com.br",
     "t": "nerdstore",
