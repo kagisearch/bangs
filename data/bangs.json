@@ -49397,14 +49397,6 @@
     "sc": "Movies"
   },
   {
-    "s": "KEYGENMUSiC",
-    "d": "keygenmusic.net",
-    "t": "kgm",
-    "u": "http://keygenmusic.net/?page=search&query={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Audio"
-  },
-  {
     "s": "Khamsat | خمسات",
     "d": "khamsat.com",
     "t": "khamsat",
