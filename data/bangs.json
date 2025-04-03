@@ -24368,14 +24368,6 @@
     "sc": "TV"
   },
   {
-    "s": "DealExtreme",
-    "d": "www.dx.com",
-    "t": "dx",
-    "u": "http://www.dx.com/s/{{{s}}}",
-    "c": "Shopping",
-    "sc": "Online (intl)"
-  },
-  {
     "s": "Dictionary.com",
     "d": "www.dictionary.com",
     "t": "dxn",
