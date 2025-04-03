@@ -28998,14 +28998,6 @@
     "sc": "Movies"
   },
   {
-    "s": "Fahrschule Berne",
-    "d": "www.fahrschule-berne.de",
-    "t": "fahrschule",
-    "u": "http://www.fahrschule-berne.de/component/search/?searchword={{{s}}}",
-    "c": "Shopping",
-    "sc": "Services"
-  },
-  {
     "s": "Font Awesome",
     "d": "fontawesome.com",
     "t": "faicon",
