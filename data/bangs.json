@@ -15187,14 +15187,6 @@
     "sc": "Food"
   },
   {
-    "s": "CraftKeys",
-    "d": "craftkeys.com",
-    "t": "ckeys",
-    "u": "https://craftkeys.com/site-info/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words)"
-  },
-  {
     "s": "Crusader Kings II Wiki",
     "d": "ck2.paradoxwikis.com",
     "t": "ckiiwiki",
