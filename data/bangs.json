@@ -32615,14 +32615,6 @@
     "sc": "Learning"
   },
   {
-    "s": "FuGet Gallery",
-    "d": "www.fuget.org",
-    "t": "fuget",
-    "u": "https://www.fuget.org/packages?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Languages (csharp)"
-  },
-  {
     "s": "Fuji TV",
     "d": "www.fujitv.co.jp",
     "t": "fuji",
