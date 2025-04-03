@@ -69367,14 +69367,6 @@
     "sc": "Blogs"
   },
   {
-    "s": "Pikapkg",
-    "d": "www.pikapkg.com",
-    "t": "pika",
-    "u": "https://www.pikapkg.com/packages/?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Languages (javascript)"
-  },
-  {
     "s": "Pikipedia",
     "d": "www.pikminwiki.com",
     "t": "pikipedia",
