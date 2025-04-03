@@ -65120,14 +65120,6 @@
     "sc": "Movies"
   },
   {
-    "s": "OmegaWiki",
-    "d": "www.omegawiki.org",
-    "t": "omegawiki",
-    "u": "http://www.omegawiki.org/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words intl)"
-  },
-  {
     "s": "Omeka Forums",
     "d": "forum.omeka.org",
     "t": "omeka",
