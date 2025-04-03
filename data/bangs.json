@@ -84611,14 +84611,6 @@
     "sc": "Search (non-US)"
   },
   {
-    "s": "Sulit",
-    "d": "www.sulit.com.ph",
-    "t": "sulit",
-    "u": "https://www.sulit.com.ph/index.php/classifieds+directory/q/{{{s}}}",
-    "c": "Shopping",
-    "sc": "Online (intl)"
-  },
-  {
     "s": "Shared-Use Mobility Center (SUMC) Mobility on Demand Learning Center",
     "d": "learn.sharedusemobilitycenter.org",
     "t": "sumc",
