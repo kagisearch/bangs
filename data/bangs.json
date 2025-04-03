@@ -961,14 +961,6 @@
     "sc": "Online (marketplace)"
   },
   {
-    "s": "9pp.co",
-    "d": "9pp.co",
-    "t": "9",
-    "u": "http://9pp.co/search?q={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (general)"
-  },
-  {
     "s": "9gag",
     "d": "9gag.com",
     "t": "9g",
