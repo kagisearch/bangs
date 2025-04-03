@@ -80914,14 +80914,6 @@
     "sc": "Tools"
   },
   {
-    "s": "SearchLibs",
-    "d": "searchlibs.com",
-    "t": "slibs",
-    "u": "http://searchlibs.com/?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Programming"
-  },
-  {
     "s": "SlickDeals",
     "d": "slickdeals.net",
     "t": "slickdeals",
