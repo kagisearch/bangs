@@ -66457,14 +66457,6 @@
     "sc": "Reference (religion)"
   },
   {
-    "s": "orthonet",
-    "d": "orthonet.sdv.fr",
-    "t": "orthonet",
-    "u": "http://orthonet.sdv.fr/php/rech_mot.php?mot={{{s}}}&x=0&y=0",
-    "c": "Research",
-    "sc": "Reference (words)"
-  },
-  {
     "s": "Örebro University",
     "d": "www.oru.se",
     "t": "oru",
