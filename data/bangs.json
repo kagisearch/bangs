@@ -61033,14 +61033,6 @@
     "sc": "Sysadmin"
   },
   {
-    "s": "MyTip",
-    "d": "www.mytip.co",
-    "t": "mytip",
-    "u": "https://www.mytip.co/explore?search={{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools (fundraising)"
-  },
-  {
     "s": "YouTube Music",
     "d": "music.youtube.com",
     "t": "myt",
