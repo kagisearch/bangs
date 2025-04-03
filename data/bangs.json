@@ -13523,14 +13523,6 @@
     "sc": "Online (deals)"
   },
   {
-    "s": "Country calling codes",
-    "d": "www.country-codes.org",
-    "t": "ccode",
-    "u": "https://www.country-codes.org/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "Conseil Constitutionnel",
     "d": "recherche.conseil-constitutionnel.fr",
     "t": "cconst",
