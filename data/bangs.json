@@ -62083,14 +62083,6 @@
   {
     "s": "NetworkPeople",
     "d": "networkpeople.nl",
-    "t": "netwerk",
-    "u": "https://networkpeople.nl/?s={{{s}}}",
-    "c": "Tech",
-    "sc": "Companies"
-  },
-  {
-    "s": "NetworkPeople",
-    "d": "networkpeople.nl",
     "t": "networkpeople",
     "u": "https://networkpeople.nl/?s={{{s}}}",
     "c": "Tech",
