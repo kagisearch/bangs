@@ -28614,14 +28614,6 @@
     "sc": "TV"
   },
   {
-    "s": "Exclusiveclue",
-    "d": "www.exclusiveclue.com",
-    "t": "exc",
-    "u": "http://www.exclusiveclue.com/?term={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Audio"
-  },
-  {
     "s": "examine.com",
     "d": "examine.com",
     "t": "ex",
