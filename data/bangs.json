@@ -89586,14 +89586,6 @@
     "sc": "Tracking"
   },
   {
-    "s": "TrendingImages",
-    "d": "trendingimages.in",
-    "t": "trending",
-    "u": "https://trendingimages.in/search/images/?q={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Images"
-  },
-  {
     "s": "Trend Micro",
     "d": "www.trendmicro.com",
     "t": "trendmicro",
