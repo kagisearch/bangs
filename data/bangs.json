@@ -66667,14 +66667,6 @@
     "sc": "Newspaper"
   },
   {
-    "s": "http://www.ottobib.com",
-    "d": "www.ottobib.com",
-    "t": "ottobibtex",
-    "u": "https://www.ottobib.com/isbn/{{{s}}}/bibtex",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
     "s": "http://www.otto-office.com/",
     "d": "www.otto-office.com",
     "t": "ottooffice",
