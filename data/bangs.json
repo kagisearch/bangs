@@ -71748,14 +71748,6 @@
     "sc": "Companies"
   },
   {
-    "s": "Profitopia Help",
-    "d": "help.profitopia.de",
-    "t": "profitopia",
-    "u": "https://help.profitopia.de/search.html?q={{{s}}}&check_keywords=yes&area=default",
-    "c": "Entertainment",
-    "sc": "Games (general)"
-  },
-  {
     "s": "Prog Archives",
     "d": "www.progarchives.com",
     "t": "progarchives",
