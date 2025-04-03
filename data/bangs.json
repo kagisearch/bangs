@@ -13107,14 +13107,6 @@
     "sc": "Blogs"
   },
   {
-    "s": "Calorie King",
-    "d": "www.calorieking.com.au",
-    "t": "carbs",
-    "u": "https://www.calorieking.com.au/foods/search.php?keywords={{{s}}}&showresults=yes&go=Search",
-    "c": "Research",
-    "sc": "Food"
-  },
-  {
     "s": "CarMagazine.co.uk",
     "d": "www.carmagazine.co.uk",
     "t": "car",
