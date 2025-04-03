@@ -30792,14 +30792,6 @@
     "sc": "Online"
   },
   {
-    "s": "Fitfolly",
-    "d": "fitfolly.com",
-    "t": "fitfolly",
-    "u": "https://fitfolly.com/?s={{{s}}}",
-    "c": "Research",
-    "sc": "Health"
-  },
-  {
     "s": "FIU Libraries EDS",
     "d": "search.ebscohost.com.ezproxy.fiu.edu",
     "t": "fiueds",
