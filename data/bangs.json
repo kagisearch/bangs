@@ -83288,14 +83288,6 @@
     "sc": "Search"
   },
   {
-    "s": "search.privacytools.io",
-    "d": "search.privacytools.io",
-    "t": "sptio",
-    "u": "https://search.privacytools.io/?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search (Private)"
-  },
-  {
     "s": "Spotify",
     "d": "open.spotify.com",
     "t": "spt",
