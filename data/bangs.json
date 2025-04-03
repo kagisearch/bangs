@@ -73869,14 +73869,6 @@
     "sc": "Programming"
   },
   {
-    "s": "RateBeer",
-    "d": "www.ratebeer.com",
-    "t": "ratebeer",
-    "u": "https://www.ratebeer.com/search?q={{{s}}}",
-    "c": "Research",
-    "sc": "Food"
-  },
-  {
     "s": "Rate My Professor",
     "d": "www.ratemyprofessors.com",
     "t": "ratemyprofessor",
