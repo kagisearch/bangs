@@ -77824,9 +77824,9 @@
   },
   {
     "s": "Ask.com",
-    "d": "www.search.ask.com",
+    "d": "www.ask.com",
     "t": "sask",
-    "u": "https://www.search.ask.com/web?q={{{s}}}",
+    "u": "https://www.ask.com/web?q={{{s}}}",
     "c": "Online Services",
     "sc": "Search"
   },
