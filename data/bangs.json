@@ -37127,14 +37127,6 @@
     "sc": "Blogs"
   },
   {
-    "s": "Gospell",
-    "d": "www.gospell.org",
-    "t": "gospell",
-    "u": "http://www.gospell.org/index.php?search={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Music (Lyrics)"
-  },
-  {
     "s": "Number Gossip",
     "d": "www.numbergossip.com",
     "t": "gossip",
