@@ -71877,9 +71877,9 @@
   },
   {
     "s": "ProofWiki",
-    "d": "www.proofwiki.org",
+    "d": "proofwiki.org",
     "t": "proofwiki",
-    "u": "https://www.proofwiki.org/w/index.php?title=Special:Search&search={{{s}}}",
+    "u": "https://proofwiki.org/w/index.php?title=Special:Search&search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
