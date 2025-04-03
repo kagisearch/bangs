@@ -19933,14 +19933,6 @@
     "sc": "Business"
   },
   {
-    "s": "DealExtreme",
-    "d": "dx.com",
-    "t": "dealextreme",
-    "u": "http://dx.com/s/{{{s}}}",
-    "c": "Shopping",
-    "sc": "Online (deals)"
-  },
-  {
     "s": "Deal News",
     "d": "dealnews.com",
     "t": "dealnews",
