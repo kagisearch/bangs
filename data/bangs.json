@@ -68388,14 +68388,6 @@
     "sc": "Jobs"
   },
   {
-    "s": "Peggo",
-    "d": "peggo.co",
-    "t": "peggo",
-    "u": "https://peggo.co/search/{{{s}}}",
-    "c": "Multimedia",
-    "sc": "Video"
-  },
-  {
     "s": "PEGI",
     "d": "pegi.info",
     "t": "pegi",
