@@ -75718,14 +75718,6 @@
     "sc": "Aggregators"
   },
   {
-    "s": "Downloadringtones.mobi",
-    "d": "downloadringtones.mobi",
-    "t": "ringtones",
-    "u": "https://downloadringtones.mobi/?s={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Music"
-  },
-  {
     "s": "Regesta Imperii OPAC",
     "d": "opac.regesta-imperii.de",
     "t": "riopac",
