@@ -37672,14 +37672,6 @@
     "sc": "Tools"
   },
   {
-    "s": "Graph.tk",
-    "d": "graph.tk",
-    "t": "graph",
-    "u": "https://graph.tk/#{{{s}}}",
-    "c": "Research",
-    "sc": "Academic (math/cs)"
-  },
-  {
     "s": "GraphHopper Maps",
     "d": "graphhopper.com",
     "t": "graphhopper",
