@@ -58033,9 +58033,9 @@
   },
   {
     "s": "Ministero della Salute",
-    "d": "cerca.ministerosalute.it",
+    "d": "cercaportale.salute.gov.it",
     "t": "minsal",
-    "u": "https://cerca.ministerosalute.it/search?q={{{s}}}&client=defaultPORT_front-end&proxystylesheet=defaultPORT_front-end&site=default_collection&output=xml_no_dtd&filter=p",
+    "u": "https://cercaportale.salute.gov.it/search?q={{{s}}}&btnG=Cerca&skipob=true&ulang=it&proxystylesheet=defaultPORT_front-end&num=10&sort=date%3AD%3AL%3Ad1&wc=200&ud=1&entqr=3&wc_mc=1&oe=UTF-8&ie=UTF-8&client=default_frontend&entqrm=0&filter=p&site=default_collection",
     "c": "Online Services",
     "sc": "Search (non-US)"
   },
