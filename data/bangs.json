@@ -68834,14 +68834,6 @@
     "sc": "Video"
   },
   {
-    "s": "Pew News",
-    "d": "pewnews.org",
-    "t": "pewnews",
-    "u": "https://pewnews.org/?s={{{s}}}",
-    "c": "News",
-    "sc": "Online"
-  },
-  {
     "s": "Pexels",
     "d": "www.pexels.com",
     "t": "pexels",
