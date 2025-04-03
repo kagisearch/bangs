@@ -45203,14 +45203,6 @@
     "sc": "Search (DDG)"
   },
   {
-    "s": "ImageLayers",
-    "d": "imagelayers.io",
-    "t": "imagelayers",
-    "u": "https://imagelayers.io/?images={{{s}}}",
-    "c": "Tech",
-    "sc": "Programming"
-  },
-  {
     "s": "Imagely",
     "d": "www.imagely.com",
     "t": "imagely",
