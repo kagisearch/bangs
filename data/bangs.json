@@ -53929,14 +53929,6 @@
     "sc": "Blogs"
   },
   {
-    "s": "Lowes Canada",
-    "d": "www.lowes.ca",
-    "t": "lowesca",
-    "u": "https://www.lowes.ca/search/{{{s}}}.html",
-    "c": "Shopping",
-    "sc": "Big box/department"
-  },
-  {
     "s": "Lowes",
     "d": "www.lowes.com",
     "t": "lowes",
