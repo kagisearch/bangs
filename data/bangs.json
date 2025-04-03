@@ -48822,14 +48822,6 @@
     "sc": "Sysadmin"
   },
   {
-    "s": "KaOS packages",
-    "d": "kaosx.tk",
-    "t": "kaospkg",
-    "u": "http://kaosx.tk/packages/?act=search&subdir=&sortby=date&order=descending&searchpattern={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin"
-  },
-  {
     "s": "KDE API Reference",
     "d": "api.kde.org",
     "t": "kapi",
