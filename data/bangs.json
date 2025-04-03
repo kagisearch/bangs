@@ -49285,14 +49285,6 @@
     "sc": "Local"
   },
   {
-    "s": "Keldan",
-    "d": "leit.keldan.is",
-    "t": "keldan",
-    "u": "https://leit.keldan.is/Home/Search?term={{{s}}}",
-    "c": "News",
-    "sc": "Business"
-  },
-  {
     "s": "Kelkoo UK",
     "d": "www.kelkoo.co.uk",
     "t": "kelkoo",
