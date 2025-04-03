@@ -48356,14 +48356,6 @@
     "sc": "Tools"
   },
   {
-    "s": "JS.coach",
-    "d": "js.coach",
-    "t": "jscoach",
-    "u": "https://js.coach/?search={{{s}}}",
-    "c": "Tech",
-    "sc": "Languages (javascript)"
-  },
-  {
     "s": "jsDelivr",
     "d": "www.jsdelivr.com",
     "t": "jsd",
