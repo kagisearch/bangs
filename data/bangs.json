@@ -14459,6 +14459,14 @@
     "sc": "AI Chatbots"
   },
   {
+    "s": "OpenRouter",
+    "d": "openrouter.ai",
+    "t": "opr",
+    "u": "https://openrouter.ai/models?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "AI Chatbots"
+  },
+  {
     "s": "Chatters Salons",
     "d": "chatters.ca",
     "t": "chatters",
