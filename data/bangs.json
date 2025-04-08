@@ -107829,5 +107829,21 @@
     "u": "https://source.chromium.org/search?q={{{s}}}&ss=chromium/chromium/src",
     "c": "Tech",
     "sc": "Programming"
+  },
+  {
+    "s": "Chromium Code Search",
+    "d": "source.chromium.org",
+    "t": "chromium",
+    "u": "https://source.chromium.org/search?q={{{s}}}&ss=chromium/chromium/src",
+    "c": "Tech",
+    "sc": "Programming"
+  },
+  {
+    "s": "v0",
+    "d": "v0.dev",
+    "t": "v0",
+    "u": "https://v0.dev/chat?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "AI Chatbots"
   }
 ]
