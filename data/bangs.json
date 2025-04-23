@@ -29041,7 +29041,7 @@
     "s": "Factorio Mods",
     "d": "mods.factorio.com",
     "t": "factoriomods",
-    "u": "https://mods.factorio.com/query/{{{s}}}",
+    "u": "https://mods.factorio.com/search?query={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
@@ -31260,9 +31260,9 @@
     "s": "Factorio Mods",
     "d": "mods.factorio.com",
     "t": "fmod",
-    "u": "https://mods.factorio.com/query/{{{s}}}",
-    "c": "Tech",
-    "sc": "Downloads (add-ons)"
+    "u": "https://mods.factorio.com/search?query={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (specific)"
   },
   {
     "s": "Claris FileMaker Community",
