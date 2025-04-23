@@ -3406,5 +3406,93 @@
     "d": "kagi.com",
     "t": "ki-deep-research",
     "u": "/assistant?profile=ki_deep_research&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (ChatGPT-4o)",
+    "d": "kagi.com",
+    "t": "chatgpt-4o",
+    "u": "/assistant?profile=chatgpt-4o&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (GPT 4.1)",
+    "d": "kagi.com",
+    "t": "gpt-4-1",
+    "u": "/assistant?profile=gpt-4-1&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (GPT 4.1 mini)",
+    "d": "kagi.com",
+    "t": "gpt-4-1-mini",
+    "u": "/assistant?profile=gpt-4-1-mini&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (GPT 4.1 nano)",
+    "d": "kagi.com",
+    "t": "gpt-4-1-nano",
+    "u": "/assistant?profile=gpt-4-1-nano&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (Grok 3)",
+    "d": "kagi.com",
+    "t": "grok-3",
+    "u": "/assistant?profile=grok-3&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (Grok 3 Mini)",
+    "d": "kagi.com",
+    "t": "grok-3-mini",
+    "u": "/assistant?profile=grok-3-mini&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (o1 pro)",
+    "d": "kagi.com",
+    "t": "o1-pro",
+    "u": "/assistant?profile=o1-pro&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (o3)",
+    "d": "kagi.com",
+    "t": "o3",
+    "u": "/assistant?profile=o3&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (o4 mini)",
+    "d": "kagi.com",
+    "t": "o4-mini",
+    "u": "/assistant?profile=o4-mini&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (o1)",
+    "d": "kagi.com",
+    "t": "o1",
+    "u": "/assistant?profile=o1&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (Mistral Small)",
+    "d": "kagi.com",
+    "t": "mistral-small",
+    "u": "/assistant?profile=mistral-small&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (Llama 4 Scout)",
+    "d": "kagi.com",
+    "t": "llama-4-scout",
+    "u": "/assistant?profile=llama-4-scout&q={{{s}}}"
+  },
+  {
+    "s": "The Assistant (Llama 4 Maverick)",
+    "d": "kagi.com",
+    "t": "llama-4-maverick",
+    "u": "/assistant?profile=llama-4-maverick&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (Ki)",
+    "d": "kagi.com",
+    "t": "ki",
+    "u": "/assistant?q={{{s}}}&profile=ki",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   }
 ]
