@@ -85450,6 +85450,14 @@
     "sc": "Images"
   },
   {
+    "s": "svgl",
+    "d": "svgl.app",
+    "t": "svgl",
+    "u": "https://svgl.app/?search={{{s}}}",
+    "c": "Multimedia",
+    "sc": "Images"
+  },
+  {
     "s": "SiteVision Developer",
     "d": "help.sitevision.se",
     "t": "svhelp",
