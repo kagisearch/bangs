@@ -18409,9 +18409,9 @@
   },
   {
     "s": "Common Vulnerabilities and Exposures (CVE)",
-    "d": "cve.mitre.org",
+    "d": "www.cve.org",
     "t": "cve",
-    "u": "https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword={{{s}}}",
+    "u": "https://www.cve.org/CVERecord/SearchResults?query={{{s}}}",
     "c": "Tech",
     "sc": "Libraries/Frameworks"
   },
