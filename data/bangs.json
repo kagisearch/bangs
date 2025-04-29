@@ -3494,6 +3494,14 @@
     "sc": "Online"
   },
   {
+    "s": "Alza.sk",
+    "d": "www.alza.sk",
+    "t": "alzask",
+    "u": "https://www.alza.sk/search.htm?exps={{{s}}}",
+    "c": "Shopping",
+    "sc": "Online"
+  },
+  {
     "s": "Amazon Deutschland",
     "d": "www.amazon.de",
     "t": "ama",
