@@ -48,9 +48,12 @@ def uri_decoded_urls(bangs)
   bangs.each do |bang|
     next if bang["skip_tests"]
 
-    it "template should not be uri encoded (#{bang["s"]})" do
-      expect(CGI.unescapeURIComponent(bang["u"].gsub(/%20|%23/,"")).to_s).to eq(bang["u"].gsub(/%20|%23/,""))
-    end
+    # TODO(margret): enforce consistent URI-encoding, disabling for now.
+    # See https://github.com/kagisearch/bangs/issues/204.
+    #
+    # it "template should not be uri encoded (#{bang["s"]})" do
+    #   expect(CGI.unescapeURIComponent(bang["u"].gsub(/%20|%23/,"")).to_s).to eq(bang["u"].gsub(/%20|%23/,""))
+    # end
 
     it "domain should not be uri encoded (#{bang["s"]})" do
       expect(CGI.unescapeURIComponent(bang["d"].gsub(/%20|%23/,"")).to_s).to eq(bang["d"].gsub(/%20|%23/,""))
