@@ -35175,6 +35175,18 @@
     "sc": "Programming"
   },
   {
+    "s": "GitHub Notifications",
+    "d": "github.com",
+    "t": "ghn",
+    "u": "https://github.com/notifications?query={{{s}}}",
+    "c": "Tech",
+    "sc": "Programming",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
     "s": "GitHub Pages (Kagi Search)",
     "d": "kagi.com",
     "t": "ghio",
