@@ -16819,6 +16819,22 @@
     "sc": "Misc"
   },
   {
+    "s": "Words of Brandon (WoBs)",
+    "d": "wob.coppermind.net",
+    "t": "wobs",
+    "u": "https://wob.coppermind.net/adv_search/?query={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Misc"
+  },
+  {
+    "s": "Words of Brandon (WoBs)",
+    "d": "wob.coppermind.net",
+    "t": "arcanum",
+    "u": "https://wob.coppermind.net/adv_search/?query={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Misc"
+  },
+  {
     "s": "Fedora Copr",
     "d": "copr.fedoraproject.org",
     "t": "copr",
