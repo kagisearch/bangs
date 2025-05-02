@@ -84,7 +84,7 @@ end
 
 def template_format_check(bangs)
   bangs.each do |bang|
-    next if bang["skip_tests"]
+    next if bang["skip_tests"] || bang["x"]
     next unless template = bang["u"]
 
     it "template should contain correct {{{s}}} (#{bang["s"]})" do
@@ -93,6 +93,17 @@ def template_format_check(bangs)
 
     it "template should only contain one {{{s}}} (#{bang["s"]})" do
       expect(template.scan(/(?={{{s}}})/).count).to eq(1)
+    end
+  end
+end
+
+def regex_pattern_check(bangs)
+  bangs.each do |bang|
+    next if bang["skip_tests"]
+    next unless regex_pattern = bang["x"]
+
+    it "regex pattern should be valid regex (#{bang["s"]})" do
+      Regexp.new(regex_pattern)
     end
   end
 end
@@ -128,6 +139,7 @@ describe "bangs.json" do
   uri_decoded_urls(bangs_json)
   ad_format_check(bangs_json)
   template_format_check(bangs_json)
+  regex_pattern_check(bangs_json)
 end
 
 describe "kagi_bangs.json" do
@@ -147,6 +159,7 @@ describe "kagi_bangs.json" do
   uri_decoded_urls(kagi_bangs_json)
   ad_format_check(kagi_bangs_json)
   template_format_check(kagi_bangs_json)
+  regex_pattern_check(kagi_bangs_json)
 end
 
 describe "assistant_bangs.json" do
@@ -160,4 +173,5 @@ describe "assistant_bangs.json" do
   uri_decoded_urls(assist_bangs_json)
   ad_format_check(assist_bangs_json)
   template_format_check(assist_bangs_json)
+  regex_pattern_check(assist_bangs_json)
 end
