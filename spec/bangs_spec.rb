@@ -56,12 +56,12 @@ def uri_decoded_urls(bangs)
     # end
 
     it "domain should not be uri encoded (#{bang["s"]})" do
-      expect(CGI.unescapeURIComponent(bang["d"].gsub(/%20|%23/,"")).to_s).to eq(bang["d"].gsub(/%20|%23/,""))
+      expect(CGI.unescapeURIComponent(bang["d"].gsub(/%20|%23/, "")).to_s).to eq(bang["d"].gsub(/%20|%23/, ""))
     end
 
     if bang["ad"]
       it "alt domain should not be uri encoded (#{bang["s"]})" do
-        expect(CGI.unescapeURIComponent(bang["ad"].gsub(/%20|%23/,"")).to_s).to eq(bang["ad"].gsub(/%20|%23/,""))
+        expect(CGI.unescapeURIComponent(bang["ad"].gsub(/%20|%23/, "")).to_s).to eq(bang["ad"].gsub(/%20|%23/, ""))
       end
     end
   end
@@ -73,11 +73,11 @@ def ad_format_check(bangs)
     next unless ad = bang["ad"]
 
     it "ad should be formatted correctly (#{bang["s"]})" do
-       expect(ad.match?(/http(s)?(:|%3A)\/\//)).to be false
-       expect(ad.match?(/.*,.*/)).to be false
-       expect(ad.include?("%2F")).to be false
-       expect(ad.include?("%20")).to be false
-       expect(ad.include?(" ")).to be false
+      expect(ad.match?(/http(s)?(:|%3A)\/\//)).to be false
+      expect(ad.match?(/.*,.*/)).to be false
+      expect(ad.include?("%2F")).to be false
+      expect(ad.include?("%20")).to be false
+      expect(ad.include?(" ")).to be false
     end
   end
 end
