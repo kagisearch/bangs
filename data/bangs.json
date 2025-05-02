@@ -70783,10 +70783,10 @@
     "sc": "Programming"
   },
   {
-    "s": "The Open Group",
+    "s": "The Open Group Base Specifications",
     "d": "pubs.opengroup.org",
     "t": "posix",
-    "u": "https://pubs.opengroup.org/cgi/kman4.cgi?value={{{s}}}",
+    "u": "https://pubs.opengroup.org/cgi/kman5.cgi?value={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin (man)"
   },
