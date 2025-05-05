@@ -24353,9 +24353,9 @@
   },
   {
     "s": "The Doctor Who Wiki",
-    "d": "tardis.wikia.com",
+    "d": "tardis.wiki",
     "t": "dww",
-    "u": "https://tardis.wikia.com/wiki/index.php?search={{{s}}}",
+    "u": "https://tardis.wiki/wiki/Special:Search?search={{{s}}}",
     "c": "Entertainment",
     "sc": "TV"
   },
@@ -85913,9 +85913,9 @@
   },
   {
     "s": "TARDIS Data Core",
-    "d": "tardis.wikia.com",
+    "d": "tardis.wiki",
     "t": "tardis",
-    "u": "https://tardis.wikia.com/wiki/Special:Search?search={{{s}}}",
+    "u": "https://tardis.wiki/wiki/Special:Search?search={{{s}}}",
     "c": "Entertainment",
     "sc": "TV"
   },
