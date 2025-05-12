@@ -102684,7 +102684,7 @@
     "t": "encyclopedia",
     "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
-    "sc": "Academic"
+    "sc": "Reference"
   },
   {
     "s": "Wikipedia",
@@ -102716,7 +102716,7 @@
     "t": "w.en",
     "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
-    "sc": "Learning"
+    "sc": "Reference"
   },
   {
     "s": "Wikipedia",
@@ -102732,7 +102732,7 @@
     "t": "wk",
     "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
-    "sc": "Academic"
+    "sc": "Reference"
   },
   {
     "s": "Wikipedia",
