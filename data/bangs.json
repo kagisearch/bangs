@@ -102727,6 +102727,14 @@
     "sc": "Academic"
   },
   {
+    "s": "Wikipedia",
+    "d": "en.wikipedia.org",
+    "t": "we",
+    "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
     "s": "Wikispecies",
     "d": "species.wikimedia.org",
     "t": "wikispecies",
