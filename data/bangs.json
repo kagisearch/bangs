@@ -106361,14 +106361,6 @@
     "sc": "Learning"
   },
   {
-    "s": "Wikipedia in Spanish",
-    "d": "en.wikipedia.org",
-    "t": "w-es",
-    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "Wikipedia Euskaraz (in Basque)",
     "d": "eu.wikipedia.org",
     "t": "weus",
