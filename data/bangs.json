@@ -102647,7 +102647,7 @@
     ]
   },
   {
-    "s": "English Wikipedia",
+    "s": "Wikipedia",
     "d": "en.wikipedia.org",
     "t": "wikipedia",
     "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
@@ -102655,7 +102655,7 @@
     "sc": "Reference"
   },
   {
-    "s": "English Wikipedia",
+    "s": "Wikipedia",
     "d": "en.wikipedia.org",
     "t": "wiki",
     "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
@@ -102663,7 +102663,7 @@
     "sc": "Reference"
   },
   {
-    "s": "English Wikipedia",
+    "s": "Wikipedia",
     "d": "en.wikipedia.org",
     "t": "w",
     "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
@@ -102671,7 +102671,7 @@
     "sc": "Reference"
   },
   {
-    "s": "English Wikipedia",
+    "s": "Wikipedia",
     "d": "en.wikipedia.org",
     "t": "wen",
     "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
@@ -102679,7 +102679,7 @@
     "sc": "Reference"
   },
   {
-    "s": "English Wikipedia",
+    "s": "Wikipedia",
     "d": "en.wikipedia.org",
     "t": "enwiki",
     "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
@@ -102687,7 +102687,7 @@
     "sc": "Reference"
   },
   {
-    "s": "English Wikipedia",
+    "s": "Wikipedia",
     "d": "en.wikipedia.org",
     "t": "wikien",
     "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
