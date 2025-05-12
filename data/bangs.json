@@ -102673,6 +102673,14 @@
   {
     "s": "Wikipedia",
     "d": "en.wikipedia.org",
+    "t": "encyclopedia",
+    "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Academic"
+  },
+  {
+    "s": "Wikipedia",
+    "d": "en.wikipedia.org",
     "t": "wen",
     "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
@@ -102693,6 +102701,30 @@
     "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Reference"
+  },
+  {
+    "s": "Wikipedia",
+    "d": "en.wikipedia.org",
+    "t": "w.en",
+    "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Wikipedia",
+    "d": "en.wikipedia.org",
+    "t": "wi",
+    "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Wikipedia",
+    "d": "en.wikipedia.org",
+    "t": "wk",
+    "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Academic"
   },
   {
     "s": "Wikispecies",
@@ -106127,14 +106159,6 @@
     "sc": "Reference"
   },
   {
-    "s": "Wikipedia",
-    "d": "en.wikipedia.org",
-    "t": "encyclopedia",
-    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
     "s": "Google de.Wikipedia",
     "d": "www.google.de",
     "ad": "de.wikipedia.org",
@@ -106361,28 +106385,12 @@
     "sc": "Reference"
   },
   {
-    "s": "Wikipedia (English)",
-    "d": "en.wikipedia.org",
-    "t": "w.en",
-    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
     "s": "Wikipedia Euskaraz (in Basque)",
     "d": "eu.wikipedia.org",
     "t": "weus",
     "u": "https://eu.wikipedia.org/wiki/Special:Search?search={{{s}}}",
     "c": "Research",
     "sc": "Academic"
-  },
-  {
-    "s": "Wikipedia",
-    "d": "en.wikipedia.org",
-    "t": "we",
-    "u": "https://en.wikipedia.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
   },
   {
     "s": "fr.wikipedia.org",
@@ -106473,14 +106481,6 @@
     "sc": "Reference"
   },
   {
-    "s": "Wikipedia",
-    "d": "en.wikipedia.org",
-    "t": "wi",
-    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "Wikipedia (Chinese)",
     "d": "zh.wikipedia.org",
     "t": "wizh",
@@ -106495,14 +106495,6 @@
     "u": "https://ja.wikipedia.org/wiki/{{{s}}}",
     "c": "Research",
     "sc": "Reference"
-  },
-  {
-    "s": "wikipedia",
-    "d": "en.wikipedia.org",
-    "t": "wk",
-    "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
   },
   {
     "s": "Wikipedia Deutsch Mobile",
