@@ -102647,7 +102647,15 @@
     ]
   },
   {
-    "s": "English Wikipedia",
+    "s": "Wikispecies",
+    "d": "species.wikimedia.org",
+    "t": "wikispecies",
+    "u": "https://species.wikimedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Academic"
+  },
+  {
+    "s": "Wikipedia",
     "d": "en.wikipedia.org",
     "t": "wikipedia",
     "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
@@ -102655,7 +102663,7 @@
     "sc": "Reference"
   },
   {
-    "s": "English Wikipedia",
+    "s": "Wikipedia",
     "d": "en.wikipedia.org",
     "t": "wiki",
     "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
@@ -102663,7 +102671,7 @@
     "sc": "Reference"
   },
   {
-    "s": "English Wikipedia",
+    "s": "Wikipedia",
     "d": "en.wikipedia.org",
     "t": "w",
     "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
@@ -102671,7 +102679,15 @@
     "sc": "Reference"
   },
   {
-    "s": "English Wikipedia",
+    "s": "Wikipedia",
+    "d": "en.wikipedia.org",
+    "t": "encyclopedia",
+    "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Wikipedia",
     "d": "en.wikipedia.org",
     "t": "wen",
     "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
@@ -102679,7 +102695,7 @@
     "sc": "Reference"
   },
   {
-    "s": "English Wikipedia",
+    "s": "Wikipedia",
     "d": "en.wikipedia.org",
     "t": "enwiki",
     "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
@@ -102687,12 +102703,76 @@
     "sc": "Reference"
   },
   {
-    "s": "English Wikipedia",
+    "s": "Wikipedia",
     "d": "en.wikipedia.org",
     "t": "wikien",
     "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Reference"
+  },
+  {
+    "s": "Wikipedia",
+    "d": "en.wikipedia.org",
+    "t": "w.en",
+    "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Wikipedia",
+    "d": "en.wikipedia.org",
+    "t": "wi",
+    "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Wikipedia",
+    "d": "en.wikipedia.org",
+    "t": "wk",
+    "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Wikipedia",
+    "d": "en.wikipedia.org",
+    "t": "we",
+    "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Wikipedia Random in Category",
+    "d": "en.wikipedia.org",
+    "t": "wrand",
+    "u": "https://en.wikipedia.org/wiki/Special:RandomInCategory/{{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Wikipedia Band Discography",
+    "d": "en.wikipedia.org",
+    "t": "wdg",
+    "u": "https://en.wikipedia.org/w/index.php?title=Special:Search&search={{{s}}}+discography",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Wikipedia Modules",
+    "d": "en.wikipedia.org",
+    "t": "wikimodule",
+    "u": "https://en.wikipedia.org/wiki/Module:{{{s}}}",
+    "c": "Research",
+    "sc": "Academic"
+  },
+  {
+    "s": "Wikipedia Templates",
+    "d": "en.wikipedia.org",
+    "t": "wikitemplate",
+    "u": "https://en.wikipedia.org/wiki/Template:{{{s}}}",
+    "c": "Research",
+    "sc": "Academic"
   },
   {
     "s": "German Wikipedia",
@@ -106119,14 +106199,6 @@
     "sc": "Reference"
   },
   {
-    "s": "Wikipedia",
-    "d": "en.wikipedia.org",
-    "t": "encyclopedia",
-    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
     "s": "Google de.Wikipedia",
     "d": "www.google.de",
     "ad": "de.wikipedia.org",
@@ -106167,14 +106239,6 @@
     "u": "https://ja.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Reference"
-  },
-  {
-    "s": "Wikipedia",
-    "d": "en.wikipedia.org",
-    "t": "module",
-    "u": "https://en.wikipedia.org/wiki/Module:{{{s}}}",
-    "c": "Tech",
-    "sc": "Languages (lua)"
   },
   {
     "s": "Dutch Wikipedia",
@@ -106231,14 +106295,6 @@
     "u": "https://ta.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Learning (intl)"
-  },
-  {
-    "s": "Wikipedia Templates",
-    "d": "en.wikipedia.org",
-    "t": "template",
-    "u": "https://en.wikipedia.org/wiki/Template:{{{s}}}",
-    "c": "Tech",
-    "sc": "Languages (lua)"
   },
   {
     "s": "Vicipaedia",
@@ -106337,34 +106393,10 @@
     "sc": "Games (Pokemon)"
   },
   {
-    "s": "wikipedia.org Band Discography",
-    "d": "en.wikipedia.org",
-    "t": "wdg",
-    "u": "https://en.wikipedia.org/w/index.php?title=Special:Search&search={{{s}}}+discography",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "Wikipedia (DK)",
     "d": "da.wikipedia.org",
     "t": "wdk",
     "u": "https://da.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "Wikipedia (English)",
-    "d": "en.wikipedia.org",
-    "t": "w.en",
-    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
-    "s": "Wikipedia in Spanish",
-    "d": "en.wikipedia.org",
-    "t": "w-es",
-    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}",
     "c": "Research",
     "sc": "Reference"
   },
@@ -106375,14 +106407,6 @@
     "u": "https://eu.wikipedia.org/wiki/Special:Search?search={{{s}}}",
     "c": "Research",
     "sc": "Academic"
-  },
-  {
-    "s": "Wikipedia",
-    "d": "en.wikipedia.org",
-    "t": "we",
-    "u": "https://en.wikipedia.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
   },
   {
     "s": "fr.wikipedia.org",
@@ -106465,26 +106489,10 @@
     "sc": "Learning"
   },
   {
-    "s": "Wikispecies",
-    "d": "en.wikipedia.org",
-    "t": "wikispecies",
-    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
     "s": "Wikipedia Vietnamese",
     "d": "vi.wikipedia.org",
     "t": "wiki-vn",
     "u": "https://vi.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "Wikipedia",
-    "d": "en.wikipedia.org",
-    "t": "wi",
-    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}",
     "c": "Research",
     "sc": "Reference"
   },
@@ -106503,14 +106511,6 @@
     "u": "https://ja.wikipedia.org/wiki/{{{s}}}",
     "c": "Research",
     "sc": "Reference"
-  },
-  {
-    "s": "wikipedia",
-    "d": "en.wikipedia.org",
-    "t": "wk",
-    "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
   },
   {
     "s": "Wikipedia Deutsch Mobile",
@@ -106551,14 +106551,6 @@
     "u": "https://fr.wikipedia.org/wiki/{{{s}}}",
     "c": "Research",
     "sc": "Learning (intl)"
-  },
-  {
-    "s": "Wikipedia Random in Category",
-    "d": "en.wikipedia.org",
-    "t": "wrand",
-    "u": "https://en.wikipedia.org/wiki/Special:RandomInCategory/{{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
   },
   {
     "s": "Russian Wikipedia",
