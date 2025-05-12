@@ -102759,6 +102759,14 @@
     "sc": "Reference"
   },
   {
+    "s": "Wikipedia Templates",
+    "d": "en.wikipedia.org",
+    "t": "wikitemplate",
+    "u": "https://en.wikipedia.org/wiki/Template:{{{s}}}",
+    "c": "Research",
+    "sc": "Academic"
+  },
+  {
     "s": "German Wikipedia",
     "d": "de.wikipedia.org",
     "t": "wde",
@@ -106287,14 +106295,6 @@
     "u": "https://ta.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Learning (intl)"
-  },
-  {
-    "s": "Wikipedia Templates",
-    "d": "en.wikipedia.org",
-    "t": "template",
-    "u": "https://en.wikipedia.org/wiki/Template:{{{s}}}",
-    "c": "Tech",
-    "sc": "Languages (lua)"
   },
   {
     "s": "Vicipaedia",
