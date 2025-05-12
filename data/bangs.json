@@ -102759,6 +102759,14 @@
     "sc": "Reference"
   },
   {
+    "s": "Wikipedia Modules",
+    "d": "en.wikipedia.org",
+    "t": "wikimodule",
+    "u": "https://en.wikipedia.org/wiki/Module:{{{s}}}",
+    "c": "Research",
+    "sc": "Academic"
+  },
+  {
     "s": "Wikipedia Templates",
     "d": "en.wikipedia.org",
     "t": "wikitemplate",
@@ -106231,14 +106239,6 @@
     "u": "https://ja.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Reference"
-  },
-  {
-    "s": "Wikipedia",
-    "d": "en.wikipedia.org",
-    "t": "module",
-    "u": "https://en.wikipedia.org/wiki/Module:{{{s}}}",
-    "c": "Tech",
-    "sc": "Languages (lua)"
   },
   {
     "s": "Dutch Wikipedia",
