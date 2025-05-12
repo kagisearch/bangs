@@ -102647,6 +102647,14 @@
     ]
   },
   {
+    "s": "Wikispecies",
+    "d": "species.wikimedia.org",
+    "t": "wikispecies",
+    "u": "https://species.wikimedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
     "s": "Wikipedia",
     "d": "en.wikipedia.org",
     "t": "wikipedia",
@@ -102735,12 +102743,20 @@
     "sc": "Reference"
   },
   {
-    "s": "Wikispecies",
-    "d": "species.wikimedia.org",
-    "t": "wikispecies",
-    "u": "https://species.wikimedia.org/w/index.php?search={{{s}}}",
+    "s": "Wikipedia Random in Category",
+    "d": "en.wikipedia.org",
+    "t": "wrand",
+    "u": "https://en.wikipedia.org/wiki/Special:RandomInCategory/{{{s}}}",
     "c": "Research",
     "sc": "Learning"
+  },
+  {
+    "s": "Wikipedia Band Discography",
+    "d": "en.wikipedia.org",
+    "t": "wdg",
+    "u": "https://en.wikipedia.org/w/index.php?title=Special:Search&search={{{s}}}+discography",
+    "c": "Research",
+    "sc": "Reference"
   },
   {
     "s": "German Wikipedia",
@@ -106377,14 +106393,6 @@
     "sc": "Games (Pokemon)"
   },
   {
-    "s": "wikipedia.org Band Discography",
-    "d": "en.wikipedia.org",
-    "t": "wdg",
-    "u": "https://en.wikipedia.org/w/index.php?title=Special:Search&search={{{s}}}+discography",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "Wikipedia (DK)",
     "d": "da.wikipedia.org",
     "t": "wdk",
@@ -106543,14 +106551,6 @@
     "u": "https://fr.wikipedia.org/wiki/{{{s}}}",
     "c": "Research",
     "sc": "Learning (intl)"
-  },
-  {
-    "s": "Wikipedia Random in Category",
-    "d": "en.wikipedia.org",
-    "t": "wrand",
-    "u": "https://en.wikipedia.org/wiki/Special:RandomInCategory/{{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
   },
   {
     "s": "Russian Wikipedia",
