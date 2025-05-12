@@ -102695,6 +102695,14 @@
     "sc": "Reference"
   },
   {
+    "s": "Wikispecies",
+    "d": "species.wikimedia.org",
+    "t": "wikispecies",
+    "u": "https://species.wikimedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
     "s": "German Wikipedia",
     "d": "de.wikipedia.org",
     "t": "wde",
@@ -106453,14 +106461,6 @@
     "d": "pl.wikipedia.org",
     "t": "wiki.pl",
     "u": "https://pl.wikipedia.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
-    "s": "Wikispecies",
-    "d": "en.wikipedia.org",
-    "t": "wikispecies",
-    "u": "https://en.wikipedia.org/wiki/Special:Search?search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
