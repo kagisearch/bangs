@@ -59966,11 +59966,35 @@
   },
   {
     "s": "Microsoft Store",
-    "d": "www.microsoft.com",
+    "d": "apps.microsoft.com",
+    "t": "microsoftstore",
+    "u": "https://apps.microsoft.com/search?query={{{s}}}",
+    "c": "Tech",
+    "sc": "Downloads (software)"
+  },
+  {
+    "s": "Microsoft Store",
+    "d": "apps.microsoft.com",
+    "t": "mss",
+    "u": "https://apps.microsoft.com/search?query={{{s}}}",
+    "c": "Tech",
+    "sc": "Downloads (software)"
+  },
+  {
+    "s": "Microsoft Store",
+    "d": "apps.microsoft.com",
     "t": "mstore",
-    "u": "https://www.microsoft.com/en-us/search?q={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
+    "u": "https://apps.microsoft.com/search?query={{{s}}}",
+    "c": "Tech",
+    "sc": "Downloads (software)"
+  },
+  {
+    "s": "Microsoft Store",
+    "d": "apps.microsoft.com",
+    "t": "winstore",
+    "u": "https://apps.microsoft.com/search?query={{{s}}}",
+    "c": "Tech",
+    "sc": "Downloads (software)"
   },
   {
     "s": "Meteo Suisse / Schweiz",
@@ -97537,14 +97561,6 @@
     "u": "https://windows.microsoft.com/en-US/windows/search#q={{{s}}}",
     "c": "Entertainment",
     "sc": "Misc"
-  },
-  {
-    "s": "Windows Store",
-    "d": "windows.microsoft.com",
-    "t": "winstore",
-    "u": "https://windows.microsoft.com/en-us/windows/search#q={{{s}}}&s=Store",
-    "c": "Tech",
-    "sc": "Downloads (apps)"
   },
   {
     "s": "WION",
