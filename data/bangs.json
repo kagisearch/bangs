@@ -64506,6 +64506,14 @@
     "sc": "Government"
   },
   {
+    "s": "European Vulnerability Database",
+    "d": "euvd.enisa.europa.eu",
+    "t": "euvd",
+    "u": "https://euvd.enisa.europa.eu/search?text={{{s}}}",
+    "c": "Tech",
+    "sc": "Sysadmin (network)"
+  },
+  {
     "s": "Oxford Dictionaries",
     "d": "en.oxforddictionaries.com",
     "t": "odic",
