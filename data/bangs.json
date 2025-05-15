@@ -5631,6 +5631,14 @@
     ]
   },
   {
+    "s": "Archivportal-D",
+    "d": "archivportal-d.de",
+    "t": "archivpd",
+    "u": "https://archivportal-d.de/objekte?query={{{s}}}",
+    "c": "Research",
+    "sc": "Academic"
+  },
+  {
     "s": "ArchWikiJP",
     "d": "wiki.archlinux.jp",
     "t": "archjp",
@@ -9159,6 +9167,22 @@
     "u": "https://www.bankgirot.se/en/sok-bg-nr/?orgnr={{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
+  },
+  {
+    "s": "bavarikon",
+    "d": "bavarikon.de",
+    "t": "bav",
+    "u": "https://bavarikon.de/search?terms={{{s}}}",
+    "c": "Research",
+    "sc": "Academic"
+  },
+  {
+    "s": "bavarikon",
+    "d": "bavarikon.de",
+    "t": "bavarikon",
+    "u": "https://bavarikon.de/search?terms={{{s}}}",
+    "c": "Research",
+    "sc": "Academic"
   },
   {
     "s": "Hurricane Electrics Internet Services",
@@ -22421,10 +22445,10 @@
     "sc": "Languages (.net)"
   },
   {
-    "s": "Deutsche National Bibliothek",
+    "s": "Deutsche Nationalbibliothek",
     "d": "portal.dnb.de",
     "t": "dnb",
-    "u": "https://portal.dnb.de/opac.htm?query={{{s}}}&method=simpleSearch",
+    "u": "https://portal.dnb.de/opac/simpleSearch?query={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -25732,6 +25756,14 @@
     "sc": "Blogs"
   },
   {
+    "s": "European Holocaust Research Infrastructure",
+    "d": "portal.ehri-project.eu",
+    "t": "ehri",
+    "u": "https://portal.ehri-project.eu/search?q={{{s}}}",
+    "c": "Research",
+    "sc": "Academic"
+  },
+  {
     "s": "Evony Hookups",
     "d": "www.evonyhookups.info",
     "t": "ehu",
@@ -28237,10 +28269,10 @@
     "sc": "Search (non-US)"
   },
   {
-    "s": "Europeana.eu",
+    "s": "Europeana",
     "d": "europeana.eu",
     "t": "europeana",
-    "u": "https://europeana.eu/portal/search.html?query={{{s}}}",
+    "u": "https://europeana.eu/search?query={{{s}}}",
     "c": "Multimedia",
     "sc": "General"
   },
@@ -42458,6 +42490,22 @@
     "sc": "Misc"
   },
   {
+    "s": "historicum",
+    "d": "historicum.net",
+    "t": "hcum",
+    "u": "https://historicum.net/historicumsearch/Blender/Results?lookfor={{{s}}}",
+    "c": "Research",
+    "sc": "Academic"
+  },
+  {
+    "s": "historicum",
+    "d": "historicum.net",
+    "t": "historicum",
+    "u": "https://historicum.net/historicumsearch/Blender/Results?lookfor={{{s}}}",
+    "c": "Research",
+    "sc": "Academic"
+  },
+  {
     "s": "Historious",
     "d": "historio.us",
     "t": "historious",
@@ -43484,6 +43532,14 @@
     "u": "https://hooktube.com/results?search_query={{{s}}}",
     "c": "Multimedia",
     "sc": "Video"
+  },
+  {
+    "s": "H-Soz-Kult",
+    "d": "www.hsozkult.de",
+    "t": "hsozkult",
+    "u": "https://www.hsozkult.de/searching/page?q={{{s}}}",
+    "c": "Research",
+    "sc": "Academic"
   },
   {
     "s": "Html2Txt",
@@ -51669,9 +51725,9 @@
   },
   {
     "s": "Lebendiges Museum Online",
-    "d": "www.hdg.de",
+    "d": "dhm.de",
     "t": "lemo",
-    "u": "https://www.hdg.de/lemo/search/?q={{{s}}}",
+    "u": "https://dhm.de/lemo/search?q={{{s}}}",
     "c": "Multimedia",
     "sc": "Docs"
   },
@@ -60339,6 +60395,14 @@
     "u": "https://macupdate.com/find/mac/context={{{s}}}",
     "c": "Tech",
     "sc": "Downloads (software)"
+  },
+  {
+    "s": "Münchener DigitalisierungsZentrum",
+    "d": "digitale-sammlungen.de",
+    "t": "mdz",
+    "u": "https://digitale-sammlungen.de/search?query={{{s}}}",
+    "c": "Research",
+    "sc": "Academic"
   },
   {
     "s": "Mungfali",
