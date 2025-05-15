@@ -219,6 +219,18 @@
     ]
   },
   {
+    "s": "Kagi Search (verbatim)",
+    "d": "kagi.com",
+    "t": "vrb",
+    "u": "/search?q={{{s}}}&verbatim=1"
+  },
+  {
+    "s": "Kagi Search (verbatim)",
+    "d": "kagi.com",
+    "t": "verbatim",
+    "u": "/search?q={{{s}}}&verbatim=1"
+  },
+  {
     "s": "Kagi Discussion",
     "d": "kagi.com",
     "t": "discussdoc",
