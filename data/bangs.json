@@ -43749,6 +43749,14 @@
     "sc": "Games (general)"
   },
   {
+    "s": "Discu.eu",
+    "d": "discu.eu",
+    "t": "discu",
+    "u": "https://discu.eu/?q={{{s}}}",
+    "c": "News",
+    "sc": "Social news/links"
+  },
+  {
     "s": "huskermax",
     "d": "huskermax.com",
     "t": "huskermax",
