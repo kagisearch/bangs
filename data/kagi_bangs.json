@@ -104,6 +104,16 @@
   {
     "s": "Kagi Translate",
     "d": "translate.kagi.com",
+    "t": "ktr",
+    "u": "https://translate.kagi.com/$1/$2",
+    "x": "(\\w+)\\s+(.*)",
+    "fmt": [
+      "url_encode_placeholder"
+    ]
+  },
+  {
+    "s": "Kagi Translate",
+    "d": "translate.kagi.com",
     "t": "translate",
     "u": "https://translate.kagi.com/?text={{{s}}}",
     "fmt": [
