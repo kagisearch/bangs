@@ -14403,6 +14403,14 @@
     "sc": "AI Chatbots"
   },
   {
+    "s": "Le Chat",
+    "d": "chat.mistral.ai",
+    "t": "mistral",
+    "u": "https://chat.mistral.ai/chat?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "AI Chatbots"
+  },
+  {
     "s": "OpenRouter",
     "d": "openrouter.ai",
     "t": "opr",
@@ -58186,14 +58194,6 @@
     "u": "https://mistborn.wikia.com/wiki/Special:Search?search={{{s}}}",
     "c": "Multimedia",
     "sc": "Books"
-  },
-  {
-    "s": "Mistral Chat",
-    "d": "chat.mistral.ai",
-    "t": "mistral",
-    "u": "https://chat.mistral.ai/chat?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools"
   },
   {
     "s": "Misumi USA",
