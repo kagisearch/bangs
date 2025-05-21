@@ -17435,10 +17435,34 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "Chromium bugs",
-    "d": "bugs.chromium.org",
+    "s": "Chromium Code",
+    "d": "source.chromium.org",
+    "t": "chromium",
+    "u": "https://source.chromium.org/search?q={{{s}}}&ss=chromium/chromium/src",
+    "c": "Tech",
+    "sc": "Programming"
+  },
+  {
+    "s": "Chromium Code",
+    "d": "source.chromium.org",
+    "t": "crcode",
+    "u": "https://source.chromium.org/search?q={{{s}}}&ss=chromium/chromium/src",
+    "c": "Tech",
+    "sc": "Programming"
+  },
+  {
+    "s": "Chromium Issues",
+    "d": "issues.chromium.org",
     "t": "crbug",
-    "u": "https://bugs.chromium.org/p/chromium/issues/list?q={{{s}}}",
+    "u": "https://issues.chromium.org/issues?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Programming"
+  },
+  {
+    "s": "Chromium Issues",
+    "d": "issues.chromium.org",
+    "t": "crissue",
+    "u": "https://issues.chromium.org/issues?q={{{s}}}",
     "c": "Tech",
     "sc": "Programming"
   },
@@ -107275,13 +107299,5 @@
     "u": "https://vibe.naver.com/search?query={{{s}}}",
     "c": "Multimedia",
     "sc": "Music"
-  },
-  {
-    "s": "Chromium Code Search",
-    "d": "source.chromium.org",
-    "t": "chromium",
-    "u": "https://source.chromium.org/search?q={{{s}}}&ss=chromium/chromium/src",
-    "c": "Tech",
-    "sc": "Programming"
   }
 ]
