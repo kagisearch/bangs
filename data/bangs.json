@@ -3510,12 +3510,12 @@
     "sc": "Services"
   },
   {
-    "s": "Amazon.com",
-    "d": "www.amazon.com",
+    "s": "Apple Maps",
+    "d": "maps.apple.com",
     "t": "am",
-    "u": "https://www.amazon.com/s?k={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
+    "u": "https://maps.apple.com/?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Maps"
   },
   {
     "s": "Amanz",
