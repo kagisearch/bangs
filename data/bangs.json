@@ -1273,10 +1273,10 @@
     "sc": "Games (offline)"
   },
   {
-    "s": "Abe's Market",
-    "d": "www.abesmarket.com",
+    "s": "Amazon Belgium",
+    "d": "www.amazon.com.be",
     "t": "abe",
-    "u": "https://www.abesmarket.com/catalogsearch/result/?cat=5&order=relevance&dir=desc&q={{{s}}}",
+    "u": "https://www.amazon.com.be/s?k={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
