@@ -63022,6 +63022,14 @@
     "sc": "Downloads"
   },
   {
+    "s": "MyNixOS",
+    "d": "mynixos.com",
+    "t": "mynixos",
+    "u": "https://mynixos.com/search?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Sysadmin"
+  },
+  {
     "s": "Njalla",
     "d": "njal.la",
     "t": "njalla",
