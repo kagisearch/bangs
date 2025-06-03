@@ -107229,7 +107229,7 @@
     "s": "Kagi Translate (Proofread)",
     "d": "translate.kagi.com",
     "t": "kpr",
-    "u": "https://translate.kagi.com/?text={{{s}}}&from=Automatic&to=Proofread",
+    "u": "https://translate.kagi.com/proofread?text={{{s}}}&from=auto",
     "c": "Translation",
     "sc": "General"
   },
