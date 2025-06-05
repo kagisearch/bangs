@@ -66554,9 +66554,9 @@
     "s": "openSUSE",
     "d": "software.opensuse.org",
     "t": "os",
-    "u": "https://software.opensuse.org/search?utf8=%E2%9C%93&q={{{s}}}&search_devel=false&search_unsupported=false&baseproject=openSUSE:13.1",
+    "u": "https://software.opensuse.org/search?q={{{s}}}",
     "c": "Tech",
-    "sc": "Sysadmin (RedHat)"
+    "sc": "Sysadmin"
   },
   {
     "s": "Open Source Routing Machine",
