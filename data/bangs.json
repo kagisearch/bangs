@@ -20510,9 +20510,9 @@
   },
   {
     "s": "Deichmanske Biblotek",
-    "d": "sok.deichman.no",
+    "d": "deichman.no",
     "t": "deic",
-    "u": "https://sok.deichman.no/search?query={{{s}}}",
+    "u": "https://deichman.no/sok/{{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
