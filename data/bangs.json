@@ -55844,7 +55844,7 @@
     "s": "MatPrat",
     "d": "www.matprat.no",
     "t": "matprat",
-    "u": "https://www.matprat.no/sok?searchFor=fisk",
+    "u": "https://www.matprat.no/sok?searchFor={{{s}}}",
     "c": "Research",
     "sc": "Food"
   },
