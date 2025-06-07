@@ -70946,7 +70946,7 @@
     "s": "Posten",
     "d": "sporing.posten.no",
     "t": "posten",
-    "u": "https://sporing.posten.no/sporing.html?lang=no&q={{{s}}}&submit=",
+    "u": "https://sporing.posten.no/sporing.html/{{{s}}}",
     "c": "Online Services",
     "sc": "Tracking"
   },
