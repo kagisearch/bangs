@@ -61640,7 +61640,7 @@
     "s": "Nasjonalbiblioteket",
     "d": "www.nb.no",
     "t": "nb",
-    "u": "https://www.nb.no/nbsok/search?page=0&menuOpen=false&instant=true&action=search&currentHit=-1&searchString={{{s}}}",
+    "u": "https://www.nb.no/search?q={{{s}}}",
     "c": "Multimedia",
     "sc": "Books"
   },
