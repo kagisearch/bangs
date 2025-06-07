@@ -93393,7 +93393,7 @@
     "s": "VårtOslo",
     "d": "www.vartoslo.no",
     "t": "vartoslo",
-    "u": "https://www.vartoslo.no/?s={{{s}}}",
+    "u": "https://www.vartoslo.no/cse?q={{{s}}}",
     "c": "News",
     "sc": "Newspaper"
   },
