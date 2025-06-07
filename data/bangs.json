@@ -2895,9 +2895,9 @@
   },
   {
     "s": "alesund kommune",
-    "d": "www.alesund.kommune.no",
+    "d": "alesund.kommune.no",
     "t": "alesund",
-    "u": "https://www.alesund.kommune.no/component/finder/search?q={{{s}}}&Itemid=406",
+    "u": "https://alesund.kommune.no/sok.aspx?MId1=8&searchTerm={{{s}}}",
     "c": "Online Services",
     "sc": "Social"
   },
