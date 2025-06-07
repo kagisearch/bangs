@@ -63434,7 +63434,7 @@
     "s": "Norid",
     "d": "www.norid.no",
     "t": "norid",
-    "u": "https://www.norid.no/index.html?charset=UTF-8&page=index&sok=Søk&query={{{s}}}",
+    "u": "https://www.norid.no/?s={{{s}}}",
     "c": "Tech",
     "sc": "Domains"
   },
