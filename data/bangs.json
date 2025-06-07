@@ -2895,9 +2895,9 @@
   },
   {
     "s": "alesund kommune",
-    "d": "www.alesund.kommune.no",
+    "d": "alesund.kommune.no",
     "t": "alesund",
-    "u": "https://www.alesund.kommune.no/component/finder/search?q={{{s}}}&Itemid=406",
+    "u": "https://alesund.kommune.no/sok.aspx?MId1=8&searchTerm={{{s}}}",
     "c": "Online Services",
     "sc": "Social"
   },
@@ -20510,9 +20510,9 @@
   },
   {
     "s": "Deichmanske Biblotek",
-    "d": "sok.deichman.no",
+    "d": "deichman.no",
     "t": "deic",
-    "u": "https://sok.deichman.no/search?query={{{s}}}",
+    "u": "https://deichman.no/sok/{{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -55844,7 +55844,7 @@
     "s": "MatPrat",
     "d": "www.matprat.no",
     "t": "matprat",
-    "u": "https://www.matprat.no/sok/#1/all/{{{s}}}/",
+    "u": "https://www.matprat.no/sok?searchFor={{{s}}}",
     "c": "Research",
     "sc": "Food"
   },
@@ -61640,7 +61640,7 @@
     "s": "Nasjonalbiblioteket",
     "d": "www.nb.no",
     "t": "nb",
-    "u": "https://www.nb.no/nbsok/search?page=0&menuOpen=false&instant=true&action=search&currentHit=-1&searchString={{{s}}}",
+    "u": "https://www.nb.no/search?q={{{s}}}",
     "c": "Multimedia",
     "sc": "Books"
   },
@@ -63434,7 +63434,7 @@
     "s": "Norid",
     "d": "www.norid.no",
     "t": "norid",
-    "u": "https://www.norid.no/index.html?charset=UTF-8&page=index&sok=Søk&query={{{s}}}",
+    "u": "https://www.norid.no/?s={{{s}}}",
     "c": "Tech",
     "sc": "Domains"
   },
@@ -70946,7 +70946,7 @@
     "s": "Posten",
     "d": "sporing.posten.no",
     "t": "posten",
-    "u": "https://sporing.posten.no/sporing.html?lang=no&q={{{s}}}&submit=",
+    "u": "https://sporing.posten.no/sporing.html/{{{s}}}",
     "c": "Online Services",
     "sc": "Tracking"
   },
@@ -93393,7 +93393,7 @@
     "s": "VårtOslo",
     "d": "www.vartoslo.no",
     "t": "vartoslo",
-    "u": "https://www.vartoslo.no/?s={{{s}}}",
+    "u": "https://www.vartoslo.no/cse?q={{{s}}}",
     "c": "News",
     "sc": "Newspaper"
   },
