@@ -61824,7 +61824,7 @@
     "s": "NDLA",
     "d": "ndla.no",
     "t": "ndla",
-    "u": "https://ndla.no/en/search/apachesolr_search/{{{s}}}?language[]=und&filters=1/",
+    "u": "https://ndla.no/search?query={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
