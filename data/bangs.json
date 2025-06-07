@@ -45962,7 +45962,7 @@
     "s": "Innsida NTNU",
     "d": "innsida.ntnu.no",
     "t": "innsida",
-    "u": "https://innsida.ntnu.no/sok?site=innsida&query={{{s}}}&category=all",
+    "u": "https://innsida.ntnu.no/sok/?q={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
