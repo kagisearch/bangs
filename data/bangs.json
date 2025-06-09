@@ -107315,5 +107315,13 @@
     "u": "https://libro.fm/search?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
-  }
+  },
+  {
+    "s": "Post (CH)",
+    "d": "www.post.ch",
+    "t": "postch",
+    "u": "https://service.post.ch/ekp-web/ui/entry/search/{{{s}}}",
+    "c": "Shopping",
+    "sc": "Services"
+  },
 ]
