@@ -85224,6 +85224,14 @@
     "sc": "Tracking"
   },
   {
+    "s": "Swiss Post",
+    "d": "www.post.ch",
+    "t": "postch",
+    "u": "https://www.post.ch/EasyTrack/submitParcelData.do?formattedParcelCodes={{{s}}}",
+    "c": "Shopping",
+    "sc": "Services"
+  },
+  {
     "s": "SWI-Prolog",
     "d": "www.swi-prolog.org",
     "t": "swi",
