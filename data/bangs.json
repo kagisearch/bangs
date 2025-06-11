@@ -8,6 +8,14 @@
     "sc": "Downloads (apps)"
   },
   {
+    "s": "ADS-B Exchange",
+    "d": "www.adsbexchange.com",
+    "t": "adsb",
+    "u": "https://www.adsbexchange.com/?icao={{{s}}}",
+    "c": "Research",
+    "sc": "Travel"
+  },
+  {
     "s": "BMW 2002 FAQ",
     "d": "www.bmw2002faq.com",
     "t": "02faq",
