@@ -47757,6 +47757,14 @@
     "sc": "Online (marketplace)"
   },
   {
+    "s": "JetPhotos",
+    "d": "www.jetphotos.com",
+    "t": "jetphoto",
+    "u": "https://www.jetphotos.com/photo/keyword/{{{s}}}",
+    "c": "Research",
+    "sc": "Travel"
+  },
+  {
     "s": "JeuxVideo",
     "d": "www.jeuxvideo.com",
     "t": "jeux",
