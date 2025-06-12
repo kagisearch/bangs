@@ -3294,208 +3294,298 @@
     ]
   },
   {
-    "s": "The Assistant (GPT-4o)",
+    "s": "Kagi Assistant (claude-3-haiku)",
     "d": "kagi.com",
-    "t": "gpt-4o",
-    "u": "/assistant?profile=gpt-4o&q={{{s}}}"
+    "t": "claude-3-haiku",
+    "u": "/assistant?profile=claude-3-haiku&q={{{s}}}"
   },
   {
-    "s": "The Assistant (GPT-4o mini)",
-    "d": "kagi.com",
-    "t": "gpt-4o-mini",
-    "u": "/assistant?profile=gpt-4o-mini&q={{{s}}}"
-  },
-  {
-    "s": "The Assistant (o3 mini)",
-    "d": "kagi.com",
-    "t": "o3-mini",
-    "u": "/assistant?profile=o3-mini&q={{{s}}}"
-  },
-  {
-    "s": "The Assistant (Claude 3 Haiku)",
+    "s": "Kagi Assistant (claude-3-haiku)",
     "d": "kagi.com",
     "t": "haiku",
     "u": "/assistant?profile=claude-3-haiku&q={{{s}}}"
   },
   {
-    "s": "The Assistant (Claude 3.5 Sonnet)",
+    "s": "Kagi Assistant (claude-4-sonnet)",
+    "d": "kagi.com",
+    "t": "claude-4-sonnet",
+    "u": "/assistant?profile=claude-4-sonnet&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (claude-4-sonnet)",
     "d": "kagi.com",
     "t": "sonnet",
-    "u": "/assistant?profile=claude-3-sonnet&q={{{s}}}"
+    "u": "/assistant?profile=claude-4-sonnet&q={{{s}}}"
   },
   {
-    "s": "The Assistant (Claude 3.7 Sonnet)",
+    "s": "Kagi Assistant (claude-4-opus)",
     "d": "kagi.com",
-    "t": "claude-3-7-sonnet",
-    "u": "/assistant?profile=claude-3-7-sonnet&q={{{s}}}"
+    "t": "claude-4-opus",
+    "u": "/assistant?profile=claude-4-opus&q={{{s}}}"
   },
   {
-    "s": "The Assistant (Claude 3 Opus)",
+    "s": "Kagi Assistant (claude-4-opus)",
     "d": "kagi.com",
     "t": "opus",
-    "u": "/assistant?profile=claude-3-opus&q={{{s}}}"
+    "u": "/assistant?profile=claude-4-opus&q={{{s}}}"
   },
   {
-    "s": "The Assistant (Gemini Flash)",
+    "s": "Kagi Assistant (claude-4-sonnet-thinking)",
     "d": "kagi.com",
-    "t": "gemini-flash",
-    "u": "/assistant?profile=gemini-flash&q={{{s}}}"
+    "t": "claude-4-sonnet-thinking",
+    "u": "/assistant?profile=claude-4-sonnet-thinking&q={{{s}}}"
   },
   {
-    "s": "The Assistant (Gemini Pro)",
+    "s": "Kagi Assistant (claude-4-sonnet-thinking)",
     "d": "kagi.com",
-    "t": "gemini-pro",
-    "u": "/assistant?profile=gemini-pro&q={{{s}}}"
+    "t": "sonnett",
+    "u": "/assistant?profile=claude-4-sonnet-thinking&q={{{s}}}"
   },
   {
-    "s": "The Assistant (Mistral Pixtral)",
+    "s": "Kagi Assistant (claude-4-opus-thinking)",
     "d": "kagi.com",
-    "t": "pixtral",
-    "u": "/assistant?profile=mistral-nemo&q={{{s}}}"
+    "t": "opust",
+    "u": "/assistant?profile=claude-4-opus-thinking&q={{{s}}}"
   },
   {
-    "s": "The Assistant (Mistral Large)",
-    "d": "kagi.com",
-    "t": "mistral-large",
-    "u": "/assistant?profile=mistral-large&q={{{s}}}"
-  },
-  {
-    "s": "The Assistant (Llama 3.3 70B)",
-    "d": "kagi.com",
-    "t": "llama-3",
-    "u": "/assistant?profile=llama-3-70b&q={{{s}}}"
-  },
-  {
-    "s": "The Assistant (Llama 3.1 405B)",
-    "d": "kagi.com",
-    "t": "llama-3-405b",
-    "u": "/assistant?profile=llama-3-405b&q={{{s}}}"
-  },
-  {
-    "s": "The Assistant (Qwen QwQ 32b)",
-    "d": "kagi.com",
-    "t": "qwen-qwq-32b",
-    "u": "/assistant?profile=qwen-qwq-32b&q={{{s}}}"
-  },
-  {
-    "s": "The Assistant (Nova Lite)",
-    "d": "kagi.com",
-    "t": "nova-lite",
-    "u": "/assistant?profile=nova-lite&q={{{s}}}"
-  },
-  {
-    "s": "The Assistant (Nova Pro)",
-    "d": "kagi.com",
-    "t": "nova-pro",
-    "u": "/assistant?profile=nova-pro&q={{{s}}}"
-  },
-  {
-    "s": "The Assistant (DeepSeek Chat V3)",
-    "d": "kagi.com",
-    "t": "deepseek",
-    "u": "/assistant?profile=deepseek&q={{{s}}}"
-  },
-  {
-    "s": "The Assistant (DeepSeek R1)",
-    "d": "kagi.com",
-    "t": "r1",
-    "u": "/assistant?profile=deepseek-r1&q={{{s}}}"
-  },
-  {
-    "s": "The Assistant (deepseek-r1-distill-llama-70b)",
-    "d": "kagi.com",
-    "t": "r1-llama",
-    "u": "/assistant?profile=deepseek-r1-distill-llama-70b&q={{{s}}}"
-  },
-  {
-    "s": "The Assistant (Ki Lite)",
-    "d": "kagi.com",
-    "t": "ki-lite",
-    "u": "/assistant?profile=ki_lite&q={{{s}}}"
-  },
-  {
-    "s": "The Assistant (Ki Deep Research)",
-    "d": "kagi.com",
-    "t": "ki-deep-research",
-    "u": "/assistant?profile=ki_deep_research&q={{{s}}}"
-  },
-  {
-    "s": "The Assistant (ChatGPT-4o)",
-    "d": "kagi.com",
-    "t": "chatgpt-4o",
-    "u": "/assistant?profile=chatgpt-4o&q={{{s}}}"
-  },
-  {
-    "s": "The Assistant (GPT 4.1)",
+    "s": "Kagi Assistant (gpt-4-1)",
     "d": "kagi.com",
     "t": "gpt-4-1",
     "u": "/assistant?profile=gpt-4-1&q={{{s}}}"
   },
   {
-    "s": "The Assistant (GPT 4.1 mini)",
-    "d": "kagi.com",
-    "t": "gpt-4-1-mini",
-    "u": "/assistant?profile=gpt-4-1-mini&q={{{s}}}"
-  },
-  {
-    "s": "The Assistant (GPT 4.1 nano)",
-    "d": "kagi.com",
-    "t": "gpt-4-1-nano",
-    "u": "/assistant?profile=gpt-4-1-nano&q={{{s}}}"
-  },
-  {
-    "s": "The Assistant (Grok 3)",
-    "d": "kagi.com",
-    "t": "grok-3",
-    "u": "/assistant?profile=grok-3&q={{{s}}}"
-  },
-  {
-    "s": "The Assistant (Grok 3 Mini)",
-    "d": "kagi.com",
-    "t": "grok-3-mini",
-    "u": "/assistant?profile=grok-3-mini&q={{{s}}}"
-  },
-  {
-    "s": "The Assistant (o1 pro)",
-    "d": "kagi.com",
-    "t": "o1-pro",
-    "u": "/assistant?profile=o1-pro&q={{{s}}}"
-  },
-  {
-    "s": "The Assistant (o3)",
-    "d": "kagi.com",
-    "t": "o3",
-    "u": "/assistant?profile=o3&q={{{s}}}"
-  },
-  {
-    "s": "The Assistant (o4 mini)",
+    "s": "Kagi Assistant (o4-mini)",
     "d": "kagi.com",
     "t": "o4-mini",
     "u": "/assistant?profile=o4-mini&q={{{s}}}"
   },
   {
-    "s": "The Assistant (o1)",
+    "s": "Kagi Assistant (o3)",
     "d": "kagi.com",
-    "t": "o1",
-    "u": "/assistant?profile=o1&q={{{s}}}"
+    "t": "o3",
+    "u": "/assistant?profile=o3&q={{{s}}}"
   },
   {
-    "s": "The Assistant (Mistral Small)",
+    "s": "Kagi Assistant (o3-pro)",
+    "d": "kagi.com",
+    "t": "o3-pro",
+    "u": "/assistant?profile=o3-pro&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (gpt-4o)",
+    "d": "kagi.com",
+    "t": "gpt-4o",
+    "u": "/assistant?profile=gpt-4o&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (gpt-4o)",
+    "d": "kagi.com",
+    "t": "4o",
+    "u": "/assistant?profile=gpt-4o&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (chatgpt-4o)",
+    "d": "kagi.com",
+    "t": "chatgpt-4o",
+    "u": "/assistant?profile=chatgpt-4o&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (gpt-4o-mini)",
+    "d": "kagi.com",
+    "t": "gpt-4o-mini",
+    "u": "/assistant?profile=gpt-4o-mini&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (gpt-4o-mini)",
+    "d": "kagi.com",
+    "t": "4om",
+    "u": "/assistant?profile=gpt-4o-mini&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (gpt-4-1-mini)",
+    "d": "kagi.com",
+    "t": "gpt-4-1-mini",
+    "u": "/assistant?profile=gpt-4-1-mini&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (gpt-4-1-mini)",
+    "d": "kagi.com",
+    "t": "41m",
+    "u": "/assistant?profile=gpt-4-1-mini&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (gpt-4-1-nano)",
+    "d": "kagi.com",
+    "t": "gpt-4-1-nano",
+    "u": "/assistant?profile=gpt-4-1-nano&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (gpt-4-1-nano)",
+    "d": "kagi.com",
+    "t": "41n",
+    "u": "/assistant?profile=gpt-4-1-nano&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (mistral-medium)",
+    "d": "kagi.com",
+    "t": "mistral-medium",
+    "u": "/assistant?profile=mistral-medium&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (mistral-small)",
     "d": "kagi.com",
     "t": "mistral-small",
     "u": "/assistant?profile=mistral-small&q={{{s}}}"
   },
   {
-    "s": "The Assistant (Llama 4 Scout)",
+    "s": "Kagi Assistant (mistral-large)",
+    "d": "kagi.com",
+    "t": "mistral-large",
+    "u": "/assistant?profile=mistral-large&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (magistral-medium)",
+    "d": "kagi.com",
+    "t": "magistral-medium",
+    "u": "/assistant?profile=magistral-medium&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (magistral-small)",
+    "d": "kagi.com",
+    "t": "magistral-small",
+    "u": "/assistant?profile=magistral-small&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (gemini-flash)",
+    "d": "kagi.com",
+    "t": "gemini-flash",
+    "u": "/assistant?profile=gemini-flash&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (gemini-2-5-flash)",
+    "d": "kagi.com",
+    "t": "gemini-2-5-flash",
+    "u": "/assistant?profile=gemini-2-5-flash&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (gemini-2-5-flash-thinking)",
+    "d": "kagi.com",
+    "t": "gemini-2-5-flash-thinking",
+    "u": "/assistant?profile=gemini-2-5-flash-thinking&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (gemini-2-5-pro)",
+    "d": "kagi.com",
+    "t": "gemini-2-5-pro",
+    "u": "/assistant?profile=gemini-2-5-pro&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (gemini-2-5-pro)",
+    "d": "kagi.com",
+    "t": "gemini-pro",
+    "u": "/assistant?profile=gemini-2-5-pro&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (gemma-3-27b)",
+    "d": "kagi.com",
+    "t": "gemma-3-27b",
+    "u": "/assistant?profile=gemma-3-27b&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (llama-4-maverick)",
+    "d": "kagi.com",
+    "t": "llama-4-maverick",
+    "u": "/assistant?profile=llama-4-maverick&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (llama-4-scout)",
     "d": "kagi.com",
     "t": "llama-4-scout",
     "u": "/assistant?profile=llama-4-scout&q={{{s}}}"
   },
   {
-    "s": "The Assistant (Llama 4 Maverick)",
+    "s": "Kagi Assistant (llama-4-scout)",
     "d": "kagi.com",
-    "t": "llama-4-maverick",
-    "u": "/assistant?profile=llama-4-maverick&q={{{s}}}"
+    "t": "llama",
+    "u": "/assistant?profile=llama-4-scout&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (qwen-3-235b-a22b-thinking)",
+    "d": "kagi.com",
+    "t": "qwen-3-235b-a22b-thinking",
+    "u": "/assistant?profile=qwen-3-235b-a22b-thinking&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (qwen-3-235b-a22b)",
+    "d": "kagi.com",
+    "t": "qwen-3-235b-a22b",
+    "u": "/assistant?profile=qwen-3-235b-a22b&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (qwen-3-32b-thinking)",
+    "d": "kagi.com",
+    "t": "qwen-3-32b-thinking",
+    "u": "/assistant?profile=qwen-3-32b-thinking&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (qwen-3-32b-thinking)",
+    "d": "kagi.com",
+    "t": "qwent",
+    "u": "/assistant?profile=qwen-3-32b-thinking&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (qwen-3-32b)",
+    "d": "kagi.com",
+    "t": "qwen-3-32b",
+    "u": "/assistant?profile=qwen-3-32b&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (qwen-3-32b)",
+    "d": "kagi.com",
+    "t": "qwen",
+    "u": "/assistant?profile=qwen-3-32b&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (deepseek)",
+    "d": "kagi.com",
+    "t": "deepseek",
+    "u": "/assistant?profile=deepseek&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (deepseek-r1)",
+    "d": "kagi.com",
+    "t": "deepseek-r1",
+    "u": "/assistant?profile=deepseek-r1&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (deepseek-r1)",
+    "d": "kagi.com",
+    "t": "r1",
+    "u": "/assistant?profile=deepseek-r1&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (deepseek-r1-distill-llama-70b)",
+    "d": "kagi.com",
+    "t": "deepseek-r1-distill-llama-70b",
+    "u": "/assistant?profile=deepseek-r1-distill-llama-70b&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (deepseek-r1-distill-llama-70b)",
+    "d": "kagi.com",
+    "t": "r1-llama",
+    "u": "/assistant?profile=deepseek-r1-distill-llama-70b&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (grok-3-mini)",
+    "d": "kagi.com",
+    "t": "grok-3-mini",
+    "u": "/assistant?profile=grok-3-mini&q={{{s}}}"
+  },
+  {
+    "s": "Kagi Assistant (grok-3)",
+    "d": "kagi.com",
+    "t": "grok-3",
+    "u": "/assistant?profile=grok-3&q={{{s}}}"
   },
   {
     "s": "Kagi Assistant (Ki)",
