@@ -120,6 +120,15 @@
     ]
   },
   {
+    "s": "Kagi Translate (Proofread)",
+    "d": "translate.kagi.com",
+    "t": "proofread",
+    "u": "https://translate.kagi.com/proofread?q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder"
+    ]
+  },
+  {
     "s": "Kagi Images",
     "d": "kagi.com",
     "t": "i",
