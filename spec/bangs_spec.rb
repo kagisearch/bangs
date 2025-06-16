@@ -56,12 +56,12 @@ def uri_decoded_urls(bangs)
     # end
 
     it "domain should not be uri encoded (#{bang["s"]})" do
-      expect(CGI.unescapeURIComponent(bang["d"].gsub(/%20|%23/,"")).to_s).to eq(bang["d"].gsub(/%20|%23/,""))
+      expect(CGI.unescapeURIComponent(bang["d"].gsub(/%20|%23/, "")).to_s).to eq(bang["d"].gsub(/%20|%23/, ""))
     end
 
     if bang["ad"]
       it "alt domain should not be uri encoded (#{bang["s"]})" do
-        expect(CGI.unescapeURIComponent(bang["ad"].gsub(/%20|%23/,"")).to_s).to eq(bang["ad"].gsub(/%20|%23/,""))
+        expect(CGI.unescapeURIComponent(bang["ad"].gsub(/%20|%23/, "")).to_s).to eq(bang["ad"].gsub(/%20|%23/, ""))
       end
     end
   end
@@ -73,18 +73,18 @@ def ad_format_check(bangs)
     next unless ad = bang["ad"]
 
     it "ad should be formatted correctly (#{bang["s"]})" do
-       expect(ad.match?(/http(s)?(:|%3A)\/\//)).to be false
-       expect(ad.match?(/.*,.*/)).to be false
-       expect(ad.include?("%2F")).to be false
-       expect(ad.include?("%20")).to be false
-       expect(ad.include?(" ")).to be false
+      expect(ad.match?(/http(s)?(:|%3A)\/\//)).to be false
+      expect(ad.match?(/.*,.*/)).to be false
+      expect(ad.include?("%2F")).to be false
+      expect(ad.include?("%20")).to be false
+      expect(ad.include?(" ")).to be false
     end
   end
 end
 
 def template_format_check(bangs)
   bangs.each do |bang|
-    next if bang["skip_tests"]
+    next if bang["skip_tests"] || bang["x"]
     next unless template = bang["u"]
 
     it "template should contain correct {{{s}}} (#{bang["s"]})" do
@@ -93,6 +93,17 @@ def template_format_check(bangs)
 
     it "template should only contain one {{{s}}} (#{bang["s"]})" do
       expect(template.scan(/(?={{{s}}})/).count).to eq(1)
+    end
+  end
+end
+
+def regex_pattern_check(bangs)
+  bangs.each do |bang|
+    next if bang["skip_tests"]
+    next unless regex_pattern = bang["x"]
+
+    it "regex pattern should be valid regex (#{bang["s"]})" do
+      Regexp.new(regex_pattern)
     end
   end
 end
@@ -128,6 +139,7 @@ describe "bangs.json" do
   uri_decoded_urls(bangs_json)
   ad_format_check(bangs_json)
   template_format_check(bangs_json)
+  regex_pattern_check(bangs_json)
 end
 
 describe "kagi_bangs.json" do
@@ -147,6 +159,7 @@ describe "kagi_bangs.json" do
   uri_decoded_urls(kagi_bangs_json)
   ad_format_check(kagi_bangs_json)
   template_format_check(kagi_bangs_json)
+  regex_pattern_check(kagi_bangs_json)
 end
 
 describe "assistant_bangs.json" do
@@ -160,4 +173,5 @@ describe "assistant_bangs.json" do
   uri_decoded_urls(assist_bangs_json)
   ad_format_check(assist_bangs_json)
   template_format_check(assist_bangs_json)
+  regex_pattern_check(assist_bangs_json)
 end
