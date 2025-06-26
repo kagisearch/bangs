@@ -56,12 +56,12 @@ def uri_decoded_urls(bangs)
     # end
 
     it "domain should not be uri encoded (#{bang["s"]})" do
-      expect(CGI.unescapeURIComponent(bang["d"].gsub(/%20|%23/,"")).to_s).to eq(bang["d"].gsub(/%20|%23/,""))
+      expect(CGI.unescapeURIComponent(bang["d"].gsub(/%20|%23/, "")).to_s).to eq(bang["d"].gsub(/%20|%23/, ""))
     end
 
     if bang["ad"]
       it "alt domain should not be uri encoded (#{bang["s"]})" do
-        expect(CGI.unescapeURIComponent(bang["ad"].gsub(/%20|%23/,"")).to_s).to eq(bang["ad"].gsub(/%20|%23/,""))
+        expect(CGI.unescapeURIComponent(bang["ad"].gsub(/%20|%23/, "")).to_s).to eq(bang["ad"].gsub(/%20|%23/, ""))
       end
     end
   end
@@ -73,11 +73,11 @@ def ad_format_check(bangs)
     next unless ad = bang["ad"]
 
     it "ad should be formatted correctly (#{bang["s"]})" do
-       expect(ad.match?(/http(s)?(:|%3A)\/\//)).to be false
-       expect(ad.match?(/.*,.*/)).to be false
-       expect(ad.include?("%2F")).to be false
-       expect(ad.include?("%20")).to be false
-       expect(ad.include?(" ")).to be false
+      expect(ad.match?(/http(s)?(:|%3A)\/\//)).to be false
+      expect(ad.match?(/.*,.*/)).to be false
+      expect(ad.include?("%2F")).to be false
+      expect(ad.include?("%20")).to be false
+      expect(ad.include?(" ")).to be false
     end
   end
 end
@@ -93,6 +93,14 @@ def template_format_check(bangs)
 
     it "template should only contain one {{{s}}} (#{bang["s"]})" do
       expect(template.scan(/(?={{{s}}})/).count).to eq(1)
+    end
+  end
+end
+
+def trigger_format_check(bangs)
+  bangs.each do |bang|
+    it "trigger should be lowercase (#{bang["s"]})" do
+      expect(bang["t"]).to eq(bang["t"].downcase)
     end
   end
 end
@@ -128,6 +136,7 @@ describe "bangs.json" do
   uri_decoded_urls(bangs_json)
   ad_format_check(bangs_json)
   template_format_check(bangs_json)
+  trigger_format_check(bangs_json)
 end
 
 describe "kagi_bangs.json" do
@@ -147,6 +156,7 @@ describe "kagi_bangs.json" do
   uri_decoded_urls(kagi_bangs_json)
   ad_format_check(kagi_bangs_json)
   template_format_check(kagi_bangs_json)
+  trigger_format_check(kagi_bangs_json)
 end
 
 describe "assistant_bangs.json" do
@@ -160,4 +170,5 @@ describe "assistant_bangs.json" do
   uri_decoded_urls(assist_bangs_json)
   ad_format_check(assist_bangs_json)
   template_format_check(assist_bangs_json)
+  trigger_format_check(assist_bangs_json)
 end

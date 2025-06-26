@@ -4528,7 +4528,7 @@
   {
     "s": "Amazon Prime Now",
     "d": "primenow.amazon.com",
-    "t": "aNOW",
+    "t": "anow",
     "u": "https://primenow.amazon.com/search?k={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
@@ -6740,7 +6740,7 @@
   {
     "s": "XE (AUD2EUR)",
     "d": "www.xe.com",
-    "t": "AUD2EUR",
+    "t": "aud2eur",
     "u": "https://www.xe.com/currencyconverter/convert/?Amount={{{s}}}&From=AUD&To=EUR",
     "c": "Online Services",
     "sc": "Tools"
@@ -6748,7 +6748,7 @@
   {
     "s": "XE (AUD2GBP)",
     "d": "www.xe.com",
-    "t": "AUD2GDP",
+    "t": "aud2gdp",
     "u": "https://www.xe.com/currencyconverter/convert/?Amount={{{s}}}&From=AUD&To=GBP",
     "c": "Online Services",
     "sc": "Tools"
@@ -7797,7 +7797,7 @@
   {
     "s": "Pipl - Profile Search enguine",
     "d": "pipl.com",
-    "t": "BangPeople",
+    "t": "bangpeople",
     "u": "https://pipl.com/search/?q={{{s}}}",
     "c": "Online Services",
     "sc": "Search"
@@ -9731,7 +9731,7 @@
   {
     "s": "Bing UK",
     "d": "bing.co.uk",
-    "t": "Binguk",
+    "t": "binguk",
     "u": "https://bing.co.uk/?q={{{s}}}",
     "c": "Online Services",
     "sc": "Search (non-US)"
@@ -12705,7 +12705,7 @@
   {
     "s": "CajunLyrics",
     "d": "www.cajunlyrics.com",
-    "t": "CajunLyrics",
+    "t": "cajunlyrics",
     "u": "https://www.cajunlyrics.com/?page=search&word={{{s}}}",
     "c": "Multimedia",
     "sc": "Music (Lyrics)"
@@ -16230,7 +16230,7 @@
   {
     "s": "Colorado State University library",
     "d": "colostate-primo.hosted.exlibrisgroup.com",
-    "t": "Cololib",
+    "t": "cololib",
     "u": "https://colostate-primo.hosted.exlibrisgroup.com/primo-explore/search?vid=01COLSU&lang=en_US&primoQueryTemp=d&search_field=any&search_scope=Everything&query=any,contains,{{{s}}}",
     "c": "Research",
     "sc": "Academic"
@@ -16708,7 +16708,7 @@
   {
     "s": "Coolapk",
     "d": "www.coolapk.com",
-    "t": "Coolapk",
+    "t": "coolapk",
     "u": "https://www.coolapk.com/search?q={{{s}}}",
     "c": "Tech",
     "sc": "Downloads (apps)"
@@ -23842,7 +23842,7 @@
   {
     "s": "Discord Servers",
     "d": "discordservers.com",
-    "t": "DscSrv",
+    "t": "dscsrv",
     "u": "https://discordservers.com/?term={{{s}}}",
     "c": "Online Services",
     "sc": "Social"
@@ -40632,7 +40632,7 @@
   {
     "s": "Detect language to Chinese",
     "d": "translate.google.com",
-    "t": "gtzh-CN",
+    "t": "gtzh-cn",
     "u": "https://translate.google.com/#auto/zh-CN/{{{s}}}",
     "c": "Translation",
     "sc": "Google"
@@ -40640,7 +40640,7 @@
   {
     "s": "Detect language to traditional Chinese",
     "d": "translate.google.com",
-    "t": "gtzh-TW",
+    "t": "gtzh-tw",
     "u": "https://translate.google.com/#auto/zh-TW/{{{s}}}",
     "c": "Online Services",
     "sc": "Google"
@@ -48956,7 +48956,7 @@
   {
     "s": "KarmaPlace",
     "d": "www.karmaplace.com",
-    "t": "KarmaPlace",
+    "t": "karmaplace",
     "u": "https://www.karmaplace.com/catalogsearch/result/?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online (marketplace)"
@@ -54623,7 +54623,7 @@
   {
     "s": "Lazada Malaysia",
     "d": "www.lazada.com.my",
-    "t": "LzdMy",
+    "t": "lzdmy",
     "u": "https://www.lazada.com.my/catalog/?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
@@ -68610,7 +68610,7 @@
   {
     "s": "Perlentaucher",
     "d": "www.perlentaucher.de",
-    "t": "Perlen",
+    "t": "perlen",
     "u": "https://www.perlentaucher.de/nsuche?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Misc"
@@ -102589,7 +102589,7 @@
   {
     "s": "Λεξικό",
     "d": "el.m.wiktionary.org",
-    "t": "Λεξικό",
+    "t": "λεξικό",
     "u": "https://el.m.wiktionary.org/wiki/{{{s}}}",
     "c": "Research",
     "sc": "Academic"
@@ -106787,7 +106787,7 @@
   {
     "s": "Βικιπαίδεια",
     "d": "el.m.wikipedia.org",
-    "t": "Βικι",
+    "t": "βικι",
     "u": "https://el.m.wikipedia.org/wiki/{{{s}}}",
     "c": "Research",
     "sc": "Academic"
@@ -107351,7 +107351,7 @@
   {
     "s": "Libro.fm",
     "d": "libro.fm",
-    "t": "Libro",
+    "t": "libro",
     "u": "https://libro.fm/search?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
