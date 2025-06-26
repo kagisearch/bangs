@@ -35055,6 +35055,14 @@
     "sc": "Programming"
   },
   {
+    "s": "grep.app",
+    "d": "grep.app",
+    "t": "grep",
+    "u": "https://grep.app/search?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Programming"
+  },
+  {
     "s": "Geizhals",
     "d": "geizhals.de",
     "t": "ghde",
