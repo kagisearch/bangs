@@ -3316,295 +3316,491 @@
     "s": "Kagi Assistant (claude-3-haiku)",
     "d": "kagi.com",
     "t": "claude-3-haiku",
-    "u": "/assistant?profile=claude-3-haiku&q={{{s}}}"
+    "u": "/assistant?profile=claude-3-haiku&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (claude-3-haiku)",
     "d": "kagi.com",
     "t": "haiku",
-    "u": "/assistant?profile=claude-3-haiku&q={{{s}}}"
+    "u": "/assistant?profile=claude-3-haiku&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (claude-4-sonnet)",
     "d": "kagi.com",
     "t": "claude-4-sonnet",
-    "u": "/assistant?profile=claude-4-sonnet&q={{{s}}}"
+    "u": "/assistant?profile=claude-4-sonnet&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (claude-4-sonnet)",
     "d": "kagi.com",
     "t": "sonnet",
-    "u": "/assistant?profile=claude-4-sonnet&q={{{s}}}"
+    "u": "/assistant?profile=claude-4-sonnet&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (claude-4-opus)",
     "d": "kagi.com",
     "t": "claude-4-opus",
-    "u": "/assistant?profile=claude-4-opus&q={{{s}}}"
+    "u": "/assistant?profile=claude-4-opus&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (claude-4-opus)",
     "d": "kagi.com",
     "t": "opus",
-    "u": "/assistant?profile=claude-4-opus&q={{{s}}}"
+    "u": "/assistant?profile=claude-4-opus&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (claude-4-sonnet-thinking)",
     "d": "kagi.com",
     "t": "claude-4-sonnet-thinking",
-    "u": "/assistant?profile=claude-4-sonnet-thinking&q={{{s}}}"
+    "u": "/assistant?profile=claude-4-sonnet-thinking&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (claude-4-sonnet-thinking)",
     "d": "kagi.com",
     "t": "sonnett",
-    "u": "/assistant?profile=claude-4-sonnet-thinking&q={{{s}}}"
+    "u": "/assistant?profile=claude-4-sonnet-thinking&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (claude-4-opus-thinking)",
     "d": "kagi.com",
     "t": "opust",
-    "u": "/assistant?profile=claude-4-opus-thinking&q={{{s}}}"
+    "u": "/assistant?profile=claude-4-opus-thinking&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (gpt-4-1)",
     "d": "kagi.com",
     "t": "gpt-4-1",
-    "u": "/assistant?profile=gpt-4-1&q={{{s}}}"
+    "u": "/assistant?profile=gpt-4-1&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (o4-mini)",
     "d": "kagi.com",
     "t": "o4-mini",
-    "u": "/assistant?profile=o4-mini&q={{{s}}}"
+    "u": "/assistant?profile=o4-mini&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (o3)",
     "d": "kagi.com",
     "t": "o3",
-    "u": "/assistant?profile=o3&q={{{s}}}"
+    "u": "/assistant?profile=o3&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (o3-pro)",
     "d": "kagi.com",
     "t": "o3-pro",
-    "u": "/assistant?profile=o3-pro&q={{{s}}}"
+    "u": "/assistant?profile=o3-pro&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (gpt-4o)",
     "d": "kagi.com",
     "t": "gpt-4o",
-    "u": "/assistant?profile=gpt-4o&q={{{s}}}"
+    "u": "/assistant?profile=gpt-4o&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (gpt-4o)",
     "d": "kagi.com",
     "t": "4o",
-    "u": "/assistant?profile=gpt-4o&q={{{s}}}"
+    "u": "/assistant?profile=gpt-4o&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (chatgpt-4o)",
     "d": "kagi.com",
     "t": "chatgpt-4o",
-    "u": "/assistant?profile=chatgpt-4o&q={{{s}}}"
+    "u": "/assistant?profile=chatgpt-4o&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (gpt-4o-mini)",
     "d": "kagi.com",
     "t": "gpt-4o-mini",
-    "u": "/assistant?profile=gpt-4o-mini&q={{{s}}}"
+    "u": "/assistant?profile=gpt-4o-mini&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (gpt-4o-mini)",
     "d": "kagi.com",
     "t": "4om",
-    "u": "/assistant?profile=gpt-4o-mini&q={{{s}}}"
+    "u": "/assistant?profile=gpt-4o-mini&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (gpt-4-1-mini)",
     "d": "kagi.com",
     "t": "gpt-4-1-mini",
-    "u": "/assistant?profile=gpt-4-1-mini&q={{{s}}}"
+    "u": "/assistant?profile=gpt-4-1-mini&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (gpt-4-1-mini)",
     "d": "kagi.com",
     "t": "41m",
-    "u": "/assistant?profile=gpt-4-1-mini&q={{{s}}}"
+    "u": "/assistant?profile=gpt-4-1-mini&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (gpt-4-1-nano)",
     "d": "kagi.com",
     "t": "gpt-4-1-nano",
-    "u": "/assistant?profile=gpt-4-1-nano&q={{{s}}}"
+    "u": "/assistant?profile=gpt-4-1-nano&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (gpt-4-1-nano)",
     "d": "kagi.com",
     "t": "41n",
-    "u": "/assistant?profile=gpt-4-1-nano&q={{{s}}}"
+    "u": "/assistant?profile=gpt-4-1-nano&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (mistral-medium)",
     "d": "kagi.com",
     "t": "mistral-medium",
-    "u": "/assistant?profile=mistral-medium&q={{{s}}}"
+    "u": "/assistant?profile=mistral-medium&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (mistral-small)",
     "d": "kagi.com",
     "t": "mistral-small",
-    "u": "/assistant?profile=mistral-small&q={{{s}}}"
+    "u": "/assistant?profile=mistral-small&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (mistral-large)",
     "d": "kagi.com",
     "t": "mistral-large",
-    "u": "/assistant?profile=mistral-large&q={{{s}}}"
+    "u": "/assistant?profile=mistral-large&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (magistral-medium)",
     "d": "kagi.com",
     "t": "magistral-medium",
-    "u": "/assistant?profile=magistral-medium&q={{{s}}}"
+    "u": "/assistant?profile=magistral-medium&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (magistral-small)",
     "d": "kagi.com",
     "t": "magistral-small",
-    "u": "/assistant?profile=magistral-small&q={{{s}}}"
+    "u": "/assistant?profile=magistral-small&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (gemini-flash)",
     "d": "kagi.com",
     "t": "gemini-flash",
-    "u": "/assistant?profile=gemini-flash&q={{{s}}}"
+    "u": "/assistant?profile=gemini-flash&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (gemini-2-5-flash)",
     "d": "kagi.com",
     "t": "gemini-2-5-flash",
-    "u": "/assistant?profile=gemini-2-5-flash&q={{{s}}}"
+    "u": "/assistant?profile=gemini-2-5-flash&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (gemini-2-5-flash-thinking)",
     "d": "kagi.com",
     "t": "gemini-2-5-flash-thinking",
-    "u": "/assistant?profile=gemini-2-5-flash-thinking&q={{{s}}}"
+    "u": "/assistant?profile=gemini-2-5-flash-thinking&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (gemini-2-5-pro)",
     "d": "kagi.com",
     "t": "gemini-2-5-pro",
-    "u": "/assistant?profile=gemini-2-5-pro&q={{{s}}}"
+    "u": "/assistant?profile=gemini-2-5-pro&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (gemini-2-5-pro)",
     "d": "kagi.com",
     "t": "gemini-pro",
-    "u": "/assistant?profile=gemini-2-5-pro&q={{{s}}}"
+    "u": "/assistant?profile=gemini-2-5-pro&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (gemma-3-27b)",
     "d": "kagi.com",
     "t": "gemma-3-27b",
-    "u": "/assistant?profile=gemma-3-27b&q={{{s}}}"
+    "u": "/assistant?profile=gemma-3-27b&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (llama-4-maverick)",
     "d": "kagi.com",
     "t": "llama-4-maverick",
-    "u": "/assistant?profile=llama-4-maverick&q={{{s}}}"
+    "u": "/assistant?profile=llama-4-maverick&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (llama-4-scout)",
     "d": "kagi.com",
     "t": "llama-4-scout",
-    "u": "/assistant?profile=llama-4-scout&q={{{s}}}"
+    "u": "/assistant?profile=llama-4-scout&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (llama-4-scout)",
     "d": "kagi.com",
     "t": "llama",
-    "u": "/assistant?profile=llama-4-scout&q={{{s}}}"
+    "u": "/assistant?profile=llama-4-scout&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (qwen-3-235b-a22b-thinking)",
     "d": "kagi.com",
     "t": "qwen-3-235b-a22b-thinking",
-    "u": "/assistant?profile=qwen-3-235b-a22b-thinking&q={{{s}}}"
+    "u": "/assistant?profile=qwen-3-235b-a22b-thinking&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (qwen-3-235b-a22b)",
     "d": "kagi.com",
     "t": "qwen-3-235b-a22b",
-    "u": "/assistant?profile=qwen-3-235b-a22b&q={{{s}}}"
+    "u": "/assistant?profile=qwen-3-235b-a22b&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (qwen-3-32b-thinking)",
     "d": "kagi.com",
     "t": "qwen-3-32b-thinking",
-    "u": "/assistant?profile=qwen-3-32b-thinking&q={{{s}}}"
+    "u": "/assistant?profile=qwen-3-32b-thinking&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (qwen-3-32b-thinking)",
     "d": "kagi.com",
     "t": "qwent",
-    "u": "/assistant?profile=qwen-3-32b-thinking&q={{{s}}}"
+    "u": "/assistant?profile=qwen-3-32b-thinking&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (qwen-3-32b)",
     "d": "kagi.com",
     "t": "qwen-3-32b",
-    "u": "/assistant?profile=qwen-3-32b&q={{{s}}}"
+    "u": "/assistant?profile=qwen-3-32b&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (qwen-3-32b)",
     "d": "kagi.com",
     "t": "qwen",
-    "u": "/assistant?profile=qwen-3-32b&q={{{s}}}"
+    "u": "/assistant?profile=qwen-3-32b&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (deepseek)",
     "d": "kagi.com",
     "t": "deepseek",
-    "u": "/assistant?profile=deepseek&q={{{s}}}"
+    "u": "/assistant?profile=deepseek&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (deepseek-r1)",
     "d": "kagi.com",
     "t": "deepseek-r1",
-    "u": "/assistant?profile=deepseek-r1&q={{{s}}}"
+    "u": "/assistant?profile=deepseek-r1&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (deepseek-r1)",
     "d": "kagi.com",
     "t": "r1",
-    "u": "/assistant?profile=deepseek-r1&q={{{s}}}"
+    "u": "/assistant?profile=deepseek-r1&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (deepseek-r1-distill-llama-70b)",
     "d": "kagi.com",
     "t": "deepseek-r1-distill-llama-70b",
-    "u": "/assistant?profile=deepseek-r1-distill-llama-70b&q={{{s}}}"
+    "u": "/assistant?profile=deepseek-r1-distill-llama-70b&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (deepseek-r1-distill-llama-70b)",
     "d": "kagi.com",
     "t": "r1-llama",
-    "u": "/assistant?profile=deepseek-r1-distill-llama-70b&q={{{s}}}"
+    "u": "/assistant?profile=deepseek-r1-distill-llama-70b&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (grok-3-mini)",
     "d": "kagi.com",
     "t": "grok-3-mini",
-    "u": "/assistant?profile=grok-3-mini&q={{{s}}}"
+    "u": "/assistant?profile=grok-3-mini&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (grok-3)",
     "d": "kagi.com",
     "t": "grok-3",
-    "u": "/assistant?profile=grok-3&q={{{s}}}"
+    "u": "/assistant?profile=grok-3&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Kagi Assistant (Ki)",
