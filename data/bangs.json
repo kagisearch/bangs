@@ -107349,19 +107349,19 @@
     "sc": "Music"
   },
   {
-    "s": "Libro.fm",
-    "d": "libro.fm",
-    "t": "libro",
-    "u": "https://libro.fm/search?utf8=%E2%9C%93&q={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
     "s": "winget.run",
     "d": "winget.run",
     "t": "winget",
     "u": "https://winget.run/search?query={{{s}}}",
     "c": "Tech",
     "sc": "Downloads (apps)"
+  },
+  {
+    "s": "Libro.fm",
+    "d": "libro.fm",
+    "t": "libro",
+    "u": "https://libro.fm/search?utf8=%E2%9C%93&q={{{s}}}",
+    "c": "Shopping",
+    "sc": "Online"
   }
 ]
