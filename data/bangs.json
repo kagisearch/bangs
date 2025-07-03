@@ -107349,6 +107349,14 @@
     "sc": "Music"
   },
   {
+    "s": "winget.run",
+    "d": "winget.run",
+    "t": "winget",
+    "u": "https://winget.run/search?query={{{s}}}",
+    "c": "Tech",
+    "sc": "Downloads (apps)"
+  },
+  {
     "s": "Libro.fm",
     "d": "libro.fm",
     "t": "libro",
