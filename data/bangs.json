@@ -1444,7 +1444,7 @@
     "s": "Allociné",
     "d": "www.allocine.fr",
     "t": "ac",
-    "u": "https://www.allocine.fr/recherche/?q={{{s}}}",
+    "u": "https://www.allocine.fr/rechercher/?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Movies"
   },
@@ -3225,7 +3225,7 @@
     "s": "Allociné",
     "d": "www.allocine.fr",
     "t": "allo",
-    "u": "https://www.allocine.fr/recherche/?q={{{s}}}",
+    "u": "https://www.allocine.fr/rechercher/?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Movies"
   },
@@ -3233,7 +3233,7 @@
     "s": "Allocine.com",
     "d": "www.allocine.fr",
     "t": "allocine",
-    "u": "https://www.allocine.fr/recherche/?q={{{s}}}",
+    "u": "https://www.allocine.fr/rechercher/?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Movies"
   },
@@ -3241,7 +3241,7 @@
     "s": "Allociné",
     "d": "www.allocine.fr",
     "t": "allociné",
-    "u": "https://www.allocine.fr/recherche/?q={{{s}}}",
+    "u": "https://www.allocine.fr/rechercher/?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Movies"
   },
