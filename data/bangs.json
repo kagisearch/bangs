@@ -86954,6 +86954,14 @@
     "sc": "Tech"
   },
   {
+    "s": "Temu",
+    "d": "www.temu.com",
+    "t": "temu",
+    "u": "https://www.temu.com/search_result.html?search_key={{{s}}}",
+    "c": "Shopping",
+    "sc": "Online (marketplace)"
+  },
+  {
     "s": "https://temp-mail.org/",
     "d": "temp-mail.org",
     "t": "tempmail",
