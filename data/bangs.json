@@ -56509,10 +56509,26 @@
     ]
   },
   {
-    "s": "Minecraft Name History",
+    "s": "NameMC",
     "d": "namemc.com",
     "t": "mcname",
     "u": "https://namemc.com/search?q={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (Minecraft)"
+  },
+  {
+    "s": "Laby",
+    "d": "laby.net",
+    "t": "laby",
+    "u": "https://laby.net/@{{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (Minecraft)"
+  },
+  {
+    "s": "Crafty",
+    "d": "crafty.gg",
+    "t": "crafty",
+    "u": "https://crafty.gg/players?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (Minecraft)"
   },
@@ -61318,9 +61334,9 @@
   },
   {
     "s": "NameMC",
-    "d": "de.namemc.com",
+    "d": "namemc.com",
     "t": "namemc",
-    "u": "https://de.namemc.com/search?q={{{s}}}",
+    "u": "https://namemc.com/search?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (Minecraft)"
   },
