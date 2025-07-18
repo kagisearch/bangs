@@ -56517,6 +56517,14 @@
     "sc": "Games (Minecraft)"
   },
   {
+    "s": "Laby",
+    "d": "laby.net",
+    "t": "laby",
+    "u": "https://laby.net/@{{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (Minecraft)"
+  },
+  {
     "s": "MetaCPAN",
     "d": "metacpan.org",
     "t": "mcpan",
