@@ -61318,9 +61318,9 @@
   },
   {
     "s": "NameMC",
-    "d": "de.namemc.com",
+    "d": "namemc.com",
     "t": "namemc",
-    "u": "https://de.namemc.com/search?q={{{s}}}",
+    "u": "https://namemc.com/search?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (Minecraft)"
   },
