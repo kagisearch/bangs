@@ -56525,6 +56525,14 @@
     "sc": "Games (Minecraft)"
   },
   {
+    "s": "Crafty",
+    "d": "crafty.gg",
+    "t": "crafty",
+    "u": "https://crafty.gg/players?search={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (Minecraft)"
+  },
+  {
     "s": "MetaCPAN",
     "d": "metacpan.org",
     "t": "mcpan",
