@@ -8176,7 +8176,7 @@
     "s": "British Board of Film Classification",
     "d": "www.bbfc.co.uk",
     "t": "bbfc",
-    "u": "https://www.bbfc.co.uk/search/releases/{{{s}}}",
+    "u": "https://www.bbfc.co.uk/search?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Movies"
   },
