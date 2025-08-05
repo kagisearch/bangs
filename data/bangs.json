@@ -4542,10 +4542,10 @@
     "sc": "Newspaper"
   },
   {
-    "s": "docs.ansible.com",
+    "s": "Ansible Docs",
     "d": "docs.ansible.com",
     "t": "ansible",
-    "u": "https://docs.ansible.com/ansible/latest/#stq={{{s}}}&stp=1",
+    "u": "https://docs.ansible.com/ansible/latest/search.html?q={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin"
   },
