@@ -4553,7 +4553,7 @@
     "s": "Ansible Galaxy",
     "d": "galaxy.ansible.com",
     "t": "ansible-galaxy",
-    "u": "https://galaxy.ansible.com/list#/roles?page=1&page_size=10&autocomplete={{{s}}}",
+    "u": "https://galaxy.ansible.com/ui/search/?keywords={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin"
   },
