@@ -25386,9 +25386,9 @@
   },
   {
     "s": "Eco Wiki",
-    "d": "eco.gamepedia.com",
+    "d": "wiki.play.eco",
     "t": "ecowiki",
-    "u": "https://eco.gamepedia.com/index.php?search={{{s}}}&title=Special:Search",
+    "u": "https://wiki.play.eco/index.php?search={{{s}}}&title=Special:Search",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
