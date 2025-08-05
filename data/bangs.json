@@ -32472,9 +32472,9 @@
   },
   {
     "s": "Unofficial Feed The Beast Wiki",
-    "d": "ftb.gamepedia.com",
+    "d": "ftbwiki.org",
     "t": "ftbwiki",
-    "u": "https://ftb.gamepedia.com/index.php?title=Special:Search&search={{{s}}}",
+    "u": "https://ftbwiki.org/index.php?title=Special:Search&search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (Minecraft)"
   },
