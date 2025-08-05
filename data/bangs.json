@@ -4561,7 +4561,7 @@
     "s": "Ansible Module Documentation",
     "d": "docs.ansible.com",
     "t": "ansiblemod",
-    "u": "https://docs.ansible.com/ansible/{{{s}}}_module.html",
+    "u": "https://docs.ansible.com/ansible/latest/collections/ansible/builtin/{{{s}}}_module.html",
     "c": "Tech",
     "sc": "Sysadmin"
   },
