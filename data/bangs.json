@@ -5866,9 +5866,9 @@
   },
   {
     "s": "Ark official Wiki",
-    "d": "ark.gamepedia.com",
+    "d": "ark.wiki.gg",
     "t": "arkwiki",
-    "u": "https://ark.gamepedia.com/index.php?search={{{s}}}",
+    "u": "https://ark.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
