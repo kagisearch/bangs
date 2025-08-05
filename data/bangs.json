@@ -19918,9 +19918,9 @@
   },
   {
     "s": "Official Darkest Dungeon Wiki",
-    "d": "darkestdungeon.gamepedia.com",
+    "d": "darkestdungeon.wiki.gg",
     "t": "ddwiki",
-    "u": "https://darkestdungeon.gamepedia.com/index.php?search={{{s}}}",
+    "u": "https://darkestdungeon.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
