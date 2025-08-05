@@ -100251,9 +100251,9 @@
   },
   {
     "s": "Wynncraft Wiki",
-    "d": "wynncraft.gamepedia.com",
+    "d": "wynncraft.wiki.gg",
     "t": "wynn",
-    "u": "https://wynncraft.gamepedia.com/index.php?search={{{s}}}",
+    "u": "https://wynncraft.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (Minecraft)"
   },
