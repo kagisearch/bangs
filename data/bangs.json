@@ -28014,11 +28014,11 @@
   },
   {
     "s": "Enter the Gungeon Wiki",
-    "d": "enterthegungeon.gamepedia.com",
+    "d": "enterthegungeon.wiki.gg",
     "t": "etg",
-    "u": "https://enterthegungeon.gamepedia.com/index.php?search={{{s}}}",
+    "u": "https://enterthegungeon.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
-    "sc": "Games (general)"
+    "sc": "Games (specific)"
   },
   {
     "s": "etherscan",
