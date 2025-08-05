@@ -33140,7 +33140,7 @@
     "s": "Ansible Galaxy",
     "d": "galaxy.ansible.com",
     "t": "galaxy",
-    "u": "https://galaxy.ansible.com/search?keywords={{{s}}}",
+    "u": "https://galaxy.ansible.com/ui/search/?keywords={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin"
   },
