@@ -10780,11 +10780,11 @@
   },
   {
     "s": "Binding of Isaac: Rebirth Wiki",
-    "d": "bindingofisaacrebirth.gamepedia.com",
+    "d": "bindingofisaacrebirth.wiki.gg",
     "t": "boi",
-    "u": "https://bindingofisaacrebirth.gamepedia.com/index.php?search={{{s}}}",
+    "u": "https://bindingofisaacrebirth.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
-    "sc": "Games (general)"
+    "sc": "Games (specific)"
   },
   {
     "s": "boingboing",
@@ -46600,9 +46600,9 @@
   },
   {
     "s": "The Binding of Isaac Rebirth Wiki",
-    "d": "bindingofisaacrebirth.gamepedia.com",
+    "d": "bindingofisaacrebirth.wiki.gg",
     "t": "isaac",
-    "u": "https://bindingofisaacrebirth.gamepedia.com/index.php?search={{{s}}}",
+    "u": "https://bindingofisaacrebirth.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
@@ -74396,12 +74396,12 @@
     "sc": "Online"
   },
   {
-    "s": "Binding of Isaac Rebirth Gamepedia",
-    "d": "bindingofisaacrebirth.gamepedia.com",
+    "s": "Binding of Isaac Rebirth Wiki",
+    "d": "bindingofisaacrebirth.wiki.gg",
     "t": "rebirth",
-    "u": "https://bindingofisaacrebirth.gamepedia.com/index.php?search={{{s}}}",
+    "u": "https://bindingofisaacrebirth.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
-    "sc": "Games (general)"
+    "sc": "Games (specific)"
   },
   {
     "s": "Red de Bibliotecas REBIUN",
