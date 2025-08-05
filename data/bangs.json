@@ -19292,9 +19292,9 @@
   },
   {
     "s": "Dead by Daylight Wiki",
-    "d": "deadbydaylight.gamepedia.com",
+    "d": "deadbydaylight.wiki.gg",
     "t": "dbd",
-    "u": "https://deadbydaylight.gamepedia.com/index.php?search={{{s}}}&title=Special:Search&go=Go",
+    "u": "https://deadbydaylight.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
