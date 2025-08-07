@@ -5866,9 +5866,9 @@
   },
   {
     "s": "Ark official Wiki",
-    "d": "ark.gamepedia.com",
+    "d": "ark.wiki.gg",
     "t": "arkwiki",
-    "u": "https://ark.gamepedia.com/index.php?search={{{s}}}",
+    "u": "https://ark.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
@@ -10780,11 +10780,11 @@
   },
   {
     "s": "Binding of Isaac: Rebirth Wiki",
-    "d": "bindingofisaacrebirth.gamepedia.com",
+    "d": "bindingofisaacrebirth.wiki.gg",
     "t": "boi",
-    "u": "https://bindingofisaacrebirth.gamepedia.com/index.php?search={{{s}}}",
+    "u": "https://bindingofisaacrebirth.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
-    "sc": "Games (general)"
+    "sc": "Games (specific)"
   },
   {
     "s": "boingboing",
@@ -19292,9 +19292,9 @@
   },
   {
     "s": "Dead by Daylight Wiki",
-    "d": "deadbydaylight.gamepedia.com",
+    "d": "deadbydaylight.wiki.gg",
     "t": "dbd",
-    "u": "https://deadbydaylight.gamepedia.com/index.php?search={{{s}}}&title=Special:Search&go=Go",
+    "u": "https://deadbydaylight.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
@@ -19918,9 +19918,9 @@
   },
   {
     "s": "Official Darkest Dungeon Wiki",
-    "d": "darkestdungeon.gamepedia.com",
+    "d": "darkestdungeon.wiki.gg",
     "t": "ddwiki",
-    "u": "https://darkestdungeon.gamepedia.com/index.php?search={{{s}}}",
+    "u": "https://darkestdungeon.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
@@ -25386,9 +25386,9 @@
   },
   {
     "s": "Eco Wiki",
-    "d": "eco.gamepedia.com",
+    "d": "wiki.play.eco",
     "t": "ecowiki",
-    "u": "https://eco.gamepedia.com/index.php?search={{{s}}}&title=Special:Search",
+    "u": "https://wiki.play.eco/index.php?search={{{s}}}&title=Special:Search",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
@@ -28014,11 +28014,11 @@
   },
   {
     "s": "Enter the Gungeon Wiki",
-    "d": "enterthegungeon.gamepedia.com",
+    "d": "enterthegungeon.wiki.gg",
     "t": "etg",
-    "u": "https://enterthegungeon.gamepedia.com/index.php?search={{{s}}}",
+    "u": "https://enterthegungeon.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
-    "sc": "Games (general)"
+    "sc": "Games (specific)"
   },
   {
     "s": "etherscan",
@@ -32472,9 +32472,9 @@
   },
   {
     "s": "Unofficial Feed The Beast Wiki",
-    "d": "ftb.gamepedia.com",
+    "d": "ftbwiki.org",
     "t": "ftbwiki",
-    "u": "https://ftb.gamepedia.com/index.php?title=Special:Search&search={{{s}}}",
+    "u": "https://ftbwiki.org/index.php?title=Special:Search&search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (Minecraft)"
   },
@@ -46600,9 +46600,9 @@
   },
   {
     "s": "The Binding of Isaac Rebirth Wiki",
-    "d": "bindingofisaacrebirth.gamepedia.com",
+    "d": "bindingofisaacrebirth.wiki.gg",
     "t": "isaac",
-    "u": "https://bindingofisaacrebirth.gamepedia.com/index.php?search={{{s}}}",
+    "u": "https://bindingofisaacrebirth.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
@@ -65501,9 +65501,9 @@
   },
   {
     "s": "Oxygen Not Included Wiki",
-    "d": "oxygennotincluded.gamepedia.com",
+    "d": "oxygennotincluded.wiki.gg",
     "t": "oni",
-    "u": "https://oxygennotincluded.gamepedia.com/index.php?search={{{s}}}",
+    "u": "https://oxygennotincluded.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
@@ -70441,7 +70441,7 @@
     "sc": "General"
   },
   {
-    "s": "Path of Exile Wiki",
+    "s": "Path of Exile Gamepedia",
     "d": "pathofexile.gamepedia.com",
     "t": "poewiki",
     "u": "https://pathofexile.gamepedia.com/index.php?title=Special:Search&profile=default&search={{{s}}}&fulltext=Search",
@@ -74396,12 +74396,12 @@
     "sc": "Online"
   },
   {
-    "s": "Binding of Isaac Rebirth Gamepedia",
-    "d": "bindingofisaacrebirth.gamepedia.com",
+    "s": "Binding of Isaac Rebirth Wiki",
+    "d": "bindingofisaacrebirth.wiki.gg",
     "t": "rebirth",
-    "u": "https://bindingofisaacrebirth.gamepedia.com/index.php?search={{{s}}}",
+    "u": "https://bindingofisaacrebirth.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
-    "sc": "Games (general)"
+    "sc": "Games (specific)"
   },
   {
     "s": "Red de Bibliotecas REBIUN",
@@ -100251,9 +100251,9 @@
   },
   {
     "s": "Wynncraft Wiki",
-    "d": "wynncraft.gamepedia.com",
+    "d": "wynncraft.wiki.gg",
     "t": "wynn",
-    "u": "https://wynncraft.gamepedia.com/index.php?search={{{s}}}",
+    "u": "https://wynncraft.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (Minecraft)"
   },
