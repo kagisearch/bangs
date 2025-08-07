@@ -9620,7 +9620,7 @@
     "s": "bilibili",
     "d": "www.bilibili.com",
     "t": "bili",
-    "u": "https://www.bilibili.com/search?keyword={{{s}}}:",
+    "u": "https://www.bilibili.com/search?keyword={{{s}}}",
     "c": "Multimedia",
     "sc": "Video"
   },
