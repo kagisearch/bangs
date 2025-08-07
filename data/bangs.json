@@ -4542,10 +4542,10 @@
     "sc": "Newspaper"
   },
   {
-    "s": "docs.ansible.com",
+    "s": "Ansible Docs",
     "d": "docs.ansible.com",
     "t": "ansible",
-    "u": "https://docs.ansible.com/ansible/latest/#stq={{{s}}}&stp=1",
+    "u": "https://docs.ansible.com/ansible/latest/search.html?q={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin"
   },
@@ -4553,7 +4553,7 @@
     "s": "Ansible Galaxy",
     "d": "galaxy.ansible.com",
     "t": "ansible-galaxy",
-    "u": "https://galaxy.ansible.com/list#/roles?page=1&page_size=10&autocomplete={{{s}}}",
+    "u": "https://galaxy.ansible.com/ui/search/?keywords={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin"
   },
@@ -4561,7 +4561,7 @@
     "s": "Ansible Module Documentation",
     "d": "docs.ansible.com",
     "t": "ansiblemod",
-    "u": "https://docs.ansible.com/ansible/{{{s}}}_module.html",
+    "u": "https://docs.ansible.com/ansible/latest/collections/ansible/builtin/{{{s}}}_module.html",
     "c": "Tech",
     "sc": "Sysadmin"
   },
@@ -33140,7 +33140,7 @@
     "s": "Ansible Galaxy",
     "d": "galaxy.ansible.com",
     "t": "galaxy",
-    "u": "https://galaxy.ansible.com/search?keywords={{{s}}}",
+    "u": "https://galaxy.ansible.com/ui/search/?keywords={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin"
   },
