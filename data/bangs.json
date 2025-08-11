@@ -50310,7 +50310,7 @@
     "s": "Kielitoimiston sanakirja",
     "d": "www.kielitoimistonsanakirja.fi",
     "t": "kotus",
-    "u": "https://www.kielitoimistonsanakirja.fi/netmot.exe?page=results&UI=fi80&Opt=8&dic=1&SearchWord={{{s}}}&SearchMode=1",
+    "u": "https://www.kielitoimistonsanakirja.fi/#/{{{s}}}?searchMode=all",
     "c": "Research",
     "sc": "Reference (words intl)"
   },
