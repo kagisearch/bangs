@@ -447,6 +447,13 @@
     "c": "Region search"
   },
   {
+    "s": "Search in Finland",
+    "d": "kagi.com",
+    "t": "fi",
+    "u": "/search?q={{{s}}}&r=fi",
+    "c": "Region search"
+  },
+  {
     "s": "Search in Iran",
     "d": "kagi.com",
     "t": "ir",

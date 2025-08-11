@@ -30280,14 +30280,6 @@
     "sc": "Sports"
   },
   {
-    "s": "finanzen.net",
-    "d": "www.finanzen.net",
-    "t": "fi",
-    "u": "https://www.finanzen.net/suchergebnis.asp?strSuchString={{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools"
-  },
-  {
     "s": "The Fifth City: Fallen London Lore Wikia",
     "d": "thefifthcity.wikia.com",
     "t": "fifthcity",
