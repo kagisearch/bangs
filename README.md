@@ -241,6 +241,7 @@ Key   | Description  | Required | Notes
 `d`   | Domain       | yes      |
 `ad`  | Alternate Domain | no   | Can be used to specify the domain of the results if the bang searches another website. See `hn` bang.
 `t`   | Trigger      | yes      | May contain letters, numbers, dashes (`-`), and underscores (`_`). No spaces or other special characters.
+`ts`  | Additional triggers     | Additional triggers that invoke this bang
 `u`   | URL template | yes      | Use `{{{s}}}` for query placeholder.
 `x`   | Regex pattern | no      | Regex pattern that can be used for parsing the query for more complex bangs, allowing substition using `$1`, `$2`, etc.
 `c`   | Category     | no       |
