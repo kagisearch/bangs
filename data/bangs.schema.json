@@ -26,6 +26,14 @@
         "title": "Trigger",
         "description": "The specific trigger word or phrase used to invoke the bang."
       },
+      "ts": {
+        "type": "array",
+        "title": "Additional Triggers",
+        "description": "Other triggers for this bang other than the primary",
+        "items": {
+          "type": "string"
+        }
+      },
       "u": {
         "type": "string",
         "title": "Template URL",
