@@ -34452,8 +34452,32 @@
     "d": "genius.com",
     "t": "gen",
     "u": "https://genius.com/search?q={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Audio"
+    "c": "Multimedia",
+    "sc": "Music (Lyrics)"
+  },
+  {
+    "s": "Genius",
+    "d": "genius.com",
+    "t": "genius",
+    "u": "https://genius.com/search?q={{{s}}}",
+    "c": "Multimedia",
+    "sc": "Music (Lyrics)"
+  },
+  {
+    "s": "Genius",
+    "d": "genius.com",
+    "t": "rap",
+    "u": "https://genius.com/search?q={{{s}}}",
+    "c": "Multimedia",
+    "sc": "Music (Lyrics)"
+  },
+  {
+    "s": "Genius",
+    "d": "genius.com",
+    "t": "rg",
+    "u": "https://genius.com/search?q={{{s}}}",
+    "c": "Multimedia",
+    "sc": "Music (Lyrics)"
   },
   {
     "s": "Glosbe",
@@ -34470,14 +34494,6 @@
     "u": "https://genickbruch.com/index.php?befehl=suche&sname={{{s}}}",
     "c": "Entertainment",
     "sc": "Sports"
-  },
-  {
-    "s": "genius.com",
-    "d": "genius.com",
-    "t": "genius",
-    "u": "https://genius.com/search?q={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Music (Lyrics)"
   },
   {
     "s": "Genma Blog (Kagi Search)",
@@ -73715,28 +73731,12 @@
     "sc": "Online"
   },
   {
-    "s": "Rap Genius",
-    "d": "rapgenius.com",
-    "t": "rapgenius",
-    "u": "https://rapgenius.com/search?q={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Music (Lyrics)"
-  },
-  {
     "s": "Rapid Online",
     "d": "www.rapidonline.com",
     "t": "rapidonline",
     "u": "https://www.rapidonline.com/Catalogue/Search?Query={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
-  },
-  {
-    "s": "rapgenius",
-    "d": "genius.com",
-    "t": "rap",
-    "u": "https://genius.com/search?q={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Audio"
   },
   {
     "s": "Resident Advisor",
@@ -75490,14 +75490,6 @@
     "u": "https://www.reddit.com/r/GlobalOffensive/search/?q={{{s}}}&restrict_sr=1",
     "c": "Entertainment",
     "sc": "Games (general)"
-  },
-  {
-    "s": "Rap Genius",
-    "d": "rapgenius.com",
-    "t": "rg",
-    "u": "https://rapgenius.com/search?q={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Music"
   },
   {
     "s": "Red Hat Bugzilla",
