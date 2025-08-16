@@ -25852,14 +25852,6 @@
     "sc": "Online (marketplace)"
   },
   {
-    "s": "GitHub",
-    "d": "github.com",
-    "t": "eips",
-    "u": "https://github.com/ethereum/EIPs/issues?utf8=%E2%9C%93&q={{{s}}}",
-    "c": "Tech",
-    "sc": "Cryptocurrency"
-  },
-  {
     "s": "Encyclopædia Iranica",
     "d": "www.iranicaonline.org",
     "t": "eir",
@@ -35047,42 +35039,50 @@
     "sc": "Online (deals)"
   },
   {
-    "s": "GitHub Code",
+    "s": "GitHub",
     "d": "github.com",
-    "t": "ghc",
-    "u": "https://github.com/search?utf8=%E2%9C%93&q={{{s}}}&type=Code",
+    "t": "gh",
+    "u": "https://github.com/search?q={{{s}}}",
     "c": "Tech",
     "sc": "Programming"
-  },
-  {
-    "s": "Github (code search)",
-    "d": "github.com",
-    "t": "ghcode",
-    "u": "https://github.com/search?utf8=%E2%9C%93&q={{{s}}}&type=Code",
-    "c": "Tech",
-    "sc": "Programming"
-  },
-  {
-    "s": "grep.app",
-    "d": "grep.app",
-    "t": "grep",
-    "u": "https://grep.app/search?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Programming"
-  },
-  {
-    "s": "Geizhals",
-    "d": "geizhals.de",
-    "t": "ghde",
-    "u": "https://geizhals.de/?fs={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
   },
   {
     "s": "GitHub",
     "d": "github.com",
-    "t": "gh",
-    "u": "https://github.com/search?utf8=%E2%9C%93&q={{{s}}}",
+    "t": "git",
+    "u": "https://github.com/search?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Programming"
+  },
+  {
+    "s": "GitHub",
+    "d": "github.com",
+    "t": "github",
+    "u": "https://github.com/search?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Programming"
+  },
+  {
+    "s": "GitHub User",
+    "d": "github.com",
+    "t": "ghus",
+    "u": "https://github.com/{{{s}}}/",
+    "c": "Tech",
+    "sc": "Programming"
+  },
+  {
+    "s": "GitHub User Search",
+    "d": "github.com",
+    "t": "ghuser",
+    "u": "https://github.com/search?type=Users&q={{{s}}}",
+    "c": "Tech",
+    "sc": "Programming"
+  },
+  {
+    "s": "GitHub Stars",
+    "d": "github.com",
+    "t": "githubstars",
+    "u": "https://github.com/stars?q={{{s}}}",
     "c": "Tech",
     "sc": "Programming"
   },
@@ -35099,6 +35099,92 @@
     ]
   },
   {
+    "s": "GitHub Code",
+    "d": "github.com",
+    "t": "ghc",
+    "u": "https://github.com/search?q={{{s}}}&type=Code",
+    "c": "Tech",
+    "sc": "Programming"
+  },
+  {
+    "s": "GitHub Code",
+    "d": "github.com",
+    "t": "ghcode",
+    "u": "https://github.com/search?q={{{s}}}&type=Code",
+    "c": "Tech",
+    "sc": "Programming"
+  },
+  {
+    "s": "GitHub JavaScript Code",
+    "d": "github.com",
+    "t": "ghjs",
+    "u": "https://github.com/search?l=JavaScript&o=desc&q={{{s}}}&s=indexed&type=Code",
+    "c": "Tech",
+    "sc": "Languages (javascript)"
+  },
+  {
+    "s": "GitHub Private Search",
+    "d": "github.com",
+    "t": "ghp",
+    "u": "https://github.com/search?q=is:private+{{{s}}}",
+    "c": "Tech",
+    "sc": "Downloads (code)"
+  },
+  {
+    "s": "GitHub Repo",
+    "d": "github.com",
+    "t": "ghrepo",
+    "u": "https://github.com/{{{s}}}",
+    "c": "Tech",
+    "sc": "Programming",
+    "fmt": [
+      "open_base_path"
+    ]
+  },
+  {
+    "s": "GitHub Repo",
+    "d": "github.com",
+    "t": "ghr",
+    "u": "https://github.com/{{{s}}}",
+    "c": "Tech",
+    "sc": "Programming",
+    "fmt": [
+      "open_base_path"
+    ]
+  },
+  {
+    "s": "GitHub Trending",
+    "d": "github.com",
+    "t": "ght",
+    "u": "https://github.com/trending/{{{s}}}",
+    "c": "Tech",
+    "sc": "Programming"
+  },
+  {
+    "s": "GitHub Topic",
+    "d": "github.com",
+    "t": "ghtopic",
+    "u": "https://github.com/topic/{{{s}}}",
+    "c": "Tech",
+    "sc": "Programming"
+  },
+  {
+    "s": "GitHub Gists",
+    "d": "gist.github.com",
+    "t": "gist",
+    "u": "https://gist.github.com/search?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Programming"
+  },
+  {
+    "s": "GitHub Help",
+    "d": "help.github.com",
+    "t": "githubhelp",
+    "u": "https://help.github.com/search/?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Programming"
+  },
+  {
     "s": "GitHub Pages (Kagi Search)",
     "d": "kagi.com",
     "t": "ghio",
@@ -35108,12 +35194,28 @@
     "ad": "github.io"
   },
   {
-    "s": "GitHub JavaScript Code Search",
+    "s": "EIPs GitHub Issues",
     "d": "github.com",
-    "t": "ghjs",
-    "u": "https://github.com/search?l=JavaScript&o=desc&q={{{s}}}&s=indexed&type=Code",
+    "t": "eips",
+    "u": "https://github.com/ethereum/EIPs/issues?q={{{s}}}",
     "c": "Tech",
-    "sc": "Languages (javascript)"
+    "sc": "Cryptocurrency"
+  },
+  {
+    "s": "grep.app",
+    "d": "grep.app",
+    "t": "grep",
+    "u": "https://grep.app/search?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Programming"
+  },
+  {
+    "s": "Geizhals",
+    "d": "geizhals.de",
+    "t": "ghde",
+    "u": "https://geizhals.de/?fs={{{s}}}",
+    "c": "Shopping",
+    "sc": "Online"
   },
   {
     "s": "Google HK",
@@ -35140,52 +35242,6 @@
     "sc": "Google"
   },
   {
-    "s": "GitHub Private Search",
-    "d": "github.com",
-    "t": "ghp",
-    "u": "https://github.com/search?q=is:private+{{{s}}}",
-    "c": "Tech",
-    "sc": "Downloads (code)"
-  },
-  {
-    "s": "GitHub Repo",
-    "d": "github.com",
-    "t": "ghrepo",
-    "u": "https://github.com/{{{s}}}",
-    "c": "Tech",
-    "sc": "Programming",
-    "fmt": [
-      "open_base_path"
-    ]
-  },
-  {
-    "s": "Github Repo",
-    "d": "github.com",
-    "t": "ghr",
-    "u": "https://github.com/{{{s}}}",
-    "c": "Tech",
-    "sc": "Programming",
-    "fmt": [
-      "open_base_path"
-    ]
-  },
-  {
-    "s": "Github - Trending",
-    "d": "github.com",
-    "t": "ght",
-    "u": "https://github.com/trending/{{{s}}}",
-    "c": "Tech",
-    "sc": "Programming"
-  },
-  {
-    "s": "GitHub Topic",
-    "d": "github.com",
-    "t": "ghtopic",
-    "u": "https://github.com/topic/{{{s}}}",
-    "c": "Tech",
-    "sc": "Programming"
-  },
-  {
     "s": "Glosbe",
     "d": "en.glosbe.com",
     "t": "ghuen",
@@ -35200,22 +35256,6 @@
     "u": "https://www.google.hu/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
-  },
-  {
-    "s": "GitHub",
-    "d": "github.com",
-    "t": "ghuser",
-    "u": "https://github.com/search?type=Users&q={{{s}}}",
-    "c": "Tech",
-    "sc": "Programming"
-  },
-  {
-    "s": "Github User",
-    "d": "github.com",
-    "t": "ghus",
-    "u": "https://github.com/{{{s}}}/",
-    "c": "Tech",
-    "sc": "Programming"
   },
   {
     "s": "GIA",
@@ -35538,14 +35578,6 @@
     "sc": "Maps"
   },
   {
-    "s": "Github Gists",
-    "d": "gist.github.com",
-    "t": "gist",
-    "u": "https://gist.github.com/search?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Programming"
-  },
-  {
     "s": "libgit2 documentation",
     "d": "libgit2.github.io",
     "t": "git2",
@@ -35558,38 +35590,6 @@
     "d": "git-scm.com",
     "t": "gitdocs",
     "u": "https://git-scm.com/search/results?search={{{s}}}",
-    "c": "Tech",
-    "sc": "Programming"
-  },
-  {
-    "s": "Github",
-    "d": "github.com",
-    "t": "git",
-    "u": "https://github.com/search?utf8=%E2%9C%93&q={{{s}}}",
-    "c": "Tech",
-    "sc": "Programming"
-  },
-  {
-    "s": "GitHub.com",
-    "d": "github.com",
-    "t": "github",
-    "u": "https://github.com/search?q={{{s}}}&type=Everything&repo=&langOverride=&start_value=1",
-    "c": "Tech",
-    "sc": "Downloads (code)"
-  },
-  {
-    "s": "GitHub Help",
-    "d": "help.github.com",
-    "t": "githubhelp",
-    "u": "https://help.github.com/search/?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Programming"
-  },
-  {
-    "s": "Github Stars",
-    "d": "github.com",
-    "t": "githubstars",
-    "u": "https://github.com/stars?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Tech",
     "sc": "Programming"
   },
