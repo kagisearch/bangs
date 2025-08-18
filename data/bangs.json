@@ -36939,7 +36939,7 @@
     "sc": "Google"
   },
   {
-    "s": "Google poland",
+    "s": "Google Poland",
     "d": "www.google.pl",
     "t": "googlepl",
     "u": "https://www.google.pl/#q={{{s}}}",
@@ -37003,7 +37003,7 @@
     "sc": "Search (non-US)"
   },
   {
-    "s": "unencrypted google search",
+    "s": "Google",
     "d": "www.google.com",
     "t": "goog",
     "u": "https://www.google.com/?q={{{s}}}",
@@ -37692,7 +37692,7 @@
     "sc": "General"
   },
   {
-    "s": "Reddit Google search",
+    "s": "Reddit on Google",
     "d": "www.google.com",
     "t": "greddit",
     "u": "https://www.google.com/search?q=site:reddit.com+{{{s}}}",
@@ -102651,7 +102651,7 @@
     "sc": "Online"
   },
   {
-    "s": "google.com",
+    "s": "Google",
     "d": "www.google.com",
     "t": "п",
     "u": "https://www.google.com/search?q={{{s}}}",
