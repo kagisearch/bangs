@@ -32897,17 +32897,17 @@
   },
   {
     "s": "Google Search 100 English Results",
-    "d": "google.com",
+    "d": "www.google.com",
     "t": "g100en",
-    "u": "https://google.com/search?q={{{s}}}&tbo=1&num=100&lr=lang_en",
+    "u": "https://www.google.com/search?q={{{s}}}&tbo=1&num=100&lr=lang_en",
     "c": "Online Services",
     "sc": "Search"
   },
   {
     "s": "Google Search 100 Results",
-    "d": "google.com",
+    "d": "www.google.com",
     "t": "g100",
-    "u": "https://google.com/search?q={{{s}}}&tbo=1&num=100",
+    "u": "https://www.google.com/search?q={{{s}}}&tbo=1&num=100",
     "c": "Online Services",
     "sc": "Search"
   },
@@ -34962,9 +34962,9 @@
   },
   {
     "s": "Google Images (Animated)",
-    "d": "google.com",
+    "d": "www.google.com",
     "t": "ggif",
-    "u": "https://google.com/search?q={{{s}}}&site=webhp&tbm=isch&tbs=itp:animated",
+    "u": "https://www.google.com/search?q={{{s}}}&site=webhp&tbm=isch&tbs=itp:animated",
     "c": "Multimedia",
     "sc": "Images"
   },
@@ -34986,9 +34986,9 @@
   },
   {
     "s": "Google",
-    "d": "google.com",
+    "d": "www.google.com",
     "t": "g",
-    "u": "https://google.com/search?q={{{s}}}"
+    "u": "https://www.google.com/search?q={{{s}}}"
   },
   {
     "s": "Google GR",
@@ -35125,9 +35125,9 @@
   },
   {
     "s": "Google Past Hour Search",
-    "d": "google.com",
+    "d": "www.google.com",
     "t": "ghour",
-    "u": "https://google.com/search?q={{{s}}}&tbs=qdr:h",
+    "u": "https://www.google.com/search?q={{{s}}}&tbs=qdr:h",
     "c": "Online Services",
     "sc": "Google"
   },
@@ -36452,9 +36452,9 @@
   },
   {
     "s": "Google News Spain",
-    "d": "google.com",
+    "d": "www.google.com",
     "t": "gns",
-    "u": "https://google.com/search?q={{{s}}}&hl=es&prmd=niv&source=lnms&tbm=nws&sa=",
+    "u": "https://www.google.com/search?q={{{s}}}&hl=es&prmd=niv&source=lnms&tbm=nws&sa=",
     "c": "News",
     "sc": "Aggregators"
   },
@@ -37693,9 +37693,9 @@
   },
   {
     "s": "Reddit Google search",
-    "d": "google.com",
+    "d": "www.google.com",
     "t": "greddit",
-    "u": "https://google.com/search?q=site:reddit.com+{{{s}}}",
+    "u": "https://www.google.com/search?q=site:reddit.com+{{{s}}}",
     "c": "Online Services",
     "sc": "Search"
   },
@@ -38127,9 +38127,9 @@
   },
   {
     "s": "Google over StackOverflow",
-    "d": "google.com",
+    "d": "www.google.com",
     "t": "gso",
-    "u": "https://google.com/search?q=+[inurl:http://stackoverflow.com]+{{{s}}}",
+    "u": "https://www.google.com/search?q=+[inurl:http://stackoverflow.com]+{{{s}}}",
     "c": "Tech",
     "sc": "Programming"
   },
@@ -40928,17 +40928,17 @@
   },
   {
     "s": "Google Search Verbatim 100 English Results",
-    "d": "google.com",
+    "d": "www.google.com",
     "t": "gv100en",
-    "u": "https://google.com/search?q={{{s}}}&tbo=1&num=100&tbs=li:1&lr=lang_en",
+    "u": "https://www.google.com/search?q={{{s}}}&tbo=1&num=100&tbs=li:1&lr=lang_en",
     "c": "Online Services",
     "sc": "Search"
   },
   {
     "s": "Google Search Verbatim 100 Results",
-    "d": "google.com",
+    "d": "www.google.com",
     "t": "gv100",
-    "u": "https://google.com/search?q={{{s}}}&tbo=1&num=100&tbs=li:1",
+    "u": "https://www.google.com/search?q={{{s}}}&tbo=1&num=100&tbs=li:1",
     "c": "Online Services",
     "sc": "Search"
   },
@@ -41240,9 +41240,9 @@
   },
   {
     "s": "Google",
-    "d": "google.com",
+    "d": "www.google.com",
     "t": "gy",
-    "u": "https://google.com/search?q={{{s}}}&tbs=qdr:y",
+    "u": "https://www.google.com/search?q={{{s}}}&tbs=qdr:y",
     "c": "Online Services",
     "sc": "Google"
   },
