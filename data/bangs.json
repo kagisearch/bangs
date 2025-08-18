@@ -34991,14 +34991,6 @@
     "u": "https://google.com/search?q={{{s}}}"
   },
   {
-    "s": "Google Plus",
-    "d": "plus.google.com",
-    "t": "g+",
-    "u": "https://plus.google.com/u/0/s/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Social"
-  },
-  {
     "s": "Google GR",
     "d": "www.google.gr",
     "t": "ggr",
@@ -37427,52 +37419,12 @@
     "sc": "Google"
   },
   {
-    "s": "Google Play Music",
-    "d": "play.google.com",
-    "t": "gplaym",
-    "u": "https://play.google.com/store/search?q={{{s}}}&c=music",
-    "c": "Multimedia",
-    "sc": "Music"
-  },
-  {
     "s": "Google PL",
     "d": "www.google.pl",
     "t": "gpl",
     "u": "https://www.google.pl/search?q={{{s}}}&meta=&aq=f&aqi=g10&aql=&gs_rfai=",
     "c": "Online Services",
     "sc": "Google"
-  },
-  {
-    "s": "Google Plus",
-    "d": "plus.google.com",
-    "t": "gplus",
-    "u": "https://plus.google.com/s/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Google"
-  },
-  {
-    "s": "Google Plus",
-    "d": "www.google.com",
-    "t": "gplusp",
-    "u": "https://www.google.com/search?tbs=prfl:e&q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Google"
-  },
-  {
-    "s": "Google Play Music",
-    "d": "play.google.com",
-    "t": "gpm",
-    "u": "https://play.google.com/music/listen#/sr/{{{s}}}",
-    "c": "Entertainment",
-    "sc": "Audio"
-  },
-  {
-    "s": "Google Play Music",
-    "d": "play.google.com",
-    "t": "gpmusic",
-    "u": "https://play.google.com/music/listen?u=0#/sr/{{{s}}}",
-    "c": "Entertainment",
-    "sc": "Audio"
   },
   {
     "s": "Greenpeace New Zealand",
@@ -69836,14 +69788,6 @@
     "u": "https://www.customplaygroundequipment.com/search?search={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
-  },
-  {
-    "s": "https://play.google.com/music/listen#/now",
-    "d": "play.google.com",
-    "t": "playmusic",
-    "u": "https://play.google.com/music/listen#/sr/{{{s}}}",
-    "c": "Multimedia",
-    "sc": "Music"
   },
   {
     "s": "PlayOnLinux (Kagi Search)",
