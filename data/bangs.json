@@ -33399,12 +33399,12 @@
     "sc": "Tools"
   },
   {
-    "s": "Google Store",
+    "s": "Google Play Store",
     "d": "play.google.com",
     "t": "gapp",
     "u": "https://play.google.com/store/search?q={{{s}}}",
-    "c": "Shopping",
-    "sc": "Tech"
+    "c": "Online Services",
+    "sc": "Google"
   },
   {
     "s": "Garbarino",
@@ -36935,8 +36935,8 @@
     "d": "play.google.com",
     "t": "googleplay",
     "u": "https://play.google.com/store/search?q={{{s}}}",
-    "c": "Shopping",
-    "sc": "Tech"
+    "c": "Online Services",
+    "sc": "Google"
   },
   {
     "s": "Google poland",
@@ -37359,8 +37359,8 @@
     "d": "play.google.com",
     "t": "gp",
     "u": "https://play.google.com/store/search?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Downloads (apps)"
+    "c": "Online Services",
+    "sc": "Google"
   },
   {
     "s": "Gamepedia Help Wiki",
