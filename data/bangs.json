@@ -38166,14 +38166,6 @@
     "sc": "Google"
   },
   {
-    "s": "Google with SSL",
-    "d": "google.com",
-    "t": "gssl",
-    "u": "https://google.com/search?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Google"
-  },
-  {
     "s": "Google Store",
     "d": "store.google.com",
     "t": "gstore",
