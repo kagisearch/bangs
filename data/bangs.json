@@ -80286,6 +80286,38 @@
     "sc": "Tools"
   },
   {
+    "s": "Simkl Anime",
+    "d": "simkl.com",
+    "t": "simkla",
+    "u": "https://simkl.com/search/?type=anime&q={{{s}}}",
+    "c": "Entertainment",
+    "sc": "TV"
+  },
+  {
+    "s": "Simkl Lists",
+    "d": "simkl.com",
+    "t": "simkll",
+    "u": "https://simkl.com/search/lists/?favorites=false&q={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Movies"
+  },
+  {
+    "s": "Simkl Movies",
+    "d": "simkl.com",
+    "t": "simklm",
+    "u": "https://simkl.com/search/?type=movies&q={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Movies"
+  },
+  {
+    "s": "Simkl TV Shows",
+    "d": "simkl.com",
+    "t": "simklt",
+    "u": "https://simkl.com/search/?type=tv&q={{{s}}}",
+    "c": "Entertainment",
+    "sc": "TV"
+  },
+  {
     "s": "Simple Icons",
     "d": "simpleicons.org",
     "t": "sicons",
