@@ -80287,7 +80287,7 @@
   },
   {
     "s": "Simkl Anime",
-    "d": "https://simkl.com/anime/",
+    "d": "simkl.com",
     "t": "simkla",
     "u": "https://simkl.com/search/?type=anime&q={{{s}}}",
     "c": "Entertainment",
@@ -80295,7 +80295,7 @@
   },
   {
     "s": "Simkl Lists",
-    "d": "https://simkl.com/lists/",
+    "d": "simkl.com",
     "t": "simkll",
     "u": "https://simkl.com/search/lists/?favorites=false&q={{{s}}}",
     "c": "Entertainment",
@@ -80303,7 +80303,7 @@
   },
   {
     "s": "Simkl Movies",
-    "d": "https://simkl.com/movies/",
+    "d": "simkl.com",
     "t": "simklm",
     "u": "https://simkl.com/search/?type=movies&q={{{s}}}",
     "c": "Entertainment",
@@ -80311,7 +80311,7 @@
   },
   {
     "s": "Simkl TV Shows",
-    "d": "https://simkl.com/tv/",
+    "d": "simkl.com",
     "t": "simklt",
     "u": "https://simkl.com/search/?type=tv&q={{{s}}}",
     "c": "Entertainment",
