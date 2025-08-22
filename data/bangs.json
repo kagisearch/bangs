@@ -62982,6 +62982,22 @@
     "sc": "Sysadmin"
   },
   {
+    "s": "Nix Documentation",
+    "d": "https://nix.dev",
+    "t": "nixdoc",
+    "u": "https://nix.dev/search.html?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Languages (nix)"
+  },
+  {
+    "s": "Nix Reference Manual",
+    "d": "https://nix.dev",
+    "t": "nixman",
+    "u": "https://nix.dev/manual/nix/latest/introduction?search={{{s}}}",
+    "c": "Tech",
+    "sc": "Languages (nix)"
+  },
+  {
     "s": "NixOS Wiki",
     "d": "wiki.nixos.org",
     "t": "nix",
