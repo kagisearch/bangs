@@ -93465,5 +93465,13 @@
     "u": "https://libro.fm/search?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
+  },
+  {
+    "s": "Zed Docs",
+    "t": "zed",
+    "d": "zed.dev",
+    "u": "https://zed.dev/docs/?search={{{s}}}",
+    "c": "Tech",
+    "sc": "Programming"
   }
 ]
