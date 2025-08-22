@@ -5,13 +5,19 @@ require "uri"
 require "cgi"
 
 bangs_json = JSON.parse(File.read("data/bangs.json"))
-bang_triggers = bangs_json.map { |b| b["t"] }
+bang_triggers = bangs_json.map { |b| [b["t"]] + (b["ts"] || []) }.flatten
+bang_sites = bangs_json.map { |b| b["s"] }
+bang_templates = bangs_json.map { |b| b["u"] + (b["ad"] ? "(ad: #{b["ad"]})" : "") }
 
 kagi_bangs_json = JSON.parse(File.read("data/kagi_bangs.json"))
-kagi_triggers = kagi_bangs_json.map { |b| b["t"] }
+kagi_sites = kagi_bangs_json.map { |b| b["s"] }
+kagi_triggers = kagi_bangs_json.map { |b| [b["t"]] + (b["ts"] || []) }.flatten
+kagi_templates = kagi_bangs_json.map { |b| b["u"] + (b["ad"] ? "(ad: #{b["ad"]})" : "") }
 
 assist_bangs_json = JSON.parse(File.read("data/assistant_bangs.json"))
-assistant_triggers = assist_bangs_json.map { |b| b["t"] }
+assistant_sites = assist_bangs_json.map { |b| b["s"] }
+assistant_triggers = assist_bangs_json.map { |b| [b["t"]] + (b["ts"] || []) }.flatten
+assistant_templates = assist_bangs_json.map { |b| b["u"] + (b["ad"] ? "(ad: #{b["ad"]})" : "") }
 
 def find_dups(*arr)
   arr.flatten
@@ -120,19 +126,52 @@ describe "bangs.json" do
   it "doesn't have duplicate bang triggers" do
     dups = find_dups(bang_triggers)
 
-    expect(dups).to be_empty, "Duplicate(s) found: #{dups.join(", ")}"
+    expect(dups).to be_empty, "Duplicate triggers(s) found: #{dups.join(", ")}"
   end
 
   it "and kagi_bangs.json don't have duplicate bang triggers" do
     dups = find_dups(bang_triggers, kagi_triggers)
 
-    expect(dups).to be_empty, "Duplicate(s) found: #{dups.join(", ")}"
+    expect(dups).to be_empty, "Duplicate triggers(s) found: #{dups.join(", ")}"
   end
 
   it "and assist_bangs.json don't have duplicate bang triggers" do
     dups = find_dups(bang_triggers, assistant_triggers)
 
-    expect(dups).to be_empty, "Duplicate(s) found: #{dups.join(", ")}"
+    expect(dups).to be_empty, "Duplicate triggers(s) found: #{dups.join(", ")}"
+  end
+
+  it "doesn't have duplicate bang templates" do
+    dups = find_dups(bang_templates)
+
+    expect(dups).to be_empty, "Duplicate template(s) found: #{dups.join(", ")}"
+  end
+
+  it "and kagi_bangs.json don't have duplicate bang templates" do
+    dups = find_dups(bang_templates, kagi_templates)
+
+    expect(dups).to be_empty, "Duplicate template(s) found: #{dups.join(", ")}"
+  end
+
+  it "and assist_bangs.json don't have duplicate bang templates" do
+    dups = find_dups(bang_templates, assistant_templates)
+
+    expect(dups).to be_empty, "Duplicate template(s) found: #{dups.join(", ")}"
+  end
+
+  it "doesn't have duplicate bang sites" do
+    dups = find_dups(bang_sites)
+    expect(dups).to be_empty, "Duplicate sites(s) found: #{dups.join(", ")}"
+  end
+
+  it "and kagi_bangs.json don't have duplicate bang sites" do
+    dups = find_dups(bang_sites, kagi_sites)
+    expect(dups).to be_empty, "Duplicate sites(s) found: #{dups.join(", ")}"
+  end
+
+  it "and assist_bangs.json don't have duplicate bang sites" do
+    dups = find_dups(bang_sites, assistant_sites)
+    expect(dups).to be_empty, "Duplicate sites(s) found: #{dups.join(", ")}"
   end
 
   bangs_json.each do |bang|
@@ -155,13 +194,35 @@ describe "kagi_bangs.json" do
   it "doesn't have duplicate bang triggers" do
     dups = find_dups(kagi_triggers)
 
-    expect(dups).to be_empty, "Duplicate(s) found: #{dups.join(", ")}"
+    expect(dups).to be_empty, "Duplicate trigger(s) found: #{dups.join(", ")}"
   end
 
   it "and assistant_bangs.json don't have duplicate bang triggers" do
     dups = find_dups(kagi_triggers, assistant_triggers)
 
     expect(dups).to be_empty, "Duplicate trigger(s) found: #{dups.join(", ")}"
+  end
+
+  it "doesn't have duplicate bang templates" do
+    dups = find_dups(kagi_templates)
+
+    expect(dups).to be_empty, "Duplicate templates(s) found: #{dups.join(", ")}"
+  end
+
+  it "and assistant_bangs.json don't have duplicate bang templates" do
+    dups = find_dups(kagi_templates, assistant_templates)
+
+    expect(dups).to be_empty, "Duplicate templates(s) found: #{dups.join(", ")}"
+  end
+
+  it "doesn't have duplicate bang sites" do
+    dups = find_dups(kagi_sites)
+    expect(dups).to be_empty, "Duplicate sites(s) found: #{dups.join(", ")}"
+  end
+
+  it "and assist_bangs.json don't have duplicate bang sites" do
+    dups = find_dups(kagi_sites, assistant_sites)
+    expect(dups).to be_empty, "Duplicate sites(s) found: #{dups.join(", ")}"
   end
 
   match_domains(kagi_bangs_json)
@@ -176,7 +237,17 @@ describe "assistant_bangs.json" do
   it "doesn't have duplicate bang triggers" do
     dups = find_dups(assistant_triggers)
 
-    expect(dups).to be_empty, "Duplicate(s) found: #{dups.join(", ")}"
+    expect(dups).to be_empty, "Duplicate trigger(s) found: #{dups.join(", ")}"
+  end
+
+  it "doesn't have duplicate bang templates" do
+    dups = find_dups(assistant_templates)
+    expect(dups).to be_empty, "Duplicate templates(s) found: #{dups.join(", ")}"
+  end
+
+  it "doesn't have duplicate bang sites" do
+    dups = find_dups(assistant_sites)
+    expect(dups).to be_empty, "Duplicate sites(s) found: #{dups.join(", ")}"
   end
 
   match_domains(assist_bangs_json)
