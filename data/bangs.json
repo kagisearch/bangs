@@ -74324,6 +74324,14 @@
     "sc": "Online"
   },
   {
+    "s": "Recipetin Eats",
+    "d": "www.recipetineats.com",
+    "t": "recipetin",
+    "u": "https://www.recipetineats.com/?s={{{s}}}",
+    "c": "Research",
+    "sc": "Food"
+  },
+  {
     "s": "Binding of Isaac Rebirth Wiki",
     "d": "bindingofisaacrebirth.wiki.gg",
     "t": "rebirth",
