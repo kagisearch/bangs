@@ -32290,6 +32290,17 @@
     "sc": "Programming"
   },
   {
+    "s": "GitHub Docs",
+    "d": "docs.github.com",
+    "t": "githubdocs",
+    "ts": [
+      "ghd"
+    ],
+    "u": "https://docs.github.com/search?query={{{s}}}",
+    "c": "Tech",
+    "sc": "Programming"
+  },
+  {
     "s": "GitHub Pages (Kagi Search)",
     "d": "kagi.com",
     "ad": "github.io",
