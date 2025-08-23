@@ -32278,9 +32278,25 @@
   },
   {
     "s": "GitHub Help",
-    "d": "help.github.com",
+    "d": "support.github.com",
     "t": "githubhelp",
-    "u": "https://help.github.com/search/?q={{{s}}}",
+    "ts": [
+      "ghh",
+      "githubsupport",
+      "ghs"
+    ],
+    "u": "https://support.github.com/?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Programming"
+  },
+  {
+    "s": "GitHub Docs",
+    "d": "docs.github.com",
+    "t": "githubdocs",
+    "ts": [
+      "ghd"
+    ],
+    "u": "https://docs.github.com/search?query={{{s}}}",
     "c": "Tech",
     "sc": "Programming"
   },
