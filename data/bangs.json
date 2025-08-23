@@ -93475,6 +93475,14 @@
     "sc": "Downloads (apps)"
   },
   {
+    "s": "Zed Docs",
+    "t": "zed",
+    "d": "zed.dev",
+    "u": "https://zed.dev/docs/?search={{{s}}}",
+    "c": "Tech",
+    "sc": "Programming"
+  },
+  {
     "s": "Libro.fm",
     "d": "libro.fm",
     "t": "libro",
