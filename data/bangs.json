@@ -93459,19 +93459,19 @@
     "sc": "Downloads (apps)"
   },
   {
-    "s": "Libro.fm",
-    "d": "libro.fm",
-    "t": "libro",
-    "u": "https://libro.fm/search?utf8=%E2%9C%93&q={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
     "s": "Zed Docs",
     "t": "zed",
     "d": "zed.dev",
     "u": "https://zed.dev/docs/?search={{{s}}}",
     "c": "Tech",
     "sc": "Programming"
+  },
+  {
+    "s": "Libro.fm",
+    "d": "libro.fm",
+    "t": "libro",
+    "u": "https://libro.fm/search?utf8=%E2%9C%93&q={{{s}}}",
+    "c": "Shopping",
+    "sc": "Online"
   }
 ]
