@@ -24,7 +24,7 @@
     "s": "Kagi Assistant - Chat",
     "d": "kagi.com",
     "t": "chat",
-    "u": "/assistant?q={{{s}}}&internet_access=off",
+    "u": "/assistant?q={{{s}}}&internet=off",
     "fmt": [
       "url_encode_placeholder",
       "url_encode_space_to_plus"
