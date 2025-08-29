@@ -56383,6 +56383,14 @@
     "sc": "Academic"
   },
   {
+    "s": "National Library of Scotland=Leabharlann Nàiseanta na h-Alba",
+    "d": "search.nls.uk",
+    "t": "nls",
+    "u": "https://search.nls.uk/discovery/search?query=any,contains,{{{s}}}&tab=MainCatalogue&search_scope=MainCatalogue&vid=44NLS_INST:44NLS_VU1&offset=0",
+    "c": "Research",
+    "sc": "Academic"
+  },
+  {
     "s": "Natural Language ToolKit",
     "d": "www.nltk.org",
     "t": "nltk",
