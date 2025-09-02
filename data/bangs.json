@@ -43555,14 +43555,6 @@
     "sc": "Libraries/Frameworks"
   },
   {
-    "s": "Kubernetes",
-    "d": "kubernetes.io",
-    "t": "kubernetes",
-    "u": "https://kubernetes.io/search/?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin"
-  },
-  {
     "s": "Kaartje2go",
     "d": "www.kaartje2go.nl",
     "t": "kaartje",
