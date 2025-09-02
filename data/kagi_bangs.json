@@ -3181,6 +3181,42 @@
     ]
   },
   {
+    "s": "Kagi Assistant (gpt-5)",
+    "d": "kagi.com",
+    "t": "gpt-5",
+    "u": "/assistant?profile=gpt-5&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Kagi Assistant (gpt-5-mini)",
+    "d": "kagi.com",
+    "t": "gpt-5-mini",
+    "ts": [
+      "5m"
+    ],
+    "u": "/assistant?profile=gpt-5-mini&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Kagi Assistant (gpt-5-nano)",
+    "d": "kagi.com",
+    "t": "gpt-5-nano",
+    "ts": [
+      "5n"
+    ],
+    "u": "/assistant?profile=gpt-5-nano&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
     "s": "Kagi Assistant (mistral-medium)",
     "d": "kagi.com",
     "t": "mistral-medium",
