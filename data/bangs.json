@@ -43555,6 +43555,14 @@
     "sc": "Libraries/Frameworks"
   },
   {
+    "s": "Kubernetes",
+    "d": "kubernetes.io",
+    "t": "kubernetes",
+    "u": "https://kubernetes.io/search/?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Sysadmin"
+  },
+  {
     "s": "Kaartje2go",
     "d": "www.kaartje2go.nl",
     "t": "kaartje",
@@ -45306,14 +45314,6 @@
     "u": "https://www.kuba-pichci.pl/?s={{{s}}}",
     "c": "Tech",
     "sc": "Blogs"
-  },
-  {
-    "s": "https://kubernetes.io/docs",
-    "d": "kubernetes.io",
-    "t": "kubernetes",
-    "u": "https://kubernetes.io/docs/search/?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin"
   },
   {
     "s": "Kuketz-Blog",
