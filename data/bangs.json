@@ -2071,7 +2071,7 @@
     "sc": "Jobs"
   },
   {
-    "s": "aliexpress.com",
+    "s": "AliExpress",
     "d": "www.aliexpress.com",
     "t": "ae",
     "ts": [
@@ -5218,11 +5218,12 @@
     "sc": "Sysadmin (Arch)"
   },
   {
-    "s": "Arch Linux",
+    "s": "Arch Linux Wiki",
     "d": "wiki.archlinux.org",
     "t": "archlinuxit",
     "ts": [
-      "aw"
+      "aw",
+      "archwiki"
     ],
     "u": "https://wiki.archlinux.org/index.php?title=Special:Search&search={{{s}}}",
     "c": "Tech",
@@ -5253,14 +5254,6 @@
     "d": "wiki.archlinux.org",
     "t": "archpl",
     "u": "https://wiki.archlinux.org/index.php/{{{s}}}_(Polski)",
-    "c": "Tech",
-    "sc": "Sysadmin (Arch)"
-  },
-  {
-    "s": "Arch Linux Wiki",
-    "d": "wiki.archlinux.org",
-    "t": "archwiki",
-    "u": "https://wiki.archlinux.org/index.php?search={{{s}}}&title=Special:Search&go=Go",
     "c": "Tech",
     "sc": "Sysadmin (Arch)"
   },
@@ -6038,7 +6031,7 @@
     "sc": "Academic"
   },
   {
-    "s": "atmosphereJS",
+    "s": "Atmosphere",
     "d": "atmospherejs.com",
     "t": "atjs",
     "ts": [
@@ -7155,7 +7148,7 @@
     "sc": "Search"
   },
   {
-    "s": "Search all !bangs",
+    "s": "Kagi Bang Explorer",
     "d": "kbe.smaertness.net",
     "t": "bang",
     "ts": [
@@ -7202,6 +7195,10 @@
     "s": "Barnes & Noble",
     "d": "www.barnesandnoble.com",
     "t": "barnesandnoble",
+    "ts": [
+      "b&n",
+      "bn"
+    ],
     "u": "https://www.barnesandnoble.com/s/{{{s}}}",
     "c": "Shopping",
     "sc": "Big box/department"
@@ -7532,7 +7529,7 @@
     "sc": "Movies"
   },
   {
-    "s": "Bing Search",
+    "s": "Bing",
     "d": "bing.com",
     "t": "b",
     "ts": [
@@ -7864,7 +7861,7 @@
     "sc": "Search"
   },
   {
-    "s": "Bedetheque",
+    "s": "Bedethèque",
     "d": "www.bedetheque.com",
     "t": "bdg",
     "ts": [
@@ -9759,17 +9756,6 @@
     "sc": "Social (intl)"
   },
   {
-    "s": "barnes and noble",
-    "d": "www.barnesandnoble.com",
-    "t": "b&n",
-    "ts": [
-      "bn"
-    ],
-    "u": "http://www.barnesandnoble.com/s/{{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
     "s": "Bing News",
     "d": "www.bing.com",
     "t": "bnews",
@@ -10040,7 +10026,7 @@
     "sc": "Online"
   },
   {
-    "s": "booking.com",
+    "s": "Booking.com",
     "d": "www.booking.com",
     "t": "book",
     "ts": [
@@ -10850,11 +10836,12 @@
     "sc": "Online"
   },
   {
-    "s": "FreeBSD",
+    "s": "FreeBSD Man Pages",
     "d": "www.freebsd.org",
     "t": "bsdman",
     "ts": [
-      "fman"
+      "fman",
+      "freebsdman"
     ],
     "u": "https://www.freebsd.org/cgi/man.cgi?query={{{s}}}",
     "c": "Tech",
@@ -11357,14 +11344,6 @@
     "sc": "Comics"
   },
   {
-    "s": "Bing",
-    "d": "www.bing.com",
-    "t": "bweek",
-    "u": "https://www.bing.com/search?q={{{s}}}&filters=ex1:\"\"ez2\"\"",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
     "s": "BWS",
     "d": "bws.com.au",
     "t": "bws",
@@ -11556,18 +11535,6 @@
     "sc": "Government"
   },
   {
-    "s": "Google Cache",
-    "d": "webcache.googleusercontent.com",
-    "t": "cached",
-    "ts": [
-      "cachedview",
-      "cache"
-    ],
-    "u": "https://webcache.googleusercontent.com/search?q=cache:{{{s}}}",
-    "c": "Online Services",
-    "sc": "Google"
-  },
-  {
     "s": "Cactus2000 - Conjugation Table (German)",
     "d": "conjd.cactus2000.de",
     "t": "cact",
@@ -11616,7 +11583,7 @@
     "sc": "Sports"
   },
   {
-    "s": "Calvin and Hobbes Search Engine",
+    "s": "Calvin and Hobbes",
     "d": "michaelyingling.com",
     "t": "cah",
     "ts": [
@@ -12700,7 +12667,6 @@
     "t": "codi",
     "ts": [
       "cdi",
-      "dcom",
       "di"
     ],
     "u": "https://www.collinsdictionary.com/dictionary/english/{{{s}}}",
@@ -13394,7 +13360,7 @@
     "sc": "Games (general)"
   },
   {
-    "s": "https://devhints.io/",
+    "s": "Devhints",
     "d": "devhints.io",
     "t": "cheat",
     "ts": [
@@ -16668,7 +16634,7 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "CSS",
+    "s": "Mozilla Developer Network CSS",
     "d": "developer.mozilla.org",
     "t": "css",
     "ts": [
@@ -18175,7 +18141,8 @@
     "d": "www.dictionary.com",
     "t": "dxn",
     "ts": [
-      "d.com"
+      "d.com",
+      "dcom"
     ],
     "u": "https://www.dictionary.com/browse/{{{s}}}?s=ts",
     "c": "Research",
@@ -19795,7 +19762,7 @@
     "sc": "Academic"
   },
   {
-    "s": "http://www.merriam-webster.com/",
+    "s": "Merriam-Webster",
     "d": "www.merriam-webster.com",
     "t": "dic",
     "ts": [
@@ -20190,13 +20157,14 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "https://invidio.us",
+    "s": "Invidious",
     "d": "invidio.us",
     "t": "dio",
     "ts": [
       "invd",
       "invid",
-      "invidio"
+      "invidio",
+      "invidious"
     ],
     "u": "https://invidio.us/search?q={{{s}}}",
     "c": "Multimedia",
@@ -23007,7 +22975,7 @@
     "sc": "Online (intl)"
   },
   {
-    "s": "RogerEbert.com",
+    "s": "Roger Ebert",
     "d": "www.rogerebert.com",
     "t": "ebert",
     "ts": [
@@ -24482,7 +24450,7 @@
     "sc": "Google"
   },
   {
-    "s": "Google Translate en-nl English Dutch",
+    "s": "Google Translate en-nl",
     "d": "translate.google.com",
     "t": "en2nl",
     "ts": [
@@ -24544,7 +24512,7 @@
     "sc": "Academic"
   },
   {
-    "s": "encyclo",
+    "s": "Encyclo",
     "d": "www.encyclo.nl",
     "t": "enc",
     "ts": [
@@ -27286,7 +27254,7 @@
     "sc": "Tools"
   },
   {
-    "s": "wordreference.com",
+    "s": "WordReference (fr-conj)",
     "d": "www.wordreference.com",
     "t": "fconj",
     "ts": [
@@ -27839,7 +27807,7 @@
     "sc": "Blogs"
   },
   {
-    "s": "Filehippo",
+    "s": "FileHippo",
     "d": "filehippo.com",
     "t": "fh",
     "ts": [
@@ -28457,7 +28425,7 @@
     "sc": "Libraries/Frameworks"
   },
   {
-    "s": "Flatpak",
+    "s": "Flathub",
     "d": "flathub.org",
     "t": "flat",
     "ts": [
@@ -29270,7 +29238,7 @@
     "sc": "Google"
   },
   {
-    "s": "GoogleTraduction",
+    "s": "Google Translate fr-en",
     "d": "translate.google.com",
     "t": "fr2en",
     "ts": [
@@ -29351,14 +29319,6 @@
     "u": "https://research.stlouisfed.org/fred2/search?st={{{s}}}",
     "c": "Research",
     "sc": "Academic"
-  },
-  {
-    "s": "FreeBSD Man Pages",
-    "d": "man.freebsd.org",
-    "t": "freebsdman",
-    "u": "https://man.freebsd.org/{{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin (man)"
   },
   {
     "s": "FreeCollocation.com",
@@ -31999,7 +31959,7 @@
     ]
   },
   {
-    "s": "Google font",
+    "s": "Google Fonts",
     "d": "fonts.google.com",
     "t": "gfont",
     "ts": [
@@ -32382,7 +32342,7 @@
     "sc": "Tracking"
   },
   {
-    "s": "https://www.giallozafferano.it/",
+    "s": "Giallo Zafferano",
     "d": "www.giallozafferano.it",
     "t": "giallozafferano",
     "ts": [
@@ -32715,17 +32675,6 @@
     "u": "https://www.google.co.uk/search?tbm=isch&q={{{s}}}&tbs=imgo:1",
     "c": "Online Services",
     "sc": "Google"
-  },
-  {
-    "s": "Google Image",
-    "d": "www.google.com",
-    "t": "giurl",
-    "ts": [
-      "sbi"
-    ],
-    "u": "https://www.google.com/searchbyimage?image_url={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Images"
   },
   {
     "s": "Givero",
@@ -34964,7 +34913,7 @@
     "sc": "Online"
   },
   {
-    "s": "Detect language to Afrikaans",
+    "s": "Google Translate (to Afrikaans)",
     "d": "translate.google.com",
     "t": "gtaf",
     "ts": [
@@ -34976,7 +34925,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Albanian",
+    "s": "Google Translate (to Albanian)",
     "d": "translate.google.com",
     "t": "gt-albanian",
     "ts": [
@@ -34988,7 +34937,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Arabic",
+    "s": "Google Translate (to Arabic)",
     "d": "translate.google.com",
     "t": "gt-arabic",
     "ts": [
@@ -35000,7 +34949,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Armenian",
+    "s": "Google Translate (to Armenian)",
     "d": "translate.google.com",
     "t": "gt-armenian",
     "ts": [
@@ -35032,7 +34981,7 @@
     "sc": "Games (general)"
   },
   {
-    "s": "Detect language to Azerbaijani",
+    "s": "Google Translate (to Azerbaijani)",
     "d": "translate.google.com",
     "t": "gtaz",
     "ts": [
@@ -35044,7 +34993,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Basque",
+    "s": "Google Translate (to Basque)",
     "d": "translate.google.com",
     "t": "gt-basque",
     "ts": [
@@ -35056,7 +35005,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Belarusian",
+    "s": "Google Translate (to Belarusian)",
     "d": "translate.google.com",
     "t": "gtbe",
     "ts": [
@@ -35068,7 +35017,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Bengali",
+    "s": "Google Translate (to Bengali)",
     "d": "translate.google.com",
     "t": "gt-bengali",
     "ts": [
@@ -35080,7 +35029,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Bulgarian",
+    "s": "Google Translate (to Bulgarian)",
     "d": "translate.google.com",
     "t": "gtbg",
     "ts": [
@@ -35092,7 +35041,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Bosnian",
+    "s": "Google Translate (to Bosnian)",
     "d": "translate.google.com",
     "t": "gt-bosnian",
     "ts": [
@@ -35104,7 +35053,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Catalan",
+    "s": "Google Translate (to Catalan)",
     "d": "translate.google.com",
     "t": "gtca",
     "ts": [
@@ -35116,7 +35065,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Cebuano",
+    "s": "Google Translate (to Cebuano)",
     "d": "translate.google.com",
     "t": "gtceb",
     "ts": [
@@ -35128,7 +35077,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Chichewa",
+    "s": "Google Translate (to Chichewa)",
     "d": "translate.google.com",
     "t": "gt-chichewa",
     "ts": [
@@ -35140,7 +35089,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Chinese",
+    "s": "Google Translate (to Chinese)",
     "d": "translate.google.com",
     "t": "gt-chinese",
     "ts": [
@@ -35152,7 +35101,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Croatian",
+    "s": "Google Translate (to Croatian)",
     "d": "translate.google.com",
     "t": "gt-croatian",
     "ts": [
@@ -35164,7 +35113,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Czech",
+    "s": "Google Translate (to Czech)",
     "d": "translate.google.com",
     "t": "gtcs",
     "ts": [
@@ -35177,7 +35126,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Welsh",
+    "s": "Google Translate (to Welsh)",
     "d": "translate.google.com",
     "t": "gtcy",
     "ts": [
@@ -35189,7 +35138,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Danish",
+    "s": "Google Translate (to Danish)",
     "d": "translate.google.com",
     "t": "gtda",
     "ts": [
@@ -35209,7 +35158,7 @@
     "sc": "Games (offline)"
   },
   {
-    "s": "Detect language to German",
+    "s": "Google Translate (to German)",
     "d": "translate.google.com",
     "t": "gtde",
     "ts": [
@@ -35222,7 +35171,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Dutch",
+    "s": "Google Translate (to Dutch)",
     "d": "translate.google.com",
     "t": "gt-dutch",
     "ts": [
@@ -35250,7 +35199,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to English",
+    "s": "Google Translate (to English)",
     "d": "translate.google.com",
     "t": "gten",
     "ts": [
@@ -35272,7 +35221,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Esperanto",
+    "s": "Google Translate (to Esperanto)",
     "d": "translate.google.com",
     "t": "gteo",
     "ts": [
@@ -35284,7 +35233,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Spanish",
+    "s": "Google Translate (to Spanish)",
     "d": "translate.google.com",
     "t": "gtes",
     "ts": [
@@ -35296,7 +35245,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Estonian",
+    "s": "Google Translate (to Estonian)",
     "d": "translate.google.com",
     "t": "gt-estonian",
     "ts": [
@@ -35308,7 +35257,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Persian",
+    "s": "Google Translate (to Persian)",
     "d": "translate.google.com",
     "t": "gtfa",
     "ts": [
@@ -35328,7 +35277,7 @@
     "sc": "Forum"
   },
   {
-    "s": "Detect language to Finnish",
+    "s": "Google Translate (to Finnish)",
     "d": "translate.google.com",
     "t": "gtfi",
     "ts": [
@@ -35340,7 +35289,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Filipino",
+    "s": "Google Translate (to Filipino)",
     "d": "translate.google.com",
     "t": "gt-filipino",
     "ts": [
@@ -35352,7 +35301,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to French",
+    "s": "Google Translate (to French)",
     "d": "translate.google.com",
     "t": "gtfr",
     "ts": [
@@ -35365,7 +35314,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Irish",
+    "s": "Google Translate (to Irish)",
     "d": "translate.google.com",
     "t": "gtga",
     "ts": [
@@ -35377,7 +35326,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Galician",
+    "s": "Google Translate (to Galician)",
     "d": "translate.google.com",
     "t": "gt-galician",
     "ts": [
@@ -35389,7 +35338,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Georgian",
+    "s": "Google Translate (to Georgian)",
     "d": "translate.google.com",
     "t": "gt-georgian",
     "ts": [
@@ -35401,7 +35350,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Gujarati",
+    "s": "Google Translate (to Gujarati)",
     "d": "translate.google.com",
     "t": "gtgu",
     "ts": [
@@ -35413,7 +35362,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Hausa",
+    "s": "Google Translate (to Hausa)",
     "d": "translate.google.com",
     "t": "gtha",
     "ts": [
@@ -35425,7 +35374,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Haitian Creole",
+    "s": "Google Translate (to Haitian Creole)",
     "d": "translate.google.com",
     "t": "gthaitiancreole",
     "ts": [
@@ -35436,7 +35385,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Hebrew",
+    "s": "Google Translate (to Hebrew)",
     "d": "translate.google.com",
     "t": "gt-hebrew",
     "ts": [
@@ -35456,7 +35405,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Hindi",
+    "s": "Google Translate (to Hindi)",
     "d": "translate.google.com",
     "t": "gthi",
     "ts": [
@@ -35468,7 +35417,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Hmong",
+    "s": "Google Translate (to Hmong)",
     "d": "translate.google.com",
     "t": "gthmn",
     "ts": [
@@ -35480,7 +35429,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Hungarian",
+    "s": "Google Translate (to Hungarian)",
     "d": "translate.google.com",
     "t": "gthu",
     "ts": [
@@ -35492,7 +35441,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Icelandic",
+    "s": "Google Translate (to Icelandic)",
     "d": "translate.google.com",
     "t": "gt-icelandic",
     "ts": [
@@ -35504,7 +35453,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Indonesian",
+    "s": "Google Translate (to Indonesian)",
     "d": "translate.google.com",
     "t": "gtid",
     "ts": [
@@ -35516,7 +35465,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Igbo",
+    "s": "Google Translate (to Igbo)",
     "d": "translate.google.com",
     "t": "gt-igbo",
     "ts": [
@@ -35528,7 +35477,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Italian",
+    "s": "Google Translate (to Italian)",
     "d": "translate.google.com",
     "t": "gt-italian",
     "ts": [
@@ -35551,7 +35500,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Japanese",
+    "s": "Google Translate (to Japanese)",
     "d": "translate.google.com",
     "t": "gtja",
     "ts": [
@@ -35564,7 +35513,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Javanese",
+    "s": "Google Translate (to Javanese)",
     "d": "translate.google.com",
     "t": "gt-javanese",
     "ts": [
@@ -35576,7 +35525,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Kannada",
+    "s": "Google Translate (to Kannada)",
     "d": "translate.google.com",
     "t": "gt-kannada",
     "ts": [
@@ -35588,7 +35537,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Kazakh",
+    "s": "Google Translate (to Kazakh)",
     "d": "translate.google.com",
     "t": "gt-kazakh",
     "ts": [
@@ -35600,7 +35549,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Khmer",
+    "s": "Google Translate (to Khmer)",
     "d": "translate.google.com",
     "t": "gt-khmer",
     "ts": [
@@ -35612,7 +35561,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Korean",
+    "s": "Google Translate (to Korean)",
     "d": "translate.google.com",
     "t": "gtko",
     "ts": [
@@ -35625,7 +35574,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Latin",
+    "s": "Google Translate (to Latin)",
     "d": "translate.google.com",
     "t": "gtla",
     "ts": [
@@ -35645,7 +35594,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Lao",
+    "s": "Google Translate (to Lao)",
     "d": "translate.google.com",
     "t": "gt-lao",
     "ts": [
@@ -35656,7 +35605,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Latvian",
+    "s": "Google Translate (to Latvian)",
     "d": "translate.google.com",
     "t": "gt-latvian",
     "ts": [
@@ -35676,7 +35625,7 @@
     "sc": "Academic"
   },
   {
-    "s": "Detect language to Lithuanian",
+    "s": "Google Translate (to Lithuanian)",
     "d": "translate.google.com",
     "t": "gt-lithuanian",
     "ts": [
@@ -35688,7 +35637,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Macedonian",
+    "s": "Google Translate (to Macedonian)",
     "d": "translate.google.com",
     "t": "gt-macedonian",
     "ts": [
@@ -35700,7 +35649,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Malagasy",
+    "s": "Google Translate (to Malagasy)",
     "d": "translate.google.com",
     "t": "gt-malagasy",
     "ts": [
@@ -35712,7 +35661,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Malayalam",
+    "s": "Google Translate (to Malayalam)",
     "d": "translate.google.com",
     "t": "gt-malayalam",
     "ts": [
@@ -35724,7 +35673,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Malay",
+    "s": "Google Translate (to Malay)",
     "d": "translate.google.com",
     "t": "gt-malay",
     "ts": [
@@ -35736,7 +35685,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Maltese",
+    "s": "Google Translate (to Maltese)",
     "d": "translate.google.com",
     "t": "gt-maltese",
     "ts": [
@@ -35748,7 +35697,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Maori",
+    "s": "Google Translate (to Maori)",
     "d": "translate.google.com",
     "t": "gt-maori",
     "ts": [
@@ -35760,7 +35709,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Marathi",
+    "s": "Google Translate (to Marathi)",
     "d": "translate.google.com",
     "t": "gt-marathi",
     "ts": [
@@ -35780,7 +35729,7 @@
     "sc": "Games (general)"
   },
   {
-    "s": "Detect language to Mongolian",
+    "s": "Google Translate (to Mongolian)",
     "d": "translate.google.com",
     "t": "gtmn",
     "ts": [
@@ -35792,7 +35741,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Myanmar (Burmese)",
+    "s": "Google Translate (to Myanmar (Burmese))",
     "d": "translate.google.com",
     "t": "gt-myanmar",
     "ts": [
@@ -35812,7 +35761,7 @@
     "sc": "Programming"
   },
   {
-    "s": "Detect language to Nepali",
+    "s": "Google Translate (to Nepali)",
     "d": "translate.google.com",
     "t": "gtne",
     "ts": [
@@ -35840,7 +35789,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Norwegian",
+    "s": "Google Translate (to Norwegian)",
     "d": "translate.google.com",
     "t": "gtno",
     "ts": [
@@ -35852,7 +35801,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Punjabi",
+    "s": "Google Translate (to Punjabi)",
     "d": "translate.google.com",
     "t": "gtpa",
     "ts": [
@@ -35864,7 +35813,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Polish",
+    "s": "Google Translate (to Polish)",
     "d": "translate.google.com",
     "t": "gtpl",
     "ts": [
@@ -35876,7 +35825,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Portuguese",
+    "s": "Google Translate (to Portuguese)",
     "d": "translate.google.com",
     "t": "gt-portuguese",
     "ts": [
@@ -35907,7 +35856,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Romanian",
+    "s": "Google Translate (to Romanian)",
     "d": "translate.google.com",
     "t": "gtro",
     "ts": [
@@ -35919,7 +35868,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Russian",
+    "s": "Google Translate (to Russian)",
     "d": "translate.google.com",
     "t": "gtru",
     "ts": [
@@ -35931,7 +35880,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Serbian",
+    "s": "Google Translate (to Serbian)",
     "d": "translate.google.com",
     "t": "gt-serbian",
     "ts": [
@@ -35943,7 +35892,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Sesotho",
+    "s": "Google Translate (to Sesotho)",
     "d": "translate.google.com",
     "t": "gt-sesotho",
     "ts": [
@@ -35955,7 +35904,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Sinhala",
+    "s": "Google Translate (to Sinhala)",
     "d": "translate.google.com",
     "t": "gtsi",
     "ts": [
@@ -35967,7 +35916,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Slovak",
+    "s": "Google Translate (to Slovak)",
     "d": "translate.google.com",
     "t": "gtsk",
     "ts": [
@@ -35979,7 +35928,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Slovenian",
+    "s": "Google Translate (to Slovenian)",
     "d": "translate.google.com",
     "t": "gtsl",
     "ts": [
@@ -35991,7 +35940,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Somali",
+    "s": "Google Translate (to Somali)",
     "d": "translate.google.com",
     "t": "gtso",
     "ts": [
@@ -36003,7 +35952,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Sundanese",
+    "s": "Google Translate (to Sundanese)",
     "d": "translate.google.com",
     "t": "gtsu",
     "ts": [
@@ -36015,7 +35964,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Swedish",
+    "s": "Google Translate (to Swedish)",
     "d": "translate.google.com",
     "t": "gtsv",
     "ts": [
@@ -36027,7 +35976,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Swahili",
+    "s": "Google Translate (to Swahili)",
     "d": "translate.google.com",
     "t": "gt-swahili",
     "ts": [
@@ -36039,7 +35988,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Tamil",
+    "s": "Google Translate (to Tamil)",
     "d": "translate.google.com",
     "t": "gtta",
     "ts": [
@@ -36051,7 +36000,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Tajik",
+    "s": "Google Translate (to Tajik)",
     "d": "translate.google.com",
     "t": "gt-tajik",
     "ts": [
@@ -36063,7 +36012,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Telugu",
+    "s": "Google Translate (to Telugu)",
     "d": "translate.google.com",
     "t": "gtte",
     "ts": [
@@ -36075,7 +36024,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Thai",
+    "s": "Google Translate (to Thai)",
     "d": "translate.google.com",
     "t": "gt-thai",
     "ts": [
@@ -36087,7 +36036,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Turkish",
+    "s": "Google Translate (to Turkish)",
     "d": "translate.google.com",
     "t": "gttr",
     "ts": [
@@ -36107,7 +36056,7 @@
     "sc": "Search"
   },
   {
-    "s": "Detect language to Ukrainian",
+    "s": "Google Translate (to Ukrainian)",
     "d": "translate.google.com",
     "t": "gtuk",
     "ts": [
@@ -36119,7 +36068,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Urdu",
+    "s": "Google Translate (to Urdu)",
     "d": "translate.google.com",
     "t": "gtur",
     "ts": [
@@ -36139,7 +36088,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Uzbek",
+    "s": "Google Translate (to Uzbek)",
     "d": "translate.google.com",
     "t": "gt-uzbek",
     "ts": [
@@ -36151,7 +36100,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Vietnamese",
+    "s": "Google Translate (to Vietnamese)",
     "d": "translate.google.com",
     "t": "gtvi",
     "ts": [
@@ -36179,7 +36128,7 @@
     "sc": "Games (general)"
   },
   {
-    "s": "Detect language to Yiddish",
+    "s": "Google Translate (to Yiddish)",
     "d": "translate.google.com",
     "t": "gt-yiddish",
     "ts": [
@@ -36191,7 +36140,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Yoruba",
+    "s": "Google Translate (to Yoruba)",
     "d": "translate.google.com",
     "t": "gtyo",
     "ts": [
@@ -36203,7 +36152,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to traditional Chinese",
+    "s": "Google Translate (to traditional Chinese)",
     "d": "translate.google.com",
     "t": "gtzh-tw",
     "u": "https://translate.google.com/#auto/zh-TW/{{{s}}}",
@@ -36211,7 +36160,7 @@
     "sc": "Google"
   },
   {
-    "s": "Detect language to Zulu",
+    "s": "Google Translate (to Zulu)",
     "d": "translate.google.com",
     "t": "gtzu",
     "ts": [
@@ -36271,7 +36220,7 @@
     "sc": "Online"
   },
   {
-    "s": "guenstiger.de",
+    "s": "Günstiger.de",
     "d": "www.guenstiger.de",
     "t": "gue",
     "ts": [
@@ -37772,7 +37721,7 @@
     "sc": "Academic"
   },
   {
-    "s": "hoogle",
+    "s": "Hoogle",
     "d": "hoogle.haskell.org",
     "t": "hoogle",
     "ts": [
@@ -38105,7 +38054,7 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "How Long to Beat",
+    "s": "HowLongToBeat",
     "d": "howlongtobeat.com",
     "t": "hlb",
     "ts": [
@@ -38505,7 +38454,7 @@
     "sc": "International"
   },
   {
-    "s": "Hotsar",
+    "s": "Hotstar",
     "d": "www.hotstar.com",
     "t": "hotsar",
     "ts": [
@@ -38815,7 +38764,7 @@
     "sc": "Reference"
   },
   {
-    "s": "https://http.cat/",
+    "s": "HTTP Cats",
     "d": "http.cat",
     "t": "htcat",
     "ts": [
@@ -41293,14 +41242,6 @@
     "sc": "Learning"
   },
   {
-    "s": "Invidious",
-    "d": "www.invidio.us",
-    "t": "invidious",
-    "u": "https://www.invidio.us/search?q={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Video"
-  },
-  {
     "s": "inventaire.io",
     "d": "inventaire.io",
     "t": "inv",
@@ -41988,14 +41929,6 @@
     "sc": "Reference (science)"
   },
   {
-    "s": "Google Search By Image",
-    "d": "google.com",
-    "t": "iurl",
-    "u": "https://google.com/searchbyimage?image_url={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Images"
-  },
-  {
     "s": "ivoox",
     "d": "www.ivoox.com",
     "t": "ivoox",
@@ -42157,7 +42090,7 @@
     "sc": "Tools"
   },
   {
-    "s": "j-archive",
+    "s": "J! Archive",
     "d": "www.j-archive.com",
     "t": "ja",
     "ts": [
@@ -42349,7 +42282,7 @@
     "sc": "Languages (java)"
   },
   {
-    "s": "JavaScript Docs",
+    "s": "MDN Web Docs",
     "d": "developer.mozilla.org",
     "t": "javascript",
     "ts": [
@@ -45914,7 +45847,7 @@
     "sc": "Academic"
   },
   {
-    "s": "LaunchPad",
+    "s": "Launchpad",
     "d": "launchpad.net",
     "t": "launchpad",
     "ts": [
@@ -46260,9 +46193,13 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "Learn X in Y",
+    "s": "Learn X in Y minutes",
     "d": "learnxinyminutes.com",
     "t": "learnxiny",
+    "ts": [
+      "lxiny",
+      "xiny"
+    ],
     "u": "https://learnxinyminutes.com/docs/{{{s}}}/",
     "c": "Tech",
     "sc": "Languages (other)"
@@ -47000,7 +46937,7 @@
     "sc": "Learning (intl)"
   },
   {
-    "s": "Welklidwoord",
+    "s": "Welk lidwoord",
     "d": "www.welklidwoord.nl",
     "t": "lidwoord",
     "ts": [
@@ -48818,17 +48755,6 @@
     "sc": "Magazine"
   },
   {
-    "s": "learnxinyminutes.com",
-    "d": "learnxinyminutes.com",
-    "t": "lxiny",
-    "ts": [
-      "xiny"
-    ],
-    "u": "https://learnxinyminutes.com/docs/{{{s}}}",
-    "c": "Tech",
-    "sc": "Programming"
-  },
-  {
     "s": "LXLE Linux",
     "d": "lxle.net",
     "t": "lxle",
@@ -49254,7 +49180,7 @@
     "sc": "Languages (php)"
   },
   {
-    "s": "magiccards.info",
+    "s": "Scryfall",
     "d": "scryfall.com",
     "t": "mtg",
     "ts": [
@@ -49689,7 +49615,7 @@
     "sc": "Maps"
   },
   {
-    "s": "Mapquest",
+    "s": "MapQuest",
     "d": "www.mapquest.com",
     "t": "mapquest",
     "ts": [
@@ -49989,7 +49915,7 @@
     "sc": "Programming"
   },
   {
-    "s": "mathworld",
+    "s": "Wolfram MathWorld",
     "d": "mathworld.wolfram.com",
     "t": "math",
     "ts": [
@@ -50218,7 +50144,7 @@
     "sc": "Music"
   },
   {
-    "s": "Media Bias Fact Check",
+    "s": "Media Bias/Fact Check",
     "d": "mediabiasfactcheck.com",
     "t": "mbfc",
     "ts": [
@@ -52571,7 +52497,7 @@
     "sc": "Blogs"
   },
   {
-    "s": "moviemeter.nl",
+    "s": "MovieMeter",
     "d": "www.moviemeter.nl",
     "t": "mmnl",
     "ts": [
@@ -54995,7 +54921,7 @@
     "sc": "Search"
   },
   {
-    "s": "Naver",
+    "s": "NAVER",
     "d": "search.naver.com",
     "t": "nv",
     "ts": [
@@ -61820,7 +61746,7 @@
     "sc": "Tools"
   },
   {
-    "s": "whitepages",
+    "s": "Whitepages",
     "d": "www.whitepages.com",
     "t": "phone",
     "ts": [
@@ -62894,12 +62820,13 @@
     "sc": "Online"
   },
   {
-    "s": "psychonaut wiki",
+    "s": "PsychonautWiki",
     "d": "psychonautwiki.org",
     "t": "pnw",
     "ts": [
       "psychonautwiki",
-      "pwiki"
+      "pwiki",
+      "psy"
     ],
     "u": "https://psychonautwiki.org/w/index.php?search={{{s}}}",
     "c": "Research",
@@ -63053,7 +62980,7 @@
     "sc": "Games (Pokemon)"
   },
   {
-    "s": "Pokemon Database",
+    "s": "Pokémon Database",
     "d": "pokemondb.net",
     "t": "pokedb",
     "ts": [
@@ -64512,14 +64439,6 @@
     "u": "https://psychiatry.org/home/search-results?k={{{s}}}",
     "c": "Research",
     "sc": "Health"
-  },
-  {
-    "s": "PsychonautWiki",
-    "d": "psychonautwiki.org",
-    "t": "psy",
-    "u": "https://psychonautwiki.org/w/index.php?search={{{s}}}&title=Special:Search",
-    "c": "Research",
-    "sc": "Reference"
   },
   {
     "s": "Pentax Cameras",
@@ -67282,7 +67201,7 @@
     "ts": [
       "reuters"
     ],
-    "u": "http://www.reuters.com/search/news?blob={{{s}}}",
+    "u": "https://www.reuters.com/search/news?blob={{{s}}}",
     "c": "News",
     "sc": "International"
   },
@@ -67742,7 +67661,7 @@
     "sc": "Sysadmin"
   },
   {
-    "s": "RIPEstat - Internet Measurments and Analysis",
+    "s": "RIPEstat",
     "d": "stat.ripe.net",
     "t": "ripe",
     "ts": [
@@ -69688,11 +69607,12 @@
     "sc": "Downloads (software)"
   },
   {
-    "s": "Internet Archive: Wayback Machine (save)",
+    "s": "Wayback Machine (save)",
     "d": "web.archive.org",
     "t": "saveback",
     "ts": [
-      "save"
+      "save",
+      "wbs"
     ],
     "u": "https://web.archive.org/save/{{{s}}}",
     "c": "Online Services",
@@ -69947,7 +69867,8 @@
       "scidirect",
       "scidir",
       "sciencedirect",
-      "sdirect"
+      "sdirect",
+      "scid"
     ],
     "u": "https://www.sciencedirect.com/search?qs={{{s}}}",
     "c": "Research",
@@ -70051,14 +69972,6 @@
     "u": "http://www.schuh.co.uk/results.aspx#st={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
-  },
-  {
-    "s": "http://www.sciencedirect.com",
-    "d": "www.sciencedirect.com",
-    "t": "scid",
-    "u": "http://www.sciencedirect.com/search?qs={{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
   },
   {
     "s": "The Science Dictionary",
@@ -70490,7 +70403,7 @@
     "sc": "Online (deals)"
   },
   {
-    "s": "Official Stardew Valley Wiki",
+    "s": "Stardew Valley Wiki",
     "d": "stardewvalleywiki.com",
     "t": "sdv",
     "ts": [
@@ -70854,7 +70767,7 @@
     "sc": "Misc"
   },
   {
-    "s": "SENTIREASCOLTARE",
+    "s": "Sentire Ascoltare",
     "d": "sentireascoltare.com",
     "t": "senta",
     "ts": [
@@ -75667,7 +75580,7 @@
     "sc": "Broadcast"
   },
   {
-    "s": "Synonymer.se",
+    "s": "Synonymer",
     "d": "www.synonymer.se",
     "t": "svs",
     "ts": [
@@ -75729,7 +75642,7 @@
     "sc": "Online"
   },
   {
-    "s": "swappa.com",
+    "s": "Swappa",
     "d": "swappa.com",
     "t": "swappa",
     "ts": [
@@ -76320,7 +76233,7 @@
     "sc": "Online"
   },
   {
-    "s": "Takoboto",
+    "s": "TAKOBOTO",
     "d": "takoboto.jp",
     "t": "takoboto",
     "ts": [
@@ -77111,7 +77024,7 @@
     "sc": "Video"
   },
   {
-    "s": "Tensor Flow",
+    "s": "TensorFlow",
     "d": "www.tensorflow.org",
     "t": "teflo",
     "ts": [
@@ -78435,7 +78348,7 @@
     "sc": "Tools"
   },
   {
-    "s": "Time Is",
+    "s": "Time.is",
     "d": "time.is",
     "t": "timeis",
     "ts": [
@@ -78446,7 +78359,7 @@
     "sc": "Tools"
   },
   {
-    "s": "Timerepubik",
+    "s": "Timerepublik",
     "d": "timerepublik.com",
     "t": "timerep",
     "ts": [
@@ -78656,7 +78569,7 @@
     "sc": "Movies"
   },
   {
-    "s": "Tradukka detect language to spanish",
+    "s": "Tradukka Google Translate (to spanish)",
     "d": "tradukka.com",
     "t": "tkk2es",
     "u": "https://tradukka.com/translate/es/{{{s}}}",
@@ -78672,7 +78585,7 @@
     "sc": "Programming"
   },
   {
-    "s": "Tradukka detect language to English",
+    "s": "Tradukka Google Translate (to English)",
     "d": "tradukka.com",
     "t": "tkk",
     "u": "https://tradukka.com/translate/en/{{{s}}}",
@@ -84973,17 +84886,6 @@
     "sc": "Blogs"
   },
   {
-    "s": "Wayback Maschine",
-    "d": "web.archive.org",
-    "t": "wbs",
-    "u": "https://web.archive.org/save/*/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools (URLs)",
-    "fmt": [
-      "open_base_path"
-    ]
-  },
-  {
     "s": "WBUR",
     "d": "www.wbur.org",
     "t": "wbur",
@@ -85078,7 +84980,7 @@
     "sc": "Reference"
   },
   {
-    "s": "wiktionary",
+    "s": "Wiktionary",
     "d": "en.wiktionary.org",
     "t": "wdic",
     "ts": [
@@ -85230,7 +85132,7 @@
     "sc": "Video"
   },
   {
-    "s": "http://www.webcomponents.org",
+    "s": "webcomponents.org",
     "d": "www.webcomponents.org",
     "t": "webcomp",
     "ts": [
@@ -85400,7 +85302,7 @@
     "sc": "Search (DDG)"
   },
   {
-    "s": "https://www.webtoons.com",
+    "s": "WEBTOON",
     "d": "www.webtoons.com",
     "t": "webtoon",
     "ts": [
@@ -85530,7 +85432,7 @@
     "sc": "Online"
   },
   {
-    "s": "wordreference",
+    "s": "Wordreference (en-fr)",
     "d": "www.wordreference.com",
     "t": "wenfr",
     "ts": [
@@ -85728,7 +85630,7 @@
     "sc": "Online"
   },
   {
-    "s": "WunderGround",
+    "s": "Weather Underground",
     "d": "www.wunderground.com",
     "t": "wg",
     "ts": [
@@ -86515,7 +86417,7 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "Wiktionary",
+    "s": "Wiktionary Search",
     "d": "en.wiktionary.org",
     "t": "wikten",
     "ts": [
@@ -86567,7 +86469,7 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "Wikizionario, il dizionario libero",
+    "s": "Wikizionario",
     "d": "it.wiktionary.org",
     "t": "wiktit",
     "ts": [
@@ -88017,7 +87919,7 @@
     "sc": "Academic"
   },
   {
-    "s": "Wordreference",
+    "s": "Wordreference (en-es)",
     "d": "www.wordreference.com",
     "t": "wrse",
     "u": "https://www.wordreference.com/enes/{{{s}}}",
@@ -88033,7 +87935,7 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "WordReference",
+    "s": "WordReference (zh-en)",
     "d": "www.wordreference.com",
     "t": "wrze",
     "u": "https://www.wordreference.com/zhen/{{{s}}}",
@@ -88308,7 +88210,7 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "wttr",
+    "s": "wttr.in",
     "d": "wttr.in",
     "t": "wttr.in",
     "ts": [
