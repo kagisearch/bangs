@@ -31,6 +31,16 @@
     ]
   },
   {
+    "s": "Kagi Assistant - Study",
+    "d": "kagi.com",
+    "t": "study",
+    "u": "/assistant?q={{{s}}}&profile=study",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
     "s": "Kagi Assistant - Code",
     "d": "kagi.com",
     "t": "code",
