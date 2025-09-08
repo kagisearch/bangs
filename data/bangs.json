@@ -78049,6 +78049,17 @@
     "sc": "Design"
   },
   {
+    "s": "Makerworld",
+    "d": "makerworld.com",
+    "t": "mkw",
+    "ts": [
+      "makerworld"
+    ],
+    "u": "https://makerworld.com/search/models?keyword={{{s}}}",
+    "c": "Tech",
+    "sc": "Design"
+  },
+  {
     "s": "Tony Hawk Games Wiki",
     "d": "tonyhawkgames.wikia.com",
     "t": "thgw",
