@@ -43483,6 +43483,9 @@
     "s": "Kubernetes",
     "d": "kubernetes.io",
     "t": "k8s",
+    "ts": [
+      "kubernetes"
+    ],
     "u": "https://kubernetes.io/search/?q={{{s}}}",
     "c": "Tech",
     "sc": "Libraries/Frameworks"
@@ -45239,14 +45242,6 @@
     "u": "https://www.kuba-pichci.pl/?s={{{s}}}",
     "c": "Tech",
     "sc": "Blogs"
-  },
-  {
-    "s": "https://kubernetes.io/docs",
-    "d": "kubernetes.io",
-    "t": "kubernetes",
-    "u": "https://kubernetes.io/docs/search/?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin"
   },
   {
     "s": "Kuketz-Blog",
