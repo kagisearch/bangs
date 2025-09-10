@@ -36752,14 +36752,14 @@
     "s": "Hacker News",
     "d": "hn.algolia.com",
     "ad": "news.ycombinator.com",
-    "t": "hnsearch",
+    "t": "hn",
     "ts": [
       "newsyc",
       "searchyc",
-      "hn",
+      "hnsearch",
       "hackernews"
     ],
-    "u": "https://hn.algolia.com/#!/story/forever/0/{{{s}}}",
+    "u": "https://hn.algolia.com/?q={{{s}}}",
     "c": "News",
     "sc": "Aggregators"
   },
