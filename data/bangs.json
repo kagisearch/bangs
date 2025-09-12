@@ -13747,7 +13747,7 @@
   },
   {
     "s": "Chrome Web Store",
-    "d": "chrome.google.com",
+    "d": "chromewebstore.google.com",
     "t": "chrome",
     "ts": [
       "chromestore",
