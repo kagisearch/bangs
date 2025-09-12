@@ -13756,7 +13756,7 @@
       "cwebstore",
       "cws"
     ],
-    "u": "https://chrome.google.com/webstore/search/{{{s}}}",
+    "u": "https://chromewebstore.google.com/search/{{{s}}}",
     "c": "Tech",
     "sc": "Downloads (add-ons)"
   },
