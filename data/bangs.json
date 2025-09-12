@@ -13747,16 +13747,17 @@
   },
   {
     "s": "Chrome Web Store",
-    "d": "chrome.google.com",
+    "d": "chromewebstore.google.com",
     "t": "chrome",
     "ts": [
       "chromestore",
       "chromewebstore",
       "cstore",
       "cwebstore",
-      "cws"
+      "cws",
+      "crx"
     ],
-    "u": "https://chrome.google.com/webstore/search/{{{s}}}",
+    "u": "https://chromewebstore.google.com/search/{{{s}}}",
     "c": "Tech",
     "sc": "Downloads (add-ons)"
   },
@@ -16450,14 +16451,6 @@
     "u": "https://clashroyale.fandom.com/wiki/Special:Search?query={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
-  },
-  {
-    "s": "Chrome Extension Repository",
-    "d": "chrome.google.com",
-    "t": "crx",
-    "u": "https://chrome.google.com/webstore/search?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Downloads (add-ons)"
   },
   {
     "s": "Extension Source Viewer",
