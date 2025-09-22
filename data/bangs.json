@@ -1807,6 +1807,17 @@
     "sc": "Tools (URLs)"
   },
   {
+    "s": "Raindrop",
+    "d": "app.raindrop.io",
+    "t": "rain",
+    "ts": [
+      "raindrop"
+    ],
+    "u": "https://app.raindrop.io/my/0/{{{s}}}",
+    "c": "Online Services",
+    "sc": "Tools (URLs)"
+  },
+  {
     "s": "Amazon.de Fremdsprachige Bücher",
     "d": "www.amazon.de",
     "t": "adefb",
