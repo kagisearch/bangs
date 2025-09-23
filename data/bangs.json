@@ -36763,7 +36763,7 @@
       "hnsearch",
       "hackernews"
     ],
-    "u": "https://hn.algolia.com/?q={{{s}}}",
+    "u": "https://hn.algolia.com/?query={{{s}}}",
     "c": "News",
     "sc": "Aggregators"
   },
