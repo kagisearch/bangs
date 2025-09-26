@@ -16934,7 +16934,7 @@
   {
     "s": "WoW Curseforge",
     "d": "www.curseforge.com",
-    "t": "wowcurse",
+    "t": "curse",
     "u": "https://www.curseforge.com/wow/addons/search?search={{{s}}}",
     "c": "Tech",
     "sc": "Downloads (add-ons)"
