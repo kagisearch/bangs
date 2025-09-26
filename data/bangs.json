@@ -50636,7 +50636,7 @@
   },
   {
     "s": "FiguraMC Wiki",
-    "d": "https://wiki.figuramc.org",
+    "d": "wiki.figuramc.org",
     "t": "figura",
     "u": "https://wiki.figuramc.org/index.php?search={{{s}}}",
     "c": "Tech",
@@ -50644,7 +50644,7 @@
   },
   {
     "s": "Figura Documentation",
-    "d": "https://applejuiceyy.github.io/figs/",
+    "d": "applejuiceyy.github.io",
     "t": "figs",
     "u": "https://applejuiceyy.github.io/figs/latest/search/?q={{{s}}}",
     "c": "Tech",
