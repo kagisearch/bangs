@@ -21471,6 +21471,14 @@
     "sc": "Sysadmin (debian)"
   },
   {
+    "s": "DPM LOL",
+    "d": "dpm.lol",
+    "t": "dpm",
+    "u": "https://dpm.lol/{{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (specific)"
+  },
+  {
     "s": "Dogpile News",
     "d": "www.dogpile.com",
     "t": "dpn",
