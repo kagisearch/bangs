@@ -6953,6 +6953,14 @@
     "sc": "Blogs (intl)"
   },
   {
+    "s": "Backloggd",
+    "d": "backloggd.com",
+    "t": "backloggd",
+    "u": "https://backloggd.com/search/games/{{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (general)"
+  },
+  {
     "s": "BackPack.tf",
     "d": "backpack.tf",
     "t": "backpack",
