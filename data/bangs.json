@@ -16940,7 +16940,7 @@
     "sc": "Learning"
   },
   {
-    "s": "curseforge",
+    "s": "WoW Curseforge",
     "d": "www.curseforge.com",
     "t": "curse",
     "u": "https://www.curseforge.com/wow/addons/search?search={{{s}}}",
@@ -50648,6 +50648,22 @@
     "t": "mcwm",
     "u": "https://www.minecraftworldmap.com/search?ss={{{s}}}",
     "c": "Entertainment",
+    "sc": "Games (Minecraft)"
+  },
+  {
+    "s": "FiguraMC Wiki",
+    "d": "wiki.figuramc.org",
+    "t": "figura",
+    "u": "https://wiki.figuramc.org/index.php?search={{{s}}}",
+    "c": "Tech",
+    "sc": "Games (Minecraft)"
+  },
+  {
+    "s": "Figura Documentation",
+    "d": "applejuiceyy.github.io",
+    "t": "figs",
+    "u": "https://applejuiceyy.github.io/figs/latest/search/?q={{{s}}}",
+    "c": "Tech",
     "sc": "Games (Minecraft)"
   },
   {
