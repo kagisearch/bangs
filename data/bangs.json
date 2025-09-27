@@ -17821,6 +17821,14 @@
     "sc": "Games (specific)"
   },
   {
+      "s": "Decipher Genomics",
+      "d": "www.deciphergenomics.org",
+      "t": "decipher",
+      "u": "https://www.deciphergenomics.org/search?q={{{s}}}",
+      "c": "Research",
+      "sc": "Academic"
+  },
+  {
     "s": "DuckDuckGo",
     "d": "duckduckgo.com",
     "t": "dax",
@@ -31523,6 +31531,14 @@
     "u": "https://www.generasia.com/w/index.php?title=Special:Search&search={{{s}}}&go=Go",
     "c": "Multimedia",
     "sc": "Music"
+  },
+  {
+    "s": "GeneReviews",
+    "d": "www.ncbi.nlm.nih.gov",
+    "t": "genereviews",
+    "u": "https://www.ncbi.nlm.nih.gov/books/n/gene/?term={{{s}}}",
+    "c": "Online Services",
+    "sc": "Tools"
   },
   {
     "s": "Library Genesis (Non-Fiction)",
@@ -82054,6 +82070,22 @@
     "d": "www.usal.es",
     "t": "usal",
     "u": "https://www.usal.es/webusal/usal_buscador?query={{{s}}}",
+    "c": "Research",
+    "sc": "Academic"
+  },
+  {
+    "s": "UCSC Genome Browser (GRCH38)",
+    "d": "genome.ucsc.edu",
+    "t": "ucsc",
+    "u": "https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&position={{{s}}}",
+    "c": "Research",
+    "sc": "Academic"
+  },
+  {
+    "s": "UCSC Genome Browser (Europe, GRCH38)",
+    "d": "genome-euro.ucsc.edu",
+    "t": "ucsc-eu",
+    "u": "https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hg38&position={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
