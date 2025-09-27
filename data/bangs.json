@@ -61343,6 +61343,14 @@
     ]
   },
   {
+    "s": "Plex",
+    "d": "app.plex.tv",
+    "t": "plex",
+    "u": "https://app.plex.tv/desktop/#!/search?pivot=top&query={{{s}}}",
+    "c": "Multimedia",
+    "sc": "Video"
+  },
+  {
     "s": "Poinformowani",
     "d": "poinformowani.pl",
     "t": "pfi",
