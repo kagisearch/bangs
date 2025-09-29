@@ -13287,6 +13287,9 @@
     "s": "ChatGPT",
     "d": "chatgpt.com",
     "t": "chatgpt",
+    "ts": [
+      "cgpt"
+    ],
     "u": "https://chatgpt.com/?q={{{s}}}",
     "c": "Online Services",
     "sc": "AI Chatbots"
