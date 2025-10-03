@@ -1121,9 +1121,9 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "Amazon Austria",
+    "s": "Amazon Germany / Austria",
     "d": "www.amazon.de",
-    "t": "a.at",
+    "t": "amazonde",
     "ts": [
       "a.de",
       "ade",
@@ -1134,7 +1134,8 @@
       "amazonde",
       "amde",
       "amznde",
-      "azd"
+      "azd",
+      "a.at"
     ],
     "u": "https://www.amazon.de/s?k={{{s}}}",
     "c": "Shopping",
@@ -1286,7 +1287,7 @@
   {
     "s": "Amazon Belgium",
     "d": "www.amazon.com.be",
-    "t": "abe",
+    "t": "amazonbe",
     "u": "https://www.amazon.com.be/s?k={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
