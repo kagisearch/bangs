@@ -1834,17 +1834,6 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "Amazon.de Smile",
-    "d": "smile.amazon.de",
-    "t": "ades",
-    "ts": [
-      "smde"
-    ],
-    "u": "https://smile.amazon.de/s?field-keywords={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
     "s": "Apple Developer",
     "d": "developer.apple.com",
     "t": "adev",
@@ -3682,33 +3671,6 @@
     "u": "https://www.amp-what.com/unicode/search/{{{s}}}",
     "c": "Tech",
     "sc": "Design"
-  },
-  {
-    "s": "Amazon Smile",
-    "d": "smile.amazon.com",
-    "t": "asm",
-    "ts": [
-      "smam",
-      "smile",
-      "ams"
-    ],
-    "u": "https://smile.amazon.com/s/?field-keywords={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
-    "s": "Amazon Smile (UK)",
-    "d": "smile.amazon.co.uk",
-    "t": "amsuk",
-    "ts": [
-      "asmuk",
-      "asuk",
-      "smamuk",
-      "smileuk"
-    ],
-    "u": "https://smile.amazon.co.uk/s?field-keywords={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
   },
   {
     "s": "Amazon.co.uk MP3",
@@ -5720,22 +5682,6 @@
     "sc": "Big box/department"
   },
   {
-    "s": "Amazon Smile Deutschland",
-    "d": "smile.amazon.de",
-    "t": "asd",
-    "u": "https://smile.amazon.de/s?url=search-alias=aps&field-keywords={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online (marketplace)"
-  },
-  {
-    "s": "AmazonSmile Deutschland",
-    "d": "smile.amazon.de",
-    "t": "asde",
-    "u": "https://smile.amazon.de/s/field-keywords={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online (intl)"
-  },
-  {
     "s": "A Search of Ice and Fire",
     "d": "asearchoficeandfire.com",
     "t": "asearchoficeandfire",
@@ -5750,17 +5696,6 @@
     "u": "https://peer.asee.org/?q={{{s}}}",
     "c": "Research",
     "sc": "Academic"
-  },
-  {
-    "s": "Amazon Smile (Germany)",
-    "d": "smile.amazon.de",
-    "t": "asg",
-    "ts": [
-      "sade"
-    ],
-    "u": "https://smile.amazon.de/s/?field-keywords={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
   },
   {
     "s": "Ashadidi",
@@ -69208,14 +69143,6 @@
     "sc": "Sysadmin"
   },
   {
-    "s": "Amazon Smile (de)",
-    "d": "smile.amazon.de",
-    "t": "samde",
-    "u": "https://smile.amazon.de/s/?url=search-alias=aps&field-keywords={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online (intl)"
-  },
-  {
     "s": "whosampled",
     "d": "www.whosampled.com",
     "t": "sampled",
@@ -69471,14 +69398,6 @@
     "u": "https://www.saugus.net/cgi-bin/htsearch?config=htdig&restrict=&exclude=&words={{{s}}}&method=and&format=long",
     "c": "Online Services",
     "sc": "Search (Private)"
-  },
-  {
-    "s": "AmazonSmile UK",
-    "d": "smile.amazon.co.uk",
-    "t": "sauk",
-    "u": "https://smile.amazon.co.uk/s/?field-keywords={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
   },
   {
     "s": "Savannah",
@@ -72356,14 +72275,6 @@
     "u": "https://www.smashwords.com/books/search?query={{{s}}}",
     "c": "Multimedia",
     "sc": "Books"
-  },
-  {
-    "s": "Smile.amazon.com",
-    "d": "smile.amazon.com",
-    "t": "sma",
-    "u": "https://smile.amazon.com/s/&field-keywords={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
   },
   {
     "s": "Svensk Mediedatabas",
