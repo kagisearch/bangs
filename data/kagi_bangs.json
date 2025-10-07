@@ -133,20 +133,6 @@
     "c": "Region search"
   },
   {
-    "s": "Search in American Samoa",
-    "d": "kagi.com",
-    "t": "as",
-    "u": "/search?q={{{s}}}&r=as",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Anguilla",
-    "d": "kagi.com",
-    "t": "ai",
-    "u": "/search?q={{{s}}}&r=ai",
-    "c": "Region search"
-  },
-  {
     "s": "Search in Antarctica",
     "d": "kagi.com",
     "t": "aq",
