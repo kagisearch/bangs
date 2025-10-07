@@ -133,45 +133,10 @@
     "c": "Region search"
   },
   {
-    "s": "Search in Afghanistan",
-    "d": "kagi.com",
-    "t": "af",
-    "u": "/search?q={{{s}}}&r=af",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Albania",
-    "d": "kagi.com",
-    "t": "al",
-    "u": "/search?q={{{s}}}&r=al",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Algeria",
-    "d": "kagi.com",
-    "t": "dz",
-    "u": "/search?q={{{s}}}&r=dz",
-    "c": "Region search"
-  },
-  {
     "s": "Search in American Samoa",
     "d": "kagi.com",
     "t": "as",
     "u": "/search?q={{{s}}}&r=as",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Andorra",
-    "d": "kagi.com",
-    "t": "ad",
-    "u": "/search?q={{{s}}}&r=ad",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Angola",
-    "d": "kagi.com",
-    "t": "ao",
-    "u": "/search?q={{{s}}}&r=ao",
     "c": "Region search"
   },
   {
@@ -189,38 +154,10 @@
     "c": "Region search"
   },
   {
-    "s": "Search in Antigua and Barbuda",
-    "d": "kagi.com",
-    "t": "ag",
-    "u": "/search?q={{{s}}}&r=ag",
-    "c": "Region search"
-  },
-  {
     "s": "Search in Argentina",
     "d": "kagi.com",
     "t": "ar",
     "u": "/search?q={{{s}}}&r=ar",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Armenia",
-    "d": "kagi.com",
-    "t": "am",
-    "u": "/search?q={{{s}}}&r=am",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Aruba",
-    "d": "kagi.com",
-    "t": "aw",
-    "u": "/search?q={{{s}}}&r=aw",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Ascension Island",
-    "d": "kagi.com",
-    "t": "ac",
-    "u": "/search?q={{{s}}}&r=ac",
     "c": "Region search"
   },
   {
@@ -235,41 +172,6 @@
     "d": "kagi.com",
     "t": "at",
     "u": "/search?q={{{s}}}&r=at",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Azerbaijan",
-    "d": "kagi.com",
-    "t": "az",
-    "u": "/search?q={{{s}}}&r=az",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Bahamas",
-    "d": "kagi.com",
-    "t": "bs",
-    "u": "/search?q={{{s}}}&r=bs",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Bahrain",
-    "d": "kagi.com",
-    "t": "bh",
-    "u": "/search?q={{{s}}}&r=bh",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Bangladesh",
-    "d": "kagi.com",
-    "t": "bd",
-    "u": "/search?q={{{s}}}&r=bd",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Barbados",
-    "d": "kagi.com",
-    "t": "bb",
-    "u": "/search?q={{{s}}}&r=bb",
     "c": "Region search"
   },
   {
@@ -308,55 +210,6 @@
     "c": "Region search"
   },
   {
-    "s": "Search in Bermuda",
-    "d": "kagi.com",
-    "t": "bm",
-    "u": "/search?q={{{s}}}&r=bm",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Bhutan",
-    "d": "kagi.com",
-    "t": "bt",
-    "u": "/search?q={{{s}}}&r=bt",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Bolivia",
-    "d": "kagi.com",
-    "t": "bo",
-    "u": "/search?q={{{s}}}&r=bo",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Bonaire, Sint Eustatius and Saba",
-    "d": "kagi.com",
-    "t": "bq",
-    "u": "/search?q={{{s}}}&r=bq",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Bosnia and Herzegovina",
-    "d": "kagi.com",
-    "t": "ba",
-    "u": "/search?q={{{s}}}&r=ba",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Botswana",
-    "d": "kagi.com",
-    "t": "bw",
-    "u": "/search?q={{{s}}}&r=bw",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Bouvet Island",
-    "d": "kagi.com",
-    "t": "bv",
-    "u": "/search?q={{{s}}}&r=bv",
-    "c": "Region search"
-  },
-  {
     "s": "Search in Brazil",
     "d": "kagi.com",
     "t": "br",
@@ -368,55 +221,6 @@
     "d": "kagi.com",
     "t": "io",
     "u": "/search?q={{{s}}}&r=io",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in British Virgin Islands",
-    "d": "kagi.com",
-    "t": "vg",
-    "u": "/search?q={{{s}}}&r=vg",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Brunei",
-    "d": "kagi.com",
-    "t": "bn",
-    "u": "/search?q={{{s}}}&r=bn",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Bulgaria",
-    "d": "kagi.com",
-    "t": "bg",
-    "u": "/search?q={{{s}}}&r=bg",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Burkina Faso",
-    "d": "kagi.com",
-    "t": "bf",
-    "u": "/search?q={{{s}}}&r=bf",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Burundi",
-    "d": "kagi.com",
-    "t": "bi",
-    "u": "/search?q={{{s}}}&r=bi",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Cabo Verde",
-    "d": "kagi.com",
-    "t": "cv",
-    "u": "/search?q={{{s}}}&r=cv",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Cambodia",
-    "d": "kagi.com",
-    "t": "kh",
-    "u": "/search?q={{{s}}}&r=kh",
     "c": "Region search"
   },
   {
@@ -455,20 +259,6 @@
     "c": "Region search"
   },
   {
-    "s": "Search in Chad",
-    "d": "kagi.com",
-    "t": "td",
-    "u": "/search?q={{{s}}}&r=td",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Chile",
-    "d": "kagi.com",
-    "t": "cl",
-    "u": "/search?q={{{s}}}&r=cl",
-    "c": "Region search"
-  },
-  {
     "s": "Search in China",
     "d": "kagi.com",
     "t": "cn",
@@ -483,13 +273,6 @@
     "c": "Region search"
   },
   {
-    "s": "Search in Cocos",
-    "d": "kagi.com",
-    "t": "cc",
-    "u": "/search?q={{{s}}}&r=cc",
-    "c": "Region search"
-  },
-  {
     "s": "Search in Colombia",
     "d": "kagi.com",
     "t": "co",
@@ -497,59 +280,10 @@
     "c": "Region search"
   },
   {
-    "s": "Search in Comoros",
-    "d": "kagi.com",
-    "t": "km",
-    "u": "/search?q={{{s}}}&r=km",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Congo",
-    "d": "kagi.com",
-    "t": "cg",
-    "u": "/search?q={{{s}}}&r=cg",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Congo, Democratic Republic of the",
-    "d": "kagi.com",
-    "t": "cd",
-    "u": "/search?q={{{s}}}&r=cd",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Cook Islands",
-    "d": "kagi.com",
-    "t": "ck",
-    "u": "/search?q={{{s}}}&r=ck",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Costa Rica",
-    "d": "kagi.com",
-    "t": "cr",
-    "u": "/search?q={{{s}}}&r=cr",
-    "c": "Region search"
-  },
-  {
     "s": "Search in Croatia",
     "d": "kagi.com",
     "t": "hr",
     "u": "/search?q={{{s}}}&r=hr",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Cuba",
-    "d": "kagi.com",
-    "t": "cu",
-    "u": "/search?q={{{s}}}&r=cu",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Curaçao",
-    "d": "kagi.com",
-    "t": "cw",
-    "u": "/search?q={{{s}}}&r=cw",
     "c": "Region search"
   },
   {
@@ -567,52 +301,10 @@
     "c": "Region search"
   },
   {
-    "s": "Search in Côte d'Ivoire",
-    "d": "kagi.com",
-    "t": "ci",
-    "u": "/search?q={{{s}}}&r=ci",
-    "c": "Region search"
-  },
-  {
     "s": "Search in Denmark",
     "d": "kagi.com",
     "t": "dk",
     "u": "/search?q={{{s}}}&r=dk",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Djibouti",
-    "d": "kagi.com",
-    "t": "dj",
-    "u": "/search?q={{{s}}}&r=dj",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Dominica",
-    "d": "kagi.com",
-    "t": "dm",
-    "u": "/search?q={{{s}}}&r=dm",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Dominican Republic",
-    "d": "kagi.com",
-    "t": "do",
-    "u": "/search?q={{{s}}}&r=do",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Ecuador",
-    "d": "kagi.com",
-    "t": "ec",
-    "u": "/search?q={{{s}}}&r=ec",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Egypt",
-    "d": "kagi.com",
-    "t": "eg",
-    "u": "/search?q={{{s}}}&r=eg",
     "c": "Region search"
   },
   {
@@ -623,59 +315,10 @@
     "c": "Region search"
   },
   {
-    "s": "Search in Equatorial Guinea",
-    "d": "kagi.com",
-    "t": "gq",
-    "u": "/search?q={{{s}}}&r=gq",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Eritrea",
-    "d": "kagi.com",
-    "t": "er",
-    "u": "/search?q={{{s}}}&r=er",
-    "c": "Region search"
-  },
-  {
     "s": "Search in Estonia (ee)",
     "d": "kagi.com",
     "t": "ee",
     "u": "/search?q={{{s}}}&r=ee",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Eswatini",
-    "d": "kagi.com",
-    "t": "sz",
-    "u": "/search?q={{{s}}}&r=sz",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Ethiopia",
-    "d": "kagi.com",
-    "t": "et",
-    "u": "/search?q={{{s}}}&r=et",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Falkland Islands",
-    "d": "kagi.com",
-    "t": "fk",
-    "u": "/search?q={{{s}}}&r=fk",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Faroe Islands",
-    "d": "kagi.com",
-    "t": "fo",
-    "u": "/search?q={{{s}}}&r=fo",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Fiji",
-    "d": "kagi.com",
-    "t": "fj",
-    "u": "/search?q={{{s}}}&r=fj",
     "c": "Region search"
   },
   {
@@ -693,48 +336,6 @@
     "c": "Region search"
   },
   {
-    "s": "Search in French Guiana",
-    "d": "kagi.com",
-    "t": "gf",
-    "u": "/search?q={{{s}}}&r=gf",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in French Polynesia",
-    "d": "kagi.com",
-    "t": "pf",
-    "u": "/search?q={{{s}}}&r=pf",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in French Southern Territories",
-    "d": "kagi.com",
-    "t": "tf",
-    "u": "/search?q={{{s}}}&r=tf",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Gabon",
-    "d": "kagi.com",
-    "t": "ga",
-    "u": "/search?q={{{s}}}&r=ga",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Gambia",
-    "d": "kagi.com",
-    "t": "gm",
-    "u": "/search?q={{{s}}}&r=gm",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Georgia",
-    "d": "kagi.com",
-    "t": "ge",
-    "u": "/search?q={{{s}}}&r=ge",
-    "c": "Region search"
-  },
-  {
     "s": "Search in Germany",
     "d": "kagi.com",
     "t": "de",
@@ -742,129 +343,10 @@
     "c": "Region search"
   },
   {
-    "s": "Search in Ghana",
-    "d": "kagi.com",
-    "t": "gh",
-    "u": "/search?q={{{s}}}&r=gh",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Gibraltar",
-    "d": "kagi.com",
-    "t": "gi",
-    "u": "/search?q={{{s}}}&r=gi",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Greece",
-    "d": "kagi.com",
-    "t": "gr",
-    "u": "/search?q={{{s}}}&r=gr",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Greenland",
-    "d": "kagi.com",
-    "t": "gl",
-    "u": "/search?q={{{s}}}&r=gl",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Grenada",
-    "d": "kagi.com",
-    "t": "gd",
-    "u": "/search?q={{{s}}}&r=gd",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Guadeloupe",
-    "d": "kagi.com",
-    "t": "gp",
-    "u": "/search?q={{{s}}}&r=gp",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Guam",
-    "d": "kagi.com",
-    "t": "gu",
-    "u": "/search?q={{{s}}}&r=gu",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Guatemala",
-    "d": "kagi.com",
-    "t": "gt",
-    "u": "/search?q={{{s}}}&r=gt",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Guernsey",
-    "d": "kagi.com",
-    "t": "gg",
-    "u": "/search?q={{{s}}}&r=gg",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Guinea",
-    "d": "kagi.com",
-    "t": "gn",
-    "u": "/search?q={{{s}}}&r=gn",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Guinea-Bissau",
-    "d": "kagi.com",
-    "t": "gw",
-    "u": "/search?q={{{s}}}&r=gw",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Guyana",
-    "d": "kagi.com",
-    "t": "gy",
-    "u": "/search?q={{{s}}}&r=gy",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Haiti",
-    "d": "kagi.com",
-    "t": "ht",
-    "u": "/search?q={{{s}}}&r=ht",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Heard Island and McDonald Islands",
-    "d": "kagi.com",
-    "t": "hm",
-    "u": "/search?q={{{s}}}&r=hm",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Honduras",
-    "d": "kagi.com",
-    "t": "hn",
-    "u": "/search?q={{{s}}}&r=hn",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Hong Kong",
-    "d": "kagi.com",
-    "t": "hk",
-    "u": "/search?q={{{s}}}&r=hk",
-    "c": "Region search"
-  },
-  {
     "s": "Search in Hungary",
     "d": "kagi.com",
     "t": "hu",
     "u": "/search?q={{{s}}}&r=hu",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Iceland",
-    "d": "kagi.com",
-    "t": "is",
-    "u": "/search?q={{{s}}}&r=is",
     "c": "Region search"
   },
   {
@@ -896,13 +378,6 @@
     "c": "Region search"
   },
   {
-    "s": "Search in Ireland",
-    "d": "kagi.com",
-    "t": "ie",
-    "u": "/search?q={{{s}}}&r=ie",
-    "c": "Region search"
-  },
-  {
     "s": "Search in Isle of Man",
     "d": "kagi.com",
     "t": "im",
@@ -924,31 +399,10 @@
     "c": "Region search"
   },
   {
-    "s": "Search in Jamaica",
-    "d": "kagi.com",
-    "t": "jm",
-    "u": "/search?q={{{s}}}&r=jm",
-    "c": "Region search"
-  },
-  {
     "s": "Search in Japan",
     "d": "kagi.com",
     "t": "jp",
     "u": "/search?q={{{s}}}&r=jp",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Jersey",
-    "d": "kagi.com",
-    "t": "je",
-    "u": "/search?q={{{s}}}&r=je",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Jordan",
-    "d": "kagi.com",
-    "t": "jo",
-    "u": "/search?q={{{s}}}&r=jo",
     "c": "Region search"
   },
   {
@@ -987,41 +441,6 @@
     "c": "Region search"
   },
   {
-    "s": "Search in Kyrgyzstan",
-    "d": "kagi.com",
-    "t": "kg",
-    "u": "/search?q={{{s}}}&r=kg",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Laos",
-    "d": "kagi.com",
-    "t": "la",
-    "u": "/search?q={{{s}}}&r=la",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Latvia",
-    "d": "kagi.com",
-    "t": "lv",
-    "u": "/search?q={{{s}}}&r=lv",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Lebanon",
-    "d": "kagi.com",
-    "t": "lb",
-    "u": "/search?q={{{s}}}&r=lb",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Lesotho",
-    "d": "kagi.com",
-    "t": "ls",
-    "u": "/search?q={{{s}}}&r=ls",
-    "c": "Region search"
-  },
-  {
     "s": "Search in Liberia",
     "d": "kagi.com",
     "t": "lr",
@@ -1036,45 +455,10 @@
     "c": "Region search"
   },
   {
-    "s": "Search in Liechtenstein",
-    "d": "kagi.com",
-    "t": "li",
-    "u": "/search?q={{{s}}}&r=li",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Lithuania",
-    "d": "kagi.com",
-    "t": "lt",
-    "u": "/search?q={{{s}}}&r=lt",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Luxembourg",
-    "d": "kagi.com",
-    "t": "lu",
-    "u": "/search?q={{{s}}}&r=lu",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Macao",
-    "d": "kagi.com",
-    "t": "mo",
-    "u": "/search?q={{{s}}}&r=mo",
-    "c": "Region search"
-  },
-  {
     "s": "Search in Madagascar",
     "d": "kagi.com",
     "t": "mg",
     "u": "/search?q={{{s}}}&r=mg",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Malawi",
-    "d": "kagi.com",
-    "t": "mw",
-    "u": "/search?q={{{s}}}&r=mw",
     "c": "Region search"
   },
   {
@@ -1085,153 +469,6 @@
     "c": "Region search"
   },
   {
-    "s": "Search in Maldives",
-    "d": "kagi.com",
-    "t": "mv",
-    "u": "/search?q={{{s}}}&r=mv",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Mali",
-    "d": "kagi.com",
-    "t": "ml",
-    "u": "/search?q={{{s}}}&r=ml",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Malta",
-    "d": "kagi.com",
-    "t": "mt",
-    "u": "/search?q={{{s}}}&r=mt",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Marshall Islands",
-    "d": "kagi.com",
-    "t": "mh",
-    "u": "/search?q={{{s}}}&r=mh",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Martinique",
-    "d": "kagi.com",
-    "t": "mq",
-    "u": "/search?q={{{s}}}&r=mq",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Mauritania",
-    "d": "kagi.com",
-    "t": "mr",
-    "u": "/search?q={{{s}}}&r=mr",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Mauritius",
-    "d": "kagi.com",
-    "t": "mu",
-    "u": "/search?q={{{s}}}&r=mu",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Mayotte",
-    "d": "kagi.com",
-    "t": "yt",
-    "u": "/search?q={{{s}}}&r=yt",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Mexico",
-    "d": "kagi.com",
-    "t": "mx",
-    "u": "/search?q={{{s}}}&r=mx",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Micronesia",
-    "d": "kagi.com",
-    "t": "fm",
-    "u": "/search?q={{{s}}}&r=fm",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Moldova",
-    "d": "kagi.com",
-    "t": "md",
-    "u": "/search?q={{{s}}}&r=md",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Monaco",
-    "d": "kagi.com",
-    "t": "mc",
-    "u": "/search?q={{{s}}}&r=mc",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Mongolia",
-    "d": "kagi.com",
-    "t": "mn",
-    "u": "/search?q={{{s}}}&r=mn",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Montenegro",
-    "d": "kagi.com",
-    "t": "me",
-    "u": "/search?q={{{s}}}&r=me",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Montserrat",
-    "d": "kagi.com",
-    "t": "ms",
-    "u": "/search?q={{{s}}}&r=ms",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Morocco",
-    "d": "kagi.com",
-    "t": "ma",
-    "u": "/search?q={{{s}}}&r=ma",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Mozambique",
-    "d": "kagi.com",
-    "t": "mz",
-    "u": "/search?q={{{s}}}&r=mz",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Myanmar",
-    "d": "kagi.com",
-    "t": "mm",
-    "u": "/search?q={{{s}}}&r=mm",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Namibia",
-    "d": "kagi.com",
-    "t": "na",
-    "u": "/search?q={{{s}}}&r=na",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Nauru",
-    "d": "kagi.com",
-    "t": "nr",
-    "u": "/search?q={{{s}}}&r=nr",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Nepal",
-    "d": "kagi.com",
-    "t": "np",
-    "u": "/search?q={{{s}}}&r=np",
-    "c": "Region search"
-  },
-  {
     "s": "Search in Netherlands",
     "d": "kagi.com",
     "t": "nl",
@@ -1239,73 +476,10 @@
     "c": "Region search"
   },
   {
-    "s": "Search in New Caledonia",
-    "d": "kagi.com",
-    "t": "nc",
-    "u": "/search?q={{{s}}}&r=nc",
-    "c": "Region search"
-  },
-  {
     "s": "Search in New Zealand",
     "d": "kagi.com",
     "t": "nz",
     "u": "/search?q={{{s}}}&r=nz",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Nicaragua",
-    "d": "kagi.com",
-    "t": "ni",
-    "u": "/search?q={{{s}}}&r=ni",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Niger",
-    "d": "kagi.com",
-    "t": "ne",
-    "u": "/search?q={{{s}}}&r=ne",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Nigeria",
-    "d": "kagi.com",
-    "t": "ng",
-    "u": "/search?q={{{s}}}&r=ng",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Niue",
-    "d": "kagi.com",
-    "t": "nu",
-    "u": "/search?q={{{s}}}&r=nu",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Norfolk Island",
-    "d": "kagi.com",
-    "t": "nf",
-    "u": "/search?q={{{s}}}&r=nf",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in North Korea",
-    "d": "kagi.com",
-    "t": "kp",
-    "u": "/search?q={{{s}}}&r=kp",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in North Macedonia",
-    "d": "kagi.com",
-    "t": "mk",
-    "u": "/search?q={{{s}}}&r=mk",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Northern Mariana Islands",
-    "d": "kagi.com",
-    "t": "mp",
-    "u": "/search?q={{{s}}}&r=mp",
     "c": "Region search"
   },
   {
@@ -1323,66 +497,10 @@
     "c": "Region search"
   },
   {
-    "s": "Search in Pakistan",
-    "d": "kagi.com",
-    "t": "pk",
-    "u": "/search?q={{{s}}}&r=pk",
-    "c": "Region search"
-  },
-  {
     "s": "Search in Palau",
     "d": "kagi.com",
     "t": "pw",
     "u": "/search?q={{{s}}}&r=pw",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Palestine",
-    "d": "kagi.com",
-    "t": "ps",
-    "u": "/search?q={{{s}}}&r=ps",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Panama",
-    "d": "kagi.com",
-    "t": "pa",
-    "u": "/search?q={{{s}}}&r=pa",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Papua New Guinea",
-    "d": "kagi.com",
-    "t": "pg",
-    "u": "/search?q={{{s}}}&r=pg",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Paraguay",
-    "d": "kagi.com",
-    "t": "py",
-    "u": "/search?q={{{s}}}&r=py",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Peru",
-    "d": "kagi.com",
-    "t": "pe",
-    "u": "/search?q={{{s}}}&r=pe",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Philippines",
-    "d": "kagi.com",
-    "t": "ph",
-    "u": "/search?q={{{s}}}&r=ph",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Pitcairn",
-    "d": "kagi.com",
-    "t": "pn",
-    "u": "/search?q={{{s}}}&r=pn",
     "c": "Region search"
   },
   {
@@ -1400,38 +518,10 @@
     "c": "Region search"
   },
   {
-    "s": "Search in Puerto Rico",
-    "d": "kagi.com",
-    "t": "pr",
-    "u": "/search?q={{{s}}}&r=pr",
-    "c": "Region search"
-  },
-  {
     "s": "Search in Qatar",
     "d": "kagi.com",
     "t": "qa",
     "u": "/search?q={{{s}}}&r=qa",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Romania",
-    "d": "kagi.com",
-    "t": "ro",
-    "u": "/search?q={{{s}}}&r=ro",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Russia",
-    "d": "kagi.com",
-    "t": "ru",
-    "u": "/search?q={{{s}}}&r=ru",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Rwanda",
-    "d": "kagi.com",
-    "t": "rw",
-    "u": "/search?q={{{s}}}&r=rw",
     "c": "Region search"
   },
   {
@@ -1442,129 +532,10 @@
     "c": "Region search"
   },
   {
-    "s": "Search in Saint Barthélemy",
-    "d": "kagi.com",
-    "t": "bl",
-    "u": "/search?q={{{s}}}&r=bl",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Saint Helena, Ascension and Tristan da Cunha",
-    "d": "kagi.com",
-    "t": "sh",
-    "u": "/search?q={{{s}}}&r=sh",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Saint Kitts and Nevis",
-    "d": "kagi.com",
-    "t": "kn",
-    "u": "/search?q={{{s}}}&r=kn",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Saint Lucia",
-    "d": "kagi.com",
-    "t": "lc",
-    "u": "/search?q={{{s}}}&r=lc",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Saint Martin",
-    "d": "kagi.com",
-    "t": "mf",
-    "u": "/search?q={{{s}}}&r=mf",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Saint Pierre and Miquelon",
-    "d": "kagi.com",
-    "t": "pm",
-    "u": "/search?q={{{s}}}&r=pm",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Saint Vincent and the Grenadines",
-    "d": "kagi.com",
-    "t": "vc",
-    "u": "/search?q={{{s}}}&r=vc",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Samoa",
-    "d": "kagi.com",
-    "t": "ws",
-    "u": "/search?q={{{s}}}&r=ws",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in San Marino",
-    "d": "kagi.com",
-    "t": "sm",
-    "u": "/search?q={{{s}}}&r=sm",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Sao Tome and Principe",
-    "d": "kagi.com",
-    "t": "st",
-    "u": "/search?q={{{s}}}&r=st",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Saudi Arabia",
-    "d": "kagi.com",
-    "t": "sa",
-    "u": "/search?q={{{s}}}&r=sa",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Senegal",
-    "d": "kagi.com",
-    "t": "sn",
-    "u": "/search?q={{{s}}}&r=sn",
-    "c": "Region search"
-  },
-  {
     "s": "Search in Serbia",
     "d": "kagi.com",
     "t": "rs",
     "u": "/search?q={{{s}}}&r=rs",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Seychelles",
-    "d": "kagi.com",
-    "t": "sc",
-    "u": "/search?q={{{s}}}&r=sc",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Sierra Leone",
-    "d": "kagi.com",
-    "t": "sl",
-    "u": "/search?q={{{s}}}&r=sl",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Singapore",
-    "d": "kagi.com",
-    "t": "sg",
-    "u": "/search?q={{{s}}}&r=sg",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Sint Maarten",
-    "d": "kagi.com",
-    "t": "sx",
-    "u": "/search?q={{{s}}}&r=sx",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Slovakia",
-    "d": "kagi.com",
-    "t": "sk",
-    "u": "/search?q={{{s}}}&r=sk",
     "c": "Region search"
   },
   {
@@ -1575,20 +546,6 @@
     "c": "Region search"
   },
   {
-    "s": "Search in Solomon Islands",
-    "d": "kagi.com",
-    "t": "sb",
-    "u": "/search?q={{{s}}}&r=sb",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Somalia",
-    "d": "kagi.com",
-    "t": "so",
-    "u": "/search?q={{{s}}}&r=so",
-    "c": "Region search"
-  },
-  {
     "s": "Search in South Africa",
     "d": "kagi.com",
     "t": "za",
@@ -1596,24 +553,10 @@
     "c": "Region search"
   },
   {
-    "s": "Search in South Georgia and the South Sandwich Islands",
-    "d": "kagi.com",
-    "t": "gs",
-    "u": "/search?q={{{s}}}&r=gs",
-    "c": "Region search"
-  },
-  {
     "s": "Search in South Korea",
     "d": "kagi.com",
     "t": "kr",
     "u": "/search?q={{{s}}}&r=kr",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in South Sudan",
-    "d": "kagi.com",
-    "t": "ss",
-    "u": "/search?q={{{s}}}&r=ss",
     "c": "Region search"
   },
   {
@@ -1628,34 +571,6 @@
     "d": "kagi.com",
     "t": "es_ca",
     "u": "/search?q={{{s}}}&r=es_ca",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Sri Lanka",
-    "d": "kagi.com",
-    "t": "lk",
-    "u": "/search?q={{{s}}}&r=lk",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Sudan",
-    "d": "kagi.com",
-    "t": "sd",
-    "u": "/search?q={{{s}}}&r=sd",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Suriname",
-    "d": "kagi.com",
-    "t": "sr",
-    "u": "/search?q={{{s}}}&r=sr",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Svalbard and Jan Mayen",
-    "d": "kagi.com",
-    "t": "sj",
-    "u": "/search?q={{{s}}}&r=sj",
     "c": "Region search"
   },
   {
@@ -1680,13 +595,6 @@
     "c": "Region search"
   },
   {
-    "s": "Search in Syria",
-    "d": "kagi.com",
-    "t": "sy",
-    "u": "/search?q={{{s}}}&r=sy",
-    "c": "Region search"
-  },
-  {
     "s": "Search in Taiwan",
     "d": "kagi.com",
     "t": "tw",
@@ -1694,31 +602,10 @@
     "c": "Region search"
   },
   {
-    "s": "Search in Tajikistan",
-    "d": "kagi.com",
-    "t": "tj",
-    "u": "/search?q={{{s}}}&r=tj",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Tanzania",
-    "d": "kagi.com",
-    "t": "tz",
-    "u": "/search?q={{{s}}}&r=tz",
-    "c": "Region search"
-  },
-  {
     "s": "Search in Thailand",
     "d": "kagi.com",
     "t": "th",
     "u": "/search?q={{{s}}}&r=th",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Timor-Leste",
-    "d": "kagi.com",
-    "t": "tl",
-    "u": "/search?q={{{s}}}&r=tl",
     "c": "Region search"
   },
   {
@@ -1743,52 +630,10 @@
     "c": "Region search"
   },
   {
-    "s": "Search in Trinidad and Tobago",
-    "d": "kagi.com",
-    "t": "tt",
-    "u": "/search?q={{{s}}}&r=tt",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Tristan da Cunha",
-    "d": "kagi.com",
-    "t": "ta",
-    "u": "/search?q={{{s}}}&r=ta",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Tunisia",
-    "d": "kagi.com",
-    "t": "tn",
-    "u": "/search?q={{{s}}}&r=tn",
-    "c": "Region search"
-  },
-  {
     "s": "Search in Turkey",
     "d": "kagi.com",
     "t": "tur",
     "u": "/search?q={{{s}}}&r=tr",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Turkmenistan",
-    "d": "kagi.com",
-    "t": "tm",
-    "u": "/search?q={{{s}}}&r=tm",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Turks and Caicos Islands",
-    "d": "kagi.com",
-    "t": "tc",
-    "u": "/search?q={{{s}}}&r=tc",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Tuvalu",
-    "d": "kagi.com",
-    "t": "tv",
-    "u": "/search?q={{{s}}}&r=tv",
     "c": "Region search"
   },
   {
@@ -1799,24 +644,10 @@
     "c": "Region search"
   },
   {
-    "s": "Search in Uganda",
-    "d": "kagi.com",
-    "t": "ug",
-    "u": "/search?q={{{s}}}&r=ug",
-    "c": "Region search"
-  },
-  {
     "s": "Search in Ukraine",
     "d": "kagi.com",
     "t": "ua",
     "u": "/search?q={{{s}}}&r=ua",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in United Arab Emirates",
-    "d": "kagi.com",
-    "t": "ae",
-    "u": "/search?q={{{s}}}&r=ae",
     "c": "Region search"
   },
   {
@@ -1862,38 +693,10 @@
     "c": "Region search"
   },
   {
-    "s": "Search in Vatican City",
-    "d": "kagi.com",
-    "t": "va",
-    "u": "/search?q={{{s}}}&r=va",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Venezuela",
-    "d": "kagi.com",
-    "t": "ve",
-    "u": "/search?q={{{s}}}&r=ve",
-    "c": "Region search"
-  },
-  {
     "s": "Search in Vietnam",
     "d": "kagi.com",
     "t": "vn",
     "u": "/search?q={{{s}}}&r=vn",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Wallis and Futuna",
-    "d": "kagi.com",
-    "t": "wf",
-    "u": "/search?q={{{s}}}&r=wf",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Western Sahara",
-    "d": "kagi.com",
-    "t": "eh",
-    "u": "/search?q={{{s}}}&r=eh",
     "c": "Region search"
   },
   {
@@ -1908,20 +711,6 @@
     "d": "kagi.com",
     "t": "zm",
     "u": "/search?q={{{s}}}&r=zm",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Zimbabwe",
-    "d": "kagi.com",
-    "t": "zw",
-    "u": "/search?q={{{s}}}&r=zw",
-    "c": "Region search"
-  },
-  {
-    "s": "Search in Åland Islands",
-    "d": "kagi.com",
-    "t": "ax",
-    "u": "/search?q={{{s}}}&r=ax",
     "c": "Region search"
   },
   {
