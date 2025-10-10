@@ -80297,7 +80297,8 @@
     "d": "twitter.com",
     "t": "twitters",
     "ts": [
-      "twitteruser"
+      "twitteruser",
+      "xuser"
     ],
     "u": "https://twitter.com/{{{s}}}",
     "c": "Online Services",
