@@ -9031,7 +9031,7 @@
     "ts": [
       "birds"
     ],
-    "u": "https://www.allaboutbirds.org/search/?q={{{s}}}",
+    "u": "https://www.allaboutbirds.org/news/search/?q={{{s}}}",
     "c": "Research",
     "sc": "Reference (science)"
   },
@@ -17759,12 +17759,12 @@
     "sc": "Games (specific)"
   },
   {
-      "s": "Decipher Genomics",
-      "d": "www.deciphergenomics.org",
-      "t": "decipher",
-      "u": "https://www.deciphergenomics.org/search?q={{{s}}}",
-      "c": "Research",
-      "sc": "Academic"
+    "s": "Decipher Genomics",
+    "d": "www.deciphergenomics.org",
+    "t": "decipher",
+    "u": "https://www.deciphergenomics.org/search?q={{{s}}}",
+    "c": "Research",
+    "sc": "Academic"
   },
   {
     "s": "DuckDuckGo",
