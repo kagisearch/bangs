@@ -65,6 +65,15 @@
     ]
   },
   {
+    "s": "Kagi Images (HD)",
+    "d": "kagi.com",
+    "t": "ihd",
+    "u": "/images?q={{{s}}}&size=large",
+    "fmt": [
+      "url_encode_placeholder"
+    ]
+  },
+  {
     "s": "Kagi Images (GIF)",
     "d": "kagi.com",
     "t": "gif",
