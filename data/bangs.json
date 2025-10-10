@@ -36982,9 +36982,9 @@
   },
   {
     "s": "Twitter Hashtags",
-    "d": "twitter.com",
+    "d": "x.com",
     "t": "hashtag",
-    "u": "https://twitter.com/search?q=\\#{{{s}}}",
+    "u": "https://x.com/search?q=\\#{{{s}}}",
     "c": "Online Services",
     "sc": "Social"
   },
@@ -80211,14 +80211,14 @@
   },
   {
     "s": "Twitter",
-    "d": "twitter.com",
+    "d": "x.com",
     "t": "twitter",
     "ts": [
       "twit",
       "twid",
       "tweet"
     ],
-    "u": "https://twitter.com/search?q={{{s}}}",
+    "u": "https://x.com/search?q={{{s}}}",
     "c": "Online Services",
     "sc": "Social"
   },
@@ -80294,13 +80294,13 @@
   },
   {
     "s": "Twitter User",
-    "d": "twitter.com",
+    "d": "x.com",
     "t": "twitters",
     "ts": [
       "twitteruser",
       "xuser"
     ],
-    "u": "https://twitter.com/{{{s}}}",
+    "u": "https://x.com/{{{s}}}",
     "c": "Online Services",
     "sc": "Social"
   },
@@ -80322,9 +80322,9 @@
   },
   {
     "s": "Twitter Latest",
-    "d": "twitter.com",
+    "d": "x.com",
     "t": "twl",
-    "u": "https://twitter.com/search?f=tweets&vertical=news&q={{{s}}}",
+    "u": "https://x.com/search?f=tweets&vertical=news&q={{{s}}}",
     "c": "Online Services",
     "sc": "Search (Real-time)"
   },
@@ -80377,9 +80377,9 @@
   },
   {
     "s": "Twitter users",
-    "d": "twitter.com",
+    "d": "x.com",
     "t": "twuser",
-    "u": "https://twitter.com/search/users?q={{{s}}}",
+    "u": "https://x.com/search/users?q={{{s}}}",
     "c": "Online Services",
     "sc": "Social"
   },
