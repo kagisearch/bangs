@@ -80210,19 +80210,6 @@
     "sc": "International"
   },
   {
-    "s": "Twitter",
-    "d": "x.com",
-    "t": "twitter",
-    "ts": [
-      "twit",
-      "twid",
-      "tweet"
-    ],
-    "u": "https://x.com/search?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Social"
-  },
-  {
     "s": "Twitch game search",
     "d": "www.twitch.tv",
     "t": "twg",
@@ -88310,6 +88297,12 @@
     "s": "X",
     "d": "x.com",
     "t": "x",
+    "ts": [
+      "twitter",
+      "twit",
+      "twid",
+      "tweet"
+    ],
     "u": "https://x.com/search?q={{{s}}}",
     "c": "Online Services",
     "sc": "Social"
