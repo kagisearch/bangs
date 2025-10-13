@@ -24637,7 +24637,7 @@
     "ts": [
       "engrxiv"
     ],
-    "u": "https://engrxiv.org/search/search?query={{{s}}},
+    "u": "https://engrxiv.org/search/search?query={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
