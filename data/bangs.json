@@ -20834,14 +20834,6 @@
     "sc": "Tools (URLs)"
   },
   {
-    "s": "Digital Open Access Identifier",
-    "d": "doai.io",
-    "t": "doai",
-    "u": "https://doai.io/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools (URLs)"
-  },
-  {
     "s": "Directory of Open Access Journals",
     "d": "www.doaj.org",
     "t": "doaj",
