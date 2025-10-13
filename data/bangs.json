@@ -24631,6 +24631,17 @@
     "sc": "Online (marketplace)"
   },
   {
+    "s": "Engineering Archive",
+    "d": "engrxiv.org",
+    "t": "engr",
+    "ts": [
+      "engrxiv"
+    ],
+    "u": "https://engrxiv.org/search/search?query={{{s}}},
+    "c": "Research",
+    "sc": "Academic"
+  },
+  {
     "s": "Engrish",
     "d": "www.engrish.com",
     "t": "engrish",
