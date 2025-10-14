@@ -65089,23 +65089,34 @@
     "sc": "Forum"
   },
   {
-    "s": "Qt Documentation",
-    "d": "doc.qt.io",
+    "s": "Qt 4 Documentation",
+    "d": "kagi.com",
+    "ad": "doc.qt.io/archives/qt-4.8/",
     "t": "qt4",
-    "u": "https://doc.qt.io/qt-4.8/search-results.html?q={{{s}}}",
+    "u": "/search?q={{{s}}}+site:doc.qt.io/archives/qt-4.8/",
     "c": "Tech",
     "sc": "Libraries/Frameworks"
   },
   {
     "s": "Qt 5 Documentation",
-    "d": "doc.qt.io",
+    "d": "kagi.com",
+    "ad": "doc.qt.io/archives/qt-5.15/",
     "t": "qt5",
+    "u": "/search?q={{{s}}}+site:doc.qt.io/archives/qt-5.15/",
+    "c": "Tech",
+    "sc": "Libraries/Frameworks"
+  },
+  {
+    "s": "Qt 6 Documentation",
+    "d": "kagi.com",
+    "ad": "doc.qt.io/qt-6/",
+    "t": "qt6",
     "ts": [
       "qt"
     ],
-    "u": "https://doc.qt.io/qt-5/search-results.html?q={{{s}}}",
+    "u": "/search?q={{{s}}}+site:doc.qt.io/qt-6/",
     "c": "Tech",
-    "sc": "Programming"
+    "sc": "Libraries/Frameworks"
   },
   {
     "s": "Qualtrics Support",
