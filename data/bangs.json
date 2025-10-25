@@ -45851,14 +45851,6 @@
     "sc": "Jobs"
   },
   {
-    "s": "letterboxd",
-    "d": "letterboxd.com",
-    "t": "lb",
-    "u": "https://letterboxd.com/search/{{{s}}}/",
-    "c": "Entertainment",
-    "sc": "Movies"
-  },
-  {
     "s": "Logos Bible Software",
     "d": "www.logos.com",
     "t": "lbs",
@@ -45871,6 +45863,7 @@
     "d": "letterboxd.com",
     "t": "lbx",
     "ts": [
+      "lb",
       "ltr",
       "letterboxd"
     ],
