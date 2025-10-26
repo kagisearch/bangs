@@ -84735,18 +84735,6 @@
     "sc": "Reference"
   },
   {
-    "s": "Wiktionary",
-    "d": "en.wiktionary.org",
-    "t": "wdic",
-    "ts": [
-      "wictionary",
-      "wkten"
-    ],
-    "u": "https://en.wiktionary.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words)"
-  },
-  {
     "s": "Wordreference (es)",
     "d": "www.wordreference.com",
     "t": "wdr",
@@ -87873,11 +87861,14 @@
     "d": "en.wiktionary.org",
     "t": "wtionary",
     "ts": [
-      "wt"
+      "wt",
+      "wdic",
+      "wictionary",
+      "wkten"
     ],
     "u": "https://en.wiktionary.org/w/index.php?search={{{s}}}&title=Special:Search&go=Go",
     "c": "Research",
-    "sc": "Learning"
+    "sc": "Reference (words)"
   },
   {
     "s": "What the fuck should I listen to right now",
