@@ -1613,6 +1613,18 @@
     "sc": "Blogs"
   },
   {
+    "s": "Apple Gaming Wiki",
+    "d": "www.applegamingwiki.com",
+    "t": "agw",
+    "ts": [
+      "applegaming",
+      "applegamingwiki"
+    ],
+    "u": "https://www.applegamingwiki.com/w/index.php?search={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (general)"
+  },
+  {
     "s": "Cortas",
     "d": "cortas.elpais.com",
     "t": "acortar",
@@ -48843,6 +48855,18 @@
     "u": "https://library.macewan.ca/library-search?query={{{s}}}",
     "c": "Research",
     "sc": "Academic"
+  },
+  {
+    "s": "MacGamingDB",
+    "d": "macgamingdb.app",
+    "t": "mgdb",
+    "ts": [
+      "macgaming",
+      "macgamingdb"
+    ],
+    "u": "https://macgamingdb.app/?q={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (general)"
   },
   {
     "s": "MacGeneration",
