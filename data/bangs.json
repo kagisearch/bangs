@@ -1621,8 +1621,8 @@
       "applegamingwiki"
     ],
     "u": "https://www.applegamingwiki.com/w/index.php?search={{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools"
+    "c": "Entertainment",
+    "sc": "Games (general)"
   },
   {
     "s": "Cortas",
@@ -48865,8 +48865,8 @@
       "macgamingdb"
     ],
     "u": "https://macgamingdb.app/?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools"
+    "c": "Entertainment",
+    "sc": "Games (general)"
   },
   {
     "s": "MacGeneration",
