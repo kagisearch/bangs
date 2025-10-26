@@ -20847,14 +20847,6 @@
     "sc": "Tools (URLs)"
   },
   {
-    "s": "Digital Open Access Identifier",
-    "d": "doai.io",
-    "t": "doai",
-    "u": "https://doai.io/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools (URLs)"
-  },
-  {
     "s": "Directory of Open Access Journals",
     "d": "www.doaj.org",
     "t": "doaj",
@@ -24650,6 +24642,17 @@
     "u": "http://www.globalspec.com/search/all?query={{{s}}}",
     "c": "Shopping",
     "sc": "Online (marketplace)"
+  },
+  {
+    "s": "Engineering Archive",
+    "d": "engrxiv.org",
+    "t": "engr",
+    "ts": [
+      "engrxiv"
+    ],
+    "u": "https://engrxiv.org/search/search?query={{{s}}}",
+    "c": "Research",
+    "sc": "Academic"
   },
   {
     "s": "Engrish",
