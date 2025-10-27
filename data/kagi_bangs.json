@@ -415,13 +415,6 @@
     "c": "Region search"
   },
   {
-    "s": "Search in Kiribati",
-    "d": "kagi.com",
-    "t": "kir",
-    "u": "/search?q={{{s}}}&r=ki",
-    "c": "Region search"
-  },
-  {
     "s": "Search in Kosovo",
     "d": "kagi.com",
     "t": "xk",
@@ -3504,6 +3497,20 @@
     "d": "kagi.com",
     "t": "grok-3",
     "u": "/assistant?profile=grok-3&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Kagi Assistant (Ki Research)",
+    "d": "kagi.com",
+    "t": "kir",
+    "ts": [
+      "ki_research",
+      "ki-research"
+    ],
+    "u": "/assistant?q={{{s}}}&profile=ki_research",
     "fmt": [
       "url_encode_placeholder",
       "url_encode_space_to_plus"
