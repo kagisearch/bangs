@@ -16102,6 +16102,17 @@
     "sc": "Programming"
   },
   {
+    "s": "Chromium Review",
+    "d": "chromium-review.googlesource.com",
+    "t": "cge",
+    "ts": [
+      "cgerrit"
+    ],
+    "u": "https://chromium-review.googlesource.com/q/{{{s}}}",
+    "c": "Tech",
+    "sc": "Programming"
+  },
+  {
     "s": "Chain Reaction Cycles",
     "d": "www.chainreactioncycles.com",
     "t": "crc",
