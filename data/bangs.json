@@ -4821,13 +4821,41 @@
     "sc": "Companies"
   },
   {
-    "s": "App Store on iTunes",
-    "d": "kagi.com",
-    "ad": "itunes.apple.com/us/app",
+    "s": "App Store (iPhone)",
+    "d": "apps.apple.com",
     "t": "appstore",
-    "u": "/search?q=site:itunes.apple.com/us/app/+{{{s}}}",
-    "c": "Shopping",
-    "sc": "Tech"
+    "ts": [
+      "iphoneapps",
+      "iosapps",
+      "iapp",
+      "ipa"
+    ],
+    "u": "https://apps.apple.com/iphone/search?term={{{s}}}",
+    "c": "Tech",
+    "sc": "Downloads (apps)"
+  },
+  {
+    "s": "App Store (Mac)",
+    "d": "apps.apple.com",
+    "t": "macapps",
+    "ts": [
+      "appstoremac",
+      "appsmac"
+    ],
+    "u": "https://apps.apple.com/mac/search?term={{{s}}}",
+    "c": "Tech",
+    "sc": "Downloads (apps)"
+  },
+  {
+    "s": "App Store UK (iPhone)",
+    "d": "apps.apple.com",
+    "t": "ukappstore",
+    "ts": [
+      "appstoreuk"
+    ],
+    "u": "https://apps.apple.com/gb/iphone/search?term={{{s}}}",
+    "c": "Tech",
+    "sc": "Downloads (apps)"
   },
   {
     "s": "April",
@@ -81071,15 +81099,6 @@
     "u": "https://www.ujaen.es/search?s={{{s}}}",
     "c": "Research",
     "sc": "Academic"
-  },
-  {
-    "s": "UK App Store (Kagi Search)",
-    "d": "kagi.com",
-    "ad": "apps.apple.com/gb/app/",
-    "t": "ukappstore",
-    "u": "/search?q={{{s}}}+site:apps.apple.com/gb/app/",
-    "c": "Shopping",
-    "sc": "Online (marketplace)"
   },
   {
     "s": "UKCSGO",
