@@ -68527,7 +68527,7 @@
     "s": "Real Time Trains",
     "d": "www.realtimetrains.co.uk",
     "t": "rtt",
-    "u": "https://www.realtimetrains.co.uk/search/handler?type=basic&qs=true&search={{{s}}}",
+    "u": "https://www.realtimetrains.co.uk/search/handler?type=basic&qsearch={{{s}}}",
     "c": "Online Services",
     "sc": "Tracking"
   },
