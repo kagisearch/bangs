@@ -70703,6 +70703,15 @@
     "sc": "TV"
   },
   {
+    "s": "SeriesGraph",
+    "d": "seriesgraph.com",
+    "t": "sgr",
+    "ts": ["seriesgraph"],
+    "u": "https://seriesgraph.com/show/search/{{{s}}}",
+    "c": "Entertainment",
+    "sc": "TV"
+  },
+  {
     "s": "servershop24",
     "d": "www.servershop24.de",
     "t": "server24",
