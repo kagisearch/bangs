@@ -64076,6 +64076,17 @@
     "sc": "Tools"
   },
   {
+    "s": "Lumo",
+    "d": "lumo.proton.me",
+    "t": "lumo",
+    "ts": [
+      "protonlumo"
+    ],
+    "u": "https://lumo.proton.me/?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "AI Chatbots"
+  },
+  {
     "s": "Provigo Grocery Store",
     "d": "www.provigo.ca",
     "t": "provigo",
