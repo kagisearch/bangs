@@ -4840,7 +4840,8 @@
     "t": "macapps",
     "ts": [
       "appstoremac",
-      "appsmac"
+      "appsmac",
+      "dmg"
     ],
     "u": "https://apps.apple.com/mac/search?term={{{s}}}",
     "c": "Tech",
