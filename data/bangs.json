@@ -80317,7 +80317,7 @@
     "s": "Twitch TV",
     "d": "www.twitch.tv",
     "t": "twich",
-    "u": "https://www.twitch.tv/search?query={{{s}}}",
+    "u": "https://www.twitch.tv/search?term={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (general)"
   },
