@@ -1415,6 +1415,19 @@
     "sc": "Images"
   },
   {
+    "s": "Amazon UAE",
+    "d": "www.amazon.ae",
+    "t": "a.ae",
+    "ts": [
+      "amazon_ae",
+      "amazonae",
+      "amazon.ae"
+    ],
+    "u": "https://www.amazon.ae/s?k={{{s}}}",
+    "c": "Shopping",
+    "sc": "Online"
+  },
+  {
     "s": "Amazon.ca",
     "d": "www.amazon.ca",
     "t": "aca",
