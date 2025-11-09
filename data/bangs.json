@@ -829,6 +829,14 @@
     "sc": "Books"
   },
   {
+    "s": "7TV",
+    "d": "7tv.app",
+    "t": "7tv",
+    "u": "https://7tv.app/emotes?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Tools"
+  },
+  {
     "s": "800notes.com",
     "d": "800notes.com",
     "t": "800",
