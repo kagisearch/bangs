@@ -8341,6 +8341,14 @@
     "sc": "TV"
   },
   {
+    "s": "BetterTTV",
+    "d": "betterttv.com",
+    "t": "bttv",
+    "u": "https://betterttv.com/emotes/shared/search?query={{{s}}}",
+    "c": "Online Services",
+    "sc": "Tools"
+  },
+  {
     "s": "betterworldbooks.com",
     "d": "betterworldbooks.com",
     "t": "betterworldbooks",
