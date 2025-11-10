@@ -4393,7 +4393,7 @@
     "s": "AP",
     "d": "ap.org",
     "t": "ap",
-    "u": "https://www.ap.org/?s={{{s}}}&orderby=",
+    "u": "https://ap.org/?s={{{s}}}&orderby=",
     "c": "News",
     "sc": "Broadcast"
   },
