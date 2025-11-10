@@ -2667,14 +2667,6 @@
     "sc": "Online"
   },
   {
-    "s": "Al Jazeera (English)",
-    "d": "www.aljazeera.com",
-    "t": "aje",
-    "u": "https://www.aljazeera.com/Search/?q={{{s}}}",
-    "c": "News",
-    "sc": "International"
-  },
-  {
     "s": "アマゾン (Amazon Japan)",
     "d": "www.amazon.co.jp",
     "t": "aj",
@@ -3011,14 +3003,6 @@
     "u": "https://alipaczka.pl/?track={{{s}}}",
     "c": "Online Services",
     "sc": "Tracking"
-  },
-  {
-    "s": "Aljazeera English",
-    "d": "english.aljazeera.net",
-    "t": "aljazeera",
-    "u": "https://english.aljazeera.net/Services/Search/?q={{{s}}}",
-    "c": "News",
-    "sc": "Aggregators"
   },
   {
     "s": "Alko",
@@ -4409,7 +4393,7 @@
     "s": "AP",
     "d": "ap.org",
     "t": "ap",
-    "u": "https://ap.org/Search/SearchResults?searchkeywords={{{s}}}",
+    "u": "https://ap.org/?s={{{s}}}&orderby=",
     "c": "News",
     "sc": "Broadcast"
   },
@@ -41092,10 +41076,14 @@
     "sc": "General"
   },
   {
-    "s": "Aljazeera",
+    "s": "Al Jazeera",
     "d": "www.aljazeera.com",
-    "t": "intaljazeera",
-    "u": "https://www.aljazeera.com/Services/Search/?q={{{s}}}",
+    "t": "aljazeera",
+    "ts": [
+      "intaljazeera",
+      "aje"
+    ],
+    "u": "https://www.aljazeera.com/search/{{{s}}}",
     "c": "News",
     "sc": "International"
   },
@@ -67138,7 +67126,7 @@
     "ts": [
       "reuters"
     ],
-    "u": "https://www.reuters.com/search/news?blob={{{s}}}",
+    "u": "https://www.reuters.com/site-search/?query={{{s}}}",
     "c": "News",
     "sc": "International"
   },
