@@ -28390,7 +28390,7 @@
       "flathub",
       "fthub"
     ],
-    "u": "https://flathub.org/apps/search/{{{s}}}",
+    "u": "https://flathub.org/apps/search?q={{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
   },
@@ -28398,7 +28398,7 @@
     "s": "FlatIcon",
     "d": "www.flaticon.com",
     "t": "flaticon",
-    "u": "https://www.flaticon.com/search/{{{s}}}",
+    "u": "https://www.flaticon.com/search?word={{{s}}}",
     "c": "Multimedia",
     "sc": "Images"
   },
