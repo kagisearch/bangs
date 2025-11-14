@@ -39989,7 +39989,7 @@
     "sc": "Tools (fundraising)"
   },
   {
-    "s": "Imgur — gifs",
+    "s": "Imgur — gifs",
     "d": "imgur.com",
     "t": "igif",
     "u": "https://imgur.com/search/score?q=ext:gif+{{{s}}}",
@@ -78580,6 +78580,17 @@
     "u": "https://tlk.io/{{{s}}}",
     "c": "Online Services",
     "sc": "Social"
+  },
+  {
+    "s": "Trainboard",
+    "d": "www.trainboard.eu",
+    "t": "tb",
+    "ts"; [
+      "trainboard"
+    ],
+    "u": "https://trainboard.eu/bang.html?station={{{s}}}",
+    "c": "Online Services",
+    "sc": "Tools"
   },
   {
     "s": "Trainline Live Departures",
