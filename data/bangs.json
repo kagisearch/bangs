@@ -78582,6 +78582,18 @@
     "sc": "Social"
   },
   {
+    "s": "Trainboard",
+    "d": "trainboard.eu",
+    "t": "trainb",
+    "ts": [
+      "trainboard",
+      "zugtafel"
+    ],
+    "u": "https://trainboard.eu/bang.html?station={{{s}}}",
+    "c": "Online Services",
+    "sc": "Tools"
+  },
+  {
     "s": "Trainline Live Departures",
     "d": "www.thetrainline.com",
     "t": "tlld",
