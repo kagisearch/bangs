@@ -62826,6 +62826,14 @@
     "sc": "Tools"
   },
   {
+    "s": "Podnews",
+    "d": "podnews.net",
+    "t": "podnews",
+    "u": "https://podnews.net/search?q={{{s}}}",
+    "c": "News",
+    "sc": "Business"
+  },
+  {
     "s": "Path of Exile Database",
     "d": "poedb.tw",
     "t": "poedb",
