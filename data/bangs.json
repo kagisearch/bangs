@@ -93146,6 +93146,14 @@
     "sc": "General"
   },
   {
+    "s": "Kagi Translate (Dictionary)",
+    "d": "translate.kagi.com",
+    "t": "kdic",
+    "u": "https://translate.kagi.com/dictionary?word={{{s}}}&from=auto",
+    "c": "Translation",
+    "sc": "General"
+  },
+  {
     "s": "Home Assistant Community",
     "d": "community.home-assistant.io",
     "t": "hac",
