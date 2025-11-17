@@ -93246,10 +93246,10 @@
   },
   {
     "s": "Semantic Scholar",
-    "d": "semanticscholar.com",
+    "d": "semanticscholar.org",
     "t": "semanticscholar",
     "ts": [ "sem" ],
-    "u": "https://semanticscholar.com/search?q={{{s}}}&sort=relevance",
+    "u": "https://semanticscholar.org/search?q={{{s}}}&sort=relevance",
     "c": "Research",
     "sc": "Academic", 
     "fmt": ["open_base_path"]
