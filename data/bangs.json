@@ -93243,5 +93243,15 @@
     "u": "https://libro.fm/search?utf8=%E2%9C%93&q={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
-  }
+  },
+  {
+    "s": "Semantic Schollar",
+    "d": "semanticschollar.com",
+    "t": "semanticschollar",
+    "ts": [ "sem" ],
+    "u": "https://semanticschollar.com/search?q={{{s}}}&sort=relevance",
+    "c": "Research",
+    "sc": "Reference", 
+    "fmt": ["open_base_path"]
+  },
 ]
