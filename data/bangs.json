@@ -93245,11 +93245,11 @@
     "sc": "Online"
   },
   {
-    "s": "Semantic Schollar",
-    "d": "semanticschollar.com",
-    "t": "semanticschollar",
+    "s": "Semantic Scholar",
+    "d": "semanticscholar.com",
+    "t": "semanticscholar",
     "ts": [ "sem" ],
-    "u": "https://semanticschollar.com/search?q={{{s}}}&sort=relevance",
+    "u": "https://semanticscholar.com/search?q={{{s}}}&sort=relevance",
     "c": "Research",
     "sc": "Academic", 
     "fmt": ["open_base_path"]
