@@ -1,6 +1,6 @@
 require "json"
 
-["data/bangs.json", "data/assistant_bangs.json", "data/kagi_bangs.json"].each do |file|
+["data/bangs.json", "data/kagi_bangs.json"].each do |file|
   bangs_json = JSON.parse(File.read(file))
   output = []
 

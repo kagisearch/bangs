@@ -5,7 +5,6 @@ require "whirly"
 
 bangs_json = JSON.parse(File.read("data/bangs.json"))
 kagi_bangs_json = JSON.parse(File.read("data/kagi_bangs.json"))
-assist_bangs_json = JSON.parse(File.read("data/assistant_bangs.json"))
 
 errored = []
 mutex = Mutex.new
@@ -27,7 +26,7 @@ end
 Whirly.configure spinner: "dots"
 Whirly.start
 
-all_bangs = bangs_json + kagi_bangs_json + assist_bangs_json
+all_bangs = bangs_json + kagi_bangs_json
 threads = []
 
 all_bangs.each_with_index do |bang, idx|

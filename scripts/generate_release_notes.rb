@@ -132,7 +132,7 @@ def compare_json_files(file_path)
 end
 
 # Paths to the JSON files
-json_files = ['data/bangs.json', 'data/kagi_bangs.json', 'data/assistant_bangs.json']
+json_files = ['data/bangs.json', 'data/kagi_bangs.json']
 
 File.delete('release_notes.md') if File.exist?('release_notes.md')
 

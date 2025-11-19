@@ -3,8 +3,7 @@
     {
       "fileMatch": [
         "/data/bangs.json",
-        "/data/kagi_bangs.json",
-        "/data/assistant_bangs.json"
+        "/data/kagi_bangs.json"
       ],
       "url": "./data/bangs.schema.json"
     }
