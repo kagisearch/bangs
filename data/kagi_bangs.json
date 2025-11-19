@@ -3081,7 +3081,6 @@
     "ts": [
       "as",
       "assistant",
-      "research",
       "answer",
       "discuss",
       "expert",
@@ -3128,10 +3127,10 @@
   {
     "s": "Kagi Assistant - Ki Quick",
     "d": "kagi.com",
-    "t": "quick",
+    "t": "ki",
     "ts": [
-      "ki",
-      "kiq"
+      "kiq",
+      "ki_quick"
     ],
     "u": "/assistant?profile=ki&q={{{s}}}",
     "fmt": [
@@ -3142,9 +3141,8 @@
   {
     "s": "Kagi Assistant - Ki Research",
     "d": "kagi.com",
-    "t": "r",
+    "t": "kir",
     "ts": [
-      "kir",
       "research",
       "ki_research",
       "ki-research"
