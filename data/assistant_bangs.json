@@ -24,17 +24,7 @@
     "s": "Kagi Assistant - Chat",
     "d": "kagi.com",
     "t": "chat",
-    "u": "/assistant?q={{{s}}}&internet=off",
-    "fmt": [
-      "url_encode_placeholder",
-      "url_encode_space_to_plus"
-    ]
-  },
-  {
-    "s": "Kagi Assistant - Study",
-    "d": "kagi.com",
-    "t": "study",
-    "u": "/assistant?q={{{s}}}&profile=study",
+    "u": "/assistant?internet=off&q={{{s}}}",
     "fmt": [
       "url_encode_placeholder",
       "url_encode_space_to_plus"
@@ -44,7 +34,41 @@
     "s": "Kagi Assistant - Code",
     "d": "kagi.com",
     "t": "code",
-    "u": "/assistant?q={{{s}}}&profile=code",
+    "u": "/assistant?profile=code&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Kagi Assistant - Ki",
+    "d": "kagi.com",
+    "t": "ki",
+    "u": "/assistant?profile=ki&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Kagi Assistant - Ki Research",
+    "d": "kagi.com",
+    "t": "kir",
+    "ts": [
+      "ki_research",
+      "ki-research"
+    ],
+    "u": "/assistant?profile=ki_research&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Kagi Assistant - Study",
+    "d": "kagi.com",
+    "t": "study",
+    "u": "/assistant?profile=study&q={{{s}}}",
     "fmt": [
       "url_encode_placeholder",
       "url_encode_space_to_plus"
