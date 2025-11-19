@@ -13319,6 +13319,17 @@
     "sc": "AI Chatbots"
   },
   {
+    "s": "Google AI Mode",
+    "d": "www.google.com",
+    "t": "gai",
+    "ts": [
+      "googleai"
+    ],
+    "u": "https://www.google.com/search?q={{{s}}}&udm=50",
+    "c": "Online Services",
+    "sc": "AI Chatbots"
+  },
+  {
     "s": "Chatters Salons",
     "d": "chatters.ca",
     "t": "chatters",
