@@ -129,9 +129,6 @@
     "s": "Kagi Quick Answer",
     "d": "kagi.com",
     "t": "q",
-    "ts": [
-      "quick"
-    ],
     "u": "/search?q={{{s}}}&qa=true"
   },
   {
@@ -3125,25 +3122,26 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Ki Quick",
+    "s": "Kagi Assistant - Quick",
     "d": "kagi.com",
-    "t": "ki",
+    "t": "quick",
     "ts": [
+      "ki",
       "kiq",
       "ki_quick"
     ],
-    "u": "/assistant?profile=ki&q={{{s}}}",
+    "u": "/assistant?profile=ki_quick&q={{{s}}}",
     "fmt": [
       "url_encode_placeholder",
       "url_encode_space_to_plus"
     ]
   },
   {
-    "s": "Kagi Assistant - Ki Research",
+    "s": "Kagi Assistant - Research",
     "d": "kagi.com",
-    "t": "kir",
+    "t": "research",
     "ts": [
-      "research",
+      "kir",
       "ki_research",
       "ki-research"
     ],
