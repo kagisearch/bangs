@@ -53027,7 +53027,7 @@
     "s": "Morningstar Search",
     "d": "www.morningstar.com",
     "t": "morningstar",
-    "u": "https://www.morningstar.com/search.html?q={{{s}}}",
+    "u": "https://www.morningstar.com/search?query={{{s}}}",
     "c": "Research",
     "sc": "Topical"
   },
