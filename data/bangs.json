@@ -53483,22 +53483,6 @@
     "sc": "Reference (science)"
   },
   {
-    "s": "Morningstar (ETF quote)",
-    "d": "etfs.morningstar.com",
-    "t": "mseq",
-    "u": "http://etfs.morningstar.com/quote?t={{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools"
-  },
-  {
-    "s": "Morningstar",
-    "d": "www.morningstar.com",
-    "t": "msfq",
-    "u": "https://www.morningstar.com/funds/xnas/{{{s}}}/quote.html",
-    "c": "Online Services",
-    "sc": "Tools"
-  },
-  {
     "s": "messenger.com",
     "d": "www.messenger.com",
     "t": "msg",
