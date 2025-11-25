@@ -37168,6 +37168,17 @@
     "sc": "Forum"
   },
   {
+    "s": "Huberman Labs",
+    "d": "https://www.hubermanlab.com/",
+    "t": "hblb",
+    "ts": [
+      "hubermanlab"
+    ],
+    "u": "https://www.hubermanlab.com/search-results?q={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Audio (Podcast)"
+  },
+  {
     "s": "Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen",
     "d": "okeanos-www.hbz-nrw.de",
     "t": "hbz",
