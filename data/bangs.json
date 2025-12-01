@@ -69289,6 +69289,19 @@
     "sc": "Big box/department"
   },
   {
+    "s": "Mamont",
+    "d": "www.mmnt.ru",
+    "t": "mmnt",
+    "ts": [
+      "mamont",
+      "мамонт",
+      "ммнт"
+    ],
+    "u": "https://www.mmnt.ru/get?st={{{s}}}&in=w",
+    "c": "Online Services",
+    "sc": "Search"
+  },
+  {
     "s": "Sanakirja.org",
     "d": "www.sanakirja.org",
     "t": "sanakirja",
@@ -70785,7 +70798,9 @@
     "s": "SeriesGraph",
     "d": "seriesgraph.com",
     "t": "sgr",
-    "ts": ["seriesgraph"],
+    "ts": [
+      "seriesgraph"
+    ],
     "u": "https://seriesgraph.com/show/search/{{{s}}}",
     "c": "Entertainment",
     "sc": "TV"
