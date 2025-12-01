@@ -126,12 +126,6 @@
     ]
   },
   {
-    "s": "Kagi Quick Answer",
-    "d": "kagi.com",
-    "t": "q",
-    "u": "/search?q={{{s}}}&qa=true"
-  },
-  {
     "s": "Search in International",
     "d": "kagi.com",
     "t": "int",
@@ -3124,8 +3118,9 @@
   {
     "s": "Kagi Assistant - Quick",
     "d": "kagi.com",
-    "t": "quick",
+    "t": "q",
     "ts": [
+      "quick",
       "ki",
       "kiq",
       "ki_quick"
