@@ -27812,6 +27812,14 @@
     "sc": "Learning"
   },
   {
+    "s": "FOSDEM",
+    "d": "fosdem.org",
+    "t": "fosdem",
+    "u": "https://fosdem.org/2026/search/?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Events"
+  },
+  {
     "s": "FossHub",
     "d": "www.fosshub.com",
     "t": "fhub",
