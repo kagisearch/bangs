@@ -61759,13 +61759,13 @@
   },
   {
     "s": "PHP.net",
-    "d": "secure.php.net",
+    "d": "www.php.net",
     "ad": "php.net",
     "t": "phpnet",
     "ts": [
       "php"
     ],
-    "u": "https://secure.php.net/manual-lookup.php?pattern={{{s}}}",
+    "u": "https://www.php.net/manual-lookup.php?pattern={{{s}}}",
     "c": "Tech",
     "sc": "Languages (php)"
   },
