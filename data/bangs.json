@@ -54637,7 +54637,7 @@
     "s": "namuwiki",
     "d": "namu.wiki",
     "t": "namu",
-    "u": "https://namu.wiki/Search?q={{{s}}}",
+    "u": "https://namu.wiki/Go?q={{{s}}}",
     "c": "Research",
     "sc": "Reference"
   },
