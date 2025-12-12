@@ -36823,7 +36823,12 @@
     ],
     "u": "https://hn.algolia.com/?q={{{s}}}",
     "c": "News",
-    "sc": "Aggregators"
+    "sc": "Aggregators",
+    "fmt": [
+      "open_snap_domain",
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Hackology",
