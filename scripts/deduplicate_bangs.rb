@@ -4,7 +4,7 @@ require "json"
   bangs_json = JSON.parse(File.read(file))
   output = []
 
-  sort_order = ["s", "d", "ad", "t", "ts", "u", "x", "c", "sc", "skip_tests", "fmt"]
+  sort_order = ["s", "d", "ad", "h", "t", "ts", "u", "x", "c", "sc", "skip_tests", "fmt"]
 
   bangs_json.each_with_index do |bang, idx|
     matches = bangs_json.select { |b|

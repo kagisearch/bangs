@@ -240,6 +240,7 @@ Key   | Description  | Required | Notes
 `s`   | Website name | yes      |
 `d`   | Domain       | yes      |
 `ad`  | Alternate Domain | no   | Can be used to specify the domain of the results if the bang searches another website. See `hn` bang.
+`h`   | Homepage URL | no       | URL to redirect to when the bang is invoked with no query. If not specified, defaults to the domain root.
 `t`   | Trigger      | yes      | May contain letters, numbers, dashes (`-`), periods (`.`), and underscores (`_`). No spaces or other special characters.
 `ts`  | Additional triggers     | Additional triggers that invoke this bang
 `u`   | URL template | yes      | Use `{{{s}}}` for query placeholder.

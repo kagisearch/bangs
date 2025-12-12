@@ -21,6 +21,11 @@
         "title": "Alternate Domain",
         "description": "The domain of the actual website if the bang searches another website, if applicable."
       },
+      "h": {
+        "type": "string",
+        "title": "Homepage URL",
+        "description": "The URL to redirect to when the bang is invoked with no query. If not specified, defaults to the domain root."
+      },
       "t": {
         "type": "string",
         "title": "Trigger",

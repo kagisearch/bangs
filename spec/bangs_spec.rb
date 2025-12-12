@@ -83,6 +83,19 @@ def ad_format_check(bangs)
   end
 end
 
+def homepage_format_check(bangs)
+  bangs.each do |bang|
+    next if bang["skip_tests"]
+    next unless homepage = bang["h"]
+
+    it "homepage should be a valid URL (#{bang["s"]})" do
+      uri = Addressable::URI.parse(homepage)
+      expect(uri.scheme).to match(/^https?$/)
+      expect(uri.host).to_not be_nil
+    end
+  end
+end
+
 def template_format_check(bangs)
   bangs.each do |bang|
     next if bang["skip_tests"] || bang["x"]
@@ -163,6 +176,7 @@ describe "bangs.json" do
   match_domains(bangs_json, check_ad: true)
   uri_decoded_urls(bangs_json)
   ad_format_check(bangs_json)
+  homepage_format_check(bangs_json)
   template_format_check(bangs_json)
   trigger_format_check(bangs_json)
   regex_pattern_check(bangs_json)
@@ -189,6 +203,7 @@ describe "kagi_bangs.json" do
   match_domains(kagi_bangs_json)
   uri_decoded_urls(kagi_bangs_json)
   ad_format_check(kagi_bangs_json)
+  homepage_format_check(kagi_bangs_json)
   template_format_check(kagi_bangs_json)
   trigger_format_check(kagi_bangs_json)
   regex_pattern_check(kagi_bangs_json)
