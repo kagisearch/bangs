@@ -18,8 +18,8 @@
       },
       "ad": {
         "type": "string",
-        "title": "Alternate Domain",
-        "description": "The domain of the actual website if the bang searches another website, if applicable."
+        "title": "Snap Domain",
+        "description": "The domain of the actual website if the bang searches another website, if applicable. For use by snaps."
       },
       "t": {
         "type": "string",
