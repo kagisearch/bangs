@@ -259,6 +259,7 @@ The field is an array of strings that act as a list of flags:
 Flag                       | Description
 ---------------------------|----------------------
 `open_base_path`           | When the bang is invoked with no query, opens the base path of the URL (`/`) instead of any path given in the template (e.g., `/search`)
+`open_snap_domain`         | When the bang is invoked with no query, open the alternate domain (`ad`) instead of any path given in the template
 `url_encode_placeholder`   | URL encode the search terms. Some sites do not work with this, so it can be disabled by omitting this.
 `url_encode_space_to_plus` | URL encodes spaces as `+`, instead of `%20`. Some sites only work correctly with one or the other.
 

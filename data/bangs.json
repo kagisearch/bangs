@@ -56819,10 +56819,16 @@
   {
     "s": "Nixpkgs Repository",
     "d": "github.com",
+    "ad": "github.com/NixOS/nixpkgs",
     "t": "nr",
     "u": "https://github.com/NixOS/nixpkgs/search?q={{{s}}}",
     "c": "Tech",
-    "sc": "Sysadmin (packages)"
+    "sc": "Sysadmin (packages)",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus",
+      "open_snap_domain"
+    ]
   },
   {
     "s": "NASDAQ Real Time Quotes",
