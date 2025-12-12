@@ -56819,6 +56819,7 @@
   {
     "s": "Nixpkgs Repository",
     "d": "github.com",
+    "h": "https://github.com/NixOS/nixpkgs",
     "t": "nr",
     "u": "https://github.com/NixOS/nixpkgs/search?q={{{s}}}",
     "c": "Tech",
