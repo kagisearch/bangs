@@ -36814,6 +36814,7 @@
     "s": "Hacker News",
     "d": "hn.algolia.com",
     "ad": "news.ycombinator.com",
+    "h": "https://news.ycombinator.com",
     "t": "hn",
     "ts": [
       "newsyc",
