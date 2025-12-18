@@ -13279,7 +13279,7 @@
     "ts": [
       "cgpt"
     ],
-    "u": "https://chatgpt.com/?q={{{s}}}",
+    "u": "https://chatgpt.com/?prompt={{{s}}}",
     "c": "Online Services",
     "sc": "AI Chatbots"
   },
