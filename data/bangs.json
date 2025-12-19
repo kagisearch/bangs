@@ -86874,8 +86874,7 @@
     "d": "www.wordnik.com",
     "t": "wnk",
     "ts": [
-      "wordnik",
-      "word"
+      "wordnik"
     ],
     "u": "https://www.wordnik.com/words/?myWord={{{s}}}",
     "c": "Research",
@@ -93189,6 +93188,9 @@
     "s": "Kagi Translate (Dictionary)",
     "d": "translate.kagi.com",
     "t": "kdic",
+    "ts": [
+      "word"
+    ],
     "u": "https://translate.kagi.com/dictionary?word={{{s}}}&from=auto",
     "c": "Translation",
     "sc": "General"
