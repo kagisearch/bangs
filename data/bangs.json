@@ -10504,6 +10504,14 @@
     "sc": "Downloads (software)"
   },
   {
+    "s": "Home Manager - Option Search",
+    "d": "home-manager-options.extranix.com",
+    "t": "hmo",
+    "u": "https://home-manager-options.extranix.com/?query={{{s}}}&release=master",
+    "c": "Tech",
+    "sc": "Sysadmin"
+  },
+  {
     "s": "B-Rhymes",
     "d": "www.b-rhymes.com",
     "t": "b-rhymes",
