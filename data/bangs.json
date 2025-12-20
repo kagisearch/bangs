@@ -3469,7 +3469,7 @@
     "ts": [
       "ao"
     ],
-    "u": "https://www.amazon.com/gp/your-account/order-history?opt=ab&search={{{s}}}",
+    "u": "https://www.amazon.com/your-orders/search?opt=ab&search={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
