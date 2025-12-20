@@ -32979,6 +32979,18 @@
     "sc": "Google"
   },
   {
+    "s": "Gemini",
+    "d": "gemini.google.com",
+    "t": "gmai",
+    "ts": [
+      "geminiai",
+      "gemai"
+    ],
+    "u": "https://gemini.google.com/?prompt_text={{{s}}}",
+    "c": "Online Services",
+    "sc": "Google"
+  },
+  {
     "s": "GMail.com",
     "d": "mail.google.com",
     "t": "gmail",
