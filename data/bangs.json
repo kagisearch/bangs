@@ -59994,10 +59994,10 @@
     "sc": "Blogs"
   },
   {
-    "s": "OZON.ru",
+    "s": "OZON",
     "d": "www.ozon.ru",
     "t": "ozon",
-    "u": "http://www.ozon.ru/?context=search&text={{{s}}}",
+    "u": "https://www.ozon.ru/search/?text={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
