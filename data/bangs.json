@@ -6552,9 +6552,9 @@
     "s": "Avito",
     "d": "www.avito.ru",
     "t": "avito",
-    "u": "https://www.avito.ru/rossiya?q={{{s}}}",
+    "u": "https://www.avito.ru/?q={{{s}}}",
     "c": "Shopping",
-    "sc": "Online (deals)"
+    "sc": "Online (marketplace)"
   },
   {
     "s": "avtoprom.org",
