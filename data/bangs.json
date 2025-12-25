@@ -88869,12 +88869,14 @@
   },
   {
     "s": "Yandex Maps",
-    "d": "maps.yandex.ru",
+    "d": "yandex.ru",
     "t": "yandexmaps",
     "ts": [
-      "yxmaps"
+      "yamaps",
+      "yxmaps",
+      "якарты"
     ],
-    "u": "https://maps.yandex.ru/?text={{{s}}}",
+    "u": "https://yandex.ru/maps/?text={{{s}}}",
     "c": "Online Services",
     "sc": "Maps"
   },
@@ -90477,17 +90479,6 @@
     "u": "http://docs.cntd.ru/search/intellectual?q={{{s}}}",
     "c": "Multimedia",
     "sc": "Docs"
-  },
-  {
-    "s": "Yandex.Maps (Карты)",
-    "d": "yandex.ru",
-    "t": "карты",
-    "ts": [
-      "ям"
-    ],
-    "u": "https://yandex.ru/maps/?text={{{s}}}",
-    "c": "Online Services",
-    "sc": "Maps"
   },
   {
     "s": "Лабиринт",
