@@ -32981,14 +32981,15 @@
   {
     "s": "Gemini",
     "d": "gemini.google.com",
-    "t": "gmai",
+    "t": "gemini",
     "ts": [
       "geminiai",
-      "gemai"
+      "gemai",
+      "gmai"
     ],
     "u": "https://gemini.google.com/?prompt_text={{{s}}}",
     "c": "Online Services",
-    "sc": "Google"
+    "sc": "AI Chatbots"
   },
   {
     "s": "GMail.com",
