@@ -62086,14 +62086,6 @@
     "sc": "Search"
   },
   {
-    "s": "pip",
-    "d": "pypi.python.org",
-    "t": "pip",
-    "u": "https://pypi.python.org/pypi?:action=search&term={{{s}}}&submit=search",
-    "c": "Tech",
-    "sc": "Languages (python)"
-  },
-  {
     "s": "Wiki der Piratenpartei Deutschland",
     "d": "wiki.piratenpartei.de",
     "t": "piratenwiki",
@@ -64860,11 +64852,12 @@
     "sc": "Design"
   },
   {
-    "s": "pypi.org",
+    "s": "PyPI",
     "d": "pypi.org",
-    "t": "pypa",
+    "t": "pypi",
     "ts": [
-      "pypi"
+      "pip",
+      "pypa"
     ],
     "u": "https://pypi.org/search/?q={{{s}}}",
     "c": "Tech",
