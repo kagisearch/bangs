@@ -36752,6 +36752,14 @@
     "sc": "AI Chatbots"
   },
   {
+    "s": "Grokipedia",
+    "d": "grokipedia.com",
+    "t": "grokipedia",
+    "u": "https://grokipedia.com/search?q={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
     "s": "h2g2",
     "d": "www.h2g2.com",
     "t": "h2g2",
