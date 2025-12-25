@@ -296,26 +296,10 @@
     "sc": "Online (marketplace)"
   },
   {
-    "s": "2gis.ru",
+    "s": "2GIS",
     "d": "2gis.ru",
     "t": "2gis",
-    "u": "https://2gis.ru/moscow/search/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Maps"
-  },
-  {
-    "s": "2gis Санкт-Петербург",
-    "d": "2gis.ru",
-    "t": "2gissbp",
-    "u": "https://2gis.ru/spb/search/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Maps"
-  },
-  {
-    "s": "2GIS Уфа",
-    "d": "2gis.ru",
-    "t": "2gisufa",
-    "u": "https://2gis.ru/ufa/search/{{{s}}}",
+    "u": "https://2gis.ru/search/{{{s}}}",
     "c": "Online Services",
     "sc": "Maps"
   },
