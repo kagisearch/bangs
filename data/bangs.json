@@ -42009,15 +42009,15 @@
     "sc": "Blogs"
   },
   {
-    "s": "Yandex Images",
+    "s": "Yandex Images (en)",
     "d": "yandex.com",
-    "t": "iya",
+    "t": "ymg",
     "ts": [
-      "ymg"
+      "iya"
     ],
     "u": "https://yandex.com/images/search?text={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Images"
+    "c": "Online Services",
+    "sc": "Search (non-US)"
   },
   {
     "s": "izneo",
@@ -54275,11 +54275,12 @@
     "sc": "Search"
   },
   {
-    "s": "market.yandex.ru",
+    "s": "Yandex Market",
     "d": "market.yandex.ru",
     "t": "mya",
     "ts": [
-      "yama"
+      "yama",
+      "yandexm"
     ],
     "u": "https://market.yandex.ru/search?text={{{s}}}",
     "c": "Shopping",
@@ -72314,14 +72315,6 @@
     "sc": "Learning"
   },
   {
-    "s": "Yandex.Slovari",
-    "d": "slovari.yandex.ru",
-    "t": "slov",
-    "u": "https://slovari.yandex.ru/search.xml?text={{{s}}}",
-    "c": "Research",
-    "sc": "Learning (intl)"
-  },
-  {
     "s": "Sololearn Discuss",
     "d": "www.sololearn.com",
     "t": "slqa",
@@ -88773,23 +88766,16 @@
     "sc": "Online (marketplace)"
   },
   {
-    "s": "Yandex Dictionaries",
-    "d": "slovari.yandex.ru",
-    "t": "yad",
-    "u": "https://slovari.yandex.ru/{{{s}}}/",
-    "c": "Research",
-    "sc": "Reference (words intl)"
-  },
-  {
     "s": "Yandex (en)",
     "d": "yandex.com",
-    "t": "yaen",
+    "t": "yan",
     "ts": [
+      "yaen",
       "yandexen"
     ],
-    "u": "https://yandex.com/yandsearch?text={{{s}}}",
+    "u": "https://yandex.com/search?text={{{s}}}",
     "c": "Online Services",
-    "sc": "Search (non-US)"
+    "sc": "Search"
   },
   {
     "s": "Yahoo Finance Australia",
@@ -88827,11 +88813,12 @@
     "sc": "Video"
   },
   {
-    "s": "Yandex Music (ru)",
+    "s": "Yandex Music",
     "d": "music.yandex.ru",
     "t": "yamusic",
     "ts": [
-      "yamu"
+      "yamu",
+      "яму"
     ],
     "u": "https://music.yandex.ru/search?text={{{s}}}",
     "c": "Multimedia",
@@ -88847,38 +88834,16 @@
   },
   {
     "s": "Yandex Maps",
-    "d": "maps.yandex.ru",
+    "d": "yandex.ru",
     "t": "yandexmaps",
     "ts": [
-      "yxmaps"
+      "yamaps",
+      "yxmaps",
+      "якарты"
     ],
-    "u": "https://maps.yandex.ru/?text={{{s}}}",
+    "u": "https://yandex.ru/maps/?text={{{s}}}",
     "c": "Online Services",
     "sc": "Maps"
-  },
-  {
-    "s": "Yandex Market",
-    "d": "market.yandex.ru",
-    "t": "yandexm",
-    "u": "https://market.yandex.ru/search.xml?text={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search (non-US)"
-  },
-  {
-    "s": "yandex.ru/pogoda/",
-    "d": "yandex.ru",
-    "t": "yandexw",
-    "u": "https://yandex.ru/pogoda/{{{s}}}",
-    "c": "News",
-    "sc": "Weather"
-  },
-  {
-    "s": "Yandex.Ru",
-    "d": "www.yandex.ru",
-    "t": "yandex",
-    "u": "https://www.yandex.ru/yandsearch?text={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search (non-US)"
   },
   {
     "s": "Yahoo! Answers",
@@ -88887,14 +88852,6 @@
     "u": "http://answers.yahoo.com/search/search_result;_ylt=AnPnri0ekBBFsWt64sNbHmvj1KIX;_ylv=3?p={{{s}}}&submit-go=Search+Y!+Answers",
     "c": "Online Services",
     "sc": "Social"
-  },
-  {
-    "s": "yandex.com",
-    "d": "www.yandex.com",
-    "t": "yan",
-    "u": "https://www.yandex.com/?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search (Private)"
   },
   {
     "s": "Yarn",
@@ -88906,17 +88863,6 @@
     "u": "https://yarnpkg.com/en/packages?q={{{s}}}",
     "c": "Tech",
     "sc": "Languages (javascript)"
-  },
-  {
-    "s": "Yandex Slovari",
-    "d": "slovari.yandex.ru",
-    "t": "yaslovari",
-    "ts": [
-      "ys"
-    ],
-    "u": "https://slovari.yandex.ru/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
   },
   {
     "s": "Yandex Turkey",
@@ -88935,7 +88881,7 @@
     "sc": "Video"
   },
   {
-    "s": "Yandex Translate",
+    "s": "Yandex Translate (en)",
     "d": "translate.yandex.com",
     "t": "yat",
     "ts": [
@@ -88943,7 +88889,7 @@
     ],
     "u": "https://translate.yandex.com/?text={{{s}}}",
     "c": "Online Services",
-    "sc": "Search"
+    "sc": "Tools"
   },
   {
     "s": "Yandex Video",
@@ -88954,18 +88900,14 @@
     "sc": "Search (non-US)"
   },
   {
-    "s": "Yandex Weather",
-    "d": "yandex.ru",
-    "t": "yaw",
-    "u": "https://yandex.ru/pogoda/search?request={{{s}}}",
-    "c": "News",
-    "sc": "Weather"
-  },
-  {
     "s": "Yandex",
     "d": "yandex.ru",
     "t": "ya",
-    "u": "https://yandex.ru/search/?text={{{s}}}",
+    "ts": [
+      "yandex",
+      "я"
+    ],
+    "u": "https://yandex.ru/search?text={{{s}}}",
     "c": "Online Services",
     "sc": "Search (non-US)"
   },
@@ -89687,9 +89629,15 @@
     "sc": "Programming"
   },
   {
-    "s": "Yandex.Translate",
+    "s": "Yandex Translate",
     "d": "translate.yandex.ru",
     "t": "ytr",
+    "ts": [
+      "ys",
+      "yad",
+      "slov",
+      "yaslovari"
+    ],
     "u": "https://translate.yandex.ru/?text={{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
@@ -90457,17 +90405,6 @@
     "sc": "Docs"
   },
   {
-    "s": "Yandex.Maps (Карты)",
-    "d": "yandex.ru",
-    "t": "карты",
-    "ts": [
-      "ям"
-    ],
-    "u": "https://yandex.ru/maps/?text={{{s}}}",
-    "c": "Online Services",
-    "sc": "Maps"
-  },
-  {
     "s": "Лабиринт",
     "d": "www.labirint.ru",
     "t": "л",
@@ -90500,28 +90437,16 @@
     "sc": "Search (non-US)"
   },
   {
-    "s": "Yandex.ru",
+    "s": "Yandex Images",
     "d": "yandex.ru",
-    "t": "я",
-    "u": "https://yandex.ru/yandsearch?text={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search (non-US)"
-  },
-  {
-    "s": "Yandex images (Яндекс картинки)",
-    "d": "yandex.ru",
-    "t": "як",
+    "t": "yai",
+    "ts": [
+      "yak",
+      "як"
+    ],
     "u": "https://yandex.ru/images/search?text={{{s}}}",
     "c": "Online Services",
-    "sc": "Search"
-  },
-  {
-    "s": "Yandex Music",
-    "d": "music.yandex.com",
-    "t": "яму",
-    "u": "https://music.yandex.com/search?text={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Music"
+    "sc": "Search (non-US)"
   },
   {
     "s": "Nayiri",
