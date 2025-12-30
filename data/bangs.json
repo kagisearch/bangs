@@ -72033,9 +72033,9 @@
   {
     "s": "Scikit-Learn (Kagi Search)",
     "d": "kagi.com",
-    "ad": "scikit-learn.org/stable/modules/generated/",
+    "ad": "scikit-learn.org/stable/",
     "t": "sklearn",
-    "u": "/search?q={{{s}}}+site:http://scikit-learn.org/stable/modules/generated/",
+    "u": "/search?q={{{s}}}+site:https://scikit-learn.org/stable/",
     "c": "Research",
     "sc": "Academic (math/cs)"
   },
