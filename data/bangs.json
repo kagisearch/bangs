@@ -40423,17 +40423,7 @@
     "c": "Research",
     "sc": "Academic (math/cs)"
   },
-  {
-    "s": "IMBD",
-    "d": "www.imdb.com",
-    "t": "imbd",
-    "ts": [
-      "tv"
-    ],
-    "u": "https://www.imdb.com/find?q={{{s}}}&s=all",
-    "c": "Entertainment",
-    "sc": "Movies"
-  },
+
   {
     "s": "imbiomed",
     "d": "www.imbiomed.com.mx",
@@ -40462,6 +40452,11 @@
     "s": "IMDB",
     "d": "www.imdb.com",
     "t": "imdb",
+    "ts": [
+      "imbd",
+      "tv",
+      "imd"
+    ],
     "u": "https://www.imdb.com/find?s=all&q={{{s}}}",
     "c": "Multimedia",
     "sc": "Movies"
@@ -40514,14 +40509,7 @@
     "c": "Entertainment",
     "sc": "TV"
   },
-  {
-    "s": "IMDb",
-    "d": "www.imdb.com",
-    "t": "imd",
-    "u": "https://www.imdb.com/find?q={{{s}}}+&s=all",
-    "c": "Entertainment",
-    "sc": "Movies"
-  },
+
   {
     "s": "Internet Movie Firearms Database",
     "d": "www.imfdb.org",
