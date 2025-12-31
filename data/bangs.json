@@ -58334,14 +58334,7 @@
     "c": "Shopping",
     "sc": "Online"
   },
-  {
-    "s": "OneLook",
-    "d": "onelook.com",
-    "t": "onelook",
-    "u": "https://onelook.com/?w={{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words)"
-  },
+
   {
     "s": "OneLook Reverse",
     "d": "onelook.com",
@@ -58469,6 +58462,9 @@
     "s": "OneLook.com",
     "d": "onelook.com",
     "t": "o",
+    "ts": [
+      "onelook"
+    ],
     "u": "https://onelook.com/?w={{{s}}}&ls=a",
     "c": "Research",
     "sc": "Reference (words)"
