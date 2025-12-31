@@ -6807,14 +6807,7 @@
     "c": "Translation",
     "sc": "General"
   },
-  {
-    "s": "Bab.la",
-    "d": "pl.bab.la",
-    "t": "babpl",
-    "u": "http://pl.bab.la/slownik/angielski-polski/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words)"
-  },
+
   {
     "s": "Bab.la pl ru",
     "d": "pl.bab.la",
@@ -78869,9 +78862,12 @@
     "sc": "Online"
   },
   {
-    "s": "pl.bab.la",
+    "s": "Bab.la Polish",
     "d": "pl.bab.la",
     "t": "topl",
+    "ts": [
+      "babpl"
+    ],
     "u": "https://pl.bab.la/slownik/angielski-polski/{{{s}}}",
     "c": "Translation",
     "sc": "Google"
