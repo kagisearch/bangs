@@ -55,15 +55,10 @@
     "s": "101 Domain",
     "d": "www.101domain.com",
     "t": "101",
+    "ts": [
+      "101domain"
+    ],
     "u": "https://www.101domain.com/domain-availability-search.htm?q={{{s}}}&sa.x=0&sa.y=0",
-    "c": "Tech",
-    "sc": "Domains"
-  },
-  {
-    "s": "101domain",
-    "d": "www.101domain.com",
-    "t": "101domain",
-    "u": "https://www.101domain.com/domain-availability-search.htm?q={{{s}}}",
     "c": "Tech",
     "sc": "Domains"
   },
@@ -454,6 +449,9 @@
     "s": "TriTrans (Engelsk)",
     "d": "www.tritrans.net",
     "t": "3t",
+    "ts": [
+      "etrans"
+    ],
     "u": "https://www.tritrans.net/cgibin/translate.cgi?spraak=Engelsk&Fra={{{s}}}&button=Translate!",
     "c": "Online Services",
     "sc": "Tools"
@@ -482,7 +480,6 @@
     "c": "News",
     "sc": "Newspaper (intl)"
   },
-
   {
     "s": "Implyingrigged",
     "d": "implyingrigged.info",
@@ -5088,6 +5085,9 @@
     "s": "archlinux.fr",
     "d": "wiki.archlinux.fr",
     "t": "archfr",
+    "ts": [
+      "archlinuxfr"
+    ],
     "u": "https://wiki.archlinux.fr/index.php?title=Spécial:Recherche&profile=default&search={{{s}}}&fulltext=Search",
     "c": "Tech",
     "sc": "Sysadmin (Arch)"
@@ -5172,14 +5172,6 @@
     "d": "wiki.archlinux.jp",
     "t": "archjp",
     "u": "https://wiki.archlinux.jp/index.php?search={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin (Arch)"
-  },
-  {
-    "s": "Wiki Français Archlinux",
-    "d": "wiki.archlinux.fr",
-    "t": "archlinuxfr",
-    "u": "https://wiki.archlinux.fr/index.php?title=Spécial:Recherche&profile=default&fulltext=Search&search={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin (Arch)"
   },
@@ -6506,6 +6498,9 @@
     "s": "avvo.com",
     "d": "www.avvo.com",
     "t": "avvo",
+    "ts": [
+      "lawyer"
+    ],
     "u": "https://www.avvo.com/search?query={{{s}}}&commit=Search",
     "c": "Research",
     "sc": "Law"
@@ -6807,7 +6802,6 @@
     "c": "Translation",
     "sc": "General"
   },
-
   {
     "s": "Bab.la pl ru",
     "d": "pl.bab.la",
@@ -16676,7 +16670,6 @@
     "c": "Research",
     "sc": "Health"
   },
-
   {
     "s": "Collegiate Times",
     "d": "www.collegiatetimes.com",
@@ -19683,14 +19676,6 @@
     "sc": "Online"
   },
   {
-    "s": "Diccionari de la llengua Catalana",
-    "d": "www.diccionari.cat",
-    "t": "diccionari",
-    "u": "http://www.diccionari.cat/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART={{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
     "s": "Merriam-Webster",
     "d": "www.merriam-webster.com",
     "t": "dic",
@@ -20301,7 +20286,6 @@
     "c": "Tech",
     "sc": "Downloads (software)"
   },
-
   {
     "s": "DiVA - Digitala Vetenskapliga Arkivet",
     "d": "www.diva-portal.org",
@@ -21782,17 +21766,12 @@
     "sc": "Health"
   },
   {
-    "s": "Drugs.com",
-    "d": "www.drugs.com",
-    "t": "drugs.com",
-    "u": "https://www.drugs.com/search.php?searchterm={{{s}}}",
-    "c": "Research",
-    "sc": "Health"
-  },
-  {
     "s": "Drugs",
     "d": "www.drugs.com",
     "t": "drugs",
+    "ts": [
+      "drugs.com"
+    ],
     "u": "https://www.drugs.com/search.php?&searchterm={{{s}}}",
     "c": "Research",
     "sc": "Health"
@@ -25717,14 +25696,6 @@
     "sc": "Search"
   },
   {
-    "s": "TriTrans (Englesk)",
-    "d": "www.tritrans.net",
-    "t": "etrans",
-    "u": "https://www.tritrans.net/cgibin/translate.cgi?spraak=Engelsk&Fra={{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools"
-  },
-  {
     "s": "Live Music Archive",
     "d": "archive.org",
     "t": "etree",
@@ -26037,6 +26008,9 @@
     "s": "Eve University Wiki",
     "d": "wiki.eveuniversity.org",
     "t": "eveuni",
+    "ts": [
+      "uniwiki"
+    ],
     "u": "https://wiki.eveuniversity.org/index.php?title=Special:Search&search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (general)"
@@ -27325,6 +27299,9 @@
     "s": "Fedora wiki",
     "d": "fedoraproject.org",
     "t": "fedora",
+    "ts": [
+      "fedorawiki"
+    ],
     "u": "https://fedoraproject.org/wiki/Special:Search?search={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin (Fedora)"
@@ -27346,14 +27323,6 @@
       "fps"
     ],
     "u": "https://packages.fedoraproject.org/search?query={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin (Fedora)"
-  },
-  {
-    "s": "Fedora Project",
-    "d": "fedoraproject.org",
-    "t": "fedorawiki",
-    "u": "https://fedoraproject.org/wiki/Special:Search?search={{{s}}}&go=Go",
     "c": "Tech",
     "sc": "Sysadmin (Fedora)"
   },
@@ -29046,17 +29015,12 @@
     "s": "Fox News",
     "d": "www.foxnews.com",
     "t": "fox",
+    "ts": [
+      "foxnews"
+    ],
     "u": "https://www.foxnews.com/search-results/search?q={{{s}}}&submit=Search",
     "c": "News",
     "sc": "Aggregators"
-  },
-  {
-    "s": "FoxNews",
-    "d": "www.foxnews.com",
-    "t": "foxnews",
-    "u": "https://www.foxnews.com/search-results/search?q={{{s}}}",
-    "c": "News",
-    "sc": "Broadcast"
   },
   {
     "s": "Fox Racing",
@@ -31155,6 +31119,9 @@
     "s": "Gran diccionari de la llengua catalana",
     "d": "www.diccionari.cat",
     "t": "gdlc",
+    "ts": [
+      "diccionari"
+    ],
     "u": "http://www.diccionari.cat/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART={{{s}}}&x=0&y=0",
     "c": "Research",
     "sc": "Academic"
@@ -37468,14 +37435,6 @@
     "sc": "Programming"
   },
   {
-    "s": "Here WeGo",
-    "d": "wego.here.com",
-    "t": "here",
-    "u": "https://wego.here.com/search/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Maps"
-  },
-  {
     "s": "Heritage Foundation",
     "d": "www.heritage.org",
     "t": "heritage",
@@ -38023,6 +37982,9 @@
     "s": "HERE maps",
     "d": "wego.here.com",
     "t": "hm",
+    "ts": [
+      "here"
+    ],
     "u": "https://wego.here.com/search/{{{s}}}?",
     "c": "Online Services",
     "sc": "Maps"
@@ -40737,7 +40699,6 @@
     "c": "Research",
     "sc": "Learning"
   },
-
   {
     "s": "InfoQ",
     "d": "www.infoq.com",
@@ -40828,14 +40789,6 @@
     "u": "http://inkeri-klubi.radioviola.net/system/app/pages/search?scope=search-site&q={{{s}}}",
     "c": "News",
     "sc": "Specialty"
-  },
-  {
-    "s": "Inkipedia",
-    "d": "splatoonwiki.org",
-    "t": "inkipedia",
-    "u": "https://splatoonwiki.org/w/index.php?search={{{s}}}&go=Go",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
   },
   {
     "s": "Inktweb.nl",
@@ -41949,14 +41902,6 @@
     "u": "https://jacobinmag.com/search?query={{{s}}}",
     "c": "News",
     "sc": "Specialty"
-  },
-  {
-    "s": "Ultra Handy Japanese Verb Conjugator",
-    "d": "japaneseverbconjugator.com",
-    "t": "jaconj",
-    "u": "https://japaneseverbconjugator.com/VerbDetails.asp?txtVerb={{{s}}}&Go=Conjugate",
-    "c": "Research",
-    "sc": "Reference (words intl)"
   },
   {
     "s": "BarNet Jade",
@@ -43296,6 +43241,9 @@
     "s": "Japanese Verb Conjugator",
     "d": "japaneseverbconjugator.com",
     "t": "jvc",
+    "ts": [
+      "jaconj"
+    ],
     "u": "https://japaneseverbconjugator.com/VerbDetails.asp?txtVerb={{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
@@ -44969,15 +44917,10 @@
     "s": "Krebs On Security",
     "d": "krebsonsecurity.com",
     "t": "krebs",
+    "ts": [
+      "krebsonsec"
+    ],
     "u": "https://krebsonsecurity.com/?s={{{s}}}",
-    "c": "Tech",
-    "sc": "Blogs"
-  },
-  {
-    "s": "Krebs on Security",
-    "d": "krebsonsecurity.com",
-    "t": "krebsonsec",
-    "u": "https://krebsonsecurity.com/?s={{{s}}}&x=0&y=0",
     "c": "Tech",
     "sc": "Blogs"
   },
@@ -45775,14 +45718,6 @@
     "d": "law.moj.gov.tw",
     "t": "lawtw",
     "u": "https://law.moj.gov.tw/Law/LawSearchResult.aspx?ty=ONEBAR&kw={{{s}}}",
-    "c": "Research",
-    "sc": "Law"
-  },
-  {
-    "s": "Avvo",
-    "d": "www.avvo.com",
-    "t": "lawyer",
-    "u": "https://www.avvo.com/search?query={{{s}}}",
     "c": "Research",
     "sc": "Law"
   },
@@ -47301,22 +47236,6 @@
     "u": "http://www.liquidation.com/auction/search?cmd=keyword&searchparam_words={{{s}}}&flag=new",
     "c": "Shopping",
     "sc": "Online (marketplace)"
-  },
-  {
-    "s": "Liquidpedia",
-    "d": "wiki.teamliquid.net",
-    "t": "liquidpedia",
-    "u": "https://wiki.teamliquid.net/starcraft2/index.php?title=Special:Search&search={{{s}}}&go=Go",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
-  },
-  {
-    "s": "Liquipedia2",
-    "d": "wiki.teamliquid.net",
-    "t": "liquipedia",
-    "u": "https://wiki.teamliquid.net/starcraft2/index.php?title=Special:Search&go=Go&search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
   },
   {
     "s": "Liquorland",
@@ -50987,17 +50906,12 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "Megami Tensei Wikia",
-    "d": "megamitensei.wikia.com",
-    "t": "megamitensei",
-    "u": "https://megamitensei.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
-  },
-  {
     "s": "Megami Tensei Wiki",
     "d": "megamitensei.wikia.com",
     "t": "megatenw",
+    "ts": [
+      "megamitensei"
+    ],
     "u": "https://megamitensei.wikia.com/wiki/Special:Search?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (general)"
@@ -54078,6 +53992,9 @@
     "s": "Wikimedia Meta",
     "d": "meta.wikimedia.org",
     "t": "mwm",
+    "ts": [
+      "wmeta"
+    ],
     "u": "https://meta.wikimedia.org/w/index.php?&title=Special:Search&go=Go&search={{{s}}}",
     "c": "Multimedia",
     "sc": "General"
@@ -56583,7 +56500,6 @@
     "c": "Research",
     "sc": "Government"
   },
-
   {
     "s": "NPM Direct",
     "d": "npmjs.com",
@@ -56716,7 +56632,6 @@
       "open_snap_domain"
     ]
   },
-
   {
     "s": "DuckDuckGo (safeoff)",
     "d": "duckduckgo.com",
@@ -69542,6 +69457,9 @@
     "s": "SpongeBob SquarePants Wiki",
     "d": "spongebob.wikia.com",
     "t": "sbwiki",
+    "ts": [
+      "spongebob"
+    ],
     "u": "https://spongebob.wikia.com/wiki/Special:Search?search={{{s}}}",
     "c": "Entertainment",
     "sc": "TV"
@@ -73529,6 +73447,9 @@
     "s": "Inkpedia",
     "d": "splatoonwiki.org",
     "t": "splatoon",
+    "ts": [
+      "inkipedia"
+    ],
     "u": "https://splatoonwiki.org/w/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
@@ -73588,14 +73509,6 @@
     "u": "https://startpage.com/do/search?l=nederlands&q={{{s}}}",
     "c": "Online Services",
     "sc": "Search (non-US)"
-  },
-  {
-    "s": "SpongeBob Wikia",
-    "d": "spongebob.wikia.com",
-    "t": "spongebob",
-    "u": "https://spongebob.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search",
-    "c": "Entertainment",
-    "sc": "TV"
   },
   {
     "s": "Encyclopedia SpongeBobia",
@@ -74261,17 +74174,6 @@
     "u": "https://startupbuffer.com/search?s={{{s}}}",
     "c": "Tech",
     "sc": "Startups"
-  },
-  {
-    "s": "Wookiepedia",
-    "d": "starwars.wikia.com",
-    "t": "starwars",
-    "ts": [
-      "wookie"
-    ],
-    "u": "https://starwars.wikia.com/wiki/Special:Search?search={{{s}}}&go=&fulltext=Search",
-    "c": "Entertainment",
-    "sc": "TV"
   },
   {
     "s": "Statenvertaling",
@@ -74982,7 +74884,6 @@
     "c": "Tech",
     "sc": "Sysadmin (network)"
   },
-
   {
     "s": "Substack",
     "d": "substack.com",
@@ -75527,6 +75428,9 @@
     "s": "Wookieepedia",
     "d": "starwars.wikia.com",
     "t": "swwiki",
+    "ts": [
+      "starwars"
+    ],
     "u": "https://starwars.wikia.com/wiki/Special:Search?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Movies"
@@ -76317,11 +76221,13 @@
     "s": "Tesberichte.de",
     "d": "www.testberichte.de",
     "t": "tbde",
+    "ts": [
+      "testberichte"
+    ],
     "u": "https://www.testberichte.de/d/search.php?searchstr={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
-
   {
     "s": "Treccani Biografie",
     "d": "www.treccani.it",
@@ -77137,14 +77043,6 @@
     "u": "https://tesoro.pr/busqueda?q={{{s}}}",
     "c": "Research",
     "sc": "Reference (words intl)"
-  },
-  {
-    "s": "Testberichte.de",
-    "d": "www.testberichte.de",
-    "t": "testberichte",
-    "u": "https://www.testberichte.de/d/search.php?searchstr={{{s}}}&submit=Suchen",
-    "c": "Shopping",
-    "sc": "Services"
   },
   {
     "s": "Теплица социальных технологий",
@@ -78459,6 +78357,10 @@
     "s": "Team Liquid Wiki",
     "d": "wiki.teamliquid.net",
     "t": "tlw",
+    "ts": [
+      "liquidpedia",
+      "liquipedia"
+    ],
     "u": "https://wiki.teamliquid.net/starcraft2/index.php?title=Special:Search&search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (general)"
@@ -81521,14 +81423,6 @@
     "u": "https://ufind.univie.ac.at/en/search.html?query={{{s}}}",
     "c": "Research",
     "sc": "Academic"
-  },
-  {
-    "s": "UniWiki",
-    "d": "wiki.eveuniversity.org",
-    "t": "uniwiki",
-    "u": "https://wiki.eveuniversity.org/index.php?title=Special:Search&search={{{s}}}&button=",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
   },
   {
     "s": "The Unix Tree",
@@ -86584,14 +86478,6 @@
     "u": "https://www.whatsmydns.net/#A/{{{s}}}",
     "c": "Online Services",
     "sc": "Tools (URLs)"
-  },
-  {
-    "s": "Wikimedia Meta-Wiki",
-    "d": "meta.wikimedia.org",
-    "t": "wmeta",
-    "u": "https://meta.wikimedia.org/w/index.php?title=Special:Search&search={{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
   },
   {
     "s": "Wolne Media",
