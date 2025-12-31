@@ -73958,6 +73958,9 @@
     "s": "Reddit (subreddit)",
     "d": "www.reddit.com",
     "t": "srs",
+    "ts": [
+      "subredditsearch"
+    ],
     "u": "https://www.reddit.com/search?q=subreddit:{{{s}}}",
     "c": "Online Services",
     "sc": "Social news/links"
@@ -75018,14 +75021,7 @@
     "c": "Tech",
     "sc": "Sysadmin (network)"
   },
-  {
-    "s": "Subreddit search",
-    "d": "www.reddit.com",
-    "t": "subredditsearch",
-    "u": "http://www.reddit.com/search?q=subreddit:{{{s}}}",
-    "c": "Online Services",
-    "sc": "Social news/links"
-  },
+
   {
     "s": "Substack",
     "d": "substack.com",
