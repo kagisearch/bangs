@@ -3223,18 +3223,7 @@
     "c": "Shopping",
     "sc": "Online (marketplace)"
   },
-  {
-    "s": "Arch Linux Packages",
-    "d": "www.archlinux.org",
-    "t": "alp",
-    "ts": [
-      "pacman",
-      "pkg"
-    ],
-    "u": "https://www.archlinux.org/packages/?sort=&q={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin (Arch)"
-  },
+
   {
     "s": "Wolfram|Alpha",
     "d": "www.wolframalpha.com",
@@ -4355,17 +4344,7 @@
     "c": "Tech",
     "sc": "Sysadmin"
   },
-  {
-    "s": "ArchLinux Packages",
-    "d": "www.archlinux.org",
-    "t": "apackages",
-    "ts": [
-      "apck"
-    ],
-    "u": "https://www.archlinux.org/packages/?sort=&q={{{s}}}&maintainer=&last_update=&flagged=&limit=50",
-    "c": "Tech",
-    "sc": "Languages (other)"
-  },
+
   {
     "s": "AP",
     "d": "ap.org",
@@ -4502,7 +4481,13 @@
     "t": "apkg",
     "ts": [
       "archpkg",
-      "pac"
+      "pac",
+      "alp",
+      "pacman",
+      "pkg",
+      "archpackages",
+      "apackages",
+      "apck"
     ],
     "u": "https://www.archlinux.org/packages/?sort=&q={{{s}}}&maintainer=&flagged=",
     "c": "Tech",
@@ -5224,14 +5209,7 @@
     "c": "Tech",
     "sc": "Sysadmin (man)"
   },
-  {
-    "s": "ArchLinux Package Search",
-    "d": "www.archlinux.org",
-    "t": "archpackages",
-    "u": "https://www.archlinux.org/packages/?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin (Arch)"
-  },
+
   {
     "s": "archlinux wiki pl",
     "d": "wiki.archlinux.org",
