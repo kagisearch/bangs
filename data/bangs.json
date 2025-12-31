@@ -37308,17 +37308,7 @@
     "c": "Tech",
     "sc": "Programming"
   },
-  {
-    "s": "Home Depot",
-    "d": "www.homedepot.com",
-    "t": "hdx",
-    "ts": [
-      "hode"
-    ],
-    "u": "http://www.homedepot.com/s/{{{s}}}",
-    "c": "Shopping",
-    "sc": "Big box/department"
-  },
+
   {
     "s": "How did you contribute to OpenStreetMap?",
     "d": "hdyc.neis-one.org",
@@ -38260,6 +38250,10 @@
     "s": "The Home Depot",
     "d": "www.homedepot.com",
     "t": "homedepot",
+    "ts": [
+      "hdx",
+      "hode"
+    ],
     "u": "https://www.homedepot.com/s/{{{s}}}",
     "c": "Shopping",
     "sc": "Big box/department"
