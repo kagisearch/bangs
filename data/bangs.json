@@ -34431,14 +34431,7 @@
     "c": "Tech",
     "sc": "Sysadmin"
   },
-  {
-    "s": "goodreads",
-    "d": "www.goodreads.com",
-    "t": "greads",
-    "u": "https://www.goodreads.com/search?utf8=%E2%9C%93&query={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Books"
-  },
+
   {
     "s": "Greco olivetti",
     "d": "www.grecoantico.com",
@@ -34507,6 +34500,9 @@
     "s": "Goodreads",
     "d": "www.goodreads.com",
     "t": "gr",
+    "ts": [
+      "greads"
+    ],
     "u": "https://www.goodreads.com/search?q={{{s}}}",
     "c": "Multimedia",
     "sc": "Books"
