@@ -43202,15 +43202,10 @@
     "s": "JusBrasil",
     "d": "www.jusbrasil.com.br",
     "t": "jusbrasil",
+    "ts": [
+      "jusbr"
+    ],
     "u": "https://www.jusbrasil.com.br/busca?q={{{s}}}",
-    "c": "Research",
-    "sc": "Law"
-  },
-  {
-    "s": "Jusbrasil",
-    "d": "www.jusbrasil.com.br",
-    "t": "jusbr",
-    "u": "http://www.jusbrasil.com.br/busca?q={{{s}}}",
     "c": "Research",
     "sc": "Law"
   },
