@@ -58069,19 +58069,7 @@
     "c": "Tech",
     "sc": "Languages (perl)"
   },
-  {
-    "s": "Old Reddit",
-    "d": "old.reddit.com",
-    "t": "oldreddit",
-    "ts": [
-      "oldred",
-      "redditold",
-      "rold"
-    ],
-    "u": "https://old.reddit.com/search?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Social news/links"
-  },
+
   {
     "s": "OldVersion",
     "d": "www.oldversion.com",
@@ -59101,9 +59089,15 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "old reddit",
+    "s": "Old Reddit",
     "d": "old.reddit.com",
     "t": "ored",
+    "ts": [
+      "oldreddit",
+      "oldred",
+      "redditold",
+      "rold"
+    ],
     "u": "https://old.reddit.com/search?q={{{s}}}&sort=relevance&t=all",
     "c": "Entertainment",
     "sc": "Forum"
