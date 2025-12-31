@@ -59447,23 +59447,15 @@
     "t": "osrs",
     "ts": [
       "rs07",
-      "wosrs"
+      "wosrs",
+      "osrswiki",
+      "osrsw"
     ],
     "u": "https://oldschool.runescape.wiki/?search={{{s}}}&title=Special:Search",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
-  {
-    "s": "Old School Runescape Wiki",
-    "d": "oldschool.runescape.wiki",
-    "t": "osrswiki",
-    "ts": [
-      "osrsw"
-    ],
-    "u": "https://oldschool.runescape.wiki/?search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
-  },
+
   {
     "s": "OSStatus",
     "d": "www.osstatus.com",
