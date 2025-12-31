@@ -19725,9 +19725,12 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "ニコニコ大百科",
+    "s": "Niconico Encyclopedia",
     "d": "dic.nicovideo.jp",
     "t": "dicnico",
+    "ts": [
+      "npedia"
+    ],
     "u": "https://dic.nicovideo.jp/a/{{{s}}}",
     "c": "Online Services",
     "sc": "Search (non-US)"
@@ -56591,14 +56594,7 @@
     "c": "Research",
     "sc": "Government"
   },
-  {
-    "s": "Niconico Pedia",
-    "d": "dic.nicovideo.jp",
-    "t": "npedia",
-    "u": "http://dic.nicovideo.jp/a/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
-  },
+
   {
     "s": "NPM Direct",
     "d": "npmjs.com",
