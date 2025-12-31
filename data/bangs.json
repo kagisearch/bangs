@@ -12743,6 +12743,9 @@
     "s": "Collins Thesaurus",
     "d": "www.collinsdictionary.com",
     "t": "cdt",
+    "ts": [
+      "cth"
+    ],
     "u": "https://www.collinsdictionary.com/dictionary/english-thesaurus/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
@@ -16673,14 +16676,7 @@
     "c": "Research",
     "sc": "Health"
   },
-  {
-    "s": "Collins English Thesaurus",
-    "d": "www.collinsdictionary.com",
-    "t": "cth",
-    "u": "http://www.collinsdictionary.com/dictionary/english-thesaurus/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words)"
-  },
+
   {
     "s": "Collegiate Times",
     "d": "www.collegiatetimes.com",
