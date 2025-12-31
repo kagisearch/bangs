@@ -77716,14 +77716,7 @@
     "c": "Entertainment",
     "sc": "Misc"
   },
-  {
-    "s": "The TV db",
-    "d": "www.thetvdb.com",
-    "t": "thetvdb",
-    "u": "https://www.thetvdb.com/search?q={{{s}}}&l=en",
-    "c": "Multimedia",
-    "sc": "Docs"
-  },
+
   {
     "s": "The Verge",
     "d": "www.theverge.com",
@@ -80146,6 +80139,9 @@
     "s": "TheTVDB.com",
     "d": "www.thetvdb.com",
     "t": "tvdb",
+    "ts": [
+      "thetvdb"
+    ],
     "u": "https://www.thetvdb.com/search?query={{{s}}}&l=en",
     "c": "Entertainment",
     "sc": "TV"
