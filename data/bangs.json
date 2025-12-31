@@ -25650,20 +25650,15 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "etherscan",
+    "s": "Etherscan",
     "d": "etherscan.io",
     "t": "etherscan",
+    "ts": [
+      "eth"
+    ],
     "u": "https://etherscan.io/search?q={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin"
-  },
-  {
-    "s": "EtherScan",
-    "d": "etherscan.io",
-    "t": "eth",
-    "u": "http://etherscan.io/search?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools"
   },
   {
     "s": "ETH Library",
