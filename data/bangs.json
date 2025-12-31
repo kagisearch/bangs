@@ -66307,6 +66307,14 @@
     "s": "Subreddit on Reddit",
     "d": "www.reddit.com",
     "t": "rds",
+    "ts": [
+      "reddits",
+      "sbr",
+      "subreddit",
+      "subr",
+      "sreddit",
+      "sr"
+    ],
     "u": "https://www.reddit.com/r/{{{s}}}",
     "c": "Online Services",
     "sc": "Social news/links"
@@ -66601,19 +66609,7 @@
     "c": "News",
     "sc": "Aggregators"
   },
-  {
-    "s": "Reddit subreddit",
-    "d": "www.reddit.com",
-    "t": "reddits",
-    "ts": [
-      "sbr",
-      "subreddit",
-      "subr"
-    ],
-    "u": "http://www.reddit.com/r/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Social"
-  },
+
   {
     "s": "Reverso German - English",
     "d": "dictionary.reverso.net",
@@ -74029,17 +74025,7 @@
     "c": "Tech",
     "sc": "Downloads (software)"
   },
-  {
-    "s": "Subreddit",
-    "d": "reddit.com",
-    "t": "sreddit",
-    "ts": [
-      "sr"
-    ],
-    "u": "http://reddit.com/r/{{{s}}}",
-    "c": "Entertainment",
-    "sc": "Forum"
-  },
+
   {
     "s": "Sonic Retro",
     "d": "info.sonicretro.org",
