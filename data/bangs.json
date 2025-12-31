@@ -52620,18 +52620,14 @@
     "c": "Entertainment",
     "sc": "Forum"
   },
-  {
-    "s": "Moby Games",
-    "d": "www.mobygames.com",
-    "t": "mobygames",
-    "u": "https://www.mobygames.com/search/quick?q={{{s}}}&x=0&y=0",
-    "c": "Entertainment",
-    "sc": "Games (general)"
-  },
+
   {
     "s": "MobyGames",
     "d": "www.mobygames.com",
     "t": "moby",
+    "ts": [
+      "mobygames"
+    ],
     "u": "https://www.mobygames.com/search/quick?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (general)"
