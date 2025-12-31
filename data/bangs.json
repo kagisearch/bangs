@@ -89142,14 +89142,7 @@
     "c": "Online Services",
     "sc": "Maps"
   },
-  {
-    "s": "Yahoo! Japan",
-    "d": "search.yahoo.co.jp",
-    "t": "yjp",
-    "u": "http://search.yahoo.co.jp/search?p={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search (non-US)"
-  },
+
   {
     "s": "Yahoo! Japan Realtime",
     "d": "search.yahoo.co.jp",
@@ -89181,6 +89174,9 @@
     "s": "Yahoo Japan",
     "d": "search.yahoo.co.jp",
     "t": "yj",
+    "ts": [
+      "yjp"
+    ],
     "u": "https://search.yahoo.co.jp/search?p={{{s}}}",
     "c": "Online Services",
     "sc": "Search (non-US)"
