@@ -19126,9 +19126,12 @@
     "sc": "Companies"
   },
   {
-    "s": "Dizionario Italiano De Mauro",
+    "s": "De Mauro Italian Dictionary",
     "d": "dizionario.internazionale.it",
     "t": "demauro",
+    "ts": [
+      "dit"
+    ],
     "u": "https://dizionario.internazionale.it/parola/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words intl)"
@@ -20292,14 +20295,7 @@
     "c": "Tech",
     "sc": "Downloads (software)"
   },
-  {
-    "s": "Dizionario Internazionale De Mauro",
-    "d": "dizionario.internazionale.it",
-    "t": "dit",
-    "u": "http://dizionario.internazionale.it/parola/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words intl)"
-  },
+
   {
     "s": "DiVA - Digitala Vetenskapliga Arkivet",
     "d": "www.diva-portal.org",
