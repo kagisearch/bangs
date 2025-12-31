@@ -55019,14 +55019,7 @@
     "c": "Research",
     "sc": "Academic"
   },
-  {
-    "s": "Nicovideo jp",
-    "d": "www.nicovideo.jp",
-    "t": "ncvi",
-    "u": "https://www.nicovideo.jp/search/{{{s}}}?track=nicouni_search_keyword",
-    "c": "Multimedia",
-    "sc": "Video"
-  },
+
   {
     "s": "Nciku Chinese",
     "d": "nciku.com",
@@ -55838,7 +55831,8 @@
     "d": "www.nicovideo.jp",
     "t": "nico",
     "ts": [
-      "niconico"
+      "niconico",
+      "ncvi"
     ],
     "u": "https://www.nicovideo.jp/search/{{{s}}}",
     "c": "Multimedia",
