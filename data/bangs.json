@@ -5071,6 +5071,11 @@
     "s": "ArchLinux Wiki",
     "d": "wiki.archlinux.org",
     "t": "arch",
+    "ts": [
+      "archlinuxit",
+      "aw",
+      "archwiki"
+    ],
     "u": "https://wiki.archlinux.org/index.php?title=Special:Search&search={{{s}}}&go=Go",
     "c": "Tech",
     "sc": "Sysadmin (Arch)"
@@ -5220,18 +5225,7 @@
     "c": "Tech",
     "sc": "Sysadmin (Arch)"
   },
-  {
-    "s": "Arch Linux Wiki",
-    "d": "wiki.archlinux.org",
-    "t": "archlinuxit",
-    "ts": [
-      "aw",
-      "archwiki"
-    ],
-    "u": "https://wiki.archlinux.org/index.php?title=Special:Search&search={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin (Arch)"
-  },
+
   {
     "s": "Arch manual pages",
     "d": "man.archlinux.org",
