@@ -4490,15 +4490,10 @@
     "s": "APKMirror",
     "d": "www.apkmirror.com",
     "t": "apkm",
+    "ts": [
+      "apkmirror"
+    ],
     "u": "https://www.apkmirror.com/?s={{{s}}}",
-    "c": "Tech",
-    "sc": "Downloads (apps)"
-  },
-  {
-    "s": "APK Mirror",
-    "d": "www.apkmirror.com",
-    "t": "apkmirror",
-    "u": "http://www.apkmirror.com/?s={{{s}}}",
     "c": "Tech",
     "sc": "Downloads (apps)"
   },
