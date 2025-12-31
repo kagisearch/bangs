@@ -15586,9 +15586,9 @@
   },
   {
     "s": "Microsoft Copilot",
-    "d": "bing.com",
+    "d": "copilot.microsoft.com",
     "t": "copilot",
-    "u": "https://bing.com/chat?q={{{s}}}&sendquery=1",
+    "u": "https://copilot.microsoft.com/?q={{{s}}}&bypassredir=1",
     "c": "Online Services",
     "sc": "Tools"
   },
