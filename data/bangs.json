@@ -54611,6 +54611,9 @@
     "s": "NASDAQ",
     "d": "www.nasdaq.com",
     "t": "nasdaq",
+    "ts": [
+      "nrtq"
+    ],
     "u": "https://www.nasdaq.com/symbol/{{{s}}}/real-time",
     "c": "News",
     "sc": "Business"
@@ -56713,14 +56716,7 @@
       "open_snap_domain"
     ]
   },
-  {
-    "s": "NASDAQ Real Time Quotes",
-    "d": "www.nasdaq.com",
-    "t": "nrtq",
-    "u": "http://www.nasdaq.com/symbol/{{{s}}}/real-time",
-    "c": "Online Services",
-    "sc": "Search (Real-time)"
-  },
+
   {
     "s": "DuckDuckGo (safeoff)",
     "d": "duckduckgo.com",
