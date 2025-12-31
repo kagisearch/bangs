@@ -5080,14 +5080,7 @@
     "c": "Tech",
     "sc": "Sysadmin (Arch)"
   },
-  {
-    "s": "ArchLinux User Repository",
-    "d": "aur.archlinux.org",
-    "t": "archaur",
-    "u": "https://aur.archlinux.org/packages?O=0&K={{{s}}}",
-    "c": "Tech",
-    "sc": "Languages (other)"
-  },
+
   {
     "s": "ArchLinux Bugtracker",
     "d": "bugs.archlinux.org",
@@ -6323,6 +6316,9 @@
     "s": "Arch User Repository",
     "d": "aur.archlinux.org",
     "t": "aur",
+    "ts": [
+      "archaur"
+    ],
     "u": "https://aur.archlinux.org/packages/?K={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin (Arch)"
