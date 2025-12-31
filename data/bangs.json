@@ -92863,17 +92863,9 @@
     "s": "Kagi Feedback",
     "d": "kagifeedback.org",
     "t": "kf",
-    "u": "https://kagifeedback.org/?q={{{s}}}",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
-  },
-  {
-    "s": "Kagi Feedback (Discussions)",
-    "d": "kagifeedback.org",
-    "ad": "kagifeedback.org/d",
-    "t": "kfd",
+    "ts": [
+      "kfd"
+    ],
     "u": "https://kagifeedback.org/?q={{{s}}}",
     "fmt": [
       "open_base_path",
