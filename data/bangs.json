@@ -2741,7 +2741,9 @@
     "d": "anilist.co",
     "t": "al",
     "ts": [
-      "an"
+      "an",
+      "ani",
+      "anilist"
     ],
     "u": "https://anilist.co/search/anime?search={{{s}}}",
     "c": "Entertainment",
@@ -3962,17 +3964,7 @@
     "c": "Research",
     "sc": "Reference"
   },
-  {
-    "s": "Anilist",
-    "d": "anilist.co",
-    "t": "ani",
-    "ts": [
-      "anilist"
-    ],
-    "u": "https://anilist.co/search/anime?sort=SEARCH_MATCH&search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "TV"
-  },
+
   {
     "s": "anibin",
     "d": "anibin.blogspot.com",
