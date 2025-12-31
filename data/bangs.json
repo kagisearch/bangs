@@ -9969,9 +9969,12 @@
     "sc": "Online"
   },
   {
-    "s": "BookDepository",
+    "s": "Book Depository",
     "d": "www.bookdepository.com",
     "t": "bookdepository",
+    "ts": [
+      "tbd"
+    ],
     "u": "https://www.bookdepository.com/search?searchTerm={{{s}}}&search=Find+book",
     "c": "Shopping",
     "sc": "Online (intl)"
@@ -76348,14 +76351,7 @@
     "c": "Shopping",
     "sc": "Online"
   },
-  {
-    "s": "The Book Depository",
-    "d": "www.bookdepository.com",
-    "t": "tbd",
-    "u": "http://www.bookdepository.com/search?searchTerm={{{s}}}&search=Find+book",
-    "c": "Shopping",
-    "sc": "Online"
-  },
+
   {
     "s": "Treccani Biografie",
     "d": "www.treccani.it",
