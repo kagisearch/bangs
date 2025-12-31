@@ -57692,6 +57692,9 @@
     "s": "The On-Line Encyclopedia of Integer Sequences",
     "d": "oeis.org",
     "t": "oeis",
+    "ts": [
+      "seq"
+    ],
     "u": "https://oeis.org/search?q={{{s}}}&language=english&go=Search",
     "c": "Online Services",
     "sc": "Tools"
@@ -70680,14 +70683,7 @@
     "c": "Shopping",
     "sc": "Online"
   },
-  {
-    "s": "The Online Encyclopedia Of Integer Sequences",
-    "d": "oeis.org",
-    "t": "seq",
-    "u": "https://oeis.org/search?q={{{s}}}",
-    "c": "Research",
-    "sc": "Academic (math/cs)"
-  },
+
   {
     "s": "Serebii",
     "d": "www.serebii.net",
