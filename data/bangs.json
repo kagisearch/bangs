@@ -80355,14 +80355,7 @@
     "c": "Entertainment",
     "sc": "TV"
   },
-  {
-    "s": "Wirecutter (A New York Times Company)",
-    "d": "thewirecutter.com",
-    "t": "twc",
-    "u": "https://thewirecutter.com/?s={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
+
   {
     "s": "tweakers.net",
     "d": "tweakers.net",
@@ -86577,6 +86570,9 @@
     "s": "The Wirecutter",
     "d": "thewirecutter.com",
     "t": "wirecutter",
+    "ts": [
+      "twc"
+    ],
     "u": "https://thewirecutter.com/search/?s={{{s}}}",
     "c": "Shopping",
     "sc": "Tech"
