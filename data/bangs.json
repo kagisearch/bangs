@@ -3294,7 +3294,8 @@
     "t": "alternativeto",
     "ts": [
       "alto",
-      "altto"
+      "altto",
+      "ato"
     ],
     "u": "http://alternativeto.net/browse/search?q={{{s}}}",
     "c": "Tech",
@@ -6071,14 +6072,7 @@
     "c": "News",
     "sc": "Business"
   },
-  {
-    "s": "AlternativeTo",
-    "d": "alternativeto.net",
-    "t": "ato",
-    "u": "https://alternativeto.net/browse/search/?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Downloads (software)"
-  },
+
   {
     "s": "Atom Tickets",
     "d": "www.atomtickets.com",
