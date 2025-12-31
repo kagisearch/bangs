@@ -84411,6 +84411,9 @@
     "s": "Walmart",
     "d": "www.walmart.com",
     "t": "walmart",
+    "ts": [
+      "wus"
+    ],
     "u": "https://www.walmart.com/search/?query={{{s}}}",
     "c": "Shopping",
     "sc": "Big box/department"
@@ -88085,14 +88088,7 @@
     "c": "Shopping",
     "sc": "Tech"
   },
-  {
-    "s": "Walmart US",
-    "d": "www.walmart.com",
-    "t": "wus",
-    "u": "https://www.walmart.com/search/?query={{{s}}}&country=US",
-    "c": "Online Services",
-    "sc": "Search"
-  },
+
   {
     "s": "Wikivoyage Deutsch",
     "d": "de.wikivoyage.org",
