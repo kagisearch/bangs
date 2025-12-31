@@ -3288,7 +3288,7 @@
       "altto",
       "ato"
     ],
-    "u": "http://alternativeto.net/browse/search?q={{{s}}}",
+    "u": "https://alternativeto.net/browse/search?q={{{s}}}",
     "c": "Tech",
     "sc": "Domains"
   },
@@ -4489,7 +4489,7 @@
       "apackages",
       "apck"
     ],
-    "u": "https://www.archlinux.org/packages/?sort=&q={{{s}}}&maintainer=&flagged=",
+    "u": "https://www.archlinux.org/packages/?q={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin (Arch)"
   },
@@ -5054,7 +5054,7 @@
       "aw",
       "archwiki"
     ],
-    "u": "https://wiki.archlinux.org/index.php?title=Special:Search&search={{{s}}}&go=Go",
+    "u": "https://wiki.archlinux.org/index.php?title=Special:Search&search={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin (Arch)"
   },
@@ -8393,7 +8393,7 @@
       "boardgame",
       "boardgamegeek"
     ],
-    "u": "https://boardgamegeek.com/geeksearch.php?action=search&objecttype=boardgame&q={{{s}}}&B1=Go",
+    "u": "https://boardgamegeek.com/geeksearch.php?action=search&objecttype=boardgame&q={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (offline)"
   },
@@ -57673,7 +57673,7 @@
     "ts": [
       "seq"
     ],
-    "u": "https://oeis.org/search?q={{{s}}}&language=english&go=Search",
+    "u": "https://oeis.org/search?q={{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
   },
@@ -58446,7 +58446,7 @@
     "ts": [
       "onelook"
     ],
-    "u": "https://onelook.com/?w={{{s}}}&ls=a",
+    "u": "https://onelook.com/?w={{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
   },
@@ -59023,7 +59023,7 @@
       "redditold",
       "rold"
     ],
-    "u": "https://old.reddit.com/search?q={{{s}}}&sort=relevance&t=all",
+    "u": "https://old.reddit.com/search?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Forum"
   },
@@ -59360,7 +59360,7 @@
       "osrswiki",
       "osrsw"
     ],
-    "u": "https://oldschool.runescape.wiki/?search={{{s}}}&title=Special:Search",
+    "u": "https://oldschool.runescape.wiki/?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
@@ -80142,7 +80142,7 @@
     "ts": [
       "thetvdb"
     ],
-    "u": "https://www.thetvdb.com/search?query={{{s}}}&l=en",
+    "u": "https://www.thetvdb.com/search?q={{{s}}}",
     "c": "Entertainment",
     "sc": "TV"
   },
@@ -86448,7 +86448,7 @@
     "ts": [
       "twc"
     ],
-    "u": "https://thewirecutter.com/search/?s={{{s}}}",
+    "u": "https://thewirecutter.com/?s={{{s}}}",
     "c": "Shopping",
     "sc": "Tech"
   },
