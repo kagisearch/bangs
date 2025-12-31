@@ -19771,9 +19771,12 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "Dicionário Infopédia da Língua Portuguesa",
+    "s": "Infopedia Portuguese",
     "d": "www.infopedia.pt",
     "t": "dicpt",
+    "ts": [
+      "infopedia"
+    ],
     "u": "https://www.infopedia.pt/dicionarios/lingua-portuguesa/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
@@ -40739,14 +40742,7 @@
     "c": "Research",
     "sc": "Learning"
   },
-  {
-    "s": "Infopédia",
-    "d": "www.infopedia.pt",
-    "t": "infopedia",
-    "u": "http://www.infopedia.pt/dicionarios/lingua-portuguesa/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools"
-  },
+
   {
     "s": "InfoQ",
     "d": "www.infoq.com",
