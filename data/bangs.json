@@ -79878,6 +79878,9 @@
     "s": "Twitch",
     "d": "www.twitch.tv",
     "t": "ttv",
+    "ts": [
+      "twich"
+    ],
     "u": "https://www.twitch.tv/search?term={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (general)"
@@ -80339,14 +80342,7 @@
     "c": "Entertainment",
     "sc": "Games (general)"
   },
-  {
-    "s": "Twitch TV",
-    "d": "www.twitch.tv",
-    "t": "twich",
-    "u": "https://www.twitch.tv/search?query={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (general)"
-  },
+
   {
     "s": "Twig",
     "d": "twig.symfony.com",
