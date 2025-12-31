@@ -36832,7 +36832,8 @@
       "newsyc",
       "searchyc",
       "hnsearch",
-      "hackernews"
+      "hackernews",
+      "yc"
     ],
     "u": "https://hn.algolia.com/?q={{{s}}}",
     "c": "News",
@@ -88927,15 +88928,7 @@
     "c": "Shopping",
     "sc": "Online (deals)"
   },
-  {
-    "s": "Hacker News Search",
-    "d": "hn.algolia.com",
-    "ad": "news.ycombinator.com",
-    "t": "yc",
-    "u": "https://hn.algolia.com/?query={{{s}}}",
-    "c": "News",
-    "sc": "Aggregators"
-  },
+
   {
     "s": "Youdao Dict",
     "d": "dict.youdao.com",
