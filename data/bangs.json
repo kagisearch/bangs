@@ -6795,7 +6795,7 @@
     "sc": "Tools"
   },
   {
-    "s": "Bab.la Polish",
+    "s": "Bab.la Polish-English",
     "d": "en.bab.la",
     "t": "babp",
     "u": "https://en.bab.la/dictionary/polish-english/{{{s}}}",
@@ -78730,7 +78730,7 @@
     "sc": "Online"
   },
   {
-    "s": "Bab.la Polish",
+    "s": "Bab.la English-Polish",
     "d": "pl.bab.la",
     "t": "topl",
     "ts": [
