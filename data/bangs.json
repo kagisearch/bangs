@@ -482,14 +482,7 @@
     "c": "News",
     "sc": "Newspaper (intl)"
   },
-  {
-    "s": "4chan /b/",
-    "d": "boards.4chan.org",
-    "t": "4_b",
-    "u": "http://boards.4chan.org/b/catalog#s={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Forum"
-  },
+
   {
     "s": "Implyingrigged",
     "d": "implyingrigged.info",
@@ -588,9 +581,12 @@
     "sc": "General"
   },
   {
-    "s": "4chan /b/ board",
+    "s": "4chan /b/",
     "d": "boards.4chan.org",
     "t": "4chrandom",
+    "ts": [
+      "4_b"
+    ],
     "u": "https://boards.4chan.org/b/catalog#s={{{s}}}",
     "c": "Entertainment",
     "sc": "Forum"
@@ -3223,7 +3219,6 @@
     "c": "Shopping",
     "sc": "Online (marketplace)"
   },
-
   {
     "s": "Wolfram|Alpha",
     "d": "www.wolframalpha.com",
@@ -3953,7 +3948,6 @@
     "c": "Research",
     "sc": "Reference"
   },
-
   {
     "s": "anibin",
     "d": "anibin.blogspot.com",
@@ -4344,7 +4338,6 @@
     "c": "Tech",
     "sc": "Sysadmin"
   },
-
   {
     "s": "AP",
     "d": "ap.org",
@@ -5058,7 +5051,6 @@
     "c": "Tech",
     "sc": "Sysadmin (Arch)"
   },
-
   {
     "s": "ArchLinux Bugtracker",
     "d": "bugs.archlinux.org",
@@ -5196,7 +5188,6 @@
     "c": "Tech",
     "sc": "Sysadmin (Arch)"
   },
-
   {
     "s": "Arch manual pages",
     "d": "man.archlinux.org",
@@ -5209,7 +5200,6 @@
     "c": "Tech",
     "sc": "Sysadmin (man)"
   },
-
   {
     "s": "archlinux wiki pl",
     "d": "wiki.archlinux.org",
@@ -6042,7 +6032,6 @@
     "c": "News",
     "sc": "Business"
   },
-
   {
     "s": "Atom Tickets",
     "d": "www.atomtickets.com",
@@ -9750,7 +9739,6 @@
     "c": "Research",
     "sc": "Reference (fun)"
   },
-
   {
     "s": "Boardman Perspective",
     "d": "dillonboardman.wordpress.com",
@@ -34395,7 +34383,6 @@
     "c": "Tech",
     "sc": "Sysadmin"
   },
-
   {
     "s": "Greco olivetti",
     "d": "www.grecoantico.com",
@@ -37272,7 +37259,6 @@
     "c": "Tech",
     "sc": "Programming"
   },
-
   {
     "s": "How did you contribute to OpenStreetMap?",
     "d": "hdyc.neis-one.org",
@@ -40377,7 +40363,6 @@
     "c": "Research",
     "sc": "Academic (math/cs)"
   },
-
   {
     "s": "imbiomed",
     "d": "www.imbiomed.com.mx",
@@ -40463,7 +40448,6 @@
     "c": "Entertainment",
     "sc": "TV"
   },
-
   {
     "s": "Internet Movie Firearms Database",
     "d": "www.imfdb.org",
@@ -52590,7 +52574,6 @@
     "c": "Entertainment",
     "sc": "Forum"
   },
-
   {
     "s": "MobyGames",
     "d": "www.mobygames.com",
@@ -54997,7 +54980,6 @@
     "c": "Research",
     "sc": "Academic"
   },
-
   {
     "s": "Nciku Chinese",
     "d": "nciku.com",
@@ -57998,7 +57980,6 @@
     "c": "Tech",
     "sc": "Languages (perl)"
   },
-
   {
     "s": "OldVersion",
     "d": "www.oldversion.com",
@@ -58315,7 +58296,6 @@
     "c": "Shopping",
     "sc": "Online"
   },
-
   {
     "s": "OneLook Reverse",
     "d": "onelook.com",
@@ -59364,7 +59344,6 @@
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
-
   {
     "s": "OSStatus",
     "d": "www.osstatus.com",
@@ -66528,7 +66507,6 @@
     "c": "News",
     "sc": "Aggregators"
   },
-
   {
     "s": "Reverso German - English",
     "d": "dictionary.reverso.net",
@@ -70661,7 +70639,6 @@
     "c": "Shopping",
     "sc": "Online"
   },
-
   {
     "s": "Serebii",
     "d": "www.serebii.net",
@@ -73937,7 +73914,6 @@
     "c": "Tech",
     "sc": "Downloads (software)"
   },
-
   {
     "s": "Sonic Retro",
     "d": "info.sonicretro.org",
@@ -77716,7 +77692,6 @@
     "c": "Entertainment",
     "sc": "Misc"
   },
-
   {
     "s": "The Verge",
     "d": "www.theverge.com",
@@ -80234,7 +80209,6 @@
     "c": "Entertainment",
     "sc": "TV"
   },
-
   {
     "s": "tweakers.net",
     "d": "tweakers.net",
@@ -80262,7 +80236,6 @@
     "c": "Entertainment",
     "sc": "Games (general)"
   },
-
   {
     "s": "Twig",
     "d": "twig.symfony.com",
@@ -88058,7 +88031,6 @@
     "c": "Shopping",
     "sc": "Tech"
   },
-
   {
     "s": "Wikivoyage Deutsch",
     "d": "de.wikivoyage.org",
@@ -88792,7 +88764,6 @@
     "c": "Shopping",
     "sc": "Online (deals)"
   },
-
   {
     "s": "Youdao Dict",
     "d": "dict.youdao.com",
@@ -89010,7 +88981,6 @@
     "c": "Online Services",
     "sc": "Maps"
   },
-
   {
     "s": "Yahoo! Japan Realtime",
     "d": "search.yahoo.co.jp",
@@ -93064,8 +93034,8 @@
   },
   {
     "s": "Zed Docs",
-    "t": "zed",
     "d": "zed.dev",
+    "t": "zed",
     "u": "https://zed.dev/docs/?search={{{s}}}",
     "c": "Tech",
     "sc": "Programming"
