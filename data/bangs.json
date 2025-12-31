@@ -8426,7 +8426,8 @@
     "d": "boardgamegeek.com",
     "t": "bgg",
     "ts": [
-      "boardgame"
+      "boardgame",
+      "boardgamegeek"
     ],
     "u": "https://boardgamegeek.com/geeksearch.php?action=search&objecttype=boardgame&q={{{s}}}&B1=Go",
     "c": "Entertainment",
@@ -9785,14 +9786,7 @@
     "c": "Research",
     "sc": "Reference (fun)"
   },
-  {
-    "s": "BoardGameGeek",
-    "d": "boardgamegeek.com",
-    "t": "boardgamegeek",
-    "u": "https://boardgamegeek.com/geeksearch.php?action=search&objecttype=boardgame&q={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (offline)"
-  },
+
   {
     "s": "Boardman Perspective",
     "d": "dillonboardman.wordpress.com",
