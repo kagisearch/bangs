@@ -47991,14 +47991,6 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "League of Legends Wiki",
-    "d": "wiki.leagueoflegends.com",
-    "t": "lolwiki",
-    "u": "https://wiki.leagueoflegends.com/en-us/?search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
-  },
-  {
     "s": "Lonely Planet",
     "d": "www.lonelyplanet.com",
     "t": "lonelyplanet",
