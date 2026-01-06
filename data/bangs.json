@@ -47983,18 +47983,10 @@
     "sc": "Games (general)"
   },
   {
-    "s": "LoL Wikia",
-    "d": "leagueoflegends.wikia.com",
-    "t": "lolwikia",
-    "u": "https://leagueoflegends.wikia.com/wiki/Special:Search?query={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (general)"
-  },
-  {
     "s": "League of Legends Wiki",
-    "d": "leagueoflegends.wikia.com",
-    "t": "lolwiki",
-    "u": "https://leagueoflegends.wikia.com/wiki/Special:Search?search={{{s}}}",
+    "d": "wiki.leagueoflegends.com",
+    "t": "lolw",
+    "u": "https://wiki.leagueoflegends.com/en-us/?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
