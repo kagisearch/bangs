@@ -55,15 +55,10 @@
     "s": "101 Domain",
     "d": "www.101domain.com",
     "t": "101",
+    "ts": [
+      "101domain"
+    ],
     "u": "https://www.101domain.com/domain-availability-search.htm?q={{{s}}}&sa.x=0&sa.y=0",
-    "c": "Tech",
-    "sc": "Domains"
-  },
-  {
-    "s": "101domain",
-    "d": "www.101domain.com",
-    "t": "101domain",
-    "u": "https://www.101domain.com/domain-availability-search.htm?q={{{s}}}",
     "c": "Tech",
     "sc": "Domains"
   },
@@ -454,6 +449,9 @@
     "s": "TriTrans (Engelsk)",
     "d": "www.tritrans.net",
     "t": "3t",
+    "ts": [
+      "etrans"
+    ],
     "u": "https://www.tritrans.net/cgibin/translate.cgi?spraak=Engelsk&Fra={{{s}}}&button=Translate!",
     "c": "Online Services",
     "sc": "Tools"
@@ -481,14 +479,6 @@
     "u": "https://www.47news.jp/search?phrase={{{s}}}",
     "c": "News",
     "sc": "Newspaper (intl)"
-  },
-  {
-    "s": "4chan /b/",
-    "d": "boards.4chan.org",
-    "t": "4_b",
-    "u": "http://boards.4chan.org/b/catalog#s={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Forum"
   },
   {
     "s": "Implyingrigged",
@@ -588,9 +578,12 @@
     "sc": "General"
   },
   {
-    "s": "4chan /b/ board",
+    "s": "4chan /b/",
     "d": "boards.4chan.org",
     "t": "4chrandom",
+    "ts": [
+      "4_b"
+    ],
     "u": "https://boards.4chan.org/b/catalog#s={{{s}}}",
     "c": "Entertainment",
     "sc": "Forum"
@@ -2741,7 +2734,9 @@
     "d": "anilist.co",
     "t": "al",
     "ts": [
-      "an"
+      "an",
+      "ani",
+      "anilist"
     ],
     "u": "https://anilist.co/search/anime?search={{{s}}}",
     "c": "Entertainment",
@@ -3222,18 +3217,6 @@
     "sc": "Online (marketplace)"
   },
   {
-    "s": "Arch Linux Packages",
-    "d": "www.archlinux.org",
-    "t": "alp",
-    "ts": [
-      "pacman",
-      "pkg"
-    ],
-    "u": "https://www.archlinux.org/packages/?sort=&q={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin (Arch)"
-  },
-  {
     "s": "Wolfram|Alpha",
     "d": "www.wolframalpha.com",
     "t": "alpha",
@@ -3294,9 +3277,10 @@
     "t": "alternativeto",
     "ts": [
       "alto",
-      "altto"
+      "altto",
+      "ato"
     ],
-    "u": "http://alternativeto.net/browse/search?q={{{s}}}",
+    "u": "https://alternativeto.net/browse/search?q={{{s}}}",
     "c": "Tech",
     "sc": "Domains"
   },
@@ -3962,17 +3946,6 @@
     "sc": "Reference"
   },
   {
-    "s": "Anilist",
-    "d": "anilist.co",
-    "t": "ani",
-    "ts": [
-      "anilist"
-    ],
-    "u": "https://anilist.co/search/anime?sort=SEARCH_MATCH&search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "TV"
-  },
-  {
     "s": "anibin",
     "d": "anibin.blogspot.com",
     "t": "anibin",
@@ -4363,17 +4336,6 @@
     "sc": "Sysadmin"
   },
   {
-    "s": "ArchLinux Packages",
-    "d": "www.archlinux.org",
-    "t": "apackages",
-    "ts": [
-      "apck"
-    ],
-    "u": "https://www.archlinux.org/packages/?sort=&q={{{s}}}&maintainer=&last_update=&flagged=&limit=50",
-    "c": "Tech",
-    "sc": "Languages (other)"
-  },
-  {
     "s": "AP",
     "d": "ap.org",
     "t": "ap",
@@ -4509,9 +4471,15 @@
     "t": "apkg",
     "ts": [
       "archpkg",
-      "pac"
+      "pac",
+      "alp",
+      "pacman",
+      "pkg",
+      "archpackages",
+      "apackages",
+      "apck"
     ],
-    "u": "https://www.archlinux.org/packages/?sort=&q={{{s}}}&maintainer=&flagged=",
+    "u": "https://www.archlinux.org/packages/?q={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin (Arch)"
   },
@@ -4519,15 +4487,10 @@
     "s": "APKMirror",
     "d": "www.apkmirror.com",
     "t": "apkm",
+    "ts": [
+      "apkmirror"
+    ],
     "u": "https://www.apkmirror.com/?s={{{s}}}",
-    "c": "Tech",
-    "sc": "Downloads (apps)"
-  },
-  {
-    "s": "APK Mirror",
-    "d": "www.apkmirror.com",
-    "t": "apkmirror",
-    "u": "http://www.apkmirror.com/?s={{{s}}}",
     "c": "Tech",
     "sc": "Downloads (apps)"
   },
@@ -5071,17 +5034,14 @@
     "s": "ArchLinux Wiki",
     "d": "wiki.archlinux.org",
     "t": "arch",
-    "u": "https://wiki.archlinux.org/index.php?title=Special:Search&search={{{s}}}&go=Go",
+    "ts": [
+      "archlinuxit",
+      "aw",
+      "archwiki"
+    ],
+    "u": "https://wiki.archlinux.org/index.php?title=Special:Search&search={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin (Arch)"
-  },
-  {
-    "s": "ArchLinux User Repository",
-    "d": "aur.archlinux.org",
-    "t": "archaur",
-    "u": "https://aur.archlinux.org/packages?O=0&K={{{s}}}",
-    "c": "Tech",
-    "sc": "Languages (other)"
   },
   {
     "s": "ArchLinux Bugtracker",
@@ -5125,6 +5085,9 @@
     "s": "archlinux.fr",
     "d": "wiki.archlinux.fr",
     "t": "archfr",
+    "ts": [
+      "archlinuxfr"
+    ],
     "u": "https://wiki.archlinux.fr/index.php?title=Spécial:Recherche&profile=default&search={{{s}}}&fulltext=Search",
     "c": "Tech",
     "sc": "Sysadmin (Arch)"
@@ -5213,26 +5176,6 @@
     "sc": "Sysadmin (Arch)"
   },
   {
-    "s": "Wiki Français Archlinux",
-    "d": "wiki.archlinux.fr",
-    "t": "archlinuxfr",
-    "u": "https://wiki.archlinux.fr/index.php?title=Spécial:Recherche&profile=default&fulltext=Search&search={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin (Arch)"
-  },
-  {
-    "s": "Arch Linux Wiki",
-    "d": "wiki.archlinux.org",
-    "t": "archlinuxit",
-    "ts": [
-      "aw",
-      "archwiki"
-    ],
-    "u": "https://wiki.archlinux.org/index.php?title=Special:Search&search={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin (Arch)"
-  },
-  {
     "s": "Arch manual pages",
     "d": "man.archlinux.org",
     "t": "archman",
@@ -5243,14 +5186,6 @@
     "u": "https://man.archlinux.org/search?q={{{s}}}&go=Go",
     "c": "Tech",
     "sc": "Sysadmin (man)"
-  },
-  {
-    "s": "ArchLinux Package Search",
-    "d": "www.archlinux.org",
-    "t": "archpackages",
-    "u": "https://www.archlinux.org/packages/?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin (Arch)"
   },
   {
     "s": "archlinux wiki pl",
@@ -6085,14 +6020,6 @@
     "sc": "Business"
   },
   {
-    "s": "AlternativeTo",
-    "d": "alternativeto.net",
-    "t": "ato",
-    "u": "https://alternativeto.net/browse/search/?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Downloads (software)"
-  },
-  {
     "s": "Atom Tickets",
     "d": "www.atomtickets.com",
     "t": "atom",
@@ -6329,6 +6256,9 @@
     "s": "Arch User Repository",
     "d": "aur.archlinux.org",
     "t": "aur",
+    "ts": [
+      "archaur"
+    ],
     "u": "https://aur.archlinux.org/packages/?K={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin (Arch)"
@@ -6568,6 +6498,9 @@
     "s": "avvo.com",
     "d": "www.avvo.com",
     "t": "avvo",
+    "ts": [
+      "lawyer"
+    ],
     "u": "https://www.avvo.com/search?query={{{s}}}&commit=Search",
     "c": "Research",
     "sc": "Law"
@@ -6862,20 +6795,12 @@
     "sc": "Tools"
   },
   {
-    "s": "Bab.la Polish",
+    "s": "Bab.la Polish-English",
     "d": "en.bab.la",
     "t": "babp",
     "u": "https://en.bab.la/dictionary/polish-english/{{{s}}}",
     "c": "Translation",
     "sc": "General"
-  },
-  {
-    "s": "Bab.la",
-    "d": "pl.bab.la",
-    "t": "babpl",
-    "u": "http://pl.bab.la/slownik/angielski-polski/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words)"
   },
   {
     "s": "Bab.la pl ru",
@@ -8436,9 +8361,10 @@
     "d": "boardgamegeek.com",
     "t": "bgg",
     "ts": [
-      "boardgame"
+      "boardgame",
+      "boardgamegeek"
     ],
-    "u": "https://boardgamegeek.com/geeksearch.php?action=search&objecttype=boardgame&q={{{s}}}&B1=Go",
+    "u": "https://boardgamegeek.com/geeksearch.php?action=search&objecttype=boardgame&q={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (offline)"
   },
@@ -9796,14 +9722,6 @@
     "sc": "Reference (fun)"
   },
   {
-    "s": "BoardGameGeek",
-    "d": "boardgamegeek.com",
-    "t": "boardgamegeek",
-    "u": "https://boardgamegeek.com/geeksearch.php?action=search&objecttype=boardgame&q={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (offline)"
-  },
-  {
     "s": "Boardman Perspective",
     "d": "dillonboardman.wordpress.com",
     "t": "boardman",
@@ -10045,9 +9963,12 @@
     "sc": "Online"
   },
   {
-    "s": "BookDepository",
+    "s": "Book Depository",
     "d": "www.bookdepository.com",
     "t": "bookdepository",
+    "ts": [
+      "tbd"
+    ],
     "u": "https://www.bookdepository.com/search?searchTerm={{{s}}}&search=Find+book",
     "c": "Shopping",
     "sc": "Online (intl)"
@@ -12816,6 +12737,9 @@
     "s": "Collins Thesaurus",
     "d": "www.collinsdictionary.com",
     "t": "cdt",
+    "ts": [
+      "cth"
+    ],
     "u": "https://www.collinsdictionary.com/dictionary/english-thesaurus/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
@@ -16747,14 +16671,6 @@
     "sc": "Health"
   },
   {
-    "s": "Collins English Thesaurus",
-    "d": "www.collinsdictionary.com",
-    "t": "cth",
-    "u": "http://www.collinsdictionary.com/dictionary/english-thesaurus/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words)"
-  },
-  {
     "s": "Collegiate Times",
     "d": "www.collegiatetimes.com",
     "t": "ctimes",
@@ -19203,9 +19119,12 @@
     "sc": "Companies"
   },
   {
-    "s": "Dizionario Italiano De Mauro",
+    "s": "De Mauro Italian Dictionary",
     "d": "dizionario.internazionale.it",
     "t": "demauro",
+    "ts": [
+      "dit"
+    ],
     "u": "https://dizionario.internazionale.it/parola/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words intl)"
@@ -19757,14 +19676,6 @@
     "sc": "Online"
   },
   {
-    "s": "Diccionari de la llengua Catalana",
-    "d": "www.diccionari.cat",
-    "t": "diccionari",
-    "u": "http://www.diccionari.cat/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART={{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
     "s": "Merriam-Webster",
     "d": "www.merriam-webster.com",
     "t": "dic",
@@ -19799,9 +19710,12 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "ニコニコ大百科",
+    "s": "Niconico Encyclopedia",
     "d": "dic.nicovideo.jp",
     "t": "dicnico",
+    "ts": [
+      "npedia"
+    ],
     "u": "https://dic.nicovideo.jp/a/{{{s}}}",
     "c": "Online Services",
     "sc": "Search (non-US)"
@@ -19842,9 +19756,12 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "Dicionário Infopédia da Língua Portuguesa",
+    "s": "Infopedia Portuguese",
     "d": "www.infopedia.pt",
     "t": "dicpt",
+    "ts": [
+      "infopedia"
+    ],
     "u": "https://www.infopedia.pt/dicionarios/lingua-portuguesa/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
@@ -20368,14 +20285,6 @@
     "u": "https://distrowatch.com/table.php?distribution={{{s}}}",
     "c": "Tech",
     "sc": "Downloads (software)"
-  },
-  {
-    "s": "Dizionario Internazionale De Mauro",
-    "d": "dizionario.internazionale.it",
-    "t": "dit",
-    "u": "http://dizionario.internazionale.it/parola/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words intl)"
   },
   {
     "s": "DiVA - Digitala Vetenskapliga Arkivet",
@@ -21857,17 +21766,12 @@
     "sc": "Health"
   },
   {
-    "s": "Drugs.com",
-    "d": "www.drugs.com",
-    "t": "drugs.com",
-    "u": "https://www.drugs.com/search.php?searchterm={{{s}}}",
-    "c": "Research",
-    "sc": "Health"
-  },
-  {
     "s": "Drugs",
     "d": "www.drugs.com",
     "t": "drugs",
+    "ts": [
+      "drugs.com"
+    ],
     "u": "https://www.drugs.com/search.php?&searchterm={{{s}}}",
     "c": "Research",
     "sc": "Health"
@@ -25725,20 +25629,15 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "etherscan",
+    "s": "Etherscan",
     "d": "etherscan.io",
     "t": "etherscan",
+    "ts": [
+      "eth"
+    ],
     "u": "https://etherscan.io/search?q={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin"
-  },
-  {
-    "s": "EtherScan",
-    "d": "etherscan.io",
-    "t": "eth",
-    "u": "http://etherscan.io/search?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools"
   },
   {
     "s": "ETH Library",
@@ -25795,14 +25694,6 @@
     "u": "https://www.etools.ch/searchSubmit.do?query={{{s}}}",
     "c": "Online Services",
     "sc": "Search"
-  },
-  {
-    "s": "TriTrans (Englesk)",
-    "d": "www.tritrans.net",
-    "t": "etrans",
-    "u": "https://www.tritrans.net/cgibin/translate.cgi?spraak=Engelsk&Fra={{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools"
   },
   {
     "s": "Live Music Archive",
@@ -26117,6 +26008,9 @@
     "s": "Eve University Wiki",
     "d": "wiki.eveuniversity.org",
     "t": "eveuni",
+    "ts": [
+      "uniwiki"
+    ],
     "u": "https://wiki.eveuniversity.org/index.php?title=Special:Search&search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (general)"
@@ -27405,6 +27299,9 @@
     "s": "Fedora wiki",
     "d": "fedoraproject.org",
     "t": "fedora",
+    "ts": [
+      "fedorawiki"
+    ],
     "u": "https://fedoraproject.org/wiki/Special:Search?search={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin (Fedora)"
@@ -27426,14 +27323,6 @@
       "fps"
     ],
     "u": "https://packages.fedoraproject.org/search?query={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin (Fedora)"
-  },
-  {
-    "s": "Fedora Project",
-    "d": "fedoraproject.org",
-    "t": "fedorawiki",
-    "u": "https://fedoraproject.org/wiki/Special:Search?search={{{s}}}&go=Go",
     "c": "Tech",
     "sc": "Sysadmin (Fedora)"
   },
@@ -29126,17 +29015,12 @@
     "s": "Fox News",
     "d": "www.foxnews.com",
     "t": "fox",
+    "ts": [
+      "foxnews"
+    ],
     "u": "https://www.foxnews.com/search-results/search?q={{{s}}}&submit=Search",
     "c": "News",
     "sc": "Aggregators"
-  },
-  {
-    "s": "FoxNews",
-    "d": "www.foxnews.com",
-    "t": "foxnews",
-    "u": "https://www.foxnews.com/search-results/search?q={{{s}}}",
-    "c": "News",
-    "sc": "Broadcast"
   },
   {
     "s": "Fox Racing",
@@ -31235,6 +31119,9 @@
     "s": "Gran diccionari de la llengua catalana",
     "d": "www.diccionari.cat",
     "t": "gdlc",
+    "ts": [
+      "diccionari"
+    ],
     "u": "http://www.diccionari.cat/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART={{{s}}}&x=0&y=0",
     "c": "Research",
     "sc": "Academic"
@@ -34448,14 +34335,6 @@
     "sc": "Sysadmin"
   },
   {
-    "s": "goodreads",
-    "d": "www.goodreads.com",
-    "t": "greads",
-    "u": "https://www.goodreads.com/search?utf8=%E2%9C%93&query={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Books"
-  },
-  {
     "s": "Greco olivetti",
     "d": "www.grecoantico.com",
     "t": "greco",
@@ -34523,6 +34402,9 @@
     "s": "Goodreads",
     "d": "www.goodreads.com",
     "t": "gr",
+    "ts": [
+      "greads"
+    ],
     "u": "https://www.goodreads.com/search?q={{{s}}}",
     "c": "Multimedia",
     "sc": "Books"
@@ -36832,7 +36714,8 @@
       "newsyc",
       "searchyc",
       "hnsearch",
-      "hackernews"
+      "hackernews",
+      "yc"
     ],
     "u": "https://hn.algolia.com/?q={{{s}}}",
     "c": "News",
@@ -37328,17 +37211,6 @@
     "sc": "Programming"
   },
   {
-    "s": "Home Depot",
-    "d": "www.homedepot.com",
-    "t": "hdx",
-    "ts": [
-      "hode"
-    ],
-    "u": "http://www.homedepot.com/s/{{{s}}}",
-    "c": "Shopping",
-    "sc": "Big box/department"
-  },
-  {
     "s": "How did you contribute to OpenStreetMap?",
     "d": "hdyc.neis-one.org",
     "t": "hdyc",
@@ -37561,14 +37433,6 @@
     "u": "/search?q={{{s}}}+site:herber.de",
     "c": "Tech",
     "sc": "Programming"
-  },
-  {
-    "s": "Here WeGo",
-    "d": "wego.here.com",
-    "t": "here",
-    "u": "https://wego.here.com/search/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Maps"
   },
   {
     "s": "Heritage Foundation",
@@ -38118,6 +37982,9 @@
     "s": "HERE maps",
     "d": "wego.here.com",
     "t": "hm",
+    "ts": [
+      "here"
+    ],
     "u": "https://wego.here.com/search/{{{s}}}?",
     "c": "Online Services",
     "sc": "Maps"
@@ -38279,6 +38146,10 @@
     "s": "The Home Depot",
     "d": "www.homedepot.com",
     "t": "homedepot",
+    "ts": [
+      "hdx",
+      "hode"
+    ],
     "u": "https://www.homedepot.com/s/{{{s}}}",
     "c": "Shopping",
     "sc": "Big box/department"
@@ -40439,17 +40310,6 @@
     "sc": "Academic (math/cs)"
   },
   {
-    "s": "IMBD",
-    "d": "www.imdb.com",
-    "t": "imbd",
-    "ts": [
-      "tv"
-    ],
-    "u": "https://www.imdb.com/find?q={{{s}}}&s=all",
-    "c": "Entertainment",
-    "sc": "Movies"
-  },
-  {
     "s": "imbiomed",
     "d": "www.imbiomed.com.mx",
     "t": "imb",
@@ -40477,6 +40337,11 @@
     "s": "IMDB",
     "d": "www.imdb.com",
     "t": "imdb",
+    "ts": [
+      "imbd",
+      "tv",
+      "imd"
+    ],
     "u": "https://www.imdb.com/find?s=all&q={{{s}}}",
     "c": "Multimedia",
     "sc": "Movies"
@@ -40528,14 +40393,6 @@
     "u": "https://www.imdb.com/search/title?title={{{s}}}&title_type=tv_series",
     "c": "Entertainment",
     "sc": "TV"
-  },
-  {
-    "s": "IMDb",
-    "d": "www.imdb.com",
-    "t": "imd",
-    "u": "https://www.imdb.com/find?q={{{s}}}+&s=all",
-    "c": "Entertainment",
-    "sc": "Movies"
   },
   {
     "s": "Internet Movie Firearms Database",
@@ -40843,14 +40700,6 @@
     "sc": "Learning"
   },
   {
-    "s": "Infopédia",
-    "d": "www.infopedia.pt",
-    "t": "infopedia",
-    "u": "http://www.infopedia.pt/dicionarios/lingua-portuguesa/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools"
-  },
-  {
     "s": "InfoQ",
     "d": "www.infoq.com",
     "t": "infoq",
@@ -40940,14 +40789,6 @@
     "u": "http://inkeri-klubi.radioviola.net/system/app/pages/search?scope=search-site&q={{{s}}}",
     "c": "News",
     "sc": "Specialty"
-  },
-  {
-    "s": "Inkipedia",
-    "d": "splatoonwiki.org",
-    "t": "inkipedia",
-    "u": "https://splatoonwiki.org/w/index.php?search={{{s}}}&go=Go",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
   },
   {
     "s": "Inktweb.nl",
@@ -42061,14 +41902,6 @@
     "u": "https://jacobinmag.com/search?query={{{s}}}",
     "c": "News",
     "sc": "Specialty"
-  },
-  {
-    "s": "Ultra Handy Japanese Verb Conjugator",
-    "d": "japaneseverbconjugator.com",
-    "t": "jaconj",
-    "u": "https://japaneseverbconjugator.com/VerbDetails.asp?txtVerb={{{s}}}&Go=Conjugate",
-    "c": "Research",
-    "sc": "Reference (words intl)"
   },
   {
     "s": "BarNet Jade",
@@ -43322,15 +43155,10 @@
     "s": "JusBrasil",
     "d": "www.jusbrasil.com.br",
     "t": "jusbrasil",
+    "ts": [
+      "jusbr"
+    ],
     "u": "https://www.jusbrasil.com.br/busca?q={{{s}}}",
-    "c": "Research",
-    "sc": "Law"
-  },
-  {
-    "s": "Jusbrasil",
-    "d": "www.jusbrasil.com.br",
-    "t": "jusbr",
-    "u": "http://www.jusbrasil.com.br/busca?q={{{s}}}",
     "c": "Research",
     "sc": "Law"
   },
@@ -43421,6 +43249,9 @@
     "s": "Japanese Verb Conjugator",
     "d": "japaneseverbconjugator.com",
     "t": "jvc",
+    "ts": [
+      "jaconj"
+    ],
     "u": "https://japaneseverbconjugator.com/VerbDetails.asp?txtVerb={{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
@@ -45094,15 +44925,10 @@
     "s": "Krebs On Security",
     "d": "krebsonsecurity.com",
     "t": "krebs",
+    "ts": [
+      "krebsonsec"
+    ],
     "u": "https://krebsonsecurity.com/?s={{{s}}}",
-    "c": "Tech",
-    "sc": "Blogs"
-  },
-  {
-    "s": "Krebs on Security",
-    "d": "krebsonsecurity.com",
-    "t": "krebsonsec",
-    "u": "https://krebsonsecurity.com/?s={{{s}}}&x=0&y=0",
     "c": "Tech",
     "sc": "Blogs"
   },
@@ -45900,14 +45726,6 @@
     "d": "law.moj.gov.tw",
     "t": "lawtw",
     "u": "https://law.moj.gov.tw/Law/LawSearchResult.aspx?ty=ONEBAR&kw={{{s}}}",
-    "c": "Research",
-    "sc": "Law"
-  },
-  {
-    "s": "Avvo",
-    "d": "www.avvo.com",
-    "t": "lawyer",
-    "u": "https://www.avvo.com/search?query={{{s}}}",
     "c": "Research",
     "sc": "Law"
   },
@@ -47426,22 +47244,6 @@
     "u": "http://www.liquidation.com/auction/search?cmd=keyword&searchparam_words={{{s}}}&flag=new",
     "c": "Shopping",
     "sc": "Online (marketplace)"
-  },
-  {
-    "s": "Liquidpedia",
-    "d": "wiki.teamliquid.net",
-    "t": "liquidpedia",
-    "u": "https://wiki.teamliquid.net/starcraft2/index.php?title=Special:Search&search={{{s}}}&go=Go",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
-  },
-  {
-    "s": "Liquipedia2",
-    "d": "wiki.teamliquid.net",
-    "t": "liquipedia",
-    "u": "https://wiki.teamliquid.net/starcraft2/index.php?title=Special:Search&go=Go&search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
   },
   {
     "s": "Liquorland",
@@ -51104,17 +50906,12 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "Megami Tensei Wikia",
-    "d": "megamitensei.wikia.com",
-    "t": "megamitensei",
-    "u": "https://megamitensei.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
-  },
-  {
     "s": "Megami Tensei Wiki",
     "d": "megamitensei.wikia.com",
     "t": "megatenw",
+    "ts": [
+      "megamitensei"
+    ],
     "u": "https://megamitensei.wikia.com/wiki/Special:Search?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (general)"
@@ -52664,17 +52461,12 @@
     "sc": "Forum"
   },
   {
-    "s": "Moby Games",
-    "d": "www.mobygames.com",
-    "t": "mobygames",
-    "u": "https://www.mobygames.com/search/quick?q={{{s}}}&x=0&y=0",
-    "c": "Entertainment",
-    "sc": "Games (general)"
-  },
-  {
     "s": "MobyGames",
     "d": "www.mobygames.com",
     "t": "moby",
+    "ts": [
+      "mobygames"
+    ],
     "u": "https://www.mobygames.com/search/quick?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (general)"
@@ -54200,6 +53992,9 @@
     "s": "Wikimedia Meta",
     "d": "meta.wikimedia.org",
     "t": "mwm",
+    "ts": [
+      "wmeta"
+    ],
     "u": "https://meta.wikimedia.org/w/index.php?&title=Special:Search&go=Go&search={{{s}}}",
     "c": "Multimedia",
     "sc": "General"
@@ -54733,6 +54528,9 @@
     "s": "NASDAQ",
     "d": "www.nasdaq.com",
     "t": "nasdaq",
+    "ts": [
+      "nrtq"
+    ],
     "u": "https://www.nasdaq.com/symbol/{{{s}}}/real-time",
     "c": "News",
     "sc": "Business"
@@ -55073,14 +54871,6 @@
     "u": "https://search.lib.ncsu.edu/?q={{{s}}}",
     "c": "Research",
     "sc": "Academic"
-  },
-  {
-    "s": "Nicovideo jp",
-    "d": "www.nicovideo.jp",
-    "t": "ncvi",
-    "u": "https://www.nicovideo.jp/search/{{{s}}}?track=nicouni_search_keyword",
-    "c": "Multimedia",
-    "sc": "Video"
   },
   {
     "s": "Nciku Chinese",
@@ -55893,7 +55683,8 @@
     "d": "www.nicovideo.jp",
     "t": "nico",
     "ts": [
-      "niconico"
+      "niconico",
+      "ncvi"
     ],
     "u": "https://www.nicovideo.jp/search/{{{s}}}",
     "c": "Multimedia",
@@ -56710,14 +56501,6 @@
     "sc": "Government"
   },
   {
-    "s": "Niconico Pedia",
-    "d": "dic.nicovideo.jp",
-    "t": "npedia",
-    "u": "http://dic.nicovideo.jp/a/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
     "s": "NPM Direct",
     "d": "npmjs.com",
     "t": "npmd",
@@ -56848,14 +56631,6 @@
       "url_encode_space_to_plus",
       "open_snap_domain"
     ]
-  },
-  {
-    "s": "NASDAQ Real Time Quotes",
-    "d": "www.nasdaq.com",
-    "t": "nrtq",
-    "u": "http://www.nasdaq.com/symbol/{{{s}}}/real-time",
-    "c": "Online Services",
-    "sc": "Search (Real-time)"
   },
   {
     "s": "DuckDuckGo (safeoff)",
@@ -57753,7 +57528,10 @@
     "s": "The On-Line Encyclopedia of Integer Sequences",
     "d": "oeis.org",
     "t": "oeis",
-    "u": "https://oeis.org/search?q={{{s}}}&language=english&go=Search",
+    "ts": [
+      "seq"
+    ],
+    "u": "https://oeis.org/search?q={{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
   },
@@ -58079,19 +57857,6 @@
     "sc": "Languages (perl)"
   },
   {
-    "s": "Old Reddit",
-    "d": "old.reddit.com",
-    "t": "oldreddit",
-    "ts": [
-      "oldred",
-      "redditold",
-      "rold"
-    ],
-    "u": "https://old.reddit.com/search?q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Social news/links"
-  },
-  {
     "s": "OldVersion",
     "d": "www.oldversion.com",
     "t": "oldversion",
@@ -58408,14 +58173,6 @@
     "sc": "Online"
   },
   {
-    "s": "OneLook",
-    "d": "onelook.com",
-    "t": "onelook",
-    "u": "https://onelook.com/?w={{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words)"
-  },
-  {
     "s": "OneLook Reverse",
     "d": "onelook.com",
     "t": "onelookr",
@@ -58542,7 +58299,10 @@
     "s": "OneLook.com",
     "d": "onelook.com",
     "t": "o",
-    "u": "https://onelook.com/?w={{{s}}}&ls=a",
+    "ts": [
+      "onelook"
+    ],
+    "u": "https://onelook.com/?w={{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
   },
@@ -59110,10 +58870,16 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "old reddit",
+    "s": "Old Reddit",
     "d": "old.reddit.com",
     "t": "ored",
-    "u": "https://old.reddit.com/search?q={{{s}}}&sort=relevance&t=all",
+    "ts": [
+      "oldreddit",
+      "oldred",
+      "redditold",
+      "rold"
+    ],
+    "u": "https://old.reddit.com/search?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Forum"
   },
@@ -59446,17 +59212,8 @@
     "t": "osrs",
     "ts": [
       "rs07",
-      "wosrs"
-    ],
-    "u": "https://oldschool.runescape.wiki/?search={{{s}}}&title=Special:Search",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
-  },
-  {
-    "s": "Old School Runescape Wiki",
-    "d": "oldschool.runescape.wiki",
-    "t": "osrswiki",
-    "ts": [
+      "wosrs",
+      "osrswiki",
       "osrsw"
     ],
     "u": "https://oldschool.runescape.wiki/?search={{{s}}}",
@@ -66324,6 +66081,14 @@
     "s": "Subreddit on Reddit",
     "d": "www.reddit.com",
     "t": "rds",
+    "ts": [
+      "reddits",
+      "sbr",
+      "subreddit",
+      "subr",
+      "sreddit",
+      "sr"
+    ],
     "u": "https://www.reddit.com/r/{{{s}}}",
     "c": "Online Services",
     "sc": "Social news/links"
@@ -66617,19 +66382,6 @@
     "u": "https://www.reddit.com/search?q={{{s}}}",
     "c": "News",
     "sc": "Aggregators"
-  },
-  {
-    "s": "Reddit subreddit",
-    "d": "www.reddit.com",
-    "t": "reddits",
-    "ts": [
-      "sbr",
-      "subreddit",
-      "subr"
-    ],
-    "u": "http://www.reddit.com/r/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Social"
   },
   {
     "s": "Reverso German - English",
@@ -69705,6 +69457,9 @@
     "s": "SpongeBob SquarePants Wiki",
     "d": "spongebob.wikia.com",
     "t": "sbwiki",
+    "ts": [
+      "spongebob"
+    ],
     "u": "https://spongebob.wikia.com/wiki/Special:Search?search={{{s}}}",
     "c": "Entertainment",
     "sc": "TV"
@@ -70762,14 +70517,6 @@
     "u": "https://www.sephora.com/search?keyword={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
-  },
-  {
-    "s": "The Online Encyclopedia Of Integer Sequences",
-    "d": "oeis.org",
-    "t": "seq",
-    "u": "https://oeis.org/search?q={{{s}}}",
-    "c": "Research",
-    "sc": "Academic (math/cs)"
   },
   {
     "s": "Serebii",
@@ -73700,6 +73447,9 @@
     "s": "Inkpedia",
     "d": "splatoonwiki.org",
     "t": "splatoon",
+    "ts": [
+      "inkipedia"
+    ],
     "u": "https://splatoonwiki.org/w/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
@@ -73759,14 +73509,6 @@
     "u": "https://startpage.com/do/search?l=nederlands&q={{{s}}}",
     "c": "Online Services",
     "sc": "Search (non-US)"
-  },
-  {
-    "s": "SpongeBob Wikia",
-    "d": "spongebob.wikia.com",
-    "t": "spongebob",
-    "u": "https://spongebob.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search",
-    "c": "Entertainment",
-    "sc": "TV"
   },
   {
     "s": "Encyclopedia SpongeBobia",
@@ -74047,17 +73789,6 @@
     "sc": "Downloads (software)"
   },
   {
-    "s": "Subreddit",
-    "d": "reddit.com",
-    "t": "sreddit",
-    "ts": [
-      "sr"
-    ],
-    "u": "http://reddit.com/r/{{{s}}}",
-    "c": "Entertainment",
-    "sc": "Forum"
-  },
-  {
     "s": "Sonic Retro",
     "d": "info.sonicretro.org",
     "t": "sretro",
@@ -74101,6 +73832,9 @@
     "s": "Reddit (subreddit)",
     "d": "www.reddit.com",
     "t": "srs",
+    "ts": [
+      "subredditsearch"
+    ],
     "u": "https://www.reddit.com/search?q=subreddit:{{{s}}}",
     "c": "Online Services",
     "sc": "Social news/links"
@@ -74440,17 +74174,6 @@
     "u": "https://startupbuffer.com/search?s={{{s}}}",
     "c": "Tech",
     "sc": "Startups"
-  },
-  {
-    "s": "Wookiepedia",
-    "d": "starwars.wikia.com",
-    "t": "starwars",
-    "ts": [
-      "wookie"
-    ],
-    "u": "https://starwars.wikia.com/wiki/Special:Search?search={{{s}}}&go=&fulltext=Search",
-    "c": "Entertainment",
-    "sc": "TV"
   },
   {
     "s": "Statenvertaling",
@@ -75162,14 +74885,6 @@
     "sc": "Sysadmin (network)"
   },
   {
-    "s": "Subreddit search",
-    "d": "www.reddit.com",
-    "t": "subredditsearch",
-    "u": "http://www.reddit.com/search?q=subreddit:{{{s}}}",
-    "c": "Online Services",
-    "sc": "Social news/links"
-  },
-  {
     "s": "Substack",
     "d": "substack.com",
     "t": "substack",
@@ -75713,6 +75428,9 @@
     "s": "Wookieepedia",
     "d": "starwars.wikia.com",
     "t": "swwiki",
+    "ts": [
+      "starwars"
+    ],
     "u": "https://starwars.wikia.com/wiki/Special:Search?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Movies"
@@ -76503,15 +76221,10 @@
     "s": "Tesberichte.de",
     "d": "www.testberichte.de",
     "t": "tbde",
+    "ts": [
+      "testberichte"
+    ],
     "u": "https://www.testberichte.de/d/search.php?searchstr={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
-    "s": "The Book Depository",
-    "d": "www.bookdepository.com",
-    "t": "tbd",
-    "u": "http://www.bookdepository.com/search?searchTerm={{{s}}}&search=Find+book",
     "c": "Shopping",
     "sc": "Online"
   },
@@ -77332,14 +77045,6 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "Testberichte.de",
-    "d": "www.testberichte.de",
-    "t": "testberichte",
-    "u": "https://www.testberichte.de/d/search.php?searchstr={{{s}}}&submit=Suchen",
-    "c": "Shopping",
-    "sc": "Services"
-  },
-  {
     "s": "Теплица социальных технологий",
     "d": "te-st.ru",
     "t": "te-st",
@@ -77834,14 +77539,6 @@
     "u": "https://www.thetoptens.com/search.asp?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Misc"
-  },
-  {
-    "s": "The TV db",
-    "d": "www.thetvdb.com",
-    "t": "thetvdb",
-    "u": "https://www.thetvdb.com/search?q={{{s}}}&l=en",
-    "c": "Multimedia",
-    "sc": "Docs"
   },
   {
     "s": "The Verge",
@@ -78660,6 +78357,10 @@
     "s": "Team Liquid Wiki",
     "d": "wiki.teamliquid.net",
     "t": "tlw",
+    "ts": [
+      "liquidpedia",
+      "liquipedia"
+    ],
     "u": "https://wiki.teamliquid.net/starcraft2/index.php?title=Special:Search&search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (general)"
@@ -79029,9 +78730,12 @@
     "sc": "Online"
   },
   {
-    "s": "pl.bab.la",
+    "s": "Bab.la English-Polish",
     "d": "pl.bab.la",
     "t": "topl",
+    "ts": [
+      "babpl"
+    ],
     "u": "https://pl.bab.la/slownik/angielski-polski/{{{s}}}",
     "c": "Translation",
     "sc": "Google"
@@ -79921,6 +79625,9 @@
     "s": "Twitch",
     "d": "www.twitch.tv",
     "t": "ttv",
+    "ts": [
+      "twich"
+    ],
     "u": "https://www.twitch.tv/search?term={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (general)"
@@ -80262,7 +79969,10 @@
     "s": "TheTVDB.com",
     "d": "www.thetvdb.com",
     "t": "tvdb",
-    "u": "https://www.thetvdb.com/search?query={{{s}}}&l=en",
+    "ts": [
+      "thetvdb"
+    ],
+    "u": "https://www.thetvdb.com/search?q={{{s}}}",
     "c": "Entertainment",
     "sc": "TV"
   },
@@ -80355,14 +80065,6 @@
     "sc": "TV"
   },
   {
-    "s": "Wirecutter (A New York Times Company)",
-    "d": "thewirecutter.com",
-    "t": "twc",
-    "u": "https://thewirecutter.com/?s={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
     "s": "tweakers.net",
     "d": "tweakers.net",
     "t": "tweakers",
@@ -80386,14 +80088,6 @@
       "twitchg"
     ],
     "u": "https://www.twitch.tv/directory/game/{{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (general)"
-  },
-  {
-    "s": "Twitch TV",
-    "d": "www.twitch.tv",
-    "t": "twich",
-    "u": "https://www.twitch.tv/search?query={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (general)"
   },
@@ -81729,14 +81423,6 @@
     "u": "https://ufind.univie.ac.at/en/search.html?query={{{s}}}",
     "c": "Research",
     "sc": "Academic"
-  },
-  {
-    "s": "UniWiki",
-    "d": "wiki.eveuniversity.org",
-    "t": "uniwiki",
-    "u": "https://wiki.eveuniversity.org/index.php?title=Special:Search&search={{{s}}}&button=",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
   },
   {
     "s": "The Unix Tree",
@@ -84515,6 +84201,9 @@
     "s": "Walmart",
     "d": "www.walmart.com",
     "t": "walmart",
+    "ts": [
+      "wus"
+    ],
     "u": "https://www.walmart.com/search/?query={{{s}}}",
     "c": "Shopping",
     "sc": "Big box/department"
@@ -86576,7 +86265,10 @@
     "s": "The Wirecutter",
     "d": "thewirecutter.com",
     "t": "wirecutter",
-    "u": "https://thewirecutter.com/search/?s={{{s}}}",
+    "ts": [
+      "twc"
+    ],
+    "u": "https://thewirecutter.com/?s={{{s}}}",
     "c": "Shopping",
     "sc": "Tech"
   },
@@ -86786,14 +86478,6 @@
     "u": "https://www.whatsmydns.net/#A/{{{s}}}",
     "c": "Online Services",
     "sc": "Tools (URLs)"
-  },
-  {
-    "s": "Wikimedia Meta-Wiki",
-    "d": "meta.wikimedia.org",
-    "t": "wmeta",
-    "u": "https://meta.wikimedia.org/w/index.php?title=Special:Search&search={{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
   },
   {
     "s": "Wolne Media",
@@ -88187,14 +87871,6 @@
     "sc": "Tech"
   },
   {
-    "s": "Walmart US",
-    "d": "www.walmart.com",
-    "t": "wus",
-    "u": "https://www.walmart.com/search/?query={{{s}}}&country=US",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
     "s": "Wikivoyage Deutsch",
     "d": "de.wikivoyage.org",
     "t": "wvde",
@@ -88940,15 +88616,6 @@
     "sc": "Online (deals)"
   },
   {
-    "s": "Hacker News Search",
-    "d": "hn.algolia.com",
-    "ad": "news.ycombinator.com",
-    "t": "yc",
-    "u": "https://hn.algolia.com/?query={{{s}}}",
-    "c": "News",
-    "sc": "Aggregators"
-  },
-  {
     "s": "Youdao Dict",
     "d": "dict.youdao.com",
     "t": "ydd",
@@ -89166,14 +88833,6 @@
     "sc": "Maps"
   },
   {
-    "s": "Yahoo! Japan",
-    "d": "search.yahoo.co.jp",
-    "t": "yjp",
-    "u": "http://search.yahoo.co.jp/search?p={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search (non-US)"
-  },
-  {
     "s": "Yahoo! Japan Realtime",
     "d": "search.yahoo.co.jp",
     "t": "yjr",
@@ -89204,6 +88863,9 @@
     "s": "Yahoo Japan",
     "d": "search.yahoo.co.jp",
     "t": "yj",
+    "ts": [
+      "yjp"
+    ],
     "u": "https://search.yahoo.co.jp/search?p={{{s}}}",
     "c": "Online Services",
     "sc": "Search (non-US)"
@@ -93223,8 +92885,8 @@
   },
   {
     "s": "Zed Docs",
-    "t": "zed",
     "d": "zed.dev",
+    "t": "zed",
     "u": "https://zed.dev/docs/?search={{{s}}}",
     "c": "Tech",
     "sc": "Programming"
