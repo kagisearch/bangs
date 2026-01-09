@@ -43009,6 +43009,14 @@
     "sc": "Tools"
   },
   {
+    "s": "jpdb japanese dictionary",
+    "d": "jpdb.io",
+    "t": "jpdb",
+    "u": "https://jpdb.io/search?q={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
     "s": "We Sell Car Plate Number Online, Malaysia",
     "d": "www.buycarplate.com",
     "t": "jpj",
