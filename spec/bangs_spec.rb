@@ -95,6 +95,12 @@ def template_format_check(bangs)
     it "template should only contain one {{{s}}} (#{bang["s"]})" do
       expect(template.scan(/(?={{{s}}})/).count).to eq(1)
     end
+
+    it "template should be HTTPS or a path (#{bang["s"]})" do
+      if !template.start_with?("/")
+        expect(template.start_with?("https://")).to be true
+      end
+    end
   end
 end
 
