@@ -88450,6 +88450,18 @@
     "sc": "Social"
   },
   {
+    "s": "Nitter (alternative Twitter front-end)",
+    "d": "nitter.net",
+    "t": "nitter",
+    "ts": [
+      "nit",
+      "ntr"
+    ],
+    "u": "https://nitter.net/search?f=tweets&q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Social"
+  },
+  {
     "s": "x86 Opcode & Instruction Reference",
     "d": "ref.x86asm.net",
     "t": "x86",
