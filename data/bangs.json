@@ -81365,6 +81365,14 @@
     "sc": "Academic"
   },
   {
+    "s": "Umamusume Wiki",
+    "d": "umamusu.wiki",
+    "t": "uma",
+    "u": "https://umamusu.wiki/w/index.php?search={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (specific)"
+  },
+  {
     "s": "UMass Amherst",
     "d": "www.umass.edu",
     "t": "umass",
