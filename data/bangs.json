@@ -43460,10 +43460,10 @@
     "sc": "Newspaper"
   },
   {
-    "s": "kakaku.com",
+    "s": "Kakaku.com",
     "d": "kakaku.com",
     "t": "kakaku",
-    "u": "https://kakaku.com/search_results/{{{s}}}",
+    "u": "https://search.kakaku.com/{{{s}}}/",
     "c": "Shopping",
     "sc": "Online"
   },
