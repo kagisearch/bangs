@@ -24236,14 +24236,6 @@
     "sc": "Search"
   },
   {
-    "s": "Emojipedia",
-    "d": "emojipedia.org",
-    "t": "emojipedia",
-    "u": "https://emojipedia.org/?s={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "emoney.ge",
     "d": "www.emoney.ge",
     "t": "emoneyge",
