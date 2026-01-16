@@ -34695,7 +34695,7 @@
       "gshopping",
       "shopping"
     ],
-    "u": "https://www.google.com/products?q={{{s}}}&tab=pf",
+    "u": "https://www.google.com/search?q={{{s}}}&udm=28",
     "c": "Online Services",
     "sc": "Google"
   },
