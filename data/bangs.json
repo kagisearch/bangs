@@ -43722,9 +43722,9 @@
   },
   {
     "s": "Kateglo",
-    "d": "kateglo.com",
+    "d": "kateglo.lostfocus.org",
     "t": "kateglo",
-    "u": "http://kateglo.com/?phrase={{{s}}}&mod=dictionary",
+    "u": "http://kateglo.lostfocus.org/?phrase={{{s}}}&mod=dictionary",
     "c": "Research",
     "sc": "Reference (words intl)"
   },
