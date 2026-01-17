@@ -43738,9 +43738,9 @@
   },
   {
     "s": "Kamus Besar Bahasa Indonesia",
-    "d": "kbbi.kemdikbud.go.id",
+    "d": "kbbi.kemendikdasmen.go.id",
     "t": "kbbi",
-    "u": "https://kbbi.kemdikbud.go.id/entri/{{{s}}}",
+    "u": "https://kbbi.kemendikdasmen.go.id/entri/{{{s}}}",
     "c": "Research",
     "sc": "Reference"
   },
