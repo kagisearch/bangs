@@ -43722,9 +43722,9 @@
   },
   {
     "s": "Kateglo",
-    "d": "kateglo.com",
+    "d": "kateglo.lostfocus.org",
     "t": "kateglo",
-    "u": "http://kateglo.com/?phrase={{{s}}}&mod=dictionary",
+    "u": "http://kateglo.lostfocus.org/?phrase={{{s}}}&mod=dictionary",
     "c": "Research",
     "sc": "Reference (words intl)"
   },
@@ -43738,9 +43738,9 @@
   },
   {
     "s": "Kamus Besar Bahasa Indonesia",
-    "d": "kbbi.kemdikbud.go.id",
+    "d": "kbbi.kemendikdasmen.go.id",
     "t": "kbbi",
-    "u": "https://kbbi.kemdikbud.go.id/entri/{{{s}}}",
+    "u": "https://kbbi.kemendikdasmen.go.id/entri/{{{s}}}",
     "c": "Research",
     "sc": "Reference"
   },
