@@ -1,5 +1,5 @@
 {
-  "$schema": "https://json-schema.org/draft-07/schema#",
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Kagi Bangs Schema",
   "description": "This schema defines the structure for bangs used by Kagi Search",
   "type": "array",
