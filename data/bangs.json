@@ -90485,18 +90485,27 @@
   },
   {
     "s": "Wikipedia",
-    "d": "en.wikipedia.org",
+    "d": "wikipedia.org",
     "t": "wikipedia",
     "ts": [
       "wiki",
       "w",
       "encyclopedia",
-      "wen",
+      "wi",
+      "wk"
+    ],
+    "u": "https://wikipedia.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Wikipedia (English)",
+    "d": "en.wikipedia.org",
+    "t": "wen",
+    "ts": [
       "enwiki",
       "wikien",
       "w.en",
-      "wi",
-      "wk",
       "we"
     ],
     "u": "https://en.wikipedia.org/w/index.php?search={{{s}}}",
