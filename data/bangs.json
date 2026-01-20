@@ -4490,14 +4490,9 @@
     "s": "APKMirror",
     "d": "www.apkmirror.com",
     "t": "apkm",
-    "u": "https://www.apkmirror.com/?s={{{s}}}",
-    "c": "Tech",
-    "sc": "Downloads (apps)"
-  },
-  {
-    "s": "APK Mirror",
-    "d": "www.apkmirror.com",
-    "t": "apkmirror",
+    "ts": [
+      "apkmirror"
+    ],
     "u": "https://www.apkmirror.com/?s={{{s}}}",
     "c": "Tech",
     "sc": "Downloads (apps)"
@@ -6828,6 +6823,9 @@
     "s": "Bab.la",
     "d": "pl.bab.la",
     "t": "babpl",
+    "ts": [
+      "topl"
+    ],
     "u": "https://pl.bab.la/slownik/angielski-polski/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
@@ -10000,14 +9998,6 @@
     "sc": "Online"
   },
   {
-    "s": "BookDepository",
-    "d": "www.bookdepository.com",
-    "t": "bookdepository",
-    "u": "https://www.bookdepository.com/search?searchTerm={{{s}}}&search=Find+book",
-    "c": "Shopping",
-    "sc": "Online (intl)"
-  },
-  {
     "s": "Bookeen Store",
     "d": "www.bookeenstore.com",
     "t": "bookeen",
@@ -12766,14 +12756,6 @@
     "u": "https://cdsportal.u-strasbg.fr/#{{{s}}}",
     "c": "Research",
     "sc": "Academic"
-  },
-  {
-    "s": "Collins Thesaurus",
-    "d": "www.collinsdictionary.com",
-    "t": "cdt",
-    "u": "https://www.collinsdictionary.com/dictionary/english-thesaurus/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words)"
   },
   {
     "s": "CDUniverse",
@@ -16705,6 +16687,9 @@
     "s": "Collins English Thesaurus",
     "d": "www.collinsdictionary.com",
     "t": "cth",
+    "ts": [
+      "cdt"
+    ],
     "u": "https://www.collinsdictionary.com/dictionary/english-thesaurus/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
@@ -19158,14 +19143,6 @@
     "sc": "Companies"
   },
   {
-    "s": "Dizionario Italiano De Mauro",
-    "d": "dizionario.internazionale.it",
-    "t": "demauro",
-    "u": "https://dizionario.internazionale.it/parola/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words intl)"
-  },
-  {
     "s": "Demeure et Jardin",
     "d": "www.demeure-et-jardin.com",
     "t": "demeureetjardin",
@@ -19757,6 +19734,9 @@
     "s": "ニコニコ大百科",
     "d": "dic.nicovideo.jp",
     "t": "dicnico",
+    "ts": [
+      "npedia"
+    ],
     "u": "https://dic.nicovideo.jp/a/{{{s}}}",
     "c": "Online Services",
     "sc": "Search (non-US)"
@@ -19800,6 +19780,9 @@
     "s": "Dicionário Infopédia da Língua Portuguesa",
     "d": "www.infopedia.pt",
     "t": "dicpt",
+    "ts": [
+      "infopedia"
+    ],
     "u": "https://www.infopedia.pt/dicionarios/lingua-portuguesa/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
@@ -20328,6 +20311,9 @@
     "s": "Dizionario Internazionale De Mauro",
     "d": "dizionario.internazionale.it",
     "t": "dit",
+    "ts": [
+      "demauro"
+    ],
     "u": "https://dizionario.internazionale.it/parola/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words intl)"
@@ -25672,17 +25658,12 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "etherscan",
-    "d": "etherscan.io",
-    "t": "etherscan",
-    "u": "https://etherscan.io/search?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Sysadmin"
-  },
-  {
     "s": "EtherScan",
     "d": "etherscan.io",
     "t": "eth",
+    "ts": [
+      "etherscan"
+    ],
     "u": "https://etherscan.io/search?q={{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
@@ -37279,7 +37260,8 @@
     "d": "www.homedepot.com",
     "t": "hdx",
     "ts": [
-      "hode"
+      "hode",
+      "homedepot"
     ],
     "u": "https://www.homedepot.com/s/{{{s}}}",
     "c": "Shopping",
@@ -38219,14 +38201,6 @@
     "d": "www.homebase.co.uk",
     "t": "homebase",
     "u": "https://www.homebase.co.uk/webapp/wcs/stores/servlet/Search?storeId=10151&catalogId=1500001201&langId=110&searchTerms={{{s}}}&authToken=",
-    "c": "Shopping",
-    "sc": "Big box/department"
-  },
-  {
-    "s": "The Home Depot",
-    "d": "www.homedepot.com",
-    "t": "homedepot",
-    "u": "https://www.homedepot.com/s/{{{s}}}",
     "c": "Shopping",
     "sc": "Big box/department"
   },
@@ -40790,14 +40764,6 @@
     "sc": "Learning"
   },
   {
-    "s": "Infopédia",
-    "d": "www.infopedia.pt",
-    "t": "infopedia",
-    "u": "https://www.infopedia.pt/dicionarios/lingua-portuguesa/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools"
-  },
-  {
     "s": "InfoQ",
     "d": "www.infoq.com",
     "t": "infoq",
@@ -43269,14 +43235,9 @@
     "s": "JusBrasil",
     "d": "www.jusbrasil.com.br",
     "t": "jusbrasil",
-    "u": "https://www.jusbrasil.com.br/busca?q={{{s}}}",
-    "c": "Research",
-    "sc": "Law"
-  },
-  {
-    "s": "Jusbrasil",
-    "d": "www.jusbrasil.com.br",
-    "t": "jusbr",
+    "ts": [
+      "jusbr"
+    ],
     "u": "https://www.jusbrasil.com.br/busca?q={{{s}}}",
     "c": "Research",
     "sc": "Law"
@@ -54680,6 +54641,9 @@
     "s": "NASDAQ",
     "d": "www.nasdaq.com",
     "t": "nasdaq",
+    "ts": [
+      "nrtq"
+    ],
     "u": "https://www.nasdaq.com/symbol/{{{s}}}/real-time",
     "c": "News",
     "sc": "Business"
@@ -56657,14 +56621,6 @@
     "sc": "Government"
   },
   {
-    "s": "Niconico Pedia",
-    "d": "dic.nicovideo.jp",
-    "t": "npedia",
-    "u": "https://dic.nicovideo.jp/a/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
     "s": "NPM Direct",
     "d": "npmjs.com",
     "t": "npmd",
@@ -56795,14 +56751,6 @@
       "url_encode_space_to_plus",
       "open_snap_domain"
     ]
-  },
-  {
-    "s": "NASDAQ Real Time Quotes",
-    "d": "www.nasdaq.com",
-    "t": "nrtq",
-    "u": "https://www.nasdaq.com/symbol/{{{s}}}/real-time",
-    "c": "Online Services",
-    "sc": "Search (Real-time)"
   },
   {
     "s": "DuckDuckGo (safeoff)",
@@ -66268,14 +66216,6 @@
     "sc": "Languages (r)"
   },
   {
-    "s": "Subreddit on Reddit",
-    "d": "www.reddit.com",
-    "t": "rds",
-    "u": "https://www.reddit.com/r/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Social news/links"
-  },
-  {
     "s": "Romajidesu Vocabulary",
     "d": "www.romajidesu.com",
     "t": "rdvcb",
@@ -66570,9 +66510,13 @@
     "d": "www.reddit.com",
     "t": "reddits",
     "ts": [
+      "rds",
+      "rsub",
       "sbr",
-      "subreddit",
-      "subr"
+      "sr",
+      "sreddit",
+      "subr",
+      "subreddit"
     ],
     "u": "https://www.reddit.com/r/{{{s}}}",
     "c": "Online Services",
@@ -68398,14 +68342,6 @@
     "u": "https://doc.rust-lang.org/std/index.html?search={{{s}}}",
     "c": "Tech",
     "sc": "Programming"
-  },
-  {
-    "s": "Reddit Subreddit",
-    "d": "reddit.com",
-    "t": "rsub",
-    "u": "https://reddit.com/r/{{{s}}}",
-    "c": "Entertainment",
-    "sc": "Forum"
   },
   {
     "s": "RadioSpare UK",
@@ -73994,17 +73930,6 @@
     "sc": "Downloads (software)"
   },
   {
-    "s": "Subreddit",
-    "d": "reddit.com",
-    "t": "sreddit",
-    "ts": [
-      "sr"
-    ],
-    "u": "https://reddit.com/r/{{{s}}}",
-    "c": "Entertainment",
-    "sc": "Forum"
-  },
-  {
     "s": "Sonic Retro",
     "d": "info.sonicretro.org",
     "t": "sretro",
@@ -74048,6 +73973,9 @@
     "s": "Reddit (subreddit)",
     "d": "www.reddit.com",
     "t": "srs",
+    "ts": [
+      "subredditsearch"
+    ],
     "u": "https://www.reddit.com/search?q=subreddit:{{{s}}}",
     "c": "Online Services",
     "sc": "Social news/links"
@@ -75107,14 +75035,6 @@
     "u": "https://www.tunnelsup.com/subnet-calculator?ip={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin (network)"
-  },
-  {
-    "s": "Subreddit search",
-    "d": "www.reddit.com",
-    "t": "subredditsearch",
-    "u": "https://www.reddit.com/search?q=subreddit:{{{s}}}",
-    "c": "Online Services",
-    "sc": "Social news/links"
   },
   {
     "s": "Substack",
@@ -76458,6 +76378,9 @@
     "s": "The Book Depository",
     "d": "www.bookdepository.com",
     "t": "tbd",
+    "ts": [
+      "bookdepository"
+    ],
     "u": "https://www.bookdepository.com/search?searchTerm={{{s}}}&search=Find+book",
     "c": "Shopping",
     "sc": "Online"
@@ -78974,14 +78897,6 @@
     "u": "https://tophatter.com/catalogs/search?utf8=%E2%9C%93&category=&query={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
-  },
-  {
-    "s": "pl.bab.la",
-    "d": "pl.bab.la",
-    "t": "topl",
-    "u": "https://pl.bab.la/slownik/angielski-polski/{{{s}}}",
-    "c": "Translation",
-    "sc": "Google"
   },
   {
     "s": "Toppreise.ch",
@@ -89121,14 +89036,6 @@
     "sc": "Maps"
   },
   {
-    "s": "Yahoo! Japan",
-    "d": "search.yahoo.co.jp",
-    "t": "yjp",
-    "u": "https://search.yahoo.co.jp/search?p={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search (non-US)"
-  },
-  {
     "s": "Yahoo! Japan Realtime",
     "d": "search.yahoo.co.jp",
     "t": "yjr",
@@ -89159,6 +89066,9 @@
     "s": "Yahoo Japan",
     "d": "search.yahoo.co.jp",
     "t": "yj",
+    "ts": [
+      "yjp"
+    ],
     "u": "https://search.yahoo.co.jp/search?p={{{s}}}",
     "c": "Online Services",
     "sc": "Search (non-US)"
