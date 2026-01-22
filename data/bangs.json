@@ -58120,12 +58120,12 @@
     "sc": "Online (deals)"
   },
   {
-    "s": "Open Street Maps",
+    "s": "OpenStreetMap",
     "d": "www.openstreetmap.org",
-    "t": "omap",
+    "t": "osm",
     "ts": [
       "openmaps",
-      "osm",
+      "omap",
       "ost"
     ],
     "u": "https://www.openstreetmap.org/search?query={{{s}}}",
