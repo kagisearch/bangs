@@ -65890,10 +65890,10 @@
     "sc": "Games (general)"
   },
   {
-    "s": "Roblox",
+    "s": "Roblox Marketplace",
     "d": "www.roblox.com",
     "t": "rblx",
-    "u": "https://www.roblox.com/Catalog/Lists.aspx?m=TopFavorites&c=9&t=AllTime&d=All&q={{{s}}}",
+    "u": "https://www.roblox.com/catalog?Keyword={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (general)"
   },
@@ -65979,14 +65979,6 @@
     "u": "https://devforum.roblox.com/search?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Forum"
-  },
-  {
-    "s": "ROBLOX Wiki",
-    "d": "wiki.roblox.com",
-    "t": "rbxw",
-    "u": "https://wiki.roblox.com/index.php?search={{{s}}}",
-    "c": "Tech",
-    "sc": "Languages (lua)"
   },
   {
     "s": "Roller Coaster Database",
@@ -67699,30 +67691,30 @@
     "sc": "Music"
   },
   {
-    "s": "Roblox Games",
+    "s": "Roblox Experiences",
     "d": "www.roblox.com",
     "t": "robloxg",
     "ts": [
       "roblox",
       "rspt"
     ],
-    "u": "https://www.roblox.com/games/?Keyword={{{s}}}",
+    "u": "https://www.roblox.com/discover/?Keyword={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
   {
-    "s": "Roblox Groups",
+    "s": "Roblox Communities",
     "d": "www.roblox.com",
     "t": "robloxgr",
-    "u": "https://www.roblox.com/Groups/search.aspx?val={{{s}}}",
+    "u": "https://www.roblox.com/search/communities?keyword={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (general)"
   },
   {
-    "s": "Roblox Library",
-    "d": "www.roblox.com",
+    "s": "Roblox Creator Store",
+    "d": "create.roblox.com",
     "t": "robloxl",
-    "u": "https://www.roblox.com/develop/library?CatalogContext=2&Keyword={{{s}}}&SortAggregation=5&LegendExpanded=true&Category=6",
+    "u": "https://create.roblox.com/store/models?keyword={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (general)"
   },
@@ -67808,17 +67800,6 @@
     "u": "https://rocwiki.org/?action=search&string={{{s}}}",
     "c": "Research",
     "sc": "Local"
-  },
-  {
-    "s": "ROBLOX Developer",
-    "d": "developer.roblox.com",
-    "t": "rodev",
-    "ts": [
-      "rowiki"
-    ],
-    "u": "https://developer.roblox.com/search#stq={{{s}}}",
-    "c": "Tech",
-    "sc": "Languages (lua)"
   },
   {
     "s": "GDPR PL",
