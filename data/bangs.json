@@ -67714,7 +67714,7 @@
     "s": "Roblox Creator Store",
     "d": "www.roblox.com",
     "t": "robloxl",
-    "u": "https://create.roblox.com/store/models?keyword={{s}}",
+    "u": "https://create.roblox.com/store/models?keyword={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (general)"
   },
