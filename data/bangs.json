@@ -56668,6 +56668,22 @@
     "sc": "Reference"
   },
   {
+    "s": "NPMX",
+    "d": "npmx.dev",
+    "t": "npmx",
+    "u": "https://npmx.dev/search?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Programming"
+  },
+  {
+    "s": "Skills.sh",
+    "d": "skills.sh",
+    "t": "skills",
+    "u": "https://skills.sh/?q={{{s}}}",
+    "c": "Research",
+    "sc": "AI"
+  },
+  {
     "s": "NPO",
     "d": "www.npo.nl",
     "t": "npo",
