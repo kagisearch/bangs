@@ -56669,7 +56669,7 @@
   },
   {
     "s": "NPMX",
-    "d": "www.npmx.dev",
+    "d": "npmx.dev",
     "t": "npmx",
     "u": "https://npmx.dev/search?q={{{s}}}",
     "c": "Tech",
@@ -56677,7 +56677,7 @@
   },
   {
     "s": "Skills.sh",
-    "d": "www.skills.sh",
+    "d": "skills.sh",
     "t": "skills",
     "u": "https://skills.sh/?q={{{s}}}",
     "c": "Research",
