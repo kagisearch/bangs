@@ -43461,11 +43461,15 @@
   },
   {
     "s": "Kakaku.com",
-    "d": "kakaku.com",
+    "d": "search.kakaku.com",
+    "ad": "kakaku.com",
     "t": "kakaku",
-    "u": "https://search.kakaku.com/{{{s}}}/",
+    "u": "/{{{s}}}/",
     "c": "Shopping",
-    "sc": "Online"
+    "sc": "Online",
+    "fmt": [
+      "open_snap_domain"
+    ]
   },
   {
     "s": "Khan Academy",
