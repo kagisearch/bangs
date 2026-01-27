@@ -43460,12 +43460,16 @@
     "sc": "Newspaper"
   },
   {
-    "s": "kakaku.com",
-    "d": "kakaku.com",
+    "s": "Kakaku.com",
+    "d": "search.kakaku.com",
+    "ad": "kakaku.com",
     "t": "kakaku",
-    "u": "https://kakaku.com/search_results/{{{s}}}",
+    "u": "https://search.kakaku.com/{{{s}}}/",
     "c": "Shopping",
-    "sc": "Online"
+    "sc": "Online",
+    "fmt": [
+      "open_snap_domain"
+    ]
   },
   {
     "s": "Khan Academy",
