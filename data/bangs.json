@@ -78034,9 +78034,9 @@
   },
   {
     "s": "Tidal",
-    "d": "listen.tidal.com",
+    "d": "tidal.com",
     "t": "tidal",
-    "u": "https://listen.tidal.com/search/{{{s}}}",
+    "u": "https://tidal.com/search/?q={{{s}}}",
     "c": "Multimedia",
     "sc": "Music"
   },
