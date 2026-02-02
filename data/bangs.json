@@ -10887,6 +10887,14 @@
     "sc": "Misc"
   },
   {
+    "s": "Blockscan",
+    "d": "blockscan.com",
+    "t": "blockscan",
+    "u": "https://blockscan.com/home/searchaddress?searchAddress={{{s}}}",
+    "c": "Tech",
+    "sc": "Cryptocurrency"
+  },
+  {
     "s": "Blockchain Address",
     "d": "www.blockchain.com",
     "t": "btcaddr",
