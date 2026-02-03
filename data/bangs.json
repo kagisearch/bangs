@@ -93113,5 +93113,13 @@
     "u": "https://arcraiders.wiki/w/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
+  },
+  {
+    "s": "npmx",
+    "t": "npmx",
+    "d": "npmx.dev",
+    "u": "https://npmx.dev/search?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Programming"
   }
 ]
