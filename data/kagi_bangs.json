@@ -3147,6 +3147,20 @@
     ]
   },
   {
+    "s": "Kagi Assistant - Research (Experimental)",
+    "d": "kagi.com",
+    "t": "deep",
+    "ts": [
+      "beta",
+      "deep-research"
+    ],
+    "u": "/assistant?profile=ki_deep_research&q={{{s}}}",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
     "s": "Kagi Assistant - ChatGPT",
     "d": "kagi.com",
     "t": "chatgpt-4o",
