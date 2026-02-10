@@ -84299,7 +84299,7 @@
     "s": "Waitrose",
     "d": "www.waitrose.com",
     "t": "waitrose",
-    "u": "https://www.waitrose.com/shop/HeaderSearchCmd?searchTerm={{{s}}}",
+    "u": "https://www.waitrose.com/ecom/shop/search?searchTerm={{{s}}}",
     "c": "Shopping",
     "sc": "Online (marketplace)"
   },
