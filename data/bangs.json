@@ -7001,7 +7001,7 @@
     "s": "Books-A-Million",
     "d": "www.booksamillion.com",
     "t": "bam",
-    "u": "https://www.booksamillion.com/search?query={{{s}}}",
+    "u": "https://www.booksamillion.com/search2?query={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
