@@ -53044,7 +53044,7 @@
     "s": "Mouser Electronics",
     "d": "www.mouser.com",
     "t": "mouser",
-    "u": "https://www.mouser.com/Search/Refine.aspx?Keyword={{{s}}}",
+    "u": "https://www.mouser.com/c/?q={{{s}}}",
     "c": "Shopping",
     "sc": "Tech"
   },
