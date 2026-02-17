@@ -20715,7 +20715,7 @@
     "s": "DM.DE",
     "d": "www.dm.de",
     "t": "dmde",
-    "u": "https://www.dm.de/search/468652.html?type=product&q={{{s}}}",
+    "u": "https://www.dm.de/search?query={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
