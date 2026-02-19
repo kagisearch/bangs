@@ -16811,6 +16811,14 @@
     "sc": "Academic"
   },
   {
+    "s": "Cloudflare Domains",
+    "d": "domains.cloudflare.com",
+    "t": "cdomain",
+    "u": "https://domains.cloudflare.com/?domain={{{s}}}/",
+    "c": "Tech",
+    "sc": "domains"
+  },
+  {
     "s": "Cult of Mac",
     "d": "www.cultofmac.com",
     "t": "cultofmac",
