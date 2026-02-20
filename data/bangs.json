@@ -4345,10 +4345,13 @@
     "sc": "Languages (other)"
   },
   {
-    "s": "AP",
-    "d": "ap.org",
+    "s": "AP News",
+    "d": "apnews.com",
     "t": "ap",
-    "u": "https://ap.org/?s={{{s}}}&orderby=",
+    "ts": [
+      "apnews"
+    ],
+    "u": "https://apnews.com/search?q={{{s}}}",
     "c": "News",
     "sc": "Broadcast"
   },
@@ -10891,7 +10894,7 @@
     "d": "blockscan.com",
     "t": "blockscan",
     "ts": [
-      "bscan", 
+      "bscan",
       "bsc"
     ],
     "u": "https://blockscan.com/home/searchaddress?searchAddress={{{s}}}",
