@@ -86158,6 +86158,19 @@
     "sc": "Sysadmin"
   },
   {
+    "s": "Ziglang std docs",
+    "d": "ziglang.org",
+    "ad": "ziglang.org/documentation/master/",
+    "t": "zig",
+    "u": "https://ziglang.org/documentation/master/std/#?{{{s}}}",
+    "c": "Tech",
+    "sc": "Programming",
+    "fmt": [
+      "url_encode_placeholder",
+      "open_snap_domain"
+    ]
+  },
+  {
     "s": "wikizionario",
     "d": "it.wiktionary.org",
     "t": "wikizionario",
