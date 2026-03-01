@@ -2496,6 +2496,20 @@
     "sc": "Online"
   },
   {
+    "s": "Blinkit",
+    "d": "www.blinkit.com",
+    "t": "blinkit",
+    "ts": [
+      "bkt",
+      "bkit",
+      "bli",
+      "blink"
+    ],
+    "u": "https://blinkit.com/s/?q={{{s}}}",
+    "c": "Shopping",
+    "sc": "Online"
+  },
+  {
     "s": "Aion Wiki",
     "d": "aion.wikia.com",
     "t": "aion",
