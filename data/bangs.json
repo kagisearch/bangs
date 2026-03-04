@@ -32914,19 +32914,6 @@
     "sc": "Google"
   },
   {
-    "s": "Gemini",
-    "d": "gemini.google.com",
-    "t": "gemini",
-    "ts": [
-      "geminiai",
-      "gemai",
-      "gmai"
-    ],
-    "u": "https://gemini.google.com/?prompt_text={{{s}}}",
-    "c": "Online Services",
-    "sc": "AI Chatbots"
-  },
-  {
     "s": "GMail.com",
     "d": "mail.google.com",
     "t": "gmail",
