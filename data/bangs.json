@@ -5859,9 +5859,9 @@
   },
   {
     "s": "Amazon Subscribe & Save",
-    "d": "smile.amazon.com",
+    "d": "www.amazon.com",
     "t": "ass",
-    "u": "https://smile.amazon.com/s?url=srs=5856181011&field-keywords={{{s}}}",
+    "u": "https://www.amazon.com/gp/subscribe-and-save/manager/",
     "c": "Shopping",
     "sc": "Online"
   },
