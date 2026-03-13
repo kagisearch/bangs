@@ -81922,7 +81922,7 @@
     "s": "Uptodown",
     "d": "en.uptodown.com",
     "t": "uptodown",
-    "u": "https://en.uptodown.com/android/search/{{{s}}}",
+    "u": "https://en.uptodown.com/android/search?query={{{s}}}",
     "c": "Tech",
     "sc": "Downloads (apps)"
   },
