@@ -22540,7 +22540,7 @@
     "s": "e926",
     "d": "e926.net",
     "t": "e926",
-    "u": "https://e926.net/post/search?tags={{{s}}}",
+    "u": "https://e926.net/posts?tags={{{s}}}",
     "c": "Multimedia",
     "sc": "Images"
   },
