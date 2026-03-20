@@ -93165,5 +93165,13 @@
     "u": "https://tesaurus.kemendikdasmen.go.id/tematis/lema/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
+  },
+  {
+    "s": "PDSls",
+    "d": "pds.ls",
+    "t": "pdsls",
+    "u": "https://pds.ls/?q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Social"
   }
 ]
