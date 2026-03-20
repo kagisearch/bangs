@@ -5863,7 +5863,8 @@
     "t": "ass",
     "u": "https://www.amazon.com/gp/subscribe-and-save/manager/",
     "c": "Shopping",
-    "sc": "Online"
+    "sc": "Online",
+    "skip_tests": true
   },
   {
     "s": "Asterisk Wiki (Kagi Search)",
@@ -30583,6 +30584,14 @@
     "u": "https://www.gamma.nl/assortiment/zoeken?text={{{s}}}",
     "c": "Shopping",
     "sc": "Big box/department"
+  },
+  {
+    "s": "Kobo UK",
+    "d": "www.kobo.com",
+    "t": "kobouk",
+    "u": "https://www.kobo.com/gb/en/search?Query={{{s}}}",
+    "c": "Shopping",
+    "sc": "Online"
   },
   {
     "s": "Librerías Gandhi",
