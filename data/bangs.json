@@ -86427,6 +86427,18 @@
     "sc": "Programming"
   },
   {
+    "s": "wpt.fyi",
+    "d": "wpt.fyi",
+    "t": "wptfyi",
+    "ts": [
+      "wpts",
+      "wptf"
+    ],
+    "u": "https://wpt.fyi/results/?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Programming"
+  },
+  {
     "s": "WindowParts",
     "d": "www.windowparts.co.uk",
     "t": "windowparts",
