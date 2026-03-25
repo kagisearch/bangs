@@ -88806,11 +88806,15 @@
   },
   {
     "s": "Yandex Video",
-    "d": "yandex.ru",
+    "d": "ya.ru",
     "t": "yav",
-    "u": "https://yandex.ru/video/search?text={{{s}}}",
+    "u": "https://ya.ru/video/search?text={{{s}}}",
     "c": "Online Services",
-    "sc": "Search (non-US)"
+    "sc": "Search (non-US)",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Yandex",
