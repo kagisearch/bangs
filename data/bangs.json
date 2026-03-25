@@ -90350,15 +90350,19 @@
   },
   {
     "s": "Yandex Images",
-    "d": "yandex.ru",
+    "d": "ya.ru",
     "t": "yai",
     "ts": [
       "yak",
       "як"
     ],
-    "u": "https://yandex.ru/images/search?text={{{s}}}",
+    "u": "https://ya.ru/images/search?text={{{s}}}",
     "c": "Online Services",
-    "sc": "Search (non-US)"
+    "sc": "Search (non-US)",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Nayiri",
