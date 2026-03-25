@@ -88747,16 +88747,20 @@
   },
   {
     "s": "Yandex Maps",
-    "d": "yandex.ru",
+    "d": "ya.ru",
     "t": "yandexmaps",
     "ts": [
       "yamaps",
       "yxmaps",
       "якарты"
     ],
-    "u": "https://yandex.ru/maps/?text={{{s}}}",
+    "u": "https://ya.ru/maps/?text={{{s}}}",
     "c": "Online Services",
-    "sc": "Maps"
+    "sc": "Maps",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Yahoo! Answers",
