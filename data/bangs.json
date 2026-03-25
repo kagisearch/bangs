@@ -88814,13 +88814,13 @@
   },
   {
     "s": "Yandex",
-    "d": "yandex.ru",
+    "d": "ya.ru",
     "t": "ya",
     "ts": [
       "yandex",
       "я"
     ],
-    "u": "https://yandex.ru/search?text={{{s}}}",
+    "u": "https://ya.ru/search?text={{{s}}}",
     "c": "Online Services",
     "sc": "Search (non-US)"
   },
