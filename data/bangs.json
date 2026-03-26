@@ -1274,6 +1274,7 @@
     "s": "Amazon Belgium",
     "d": "www.amazon.com.be",
     "t": "amazonbe",
+    "ts": ["abe"],
     "u": "https://www.amazon.com.be/s?k={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
