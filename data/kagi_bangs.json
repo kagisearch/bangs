@@ -1,6 +1,6 @@
 [
   {
-    "s": "Kagi Search",
+    "s": "Kagi",
     "d": "kagi.com",
     "t": "k",
     "ts": [
@@ -48,7 +48,7 @@
     ]
   },
   {
-    "s": "Kagi Images",
+    "s": "Kagi (Images)",
     "d": "kagi.com",
     "t": "i",
     "ts": [
@@ -96,7 +96,7 @@
     ]
   },
   {
-    "s": "Kagi Search (verbatim)",
+    "s": "Kagi (Verbatim)",
     "d": "kagi.com",
     "t": "vrb",
     "ts": [
@@ -126,574 +126,574 @@
     ]
   },
   {
-    "s": "Search in International",
+    "s": "Kagi Search (International)",
     "d": "kagi.com",
     "t": "int",
     "u": "/search?q={{{s}}}&r=no_region",
     "c": "Region search"
   },
   {
-    "s": "Search in Antarctica",
+    "s": "Kagi Search (Antarctica)",
     "d": "kagi.com",
     "t": "aq",
     "u": "/search?q={{{s}}}&r=aq",
     "c": "Region search"
   },
   {
-    "s": "Search in Argentina",
+    "s": "Kagi Search (Argentina)",
     "d": "kagi.com",
     "t": "ar",
     "u": "/search?q={{{s}}}&r=ar",
     "c": "Region search"
   },
   {
-    "s": "Search in Australia",
+    "s": "Kagi Search (Australia)",
     "d": "kagi.com",
     "t": "au",
     "u": "/search?q={{{s}}}&r=au",
     "c": "Region search"
   },
   {
-    "s": "Search in Austria",
+    "s": "Kagi Search (Austria)",
     "d": "kagi.com",
     "t": "at",
     "u": "/search?q={{{s}}}&r=at",
     "c": "Region search"
   },
   {
-    "s": "Search in Belarus",
+    "s": "Kagi Search (Belarus)",
     "d": "kagi.com",
     "t": "by",
     "u": "/search?q={{{s}}}&r=by",
     "c": "Region search"
   },
   {
-    "s": "Search in Belgium (fr)",
+    "s": "Kagi Search (Belgium, French)",
     "d": "kagi.com",
     "t": "be_fr",
     "u": "/search?q={{{s}}}&r=be_fr",
     "c": "Region search"
   },
   {
-    "s": "Search in Belgium (nl)",
+    "s": "Kagi Search (Belgium, Dutch)",
     "d": "kagi.com",
     "t": "be",
     "u": "/search?q={{{s}}}&r=be",
     "c": "Region search"
   },
   {
-    "s": "Search in Belize",
+    "s": "Kagi Search (Belize)",
     "d": "kagi.com",
     "t": "bz",
     "u": "/search?q={{{s}}}&r=bz",
     "c": "Region search"
   },
   {
-    "s": "Search in Benin",
+    "s": "Kagi Search (Benin)",
     "d": "kagi.com",
     "t": "bj",
     "u": "/search?q={{{s}}}&r=bj",
     "c": "Region search"
   },
   {
-    "s": "Search in Brazil",
+    "s": "Kagi Search (Brazil)",
     "d": "kagi.com",
     "t": "br",
     "u": "/search?q={{{s}}}&r=br",
     "c": "Region search"
   },
   {
-    "s": "Search in British Indian Ocean Territory",
+    "s": "Kagi Search (British Indian Ocean Territory)",
     "d": "kagi.com",
     "t": "io",
     "u": "/search?q={{{s}}}&r=io",
     "c": "Region search"
   },
   {
-    "s": "Search in Cameroon",
+    "s": "Kagi Search (Cameroon)",
     "d": "kagi.com",
     "t": "cm",
     "u": "/search?q={{{s}}}&r=cm",
     "c": "Region search"
   },
   {
-    "s": "Search in Canada (en)",
+    "s": "Kagi Search (Canada, English)",
     "d": "kagi.com",
     "t": "ca",
     "u": "/search?q={{{s}}}&r=ca",
     "c": "Region search"
   },
   {
-    "s": "Search in Canada (fr)",
+    "s": "Kagi Search (Canada, French)",
     "d": "kagi.com",
     "t": "ca_fr",
     "u": "/search?q={{{s}}}&r=ca_fr",
     "c": "Region search"
   },
   {
-    "s": "Search in Cayman Islands",
+    "s": "Kagi Search (Cayman Islands)",
     "d": "kagi.com",
     "t": "ky",
     "u": "/search?q={{{s}}}&r=ky",
     "c": "Region search"
   },
   {
-    "s": "Search in Central African Republic",
+    "s": "Kagi Search (Central African Republic)",
     "d": "kagi.com",
     "t": "cf",
     "u": "/search?q={{{s}}}&r=cf",
     "c": "Region search"
   },
   {
-    "s": "Search in China",
+    "s": "Kagi Search (China)",
     "d": "kagi.com",
     "t": "cn",
     "u": "/search?q={{{s}}}&r=cn",
     "c": "Region search"
   },
   {
-    "s": "Search in Christmas Island",
+    "s": "Kagi Search (Christmas Island)",
     "d": "kagi.com",
     "t": "cx",
     "u": "/search?q={{{s}}}&r=cx",
     "c": "Region search"
   },
   {
-    "s": "Search in Colombia",
+    "s": "Kagi Search (Colombia)",
     "d": "kagi.com",
     "t": "co",
     "u": "/search?q={{{s}}}&r=co",
     "c": "Region search"
   },
   {
-    "s": "Search in Croatia",
+    "s": "Kagi Search (Croatia)",
     "d": "kagi.com",
     "t": "hr",
     "u": "/search?q={{{s}}}&r=hr",
     "c": "Region search"
   },
   {
-    "s": "Search in Cyprus",
+    "s": "Kagi Search (Cyprus)",
     "d": "kagi.com",
     "t": "cy",
     "u": "/search?q={{{s}}}&r=cy",
     "c": "Region search"
   },
   {
-    "s": "Search in Czechia",
+    "s": "Kagi Search (Czechia)",
     "d": "kagi.com",
     "t": "cz",
     "u": "/search?q={{{s}}}&r=cz",
     "c": "Region search"
   },
   {
-    "s": "Search in Denmark",
+    "s": "Kagi Search (Denmark)",
     "d": "kagi.com",
     "t": "dk",
     "u": "/search?q={{{s}}}&r=dk",
     "c": "Region search"
   },
   {
-    "s": "Search in El Salvador",
+    "s": "Kagi Search (El Salvador)",
     "d": "kagi.com",
     "t": "sv",
     "u": "/search?q={{{s}}}&r=sv",
     "c": "Region search"
   },
   {
-    "s": "Search in Estonia (ee)",
+    "s": "Kagi Search (Estonia)",
     "d": "kagi.com",
     "t": "ee",
     "u": "/search?q={{{s}}}&r=ee",
     "c": "Region search"
   },
   {
-    "s": "Search in Finland",
+    "s": "Kagi Search (Finland)",
     "d": "kagi.com",
     "t": "fi",
     "u": "/search?q={{{s}}}&r=fi",
     "c": "Region search"
   },
   {
-    "s": "Search in France",
+    "s": "Kagi Search (France)",
     "d": "kagi.com",
     "t": "fr",
     "u": "/search?q={{{s}}}&r=fr",
     "c": "Region search"
   },
   {
-    "s": "Search in Germany",
+    "s": "Kagi Search (Germany)",
     "d": "kagi.com",
     "t": "de",
     "u": "/search?q={{{s}}}&r=de",
     "c": "Region search"
   },
   {
-    "s": "Search in Hungary",
+    "s": "Kagi Search (Hungary)",
     "d": "kagi.com",
     "t": "hu",
     "u": "/search?q={{{s}}}&r=hu",
     "c": "Region search"
   },
   {
-    "s": "Search in India",
+    "s": "Kagi Search (India)",
     "d": "kagi.com",
     "t": "in",
     "u": "/search?q={{{s}}}&r=in",
     "c": "Region search"
   },
   {
-    "s": "Search in Indonesia",
+    "s": "Kagi Search (Indonesia)",
     "d": "kagi.com",
     "t": "id",
     "u": "/search?q={{{s}}}&r=id",
     "c": "Region search"
   },
   {
-    "s": "Search in Iran",
+    "s": "Kagi Search (Iran)",
     "d": "kagi.com",
     "t": "ir",
     "u": "/search?q={{{s}}}&r=ir",
     "c": "Region search"
   },
   {
-    "s": "Search in Iraq",
+    "s": "Kagi Search (Iraq)",
     "d": "kagi.com",
     "t": "iq",
     "u": "/search?q={{{s}}}&r=iq",
     "c": "Region search"
   },
   {
-    "s": "Search in Isle of Man",
+    "s": "Kagi Search (Isle of Man)",
     "d": "kagi.com",
     "t": "im",
     "u": "/search?q={{{s}}}&r=im",
     "c": "Region search"
   },
   {
-    "s": "Search in Israel",
+    "s": "Kagi Search (Israel)",
     "d": "kagi.com",
     "t": "il",
     "u": "/search?q={{{s}}}&r=il",
     "c": "Region search"
   },
   {
-    "s": "Search in Italy",
+    "s": "Kagi Search (Italy)",
     "d": "kagi.com",
     "t": "it",
     "u": "/search?q={{{s}}}&r=it",
     "c": "Region search"
   },
   {
-    "s": "Search in Japan",
+    "s": "Kagi Search (Japan)",
     "d": "kagi.com",
     "t": "jp",
     "u": "/search?q={{{s}}}&r=jp",
     "c": "Region search"
   },
   {
-    "s": "Search in Kazakhstan",
+    "s": "Kagi Search (Kazakhstan)",
     "d": "kagi.com",
     "t": "kz",
     "u": "/search?q={{{s}}}&r=kz",
     "c": "Region search"
   },
   {
-    "s": "Search in Kenya",
+    "s": "Kagi Search (Kenya)",
     "d": "kagi.com",
     "t": "ke",
     "u": "/search?q={{{s}}}&r=ke",
     "c": "Region search"
   },
   {
-    "s": "Search in Kosovo",
+    "s": "Kagi Search (Kosovo)",
     "d": "kagi.com",
     "t": "xk",
     "u": "/search?q={{{s}}}&r=xk",
     "c": "Region search"
   },
   {
-    "s": "Search in Kuwait",
+    "s": "Kagi Search (Kuwait)",
     "d": "kagi.com",
     "t": "kw",
     "u": "/search?q={{{s}}}&r=kw",
     "c": "Region search"
   },
   {
-    "s": "Search in Liberia",
+    "s": "Kagi Search (Liberia)",
     "d": "kagi.com",
     "t": "lr",
     "u": "/search?q={{{s}}}&r=lr",
     "c": "Region search"
   },
   {
-    "s": "Search in Libya",
+    "s": "Kagi Search (Libya)",
     "d": "kagi.com",
     "t": "ly",
     "u": "/search?q={{{s}}}&r=ly",
     "c": "Region search"
   },
   {
-    "s": "Search in Madagascar",
+    "s": "Kagi Search (Madagascar)",
     "d": "kagi.com",
     "t": "mg",
     "u": "/search?q={{{s}}}&r=mg",
     "c": "Region search"
   },
   {
-    "s": "Search in Malaysia",
+    "s": "Kagi Search (Malaysia)",
     "d": "kagi.com",
     "t": "my",
     "u": "/search?q={{{s}}}&r=my",
     "c": "Region search"
   },
   {
-    "s": "Search in Netherlands",
+    "s": "Kagi Search (Netherlands)",
     "d": "kagi.com",
     "t": "nl",
     "u": "/search?q={{{s}}}&r=nl",
     "c": "Region search"
   },
   {
-    "s": "Search in New Zealand",
+    "s": "Kagi Search (New Zealand)",
     "d": "kagi.com",
     "t": "nz",
     "u": "/search?q={{{s}}}&r=nz",
     "c": "Region search"
   },
   {
-    "s": "Search in Norway",
+    "s": "Kagi Search (Norway)",
     "d": "kagi.com",
     "t": "no",
     "u": "/search?q={{{s}}}&r=no",
     "c": "Region search"
   },
   {
-    "s": "Search in Oman",
+    "s": "Kagi Search (Oman)",
     "d": "kagi.com",
     "t": "om",
     "u": "/search?q={{{s}}}&r=om",
     "c": "Region search"
   },
   {
-    "s": "Search in Palau",
+    "s": "Kagi Search (Palau)",
     "d": "kagi.com",
     "t": "pw",
     "u": "/search?q={{{s}}}&r=pw",
     "c": "Region search"
   },
   {
-    "s": "Search in Poland",
+    "s": "Kagi Search (Poland)",
     "d": "kagi.com",
     "t": "pl",
     "u": "/search?q={{{s}}}&r=pl",
     "c": "Region search"
   },
   {
-    "s": "Search in Portugal",
+    "s": "Kagi Search (Portugal)",
     "d": "kagi.com",
     "t": "pt",
     "u": "/search?q={{{s}}}&r=pt",
     "c": "Region search"
   },
   {
-    "s": "Search in Qatar",
+    "s": "Kagi Search (Qatar)",
     "d": "kagi.com",
     "t": "qa",
     "u": "/search?q={{{s}}}&r=qa",
     "c": "Region search"
   },
   {
-    "s": "Search in Réunion",
+    "s": "Kagi Search (Réunion)",
     "d": "kagi.com",
     "t": "re",
     "u": "/search?q={{{s}}}&r=re",
     "c": "Region search"
   },
   {
-    "s": "Search in Serbia",
+    "s": "Kagi Search (Serbia)",
     "d": "kagi.com",
     "t": "rs",
     "u": "/search?q={{{s}}}&r=rs",
     "c": "Region search"
   },
   {
-    "s": "Search in Slovenia",
+    "s": "Kagi Search (Slovenia)",
     "d": "kagi.com",
     "t": "si",
     "u": "/search?q={{{s}}}&r=si",
     "c": "Region search"
   },
   {
-    "s": "Search in South Africa",
+    "s": "Kagi Search (South Africa)",
     "d": "kagi.com",
     "t": "za",
     "u": "/search?q={{{s}}}&r=za",
     "c": "Region search"
   },
   {
-    "s": "Search in South Korea",
+    "s": "Kagi Search (South Korea)",
     "d": "kagi.com",
     "t": "kr",
     "u": "/search?q={{{s}}}&r=kr",
     "c": "Region search"
   },
   {
-    "s": "Search in Spain (es)",
+    "s": "Kagi Search (Spain)",
     "d": "kagi.com",
     "t": "es",
     "u": "/search?q={{{s}}}&r=es",
     "c": "Region search"
   },
   {
-    "s": "Search in Span (ca)",
+    "s": "Kagi Search (Spain, Catalan)",
     "d": "kagi.com",
     "t": "es_ca",
     "u": "/search?q={{{s}}}&r=es_ca",
     "c": "Region search"
   },
   {
-    "s": "Search in Sweden",
+    "s": "Kagi Search (Sweden)",
     "d": "kagi.com",
     "t": "se",
     "u": "/search?q={{{s}}}&r=se",
     "c": "Region search"
   },
   {
-    "s": "Search in Switzerland (de)",
+    "s": "Kagi Search (Switzerland, German)",
     "d": "kagi.com",
     "t": "ch",
     "u": "/search?q={{{s}}}&r=ch",
     "c": "Region search"
   },
   {
-    "s": "Search in Switzerland (fr)",
+    "s": "Kagi Search (Switzerland, French)",
     "d": "kagi.com",
     "t": "ch_fr",
     "u": "/search?q={{{s}}}&r=ch_fr",
     "c": "Region search"
   },
   {
-    "s": "Search in Taiwan",
+    "s": "Kagi Search (Taiwan)",
     "d": "kagi.com",
     "t": "tw",
     "u": "/search?q={{{s}}}&r=tw",
     "c": "Region search"
   },
   {
-    "s": "Search in Thailand",
+    "s": "Kagi Search (Thailand)",
     "d": "kagi.com",
     "t": "th",
     "u": "/search?q={{{s}}}&r=th",
     "c": "Region search"
   },
   {
-    "s": "Search in Togo",
+    "s": "Kagi Search (Togo)",
     "d": "kagi.com",
     "t": "tg",
     "u": "/search?q={{{s}}}&r=tg",
     "c": "Region search"
   },
   {
-    "s": "Search in Tokelau",
+    "s": "Kagi Search (Tokelau)",
     "d": "kagi.com",
     "t": "tk",
     "u": "/search?q={{{s}}}&r=tk",
     "c": "Region search"
   },
   {
-    "s": "Search in Tonga",
+    "s": "Kagi Search (Tonga)",
     "d": "kagi.com",
     "t": "to",
     "u": "/search?q={{{s}}}&r=to",
     "c": "Region search"
   },
   {
-    "s": "Search in Turkey",
+    "s": "Kagi Search (Turkey)",
     "d": "kagi.com",
     "t": "tur",
     "u": "/search?q={{{s}}}&r=tr",
     "c": "Region search"
   },
   {
-    "s": "Search in U.S. Virgin Islands",
+    "s": "Kagi Search (US Virgin Islands)",
     "d": "kagi.com",
     "t": "vi",
     "u": "/search?q={{{s}}}&r=vi",
     "c": "Region search"
   },
   {
-    "s": "Search in Ukraine",
+    "s": "Kagi Search (Ukraine)",
     "d": "kagi.com",
     "t": "ua",
     "u": "/search?q={{{s}}}&r=ua",
     "c": "Region search"
   },
   {
-    "s": "Search in United Kingdom",
+    "s": "Kagi Search (United Kingdom)",
     "d": "kagi.com",
     "t": "gb",
     "u": "/search?q={{{s}}}&r=gb",
     "c": "Region search"
   },
   {
-    "s": "Search in United States",
+    "s": "Kagi Search (United States)",
     "d": "kagi.com",
     "t": "us",
     "u": "/search?q={{{s}}}&r=us",
     "c": "Region search"
   },
   {
-    "s": "Search in United States Minor Outlying Islands",
+    "s": "Kagi Search (US Minor Outlying Islands)",
     "d": "kagi.com",
     "t": "um",
     "u": "/search?q={{{s}}}&r=um",
     "c": "Region search"
   },
   {
-    "s": "Search in Uruguay",
+    "s": "Kagi Search (Uruguay)",
     "d": "kagi.com",
     "t": "uy",
     "u": "/search?q={{{s}}}&r=uy",
     "c": "Region search"
   },
   {
-    "s": "Search in Uzbekistan",
+    "s": "Kagi Search (Uzbekistan)",
     "d": "kagi.com",
     "t": "uz",
     "u": "/search?q={{{s}}}&r=uz",
     "c": "Region search"
   },
   {
-    "s": "Search in Vanuatu",
+    "s": "Kagi Search (Vanuatu)",
     "d": "kagi.com",
     "t": "vu",
     "u": "/search?q={{{s}}}&r=vu",
     "c": "Region search"
   },
   {
-    "s": "Search in Vietnam",
+    "s": "Kagi Search (Vietnam)",
     "d": "kagi.com",
     "t": "vn",
     "u": "/search?q={{{s}}}&r=vn",
     "c": "Region search"
   },
   {
-    "s": "Search in Yemen",
+    "s": "Kagi Search (Yemen)",
     "d": "kagi.com",
     "t": "ye",
     "u": "/search?q={{{s}}}&r=ye",
     "c": "Region search"
   },
   {
-    "s": "Search in Zambia",
+    "s": "Kagi Search (Zambia)",
     "d": "kagi.com",
     "t": "zm",
     "u": "/search?q={{{s}}}&r=zm",
     "c": "Region search"
   },
   {
-    "s": "Kagi (past day)",
+    "s": "Kagi (Past Day)",
     "d": "kagi.com",
     "t": "recent",
     "ts": [
@@ -703,19 +703,19 @@
     "u": "/search?q={{{s}}}&dr=1"
   },
   {
-    "s": "Kagi (past week)",
+    "s": "Kagi (Past Week)",
     "d": "kagi.com",
     "t": "week",
     "u": "/search?q={{{s}}}&dr=2"
   },
   {
-    "s": "Kagi (past month)",
+    "s": "Kagi (Past Month)",
     "d": "kagi.com",
     "t": "month",
     "u": "/search?q={{{s}}}&dr=3"
   },
   {
-    "s": "Kagi (past year)",
+    "s": "Kagi (Past Year)",
     "d": "kagi.com",
     "t": "year",
     "u": "/search?q={{{s}}}&dr=4"
@@ -730,7 +730,7 @@
     "u": "/search?q=calc+{{{s}}}"
   },
   {
-    "s": "Kagi (timer)",
+    "s": "Kagi (Timer)",
     "d": "kagi.com",
     "t": "tim",
     "ts": [
@@ -739,13 +739,13 @@
     "u": "/search?q=timer+{{{s}}}"
   },
   {
-    "s": "Region search",
+    "s": "Kagi Search (Region)",
     "d": "kagi.com",
     "t": "reg",
     "u": "/search?q={{{s}}}&r=detected"
   },
   {
-    "s": "PDFs",
+    "s": "Kagi (PDFs)",
     "d": "kagi.com",
     "t": "pdf",
     "u": "/search?q={{{s}}}+filetype:pdf",
@@ -753,7 +753,7 @@
     "sc": "Search"
   },
   {
-    "s": "News in International",
+    "s": "Kagi News (International)",
     "d": "kagi.com",
     "t": "knint",
     "u": "/news?q={{{s}}}&r=no_region",
@@ -762,7 +762,7 @@
     ]
   },
   {
-    "s": "News in Albania (AL)",
+    "s": "Kagi News (Albania)",
     "d": "kagi.com",
     "t": "knal",
     "u": "/news?q={{{s}}}&r=al",
@@ -771,7 +771,7 @@
     ]
   },
   {
-    "s": "News in Afghanistan (AF)",
+    "s": "Kagi News (Afghanistan)",
     "d": "kagi.com",
     "t": "knaf",
     "u": "/news?q={{{s}}}&r=af",
@@ -780,7 +780,7 @@
     ]
   },
   {
-    "s": "News in Algeria (DZ)",
+    "s": "Kagi News (Algeria)",
     "d": "kagi.com",
     "t": "kndz",
     "u": "/news?q={{{s}}}&r=dz",
@@ -789,7 +789,7 @@
     ]
   },
   {
-    "s": "News in American Samoa (AS)",
+    "s": "Kagi News (American Samoa)",
     "d": "kagi.com",
     "t": "knas",
     "u": "/news?q={{{s}}}&r=as",
@@ -798,7 +798,7 @@
     ]
   },
   {
-    "s": "News in Andorra (AD)",
+    "s": "Kagi News (Andorra)",
     "d": "kagi.com",
     "t": "knad",
     "u": "/news?q={{{s}}}&r=ad",
@@ -807,7 +807,7 @@
     ]
   },
   {
-    "s": "News in Angola (AO)",
+    "s": "Kagi News (Angola)",
     "d": "kagi.com",
     "t": "knao",
     "u": "/news?q={{{s}}}&r=ao",
@@ -816,7 +816,7 @@
     ]
   },
   {
-    "s": "News in Anguilla (AI)",
+    "s": "Kagi News (Anguilla)",
     "d": "kagi.com",
     "t": "knai",
     "u": "/news?q={{{s}}}&r=ai",
@@ -825,7 +825,7 @@
     ]
   },
   {
-    "s": "News in Antarctica (AQ)",
+    "s": "Kagi News (Antarctica)",
     "d": "kagi.com",
     "t": "knaq",
     "u": "/news?q={{{s}}}&r=aq",
@@ -834,7 +834,7 @@
     ]
   },
   {
-    "s": "News in Antigua and Barbuda (AG)",
+    "s": "Kagi News (Antigua and Barbuda)",
     "d": "kagi.com",
     "t": "knag",
     "u": "/news?q={{{s}}}&r=ag",
@@ -843,7 +843,7 @@
     ]
   },
   {
-    "s": "News in Argentina (AR)",
+    "s": "Kagi News (Argentina)",
     "d": "kagi.com",
     "t": "knar",
     "u": "/news?q={{{s}}}&r=ar",
@@ -852,7 +852,7 @@
     ]
   },
   {
-    "s": "News in Armenia (AM)",
+    "s": "Kagi News (Armenia)",
     "d": "kagi.com",
     "t": "knam",
     "u": "/news?q={{{s}}}&r=am",
@@ -861,7 +861,7 @@
     ]
   },
   {
-    "s": "News in Aruba (AW)",
+    "s": "Kagi News (Aruba)",
     "d": "kagi.com",
     "t": "knaw",
     "u": "/news?q={{{s}}}&r=aw",
@@ -870,7 +870,7 @@
     ]
   },
   {
-    "s": "News in Ascension Island (AC)",
+    "s": "Kagi News (Ascension Island)",
     "d": "kagi.com",
     "t": "knac",
     "u": "/news?q={{{s}}}&r=ac",
@@ -879,7 +879,7 @@
     ]
   },
   {
-    "s": "News in Australia (AU)",
+    "s": "Kagi News (Australia)",
     "d": "kagi.com",
     "t": "knau",
     "u": "/news?q={{{s}}}&r=au",
@@ -888,7 +888,7 @@
     ]
   },
   {
-    "s": "News in Austria (AT)",
+    "s": "Kagi News (Austria)",
     "d": "kagi.com",
     "t": "knat",
     "u": "/news?q={{{s}}}&r=at",
@@ -897,7 +897,7 @@
     ]
   },
   {
-    "s": "News in Azerbaijan (AZ)",
+    "s": "Kagi News (Azerbaijan)",
     "d": "kagi.com",
     "t": "knaz",
     "u": "/news?q={{{s}}}&r=az",
@@ -906,7 +906,7 @@
     ]
   },
   {
-    "s": "News in Bahamas (BS)",
+    "s": "Kagi News (Bahamas)",
     "d": "kagi.com",
     "t": "knbs",
     "u": "/news?q={{{s}}}&r=bs",
@@ -915,7 +915,7 @@
     ]
   },
   {
-    "s": "News in Bahrain (BH)",
+    "s": "Kagi News (Bahrain)",
     "d": "kagi.com",
     "t": "knbh",
     "u": "/news?q={{{s}}}&r=bh",
@@ -924,7 +924,7 @@
     ]
   },
   {
-    "s": "News in Bangladesh (BD)",
+    "s": "Kagi News (Bangladesh)",
     "d": "kagi.com",
     "t": "knbd",
     "u": "/news?q={{{s}}}&r=bd",
@@ -933,7 +933,7 @@
     ]
   },
   {
-    "s": "News in Barbados (BB)",
+    "s": "Kagi News (Barbados)",
     "d": "kagi.com",
     "t": "knbb",
     "u": "/news?q={{{s}}}&r=bb",
@@ -942,7 +942,7 @@
     ]
   },
   {
-    "s": "News in Belarus (BY)",
+    "s": "Kagi News (Belarus)",
     "d": "kagi.com",
     "t": "knby",
     "u": "/news?q={{{s}}}&r=by",
@@ -951,7 +951,7 @@
     ]
   },
   {
-    "s": "News in Belgium (BE - nl)",
+    "s": "Kagi News (Belgium, Dutch)",
     "d": "kagi.com",
     "t": "knbe",
     "u": "/news?q={{{s}}}&r=be",
@@ -960,7 +960,7 @@
     ]
   },
   {
-    "s": "News in Belgium (BE - fr)",
+    "s": "Kagi News (Belgium, French)",
     "d": "kagi.com",
     "t": "knbe_fr",
     "u": "/news?q={{{s}}}&r=be_fr",
@@ -969,7 +969,7 @@
     ]
   },
   {
-    "s": "News in Belize (BZ)",
+    "s": "Kagi News (Belize)",
     "d": "kagi.com",
     "t": "knbz",
     "u": "/news?q={{{s}}}&r=bz",
@@ -978,7 +978,7 @@
     ]
   },
   {
-    "s": "News in Benin (BJ)",
+    "s": "Kagi News (Benin)",
     "d": "kagi.com",
     "t": "knbj",
     "u": "/news?q={{{s}}}&r=bj",
@@ -987,7 +987,7 @@
     ]
   },
   {
-    "s": "News in Bermuda (BM)",
+    "s": "Kagi News (Bermuda)",
     "d": "kagi.com",
     "t": "knbm",
     "u": "/news?q={{{s}}}&r=bm",
@@ -996,7 +996,7 @@
     ]
   },
   {
-    "s": "News in Bhutan (BT)",
+    "s": "Kagi News (Bhutan)",
     "d": "kagi.com",
     "t": "knbt",
     "u": "/news?q={{{s}}}&r=bt",
@@ -1005,7 +1005,7 @@
     ]
   },
   {
-    "s": "News in Bolivia (BO)",
+    "s": "Kagi News (Bolivia)",
     "d": "kagi.com",
     "t": "knbo",
     "u": "/news?q={{{s}}}&r=bo",
@@ -1014,7 +1014,7 @@
     ]
   },
   {
-    "s": "News in Bonaire, Sint Eustatius and Saba (BQ)",
+    "s": "Kagi News (Bonaire, Sint Eustatius and Saba)",
     "d": "kagi.com",
     "t": "knbq",
     "u": "/news?q={{{s}}}&r=bq",
@@ -1023,7 +1023,7 @@
     ]
   },
   {
-    "s": "News in Bosnia and Herzegovina (BA)",
+    "s": "Kagi News (Bosnia and Herzegovina)",
     "d": "kagi.com",
     "t": "knba",
     "u": "/news?q={{{s}}}&r=ba",
@@ -1032,7 +1032,7 @@
     ]
   },
   {
-    "s": "News in Botswana (BW)",
+    "s": "Kagi News (Botswana)",
     "d": "kagi.com",
     "t": "knbw",
     "u": "/news?q={{{s}}}&r=bw",
@@ -1041,7 +1041,7 @@
     ]
   },
   {
-    "s": "News in Bouvet Island (BV)",
+    "s": "Kagi News (Bouvet Island)",
     "d": "kagi.com",
     "t": "knbv",
     "u": "/news?q={{{s}}}&r=bv",
@@ -1050,7 +1050,7 @@
     ]
   },
   {
-    "s": "News in Brazil (BR)",
+    "s": "Kagi News (Brazil)",
     "d": "kagi.com",
     "t": "knbr",
     "u": "/news?q={{{s}}}&r=br",
@@ -1059,7 +1059,7 @@
     ]
   },
   {
-    "s": "News in British Indian Ocean Territory (IO)",
+    "s": "Kagi News (British Indian Ocean Territory)",
     "d": "kagi.com",
     "t": "knio",
     "u": "/news?q={{{s}}}&r=io",
@@ -1068,7 +1068,7 @@
     ]
   },
   {
-    "s": "News in British Virgin Islands (VG)",
+    "s": "Kagi News (British Virgin Islands)",
     "d": "kagi.com",
     "t": "knvg",
     "u": "/news?q={{{s}}}&r=vg",
@@ -1077,7 +1077,7 @@
     ]
   },
   {
-    "s": "News in Brunei (BN)",
+    "s": "Kagi News (Brunei)",
     "d": "kagi.com",
     "t": "knbn",
     "u": "/news?q={{{s}}}&r=bn",
@@ -1086,7 +1086,7 @@
     ]
   },
   {
-    "s": "News in Bulgaria (BG)",
+    "s": "Kagi News (Bulgaria)",
     "d": "kagi.com",
     "t": "knbg",
     "u": "/news?q={{{s}}}&r=bg",
@@ -1095,7 +1095,7 @@
     ]
   },
   {
-    "s": "News in Burkina Faso (BF)",
+    "s": "Kagi News (Burkina Faso)",
     "d": "kagi.com",
     "t": "knbf",
     "u": "/news?q={{{s}}}&r=bf",
@@ -1104,7 +1104,7 @@
     ]
   },
   {
-    "s": "News in Burundi (BI)",
+    "s": "Kagi News (Burundi)",
     "d": "kagi.com",
     "t": "knbi",
     "u": "/news?q={{{s}}}&r=bi",
@@ -1113,7 +1113,7 @@
     ]
   },
   {
-    "s": "News in Cabo Verde (CV)",
+    "s": "Kagi News (Cabo Verde)",
     "d": "kagi.com",
     "t": "kncv",
     "u": "/news?q={{{s}}}&r=cv",
@@ -1122,7 +1122,7 @@
     ]
   },
   {
-    "s": "News in Cambodia (KH)",
+    "s": "Kagi News (Cambodia)",
     "d": "kagi.com",
     "t": "knkh",
     "u": "/news?q={{{s}}}&r=kh",
@@ -1131,7 +1131,7 @@
     ]
   },
   {
-    "s": "News in Cameroon (CM)",
+    "s": "Kagi News (Cameroon)",
     "d": "kagi.com",
     "t": "kncm",
     "u": "/news?q={{{s}}}&r=cm",
@@ -1140,7 +1140,7 @@
     ]
   },
   {
-    "s": "News in Canada (CA - en)",
+    "s": "Kagi News (Canada, English)",
     "d": "kagi.com",
     "t": "knca",
     "u": "/news?q={{{s}}}&r=ca",
@@ -1149,7 +1149,7 @@
     ]
   },
   {
-    "s": "News in Canada (CA - fr)",
+    "s": "Kagi News (Canada, French)",
     "d": "kagi.com",
     "t": "knca_fr",
     "u": "/news?q={{{s}}}&r=ca_fr",
@@ -1158,7 +1158,7 @@
     ]
   },
   {
-    "s": "News in Cayman Islands (KY)",
+    "s": "Kagi News (Cayman Islands)",
     "d": "kagi.com",
     "t": "knky",
     "u": "/news?q={{{s}}}&r=ky",
@@ -1167,7 +1167,7 @@
     ]
   },
   {
-    "s": "News in Central African Republic (CF)",
+    "s": "Kagi News (Central African Republic)",
     "d": "kagi.com",
     "t": "kncf",
     "u": "/news?q={{{s}}}&r=cf",
@@ -1176,7 +1176,7 @@
     ]
   },
   {
-    "s": "News in Chad (TD)",
+    "s": "Kagi News (Chad)",
     "d": "kagi.com",
     "t": "kntd",
     "u": "/news?q={{{s}}}&r=td",
@@ -1185,7 +1185,7 @@
     ]
   },
   {
-    "s": "News in Chile (CL)",
+    "s": "Kagi News (Chile)",
     "d": "kagi.com",
     "t": "kncl",
     "u": "/news?q={{{s}}}&r=cl",
@@ -1194,7 +1194,7 @@
     ]
   },
   {
-    "s": "News in China (CN)",
+    "s": "Kagi News (China)",
     "d": "kagi.com",
     "t": "kncn",
     "u": "/news?q={{{s}}}&r=cn",
@@ -1203,7 +1203,7 @@
     ]
   },
   {
-    "s": "News in Christmas Island (CX)",
+    "s": "Kagi News (Christmas Island)",
     "d": "kagi.com",
     "t": "kncx",
     "u": "/news?q={{{s}}}&r=cx",
@@ -1212,7 +1212,7 @@
     ]
   },
   {
-    "s": "News in Cocos (Keeling) Islands (CC)",
+    "s": "Kagi News (Cocos Keeling Islands)",
     "d": "kagi.com",
     "t": "kncc",
     "u": "/news?q={{{s}}}&r=cc",
@@ -1221,7 +1221,7 @@
     ]
   },
   {
-    "s": "News in Colombia (CO)",
+    "s": "Kagi News (Colombia)",
     "d": "kagi.com",
     "t": "knco",
     "u": "/news?q={{{s}}}&r=co",
@@ -1230,7 +1230,7 @@
     ]
   },
   {
-    "s": "News in Comoros (KM)",
+    "s": "Kagi News (Comoros)",
     "d": "kagi.com",
     "t": "knkm",
     "u": "/news?q={{{s}}}&r=km",
@@ -1239,7 +1239,7 @@
     ]
   },
   {
-    "s": "News in Congo (CG)",
+    "s": "Kagi News (Congo)",
     "d": "kagi.com",
     "t": "kncg",
     "u": "/news?q={{{s}}}&r=cg",
@@ -1248,7 +1248,7 @@
     ]
   },
   {
-    "s": "News in Congo, Democratic Republic of the (CD)",
+    "s": "Kagi News (Democratic Republic of the Congo)",
     "d": "kagi.com",
     "t": "kncd",
     "u": "/news?q={{{s}}}&r=cd",
@@ -1257,7 +1257,7 @@
     ]
   },
   {
-    "s": "News in Cook Islands (CK)",
+    "s": "Kagi News (Cook Islands)",
     "d": "kagi.com",
     "t": "knck",
     "u": "/news?q={{{s}}}&r=ck",
@@ -1266,7 +1266,7 @@
     ]
   },
   {
-    "s": "News in Costa Rica (CR)",
+    "s": "Kagi News (Costa Rica)",
     "d": "kagi.com",
     "t": "kncr",
     "u": "/news?q={{{s}}}&r=cr",
@@ -1275,7 +1275,7 @@
     ]
   },
   {
-    "s": "News in Croatia (HR)",
+    "s": "Kagi News (Croatia)",
     "d": "kagi.com",
     "t": "knhr",
     "u": "/news?q={{{s}}}&r=hr",
@@ -1284,7 +1284,7 @@
     ]
   },
   {
-    "s": "News in Cuba (CU)",
+    "s": "Kagi News (Cuba)",
     "d": "kagi.com",
     "t": "kncu",
     "u": "/news?q={{{s}}}&r=cu",
@@ -1293,7 +1293,7 @@
     ]
   },
   {
-    "s": "News in Curaçao (CW)",
+    "s": "Kagi News (Curacao)",
     "d": "kagi.com",
     "t": "kncw",
     "u": "/news?q={{{s}}}&r=cw",
@@ -1302,7 +1302,7 @@
     ]
   },
   {
-    "s": "News in Cyprus (CY)",
+    "s": "Kagi News (Cyprus)",
     "d": "kagi.com",
     "t": "kncy",
     "u": "/news?q={{{s}}}&r=cy",
@@ -1311,7 +1311,7 @@
     ]
   },
   {
-    "s": "News in Czechia (CZ)",
+    "s": "Kagi News (Czechia)",
     "d": "kagi.com",
     "t": "kncz",
     "u": "/news?q={{{s}}}&r=cz",
@@ -1320,7 +1320,7 @@
     ]
   },
   {
-    "s": "News in Côte d'Ivoire (CI)",
+    "s": "Kagi News (Cote d'Ivoire)",
     "d": "kagi.com",
     "t": "knci",
     "u": "/news?q={{{s}}}&r=ci",
@@ -1329,7 +1329,7 @@
     ]
   },
   {
-    "s": "News in Denmark (DK)",
+    "s": "Kagi News (Denmark)",
     "d": "kagi.com",
     "t": "kndk",
     "u": "/news?q={{{s}}}&r=dk",
@@ -1338,7 +1338,7 @@
     ]
   },
   {
-    "s": "News in Djibouti (DJ)",
+    "s": "Kagi News (Djibouti)",
     "d": "kagi.com",
     "t": "kndj",
     "u": "/news?q={{{s}}}&r=dj",
@@ -1347,7 +1347,7 @@
     ]
   },
   {
-    "s": "News in Dominica (DM)",
+    "s": "Kagi News (Dominica)",
     "d": "kagi.com",
     "t": "kndm",
     "u": "/news?q={{{s}}}&r=dm",
@@ -1356,7 +1356,7 @@
     ]
   },
   {
-    "s": "News in Dominican Republic (DO)",
+    "s": "Kagi News (Dominican Republic)",
     "d": "kagi.com",
     "t": "kndo",
     "u": "/news?q={{{s}}}&r=do",
@@ -1365,7 +1365,7 @@
     ]
   },
   {
-    "s": "News in Ecuador (EC)",
+    "s": "Kagi News (Ecuador)",
     "d": "kagi.com",
     "t": "knec",
     "u": "/news?q={{{s}}}&r=ec",
@@ -1374,7 +1374,7 @@
     ]
   },
   {
-    "s": "News in Egypt (EG)",
+    "s": "Kagi News (Egypt)",
     "d": "kagi.com",
     "t": "kneg",
     "u": "/news?q={{{s}}}&r=eg",
@@ -1383,7 +1383,7 @@
     ]
   },
   {
-    "s": "News in El Salvador (SV)",
+    "s": "Kagi News (El Salvador)",
     "d": "kagi.com",
     "t": "knsv",
     "u": "/news?q={{{s}}}&r=sv",
@@ -1392,7 +1392,7 @@
     ]
   },
   {
-    "s": "News in Equatorial Guinea (GQ)",
+    "s": "Kagi News (Equatorial Guinea)",
     "d": "kagi.com",
     "t": "kngq",
     "u": "/news?q={{{s}}}&r=gq",
@@ -1401,7 +1401,7 @@
     ]
   },
   {
-    "s": "News in Eritrea (ER)",
+    "s": "Kagi News (Eritrea)",
     "d": "kagi.com",
     "t": "kner",
     "u": "/news?q={{{s}}}&r=er",
@@ -1410,7 +1410,7 @@
     ]
   },
   {
-    "s": "News in Estonia (EE)",
+    "s": "Kagi News (Estonia)",
     "d": "kagi.com",
     "t": "knee",
     "u": "/news?q={{{s}}}&r=ee",
@@ -1419,7 +1419,7 @@
     ]
   },
   {
-    "s": "News in Eswatini (SZ)",
+    "s": "Kagi News (Eswatini)",
     "d": "kagi.com",
     "t": "knsz",
     "u": "/news?q={{{s}}}&r=sz",
@@ -1428,7 +1428,7 @@
     ]
   },
   {
-    "s": "News in Ethiopia (ET)",
+    "s": "Kagi News (Ethiopia)",
     "d": "kagi.com",
     "t": "knet",
     "u": "/news?q={{{s}}}&r=et",
@@ -1437,7 +1437,7 @@
     ]
   },
   {
-    "s": "News in Falkland Islands (FK)",
+    "s": "Kagi News (Falkland Islands)",
     "d": "kagi.com",
     "t": "knfk",
     "u": "/news?q={{{s}}}&r=fk",
@@ -1446,7 +1446,7 @@
     ]
   },
   {
-    "s": "News in Faroe Islands (FO)",
+    "s": "Kagi News (Faroe Islands)",
     "d": "kagi.com",
     "t": "knfo",
     "u": "/news?q={{{s}}}&r=fo",
@@ -1455,7 +1455,7 @@
     ]
   },
   {
-    "s": "News in Fiji (FJ)",
+    "s": "Kagi News (Fiji)",
     "d": "kagi.com",
     "t": "knfj",
     "u": "/news?q={{{s}}}&r=fj",
@@ -1464,7 +1464,7 @@
     ]
   },
   {
-    "s": "News in Finland (FI)",
+    "s": "Kagi News (Finland)",
     "d": "kagi.com",
     "t": "knfi",
     "u": "/news?q={{{s}}}&r=fi",
@@ -1473,7 +1473,7 @@
     ]
   },
   {
-    "s": "News in France (FR)",
+    "s": "Kagi News (France)",
     "d": "kagi.com",
     "t": "knfr",
     "u": "/news?q={{{s}}}&r=fr",
@@ -1482,7 +1482,7 @@
     ]
   },
   {
-    "s": "News in French Guiana (GF)",
+    "s": "Kagi News (French Guiana)",
     "d": "kagi.com",
     "t": "kngf",
     "u": "/news?q={{{s}}}&r=gf",
@@ -1491,7 +1491,7 @@
     ]
   },
   {
-    "s": "News in French Polynesia (PF)",
+    "s": "Kagi News (French Polynesia)",
     "d": "kagi.com",
     "t": "knpf",
     "u": "/news?q={{{s}}}&r=pf",
@@ -1500,7 +1500,7 @@
     ]
   },
   {
-    "s": "News in French Southern Territories (TF)",
+    "s": "Kagi News (French Southern Territories)",
     "d": "kagi.com",
     "t": "kntf",
     "u": "/news?q={{{s}}}&r=tf",
@@ -1509,7 +1509,7 @@
     ]
   },
   {
-    "s": "News in Gabon (GA)",
+    "s": "Kagi News (Gabon)",
     "d": "kagi.com",
     "t": "knga",
     "u": "/news?q={{{s}}}&r=ga",
@@ -1518,7 +1518,7 @@
     ]
   },
   {
-    "s": "News in Gambia (GM)",
+    "s": "Kagi News (Gambia)",
     "d": "kagi.com",
     "t": "kngm",
     "u": "/news?q={{{s}}}&r=gm",
@@ -1527,7 +1527,7 @@
     ]
   },
   {
-    "s": "News in Georgia (GE)",
+    "s": "Kagi News (Georgia)",
     "d": "kagi.com",
     "t": "knge",
     "u": "/news?q={{{s}}}&r=ge",
@@ -1536,7 +1536,7 @@
     ]
   },
   {
-    "s": "News in Germany (DE)",
+    "s": "Kagi News (Germany)",
     "d": "kagi.com",
     "t": "knde",
     "u": "/news?q={{{s}}}&r=de",
@@ -1545,7 +1545,7 @@
     ]
   },
   {
-    "s": "News in Ghana (GH)",
+    "s": "Kagi News (Ghana)",
     "d": "kagi.com",
     "t": "kngh",
     "u": "/news?q={{{s}}}&r=gh",
@@ -1554,7 +1554,7 @@
     ]
   },
   {
-    "s": "News in Gibraltar (GI)",
+    "s": "Kagi News (Gibraltar)",
     "d": "kagi.com",
     "t": "kngi",
     "u": "/news?q={{{s}}}&r=gi",
@@ -1563,7 +1563,7 @@
     ]
   },
   {
-    "s": "News in Greece (GR)",
+    "s": "Kagi News (Greece)",
     "d": "kagi.com",
     "t": "kngr",
     "u": "/news?q={{{s}}}&r=gr",
@@ -1572,7 +1572,7 @@
     ]
   },
   {
-    "s": "News in Greenland (GL)",
+    "s": "Kagi News (Greenland)",
     "d": "kagi.com",
     "t": "kngl",
     "u": "/news?q={{{s}}}&r=gl",
@@ -1581,7 +1581,7 @@
     ]
   },
   {
-    "s": "News in Grenada (GD)",
+    "s": "Kagi News (Grenada)",
     "d": "kagi.com",
     "t": "kngd",
     "u": "/news?q={{{s}}}&r=gd",
@@ -1590,7 +1590,7 @@
     ]
   },
   {
-    "s": "News in Guadeloupe (GP)",
+    "s": "Kagi News (Guadeloupe)",
     "d": "kagi.com",
     "t": "kngp",
     "u": "/news?q={{{s}}}&r=gp",
@@ -1599,7 +1599,7 @@
     ]
   },
   {
-    "s": "News in Guam (GU)",
+    "s": "Kagi News (Guam)",
     "d": "kagi.com",
     "t": "kngu",
     "u": "/news?q={{{s}}}&r=gu",
@@ -1608,7 +1608,7 @@
     ]
   },
   {
-    "s": "News in Guatemala (GT)",
+    "s": "Kagi News (Guatemala)",
     "d": "kagi.com",
     "t": "kngt",
     "u": "/news?q={{{s}}}&r=gt",
@@ -1617,7 +1617,7 @@
     ]
   },
   {
-    "s": "News in Guernsey (GG)",
+    "s": "Kagi News (Guernsey)",
     "d": "kagi.com",
     "t": "kngg",
     "u": "/news?q={{{s}}}&r=gg",
@@ -1626,7 +1626,7 @@
     ]
   },
   {
-    "s": "News in Guinea (GN)",
+    "s": "Kagi News (Guinea)",
     "d": "kagi.com",
     "t": "kngn",
     "u": "/news?q={{{s}}}&r=gn",
@@ -1635,7 +1635,7 @@
     ]
   },
   {
-    "s": "News in Guinea-Bissau (GW)",
+    "s": "Kagi News (Guinea-Bissau)",
     "d": "kagi.com",
     "t": "kngw",
     "u": "/news?q={{{s}}}&r=gw",
@@ -1644,7 +1644,7 @@
     ]
   },
   {
-    "s": "News in Guyana (GY)",
+    "s": "Kagi News (Guyana)",
     "d": "kagi.com",
     "t": "kngy",
     "u": "/news?q={{{s}}}&r=gy",
@@ -1653,7 +1653,7 @@
     ]
   },
   {
-    "s": "News in Haiti (HT)",
+    "s": "Kagi News (Haiti)",
     "d": "kagi.com",
     "t": "knht",
     "u": "/news?q={{{s}}}&r=ht",
@@ -1662,7 +1662,7 @@
     ]
   },
   {
-    "s": "News in Heard Island and McDonald Islands (HM)",
+    "s": "Kagi News (Heard Island and McDonald Islands)",
     "d": "kagi.com",
     "t": "knhm",
     "u": "/news?q={{{s}}}&r=hm",
@@ -1671,7 +1671,7 @@
     ]
   },
   {
-    "s": "News in Honduras (HN)",
+    "s": "Kagi News (Honduras)",
     "d": "kagi.com",
     "t": "knhn",
     "u": "/news?q={{{s}}}&r=hn",
@@ -1680,7 +1680,7 @@
     ]
   },
   {
-    "s": "News in Hong Kong (HK)",
+    "s": "Kagi News (Hong Kong)",
     "d": "kagi.com",
     "t": "knhk",
     "u": "/news?q={{{s}}}&r=hk",
@@ -1689,7 +1689,7 @@
     ]
   },
   {
-    "s": "News in Hungary (HU)",
+    "s": "Kagi News (Hungary)",
     "d": "kagi.com",
     "t": "knhu",
     "u": "/news?q={{{s}}}&r=hu",
@@ -1698,7 +1698,7 @@
     ]
   },
   {
-    "s": "News in Iceland (IS)",
+    "s": "Kagi News (Iceland)",
     "d": "kagi.com",
     "t": "knis",
     "u": "/news?q={{{s}}}&r=is",
@@ -1707,7 +1707,7 @@
     ]
   },
   {
-    "s": "News in India (IN)",
+    "s": "Kagi News (India)",
     "d": "kagi.com",
     "t": "knin",
     "u": "/news?q={{{s}}}&r=in",
@@ -1716,7 +1716,7 @@
     ]
   },
   {
-    "s": "News in Indonesia (ID)",
+    "s": "Kagi News (Indonesia)",
     "d": "kagi.com",
     "t": "knid",
     "u": "/news?q={{{s}}}&r=id",
@@ -1725,7 +1725,7 @@
     ]
   },
   {
-    "s": "News in Iran (IR)",
+    "s": "Kagi News (Iran)",
     "d": "kagi.com",
     "t": "knir",
     "u": "/news?q={{{s}}}&r=ir",
@@ -1734,7 +1734,7 @@
     ]
   },
   {
-    "s": "News in Iraq (IQ)",
+    "s": "Kagi News (Iraq)",
     "d": "kagi.com",
     "t": "kniq",
     "u": "/news?q={{{s}}}&r=iq",
@@ -1743,7 +1743,7 @@
     ]
   },
   {
-    "s": "News in Ireland (IE)",
+    "s": "Kagi News (Ireland)",
     "d": "kagi.com",
     "t": "knie",
     "u": "/news?q={{{s}}}&r=ie",
@@ -1752,7 +1752,7 @@
     ]
   },
   {
-    "s": "News in Isle of Man (IM)",
+    "s": "Kagi News (Isle of Man)",
     "d": "kagi.com",
     "t": "knim",
     "u": "/news?q={{{s}}}&r=im",
@@ -1761,7 +1761,7 @@
     ]
   },
   {
-    "s": "News in Israel (IL)",
+    "s": "Kagi News (Israel)",
     "d": "kagi.com",
     "t": "knil",
     "u": "/news?q={{{s}}}&r=il",
@@ -1770,7 +1770,7 @@
     ]
   },
   {
-    "s": "News in Italy (IT)",
+    "s": "Kagi News (Italy)",
     "d": "kagi.com",
     "t": "knit",
     "u": "/news?q={{{s}}}&r=it",
@@ -1779,7 +1779,7 @@
     ]
   },
   {
-    "s": "News in Jamaica (JM)",
+    "s": "Kagi News (Jamaica)",
     "d": "kagi.com",
     "t": "knjm",
     "u": "/news?q={{{s}}}&r=jm",
@@ -1788,7 +1788,7 @@
     ]
   },
   {
-    "s": "News in Japan (JP)",
+    "s": "Kagi News (Japan)",
     "d": "kagi.com",
     "t": "knjp",
     "u": "/news?q={{{s}}}&r=jp",
@@ -1797,7 +1797,7 @@
     ]
   },
   {
-    "s": "News in Jersey (JE)",
+    "s": "Kagi News (Jersey)",
     "d": "kagi.com",
     "t": "knje",
     "u": "/news?q={{{s}}}&r=je",
@@ -1806,7 +1806,7 @@
     ]
   },
   {
-    "s": "News in Jordan (JO)",
+    "s": "Kagi News (Jordan)",
     "d": "kagi.com",
     "t": "knjo",
     "u": "/news?q={{{s}}}&r=jo",
@@ -1815,7 +1815,7 @@
     ]
   },
   {
-    "s": "News in Kazakhstan (KZ)",
+    "s": "Kagi News (Kazakhstan)",
     "d": "kagi.com",
     "t": "knkz",
     "u": "/news?q={{{s}}}&r=kz",
@@ -1824,7 +1824,7 @@
     ]
   },
   {
-    "s": "News in Kenya (KE)",
+    "s": "Kagi News (Kenya)",
     "d": "kagi.com",
     "t": "knke",
     "u": "/news?q={{{s}}}&r=ke",
@@ -1833,7 +1833,7 @@
     ]
   },
   {
-    "s": "News in Kiribati (KI)",
+    "s": "Kagi News (Kiribati)",
     "d": "kagi.com",
     "t": "knki",
     "u": "/news?q={{{s}}}&r=ki",
@@ -1842,7 +1842,7 @@
     ]
   },
   {
-    "s": "News in Kosovo (XK)",
+    "s": "Kagi News (Kosovo)",
     "d": "kagi.com",
     "t": "knxk",
     "u": "/news?q={{{s}}}&r=xk",
@@ -1851,7 +1851,7 @@
     ]
   },
   {
-    "s": "News in Kuwait (KW)",
+    "s": "Kagi News (Kuwait)",
     "d": "kagi.com",
     "t": "knkw",
     "u": "/news?q={{{s}}}&r=kw",
@@ -1860,7 +1860,7 @@
     ]
   },
   {
-    "s": "News in Kyrgyzstan (KG)",
+    "s": "Kagi News (Kyrgyzstan)",
     "d": "kagi.com",
     "t": "knkg",
     "u": "/news?q={{{s}}}&r=kg",
@@ -1869,7 +1869,7 @@
     ]
   },
   {
-    "s": "News in Laos (LA)",
+    "s": "Kagi News (Laos)",
     "d": "kagi.com",
     "t": "knla",
     "u": "/news?q={{{s}}}&r=la",
@@ -1878,7 +1878,7 @@
     ]
   },
   {
-    "s": "News in Latvia (LV)",
+    "s": "Kagi News (Latvia)",
     "d": "kagi.com",
     "t": "knlv",
     "u": "/news?q={{{s}}}&r=lv",
@@ -1887,7 +1887,7 @@
     ]
   },
   {
-    "s": "News in Lebanon (LB)",
+    "s": "Kagi News (Lebanon)",
     "d": "kagi.com",
     "t": "knlb",
     "u": "/news?q={{{s}}}&r=lb",
@@ -1896,7 +1896,7 @@
     ]
   },
   {
-    "s": "News in Lesotho (LS)",
+    "s": "Kagi News (Lesotho)",
     "d": "kagi.com",
     "t": "knls",
     "u": "/news?q={{{s}}}&r=ls",
@@ -1905,7 +1905,7 @@
     ]
   },
   {
-    "s": "News in Liberia (LR)",
+    "s": "Kagi News (Liberia)",
     "d": "kagi.com",
     "t": "knlr",
     "u": "/news?q={{{s}}}&r=lr",
@@ -1914,7 +1914,7 @@
     ]
   },
   {
-    "s": "News in Libya (LY)",
+    "s": "Kagi News (Libya)",
     "d": "kagi.com",
     "t": "knly",
     "u": "/news?q={{{s}}}&r=ly",
@@ -1923,7 +1923,7 @@
     ]
   },
   {
-    "s": "News in Liechtenstein (LI)",
+    "s": "Kagi News (Liechtenstein)",
     "d": "kagi.com",
     "t": "knli",
     "u": "/news?q={{{s}}}&r=li",
@@ -1932,7 +1932,7 @@
     ]
   },
   {
-    "s": "News in Lithuania (LT)",
+    "s": "Kagi News (Lithuania)",
     "d": "kagi.com",
     "t": "knlt",
     "u": "/news?q={{{s}}}&r=lt",
@@ -1941,7 +1941,7 @@
     ]
   },
   {
-    "s": "News in Luxembourg (LU)",
+    "s": "Kagi News (Luxembourg)",
     "d": "kagi.com",
     "t": "knlu",
     "u": "/news?q={{{s}}}&r=lu",
@@ -1950,7 +1950,7 @@
     ]
   },
   {
-    "s": "News in Macao (MO)",
+    "s": "Kagi News (Macau)",
     "d": "kagi.com",
     "t": "knmo",
     "u": "/news?q={{{s}}}&r=mo",
@@ -1959,7 +1959,7 @@
     ]
   },
   {
-    "s": "News in Madagascar (MG)",
+    "s": "Kagi News (Madagascar)",
     "d": "kagi.com",
     "t": "knmg",
     "u": "/news?q={{{s}}}&r=mg",
@@ -1968,7 +1968,7 @@
     ]
   },
   {
-    "s": "News in Malawi (MW)",
+    "s": "Kagi News (Malawi)",
     "d": "kagi.com",
     "t": "knmw",
     "u": "/news?q={{{s}}}&r=mw",
@@ -1977,7 +1977,7 @@
     ]
   },
   {
-    "s": "News in Malaysia (MY)",
+    "s": "Kagi News (Malaysia)",
     "d": "kagi.com",
     "t": "knmy",
     "u": "/news?q={{{s}}}&r=my",
@@ -1986,7 +1986,7 @@
     ]
   },
   {
-    "s": "News in Maldives (MV)",
+    "s": "Kagi News (Maldives)",
     "d": "kagi.com",
     "t": "knmv",
     "u": "/news?q={{{s}}}&r=mv",
@@ -1995,7 +1995,7 @@
     ]
   },
   {
-    "s": "News in Mali (ML)",
+    "s": "Kagi News (Mali)",
     "d": "kagi.com",
     "t": "knml",
     "u": "/news?q={{{s}}}&r=ml",
@@ -2004,7 +2004,7 @@
     ]
   },
   {
-    "s": "News in Malta (MT)",
+    "s": "Kagi News (Malta)",
     "d": "kagi.com",
     "t": "knmt",
     "u": "/news?q={{{s}}}&r=mt",
@@ -2013,7 +2013,7 @@
     ]
   },
   {
-    "s": "News in Marshall Islands (MH)",
+    "s": "Kagi News (Marshall Islands)",
     "d": "kagi.com",
     "t": "knmh",
     "u": "/news?q={{{s}}}&r=mh",
@@ -2022,7 +2022,7 @@
     ]
   },
   {
-    "s": "News in Martinique (MQ)",
+    "s": "Kagi News (Martinique)",
     "d": "kagi.com",
     "t": "knmq",
     "u": "/news?q={{{s}}}&r=mq",
@@ -2031,7 +2031,7 @@
     ]
   },
   {
-    "s": "News in Mauritania (MR)",
+    "s": "Kagi News (Mauritania)",
     "d": "kagi.com",
     "t": "knmr",
     "u": "/news?q={{{s}}}&r=mr",
@@ -2040,7 +2040,7 @@
     ]
   },
   {
-    "s": "News in Mauritius (MU)",
+    "s": "Kagi News (Mauritius)",
     "d": "kagi.com",
     "t": "knmu",
     "u": "/news?q={{{s}}}&r=mu",
@@ -2049,7 +2049,7 @@
     ]
   },
   {
-    "s": "News in Mayotte (YT)",
+    "s": "Kagi News (Mayotte)",
     "d": "kagi.com",
     "t": "knyt",
     "u": "/news?q={{{s}}}&r=yt",
@@ -2058,7 +2058,7 @@
     ]
   },
   {
-    "s": "News in Mexico (MX)",
+    "s": "Kagi News (Mexico)",
     "d": "kagi.com",
     "t": "knmx",
     "u": "/news?q={{{s}}}&r=mx",
@@ -2067,7 +2067,7 @@
     ]
   },
   {
-    "s": "News in Micronesia (Federated States of) (FM)",
+    "s": "Kagi News (Micronesia)",
     "d": "kagi.com",
     "t": "knfm",
     "u": "/news?q={{{s}}}&r=fm",
@@ -2076,7 +2076,7 @@
     ]
   },
   {
-    "s": "News in Moldova (MD)",
+    "s": "Kagi News (Moldova)",
     "d": "kagi.com",
     "t": "knmd",
     "u": "/news?q={{{s}}}&r=md",
@@ -2085,7 +2085,7 @@
     ]
   },
   {
-    "s": "News in Monaco (MC)",
+    "s": "Kagi News (Monaco)",
     "d": "kagi.com",
     "t": "knmc",
     "u": "/news?q={{{s}}}&r=mc",
@@ -2094,7 +2094,7 @@
     ]
   },
   {
-    "s": "News in Mongolia (MN)",
+    "s": "Kagi News (Mongolia)",
     "d": "kagi.com",
     "t": "knmn",
     "u": "/news?q={{{s}}}&r=mn",
@@ -2103,7 +2103,7 @@
     ]
   },
   {
-    "s": "News in Montenegro (ME)",
+    "s": "Kagi News (Montenegro)",
     "d": "kagi.com",
     "t": "knme",
     "u": "/news?q={{{s}}}&r=me",
@@ -2112,7 +2112,7 @@
     ]
   },
   {
-    "s": "News in Montserrat (MS)",
+    "s": "Kagi News (Montserrat)",
     "d": "kagi.com",
     "t": "knms",
     "u": "/news?q={{{s}}}&r=ms",
@@ -2121,7 +2121,7 @@
     ]
   },
   {
-    "s": "News in Morocco (MA)",
+    "s": "Kagi News (Morocco)",
     "d": "kagi.com",
     "t": "knma",
     "u": "/news?q={{{s}}}&r=ma",
@@ -2130,7 +2130,7 @@
     ]
   },
   {
-    "s": "News in Mozambique (MZ)",
+    "s": "Kagi News (Mozambique)",
     "d": "kagi.com",
     "t": "knmz",
     "u": "/news?q={{{s}}}&r=mz",
@@ -2139,7 +2139,7 @@
     ]
   },
   {
-    "s": "News in Myanmar (MM)",
+    "s": "Kagi News (Myanmar)",
     "d": "kagi.com",
     "t": "knmm",
     "u": "/news?q={{{s}}}&r=mm",
@@ -2148,7 +2148,7 @@
     ]
   },
   {
-    "s": "News in Namibia (NA)",
+    "s": "Kagi News (Namibia)",
     "d": "kagi.com",
     "t": "knna",
     "u": "/news?q={{{s}}}&r=na",
@@ -2157,7 +2157,7 @@
     ]
   },
   {
-    "s": "News in Nauru (NR)",
+    "s": "Kagi News (Nauru)",
     "d": "kagi.com",
     "t": "knnr",
     "u": "/news?q={{{s}}}&r=nr",
@@ -2166,7 +2166,7 @@
     ]
   },
   {
-    "s": "News in Nepal (NP)",
+    "s": "Kagi News (Nepal)",
     "d": "kagi.com",
     "t": "knnp",
     "u": "/news?q={{{s}}}&r=np",
@@ -2175,7 +2175,7 @@
     ]
   },
   {
-    "s": "News in Netherlands (NL)",
+    "s": "Kagi News (Netherlands)",
     "d": "kagi.com",
     "t": "knnl",
     "u": "/news?q={{{s}}}&r=nl",
@@ -2184,7 +2184,7 @@
     ]
   },
   {
-    "s": "News in New Caledonia (NC)",
+    "s": "Kagi News (New Caledonia)",
     "d": "kagi.com",
     "t": "knnc",
     "u": "/news?q={{{s}}}&r=nc",
@@ -2193,7 +2193,7 @@
     ]
   },
   {
-    "s": "News in New Zealand (NZ)",
+    "s": "Kagi News (New Zealand)",
     "d": "kagi.com",
     "t": "knnz",
     "u": "/news?q={{{s}}}&r=nz",
@@ -2202,7 +2202,7 @@
     ]
   },
   {
-    "s": "News in Nicaragua (NI)",
+    "s": "Kagi News (Nicaragua)",
     "d": "kagi.com",
     "t": "knni",
     "u": "/news?q={{{s}}}&r=ni",
@@ -2211,7 +2211,7 @@
     ]
   },
   {
-    "s": "News in Niger (NE)",
+    "s": "Kagi News (Niger)",
     "d": "kagi.com",
     "t": "knne",
     "u": "/news?q={{{s}}}&r=ne",
@@ -2220,7 +2220,7 @@
     ]
   },
   {
-    "s": "News in Nigeria (NG)",
+    "s": "Kagi News (Nigeria)",
     "d": "kagi.com",
     "t": "knng",
     "u": "/news?q={{{s}}}&r=ng",
@@ -2229,7 +2229,7 @@
     ]
   },
   {
-    "s": "News in Niue (NU)",
+    "s": "Kagi News (Niue)",
     "d": "kagi.com",
     "t": "knnu",
     "u": "/news?q={{{s}}}&r=nu",
@@ -2238,7 +2238,7 @@
     ]
   },
   {
-    "s": "News in Norfolk Island (NF)",
+    "s": "Kagi News (Norfolk Island)",
     "d": "kagi.com",
     "t": "knnf",
     "u": "/news?q={{{s}}}&r=nf",
@@ -2247,7 +2247,7 @@
     ]
   },
   {
-    "s": "News in North Korea (KP)",
+    "s": "Kagi News (North Korea)",
     "d": "kagi.com",
     "t": "knkp",
     "u": "/news?q={{{s}}}&r=kp",
@@ -2256,7 +2256,7 @@
     ]
   },
   {
-    "s": "News in North Macedonia (MK)",
+    "s": "Kagi News (North Macedonia)",
     "d": "kagi.com",
     "t": "knmk",
     "u": "/news?q={{{s}}}&r=mk",
@@ -2265,7 +2265,7 @@
     ]
   },
   {
-    "s": "News in Northern Mariana Islands (MP)",
+    "s": "Kagi News (Northern Mariana Islands)",
     "d": "kagi.com",
     "t": "knmp",
     "u": "/news?q={{{s}}}&r=mp",
@@ -2274,7 +2274,7 @@
     ]
   },
   {
-    "s": "News in Norway (NO)",
+    "s": "Kagi News (Norway)",
     "d": "kagi.com",
     "t": "knno",
     "u": "/news?q={{{s}}}&r=no",
@@ -2283,7 +2283,7 @@
     ]
   },
   {
-    "s": "News in Oman (OM)",
+    "s": "Kagi News (Oman)",
     "d": "kagi.com",
     "t": "knom",
     "u": "/news?q={{{s}}}&r=om",
@@ -2292,7 +2292,7 @@
     ]
   },
   {
-    "s": "News in Pakistan (PK)",
+    "s": "Kagi News (Pakistan)",
     "d": "kagi.com",
     "t": "knpk",
     "u": "/news?q={{{s}}}&r=pk",
@@ -2301,7 +2301,7 @@
     ]
   },
   {
-    "s": "News in Palau (PW)",
+    "s": "Kagi News (Palau)",
     "d": "kagi.com",
     "t": "knpw",
     "u": "/news?q={{{s}}}&r=pw",
@@ -2310,7 +2310,7 @@
     ]
   },
   {
-    "s": "News in Palestine (PS)",
+    "s": "Kagi News (Palestine)",
     "d": "kagi.com",
     "t": "knps",
     "u": "/news?q={{{s}}}&r=ps",
@@ -2319,7 +2319,7 @@
     ]
   },
   {
-    "s": "News in Panama (PA)",
+    "s": "Kagi News (Panama)",
     "d": "kagi.com",
     "t": "knpa",
     "u": "/news?q={{{s}}}&r=pa",
@@ -2328,7 +2328,7 @@
     ]
   },
   {
-    "s": "News in Papua New Guinea (PG)",
+    "s": "Kagi News (Papua New Guinea)",
     "d": "kagi.com",
     "t": "knpg",
     "u": "/news?q={{{s}}}&r=pg",
@@ -2337,7 +2337,7 @@
     ]
   },
   {
-    "s": "News in Paraguay (PY)",
+    "s": "Kagi News (Paraguay)",
     "d": "kagi.com",
     "t": "knpy",
     "u": "/news?q={{{s}}}&r=py",
@@ -2346,7 +2346,7 @@
     ]
   },
   {
-    "s": "News in Peru (PE)",
+    "s": "Kagi News (Peru)",
     "d": "kagi.com",
     "t": "knpe",
     "u": "/news?q={{{s}}}&r=pe",
@@ -2355,7 +2355,7 @@
     ]
   },
   {
-    "s": "News in Philippines (PH)",
+    "s": "Kagi News (Philippines)",
     "d": "kagi.com",
     "t": "knph",
     "u": "/news?q={{{s}}}&r=ph",
@@ -2364,7 +2364,7 @@
     ]
   },
   {
-    "s": "News in Pitcairn (PN)",
+    "s": "Kagi News (Pitcairn)",
     "d": "kagi.com",
     "t": "knpn",
     "u": "/news?q={{{s}}}&r=pn",
@@ -2373,7 +2373,7 @@
     ]
   },
   {
-    "s": "News in Poland (PL)",
+    "s": "Kagi News (Poland)",
     "d": "kagi.com",
     "t": "knpl",
     "u": "/news?q={{{s}}}&r=pl",
@@ -2382,7 +2382,7 @@
     ]
   },
   {
-    "s": "News in Portugal (PT)",
+    "s": "Kagi News (Portugal)",
     "d": "kagi.com",
     "t": "knpt",
     "u": "/news?q={{{s}}}&r=pt",
@@ -2391,7 +2391,7 @@
     ]
   },
   {
-    "s": "News in Puerto Rico (PR)",
+    "s": "Kagi News (Puerto Rico)",
     "d": "kagi.com",
     "t": "knpr",
     "u": "/news?q={{{s}}}&r=pr",
@@ -2400,7 +2400,7 @@
     ]
   },
   {
-    "s": "News in Qatar (QA)",
+    "s": "Kagi News (Qatar)",
     "d": "kagi.com",
     "t": "knqa",
     "u": "/news?q={{{s}}}&r=qa",
@@ -2409,7 +2409,7 @@
     ]
   },
   {
-    "s": "News in Romania (RO)",
+    "s": "Kagi News (Romania)",
     "d": "kagi.com",
     "t": "knro",
     "u": "/news?q={{{s}}}&r=ro",
@@ -2418,7 +2418,7 @@
     ]
   },
   {
-    "s": "News in Russia (RU)",
+    "s": "Kagi News (Russia)",
     "d": "kagi.com",
     "t": "knru",
     "u": "/news?q={{{s}}}&r=ru",
@@ -2427,7 +2427,7 @@
     ]
   },
   {
-    "s": "News in Rwanda (RW)",
+    "s": "Kagi News (Rwanda)",
     "d": "kagi.com",
     "t": "knrw",
     "u": "/news?q={{{s}}}&r=rw",
@@ -2436,7 +2436,7 @@
     ]
   },
   {
-    "s": "News in Réunion (RE)",
+    "s": "Kagi News (Réunion)",
     "d": "kagi.com",
     "t": "knre",
     "u": "/news?q={{{s}}}&r=re",
@@ -2445,7 +2445,7 @@
     ]
   },
   {
-    "s": "News in Saint Barthélemy (BL)",
+    "s": "Kagi News (Saint Barthelemy)",
     "d": "kagi.com",
     "t": "knbl",
     "u": "/news?q={{{s}}}&r=bl",
@@ -2454,7 +2454,7 @@
     ]
   },
   {
-    "s": "News in Saint Helena, Ascension and Tristan da Cunha (SH)",
+    "s": "Kagi News (Saint Helena)",
     "d": "kagi.com",
     "t": "knsh",
     "u": "/news?q={{{s}}}&r=sh",
@@ -2463,7 +2463,7 @@
     ]
   },
   {
-    "s": "News in Saint Kitts and Nevis (KN)",
+    "s": "Kagi News (Saint Kitts and Nevis)",
     "d": "kagi.com",
     "t": "knkn",
     "u": "/news?q={{{s}}}&r=kn",
@@ -2472,7 +2472,7 @@
     ]
   },
   {
-    "s": "News in Saint Lucia (LC)",
+    "s": "Kagi News (Saint Lucia)",
     "d": "kagi.com",
     "t": "knlc",
     "u": "/news?q={{{s}}}&r=lc",
@@ -2481,7 +2481,7 @@
     ]
   },
   {
-    "s": "News in Saint Martin (MF)",
+    "s": "Kagi News (Saint Martin)",
     "d": "kagi.com",
     "t": "knmf",
     "u": "/news?q={{{s}}}&r=mf",
@@ -2490,7 +2490,7 @@
     ]
   },
   {
-    "s": "News in Saint Pierre and Miquelon (PM)",
+    "s": "Kagi News (Saint Pierre and Miquelon)",
     "d": "kagi.com",
     "t": "knpm",
     "u": "/news?q={{{s}}}&r=pm",
@@ -2499,7 +2499,7 @@
     ]
   },
   {
-    "s": "News in Saint Vincent and the Grenadines (VC)",
+    "s": "Kagi News (Saint Vincent and the Grenadines)",
     "d": "kagi.com",
     "t": "knvc",
     "u": "/news?q={{{s}}}&r=vc",
@@ -2508,7 +2508,7 @@
     ]
   },
   {
-    "s": "News in Samoa (WS)",
+    "s": "Kagi News (Samoa)",
     "d": "kagi.com",
     "t": "knws",
     "u": "/news?q={{{s}}}&r=ws",
@@ -2517,7 +2517,7 @@
     ]
   },
   {
-    "s": "News in San Marino (SM)",
+    "s": "Kagi News (San Marino)",
     "d": "kagi.com",
     "t": "knsm",
     "u": "/news?q={{{s}}}&r=sm",
@@ -2526,7 +2526,7 @@
     ]
   },
   {
-    "s": "News in Sao Tome and Principe (ST)",
+    "s": "Kagi News (Sao Tome and Principe)",
     "d": "kagi.com",
     "t": "knst",
     "u": "/news?q={{{s}}}&r=st",
@@ -2535,7 +2535,7 @@
     ]
   },
   {
-    "s": "News in Saudi Arabia (SA)",
+    "s": "Kagi News (Saudi Arabia)",
     "d": "kagi.com",
     "t": "knsa",
     "u": "/news?q={{{s}}}&r=sa",
@@ -2544,7 +2544,7 @@
     ]
   },
   {
-    "s": "News in Senegal (SN)",
+    "s": "Kagi News (Senegal)",
     "d": "kagi.com",
     "t": "knsn",
     "u": "/news?q={{{s}}}&r=sn",
@@ -2553,7 +2553,7 @@
     ]
   },
   {
-    "s": "News in Serbia (RS)",
+    "s": "Kagi News (Serbia)",
     "d": "kagi.com",
     "t": "knrs",
     "u": "/news?q={{{s}}}&r=rs",
@@ -2562,7 +2562,7 @@
     ]
   },
   {
-    "s": "News in Seychelles (SC)",
+    "s": "Kagi News (Seychelles)",
     "d": "kagi.com",
     "t": "knsc",
     "u": "/news?q={{{s}}}&r=sc",
@@ -2571,7 +2571,7 @@
     ]
   },
   {
-    "s": "News in Sierra Leone (SL)",
+    "s": "Kagi News (Sierra Leone)",
     "d": "kagi.com",
     "t": "knsl",
     "u": "/news?q={{{s}}}&r=sl",
@@ -2580,7 +2580,7 @@
     ]
   },
   {
-    "s": "News in Singapore (SG)",
+    "s": "Kagi News (Singapore)",
     "d": "kagi.com",
     "t": "knsg",
     "u": "/news?q={{{s}}}&r=sg",
@@ -2589,7 +2589,7 @@
     ]
   },
   {
-    "s": "News in Sint Maarten (SX)",
+    "s": "Kagi News (Sint Maarten)",
     "d": "kagi.com",
     "t": "knsx",
     "u": "/news?q={{{s}}}&r=sx",
@@ -2598,7 +2598,7 @@
     ]
   },
   {
-    "s": "News in Slovakia (SK)",
+    "s": "Kagi News (Slovakia)",
     "d": "kagi.com",
     "t": "knsk",
     "u": "/news?q={{{s}}}&r=sk",
@@ -2607,7 +2607,7 @@
     ]
   },
   {
-    "s": "News in Slovenia (SI)",
+    "s": "Kagi News (Slovenia)",
     "d": "kagi.com",
     "t": "knsi",
     "u": "/news?q={{{s}}}&r=si",
@@ -2616,7 +2616,7 @@
     ]
   },
   {
-    "s": "News in Solomon Islands (SB)",
+    "s": "Kagi News (Solomon Islands)",
     "d": "kagi.com",
     "t": "knsb",
     "u": "/news?q={{{s}}}&r=sb",
@@ -2625,7 +2625,7 @@
     ]
   },
   {
-    "s": "News in Somalia (SO)",
+    "s": "Kagi News (Somalia)",
     "d": "kagi.com",
     "t": "knso",
     "u": "/news?q={{{s}}}&r=so",
@@ -2634,7 +2634,7 @@
     ]
   },
   {
-    "s": "News in South Africa (ZA)",
+    "s": "Kagi News (South Africa)",
     "d": "kagi.com",
     "t": "knza",
     "u": "/news?q={{{s}}}&r=za",
@@ -2643,7 +2643,7 @@
     ]
   },
   {
-    "s": "News in South Georgia and the South Sandwich Islands (GS)",
+    "s": "Kagi News (South Georgia and the South Sandwich Islands)",
     "d": "kagi.com",
     "t": "kngs",
     "u": "/news?q={{{s}}}&r=gs",
@@ -2652,7 +2652,7 @@
     ]
   },
   {
-    "s": "News in South Korea (KR)",
+    "s": "Kagi News (South Korea)",
     "d": "kagi.com",
     "t": "knkr",
     "u": "/news?q={{{s}}}&r=kr",
@@ -2661,7 +2661,7 @@
     ]
   },
   {
-    "s": "News in South Sudan (SS)",
+    "s": "Kagi News (South Sudan)",
     "d": "kagi.com",
     "t": "knss",
     "u": "/news?q={{{s}}}&r=ss",
@@ -2670,7 +2670,7 @@
     ]
   },
   {
-    "s": "News in Spain (ES - ca)",
+    "s": "Kagi News (Spain, Catalan)",
     "d": "kagi.com",
     "t": "knes_ca",
     "u": "/news?q={{{s}}}&r=es_ca",
@@ -2679,7 +2679,7 @@
     ]
   },
   {
-    "s": "News in Spain (ES - es)",
+    "s": "Kagi News (Spain, Spanish)",
     "d": "kagi.com",
     "t": "knes",
     "u": "/news?q={{{s}}}&r=es",
@@ -2688,7 +2688,7 @@
     ]
   },
   {
-    "s": "News in Sri Lanka (LK)",
+    "s": "Kagi News (Sri Lanka)",
     "d": "kagi.com",
     "t": "knlk",
     "u": "/news?q={{{s}}}&r=lk",
@@ -2697,7 +2697,7 @@
     ]
   },
   {
-    "s": "News in Sudan (SD)",
+    "s": "Kagi News (Sudan)",
     "d": "kagi.com",
     "t": "knsd",
     "u": "/news?q={{{s}}}&r=sd",
@@ -2706,7 +2706,7 @@
     ]
   },
   {
-    "s": "News in Suriname (SR)",
+    "s": "Kagi News (Suriname)",
     "d": "kagi.com",
     "t": "knsr",
     "u": "/news?q={{{s}}}&r=sr",
@@ -2715,7 +2715,7 @@
     ]
   },
   {
-    "s": "News in Svalbard and Jan Mayen (SJ)",
+    "s": "Kagi News (Svalbard and Jan Mayen)",
     "d": "kagi.com",
     "t": "knsj",
     "u": "/news?q={{{s}}}&r=sj",
@@ -2724,7 +2724,7 @@
     ]
   },
   {
-    "s": "News in Sweden (SE)",
+    "s": "Kagi News (Sweden)",
     "d": "kagi.com",
     "t": "knse",
     "u": "/news?q={{{s}}}&r=se",
@@ -2733,7 +2733,7 @@
     ]
   },
   {
-    "s": "News in Switzerland (CH - de)",
+    "s": "Kagi News (Switzerland, German)",
     "d": "kagi.com",
     "t": "knch",
     "u": "/news?q={{{s}}}&r=ch",
@@ -2742,7 +2742,7 @@
     ]
   },
   {
-    "s": "News in Switzerland (CH - fr)",
+    "s": "Kagi News (Switzerland, French)",
     "d": "kagi.com",
     "t": "knch_fr",
     "u": "/news?q={{{s}}}&r=ch_fr",
@@ -2751,7 +2751,7 @@
     ]
   },
   {
-    "s": "News in Syria (SY)",
+    "s": "Kagi News (Syria)",
     "d": "kagi.com",
     "t": "knsy",
     "u": "/news?q={{{s}}}&r=sy",
@@ -2760,7 +2760,7 @@
     ]
   },
   {
-    "s": "News in Taiwan (TW)",
+    "s": "Kagi News (Taiwan)",
     "d": "kagi.com",
     "t": "kntw",
     "u": "/news?q={{{s}}}&r=tw",
@@ -2769,7 +2769,7 @@
     ]
   },
   {
-    "s": "News in Tajikistan (TJ)",
+    "s": "Kagi News (Tajikistan)",
     "d": "kagi.com",
     "t": "kntj",
     "u": "/news?q={{{s}}}&r=tj",
@@ -2778,7 +2778,7 @@
     ]
   },
   {
-    "s": "News in Tanzania (TZ)",
+    "s": "Kagi News (Tanzania)",
     "d": "kagi.com",
     "t": "kntz",
     "u": "/news?q={{{s}}}&r=tz",
@@ -2787,7 +2787,7 @@
     ]
   },
   {
-    "s": "News in Thailand (TH)",
+    "s": "Kagi News (Thailand)",
     "d": "kagi.com",
     "t": "knth",
     "u": "/news?q={{{s}}}&r=th",
@@ -2796,7 +2796,7 @@
     ]
   },
   {
-    "s": "News in Timor-Leste (TL)",
+    "s": "Kagi News (Timor-Leste)",
     "d": "kagi.com",
     "t": "kntl",
     "u": "/news?q={{{s}}}&r=tl",
@@ -2805,7 +2805,7 @@
     ]
   },
   {
-    "s": "News in Togo (TG)",
+    "s": "Kagi News (Togo)",
     "d": "kagi.com",
     "t": "kntg",
     "u": "/news?q={{{s}}}&r=tg",
@@ -2814,7 +2814,7 @@
     ]
   },
   {
-    "s": "News in Tokelau (TK)",
+    "s": "Kagi News (Tokelau)",
     "d": "kagi.com",
     "t": "kntk",
     "u": "/news?q={{{s}}}&r=tk",
@@ -2823,7 +2823,7 @@
     ]
   },
   {
-    "s": "News in Tonga (TO)",
+    "s": "Kagi News (Tonga)",
     "d": "kagi.com",
     "t": "knto",
     "u": "/news?q={{{s}}}&r=to",
@@ -2832,7 +2832,7 @@
     ]
   },
   {
-    "s": "News in Trinidad and Tobago (TT)",
+    "s": "Kagi News (Trinidad and Tobago)",
     "d": "kagi.com",
     "t": "kntt",
     "u": "/news?q={{{s}}}&r=tt",
@@ -2841,7 +2841,7 @@
     ]
   },
   {
-    "s": "News in Tristan da Cunha (TA)",
+    "s": "Kagi News (Tristan da Cunha)",
     "d": "kagi.com",
     "t": "knta",
     "u": "/news?q={{{s}}}&r=ta",
@@ -2850,7 +2850,7 @@
     ]
   },
   {
-    "s": "News in Tunisia (TN)",
+    "s": "Kagi News (Tunisia)",
     "d": "kagi.com",
     "t": "kntn",
     "u": "/news?q={{{s}}}&r=tn",
@@ -2859,7 +2859,7 @@
     ]
   },
   {
-    "s": "News in Turkey (TR)",
+    "s": "Kagi News (Turkey)",
     "d": "kagi.com",
     "t": "kntr",
     "u": "/news?q={{{s}}}&r=tr",
@@ -2868,7 +2868,7 @@
     ]
   },
   {
-    "s": "News in Turkmenistan (TM)",
+    "s": "Kagi News (Turkmenistan)",
     "d": "kagi.com",
     "t": "kntm",
     "u": "/news?q={{{s}}}&r=tm",
@@ -2877,7 +2877,7 @@
     ]
   },
   {
-    "s": "News in Turks and Caicos Islands (TC)",
+    "s": "Kagi News (Turks and Caicos Islands)",
     "d": "kagi.com",
     "t": "kntc",
     "u": "/news?q={{{s}}}&r=tc",
@@ -2886,7 +2886,7 @@
     ]
   },
   {
-    "s": "News in Tuvalu (TV)",
+    "s": "Kagi News (Tuvalu)",
     "d": "kagi.com",
     "t": "kntv",
     "u": "/news?q={{{s}}}&r=tv",
@@ -2895,7 +2895,7 @@
     ]
   },
   {
-    "s": "News in Uganda (UG)",
+    "s": "Kagi News (Uganda)",
     "d": "kagi.com",
     "t": "knug",
     "u": "/news?q={{{s}}}&r=ug",
@@ -2904,7 +2904,7 @@
     ]
   },
   {
-    "s": "News in Ukraine (UA)",
+    "s": "Kagi News (Ukraine)",
     "d": "kagi.com",
     "t": "knua",
     "u": "/news?q={{{s}}}&r=ua",
@@ -2913,7 +2913,7 @@
     ]
   },
   {
-    "s": "News in United Arab Emirates (AE)",
+    "s": "Kagi News (United Arab Emirates)",
     "d": "kagi.com",
     "t": "knae",
     "u": "/news?q={{{s}}}&r=ae",
@@ -2922,7 +2922,7 @@
     ]
   },
   {
-    "s": "News in United Kingdom (GB)",
+    "s": "Kagi News (United Kingdom)",
     "d": "kagi.com",
     "t": "kngb",
     "u": "/news?q={{{s}}}&r=gb",
@@ -2931,7 +2931,7 @@
     ]
   },
   {
-    "s": "News in United States (US)",
+    "s": "Kagi News (United States)",
     "d": "kagi.com",
     "t": "knus",
     "u": "/news?q={{{s}}}&r=us",
@@ -2940,7 +2940,7 @@
     ]
   },
   {
-    "s": "News in United States Minor Outlying Islands (UM)",
+    "s": "Kagi News (US Minor Outlying Islands)",
     "d": "kagi.com",
     "t": "knum",
     "u": "/news?q={{{s}}}&r=um",
@@ -2949,7 +2949,7 @@
     ]
   },
   {
-    "s": "News in United States Virgin Islands (VI)",
+    "s": "Kagi News (US Virgin Islands)",
     "d": "kagi.com",
     "t": "knvi",
     "u": "/news?q={{{s}}}&r=vi",
@@ -2958,7 +2958,7 @@
     ]
   },
   {
-    "s": "News in Uruguay (UY)",
+    "s": "Kagi News (Uruguay)",
     "d": "kagi.com",
     "t": "knuy",
     "u": "/news?q={{{s}}}&r=uy",
@@ -2967,7 +2967,7 @@
     ]
   },
   {
-    "s": "News in Uzbekistan (UZ)",
+    "s": "Kagi News (Uzbekistan)",
     "d": "kagi.com",
     "t": "knuz",
     "u": "/news?q={{{s}}}&r=uz",
@@ -2976,7 +2976,7 @@
     ]
   },
   {
-    "s": "News in Vanuatu (VU)",
+    "s": "Kagi News (Vanuatu)",
     "d": "kagi.com",
     "t": "knvu",
     "u": "/news?q={{{s}}}&r=vu",
@@ -2985,7 +2985,7 @@
     ]
   },
   {
-    "s": "News in Vatican City (VA)",
+    "s": "Kagi News (Vatican City)",
     "d": "kagi.com",
     "t": "knva",
     "u": "/news?q={{{s}}}&r=va",
@@ -2994,7 +2994,7 @@
     ]
   },
   {
-    "s": "News in Venezuela (VE)",
+    "s": "Kagi News (Venezuela)",
     "d": "kagi.com",
     "t": "knve",
     "u": "/news?q={{{s}}}&r=ve",
@@ -3003,7 +3003,7 @@
     ]
   },
   {
-    "s": "News in Vietnam (VN)",
+    "s": "Kagi News (Vietnam)",
     "d": "kagi.com",
     "t": "knvn",
     "u": "/news?q={{{s}}}&r=vn",
@@ -3012,7 +3012,7 @@
     ]
   },
   {
-    "s": "News in Wallis and Futuna (WF)",
+    "s": "Kagi News (Wallis and Futuna)",
     "d": "kagi.com",
     "t": "knwf",
     "u": "/news?q={{{s}}}&r=wf",
@@ -3021,7 +3021,7 @@
     ]
   },
   {
-    "s": "News in Western Sahara (EH)",
+    "s": "Kagi News (Western Sahara)",
     "d": "kagi.com",
     "t": "kneh",
     "u": "/news?q={{{s}}}&r=eh",
@@ -3030,7 +3030,7 @@
     ]
   },
   {
-    "s": "News in Yemen (YE)",
+    "s": "Kagi News (Yemen)",
     "d": "kagi.com",
     "t": "knye",
     "u": "/news?q={{{s}}}&r=ye",
@@ -3039,7 +3039,7 @@
     ]
   },
   {
-    "s": "News in Zambia (ZM)",
+    "s": "Kagi News (Zambia)",
     "d": "kagi.com",
     "t": "knzm",
     "u": "/news?q={{{s}}}&r=zm",
@@ -3048,7 +3048,7 @@
     ]
   },
   {
-    "s": "News in Zimbabwe (ZW)",
+    "s": "Kagi News (Zimbabwe)",
     "d": "kagi.com",
     "t": "knzw",
     "u": "/news?q={{{s}}}&r=zw",
@@ -3057,7 +3057,7 @@
     ]
   },
   {
-    "s": "News in Åland Islands (AX)",
+    "s": "Kagi News (Aland Islands)",
     "d": "kagi.com",
     "t": "knax",
     "u": "/news?q={{{s}}}&r=ax",
@@ -3086,7 +3086,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Chat",
+    "s": "Kagi Assistant (Chat)",
     "d": "kagi.com",
     "t": "chat",
     "u": "/assistant?internet=off&q={{{s}}}",
@@ -3096,7 +3096,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Code",
+    "s": "Kagi Assistant (Code)",
     "d": "kagi.com",
     "t": "code",
     "u": "/assistant?profile=code&q={{{s}}}",
@@ -3106,7 +3106,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Study",
+    "s": "Kagi Assistant (Study)",
     "d": "kagi.com",
     "t": "study",
     "u": "/assistant?profile=study&q={{{s}}}",
@@ -3116,7 +3116,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Quick",
+    "s": "Kagi Assistant (Quick)",
     "d": "kagi.com",
     "t": "q",
     "ts": [
@@ -3132,7 +3132,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Research",
+    "s": "Kagi Assistant (Research)",
     "d": "kagi.com",
     "t": "research",
     "ts": [
@@ -3147,7 +3147,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Research (Experimental)",
+    "s": "Kagi Assistant (Research, Experimental)",
     "d": "kagi.com",
     "t": "deep",
     "ts": [
@@ -3161,7 +3161,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - ChatGPT",
+    "s": "Kagi Assistant (ChatGPT)",
     "d": "kagi.com",
     "t": "chatgpt-4o",
     "u": "/assistant?profile=chatgpt-4o&q={{{s}}}",
@@ -3171,7 +3171,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Claude 4.5 Haiku",
+    "s": "Kagi Assistant (Claude 4.5 Haiku)",
     "d": "kagi.com",
     "t": "claude-4-haiku",
     "ts": [
@@ -3184,7 +3184,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Claude 4.5 Haiku (reasoning)",
+    "s": "Kagi Assistant (Claude 4.5 Haiku, Reasoning)",
     "d": "kagi.com",
     "t": "claude-4-haiku-thinking",
     "u": "/assistant?profile=claude-4-haiku-thinking&q={{{s}}}",
@@ -3194,7 +3194,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Claude 4.5 Opus",
+    "s": "Kagi Assistant (Claude 4.5 Opus)",
     "d": "kagi.com",
     "t": "claude-4-opus",
     "ts": [
@@ -3207,7 +3207,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Claude 4.5 Opus (reasoning)",
+    "s": "Kagi Assistant (Claude 4.5 Opus, Reasoning)",
     "d": "kagi.com",
     "t": "claude-4-opus-thinking",
     "ts": [
@@ -3220,7 +3220,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Claude 4.5 Sonnet",
+    "s": "Kagi Assistant (Claude 4.5 Sonnet)",
     "d": "kagi.com",
     "t": "claude-4-sonnet",
     "ts": [
@@ -3233,7 +3233,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Claude 4.5 Sonnet (reasoning)",
+    "s": "Kagi Assistant (Claude 4.5 Sonnet, Reasoning)",
     "d": "kagi.com",
     "t": "claude-4-sonnet-thinking",
     "ts": [
@@ -3246,7 +3246,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Deepseek Chat V3.2",
+    "s": "Kagi Assistant (Deepseek Chat V3.2)",
     "d": "kagi.com",
     "t": "deepseek",
     "u": "/assistant?profile=deepseek&q={{{s}}}",
@@ -3256,7 +3256,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Gemini 2.5 Flash",
+    "s": "Kagi Assistant (Gemini 2.5 Flash)",
     "d": "kagi.com",
     "t": "gemini-2-5-flash",
     "u": "/assistant?profile=gemini-2-5-flash&q={{{s}}}",
@@ -3266,7 +3266,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Gemini 2.5 Flash Lite",
+    "s": "Kagi Assistant (Gemini 2.5 Flash Lite)",
     "d": "kagi.com",
     "t": "gemini-2-5-flash-lite",
     "u": "/assistant?profile=gemini-2-5-flash-lite&q={{{s}}}",
@@ -3276,7 +3276,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Gemini 2.5 Pro",
+    "s": "Kagi Assistant (Gemini 2.5 Pro)",
     "d": "kagi.com",
     "t": "gemini-2-5-pro",
     "u": "/assistant?profile=gemini-2-5-pro&q={{{s}}}",
@@ -3286,7 +3286,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Gemini 3 Flash",
+    "s": "Kagi Assistant (Gemini 3 Flash)",
     "d": "kagi.com",
     "t": "gemini-3-flash",
     "ts": [
@@ -3299,7 +3299,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Gemini 3 Flash (reasoning)",
+    "s": "Kagi Assistant (Gemini 3 Flash, Reasoning)",
     "d": "kagi.com",
     "t": "gemini-3-flash-thinking",
     "u": "/assistant?profile=gemini-3-flash-thinking&q={{{s}}}",
@@ -3309,7 +3309,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Gemini 3 Pro",
+    "s": "Kagi Assistant (Gemini 3 Pro)",
     "d": "kagi.com",
     "t": "gemini-3-pro",
     "ts": [
@@ -3322,7 +3322,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - GLM-4.6",
+    "s": "Kagi Assistant (GLM-4.6)",
     "d": "kagi.com",
     "t": "glm-4-6",
     "u": "/assistant?profile=glm-4-6&q={{{s}}}",
@@ -3332,7 +3332,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - GLM-4.6 (reasoning)",
+    "s": "Kagi Assistant (GLM-4.6, Reasoning)",
     "d": "kagi.com",
     "t": "glm-4-6-thinking",
     "u": "/assistant?profile=glm-4-6-thinking&q={{{s}}}",
@@ -3342,7 +3342,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - GPT 5.1 Codex",
+    "s": "Kagi Assistant (GPT 5.1 Codex)",
     "d": "kagi.com",
     "t": "gpt-5-1-codex",
     "u": "/assistant?profile=gpt-5-1-codex&q={{{s}}}",
@@ -3352,7 +3352,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - GPT 5.2",
+    "s": "Kagi Assistant (GPT 5.2)",
     "d": "kagi.com",
     "t": "gpt-5-2",
     "u": "/assistant?profile=gpt-5-2&q={{{s}}}",
@@ -3362,7 +3362,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - GPT 5 Mini",
+    "s": "Kagi Assistant (GPT 5 Mini)",
     "d": "kagi.com",
     "t": "gpt-5-mini",
     "ts": [
@@ -3375,7 +3375,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - GPT 5 Nano",
+    "s": "Kagi Assistant (GPT 5 Nano)",
     "d": "kagi.com",
     "t": "gpt-5-nano",
     "ts": [
@@ -3388,7 +3388,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - GPT OSS 120B",
+    "s": "Kagi Assistant (GPT OSS 120B)",
     "d": "kagi.com",
     "t": "gpt-oss-120b",
     "u": "/assistant?profile=gpt-oss-120b&q={{{s}}}",
@@ -3398,7 +3398,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Grok 4",
+    "s": "Kagi Assistant (Grok 4)",
     "d": "kagi.com",
     "t": "grok-4",
     "u": "/assistant?profile=grok-4&q={{{s}}}",
@@ -3408,7 +3408,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Grok 4.1 Fast",
+    "s": "Kagi Assistant (Grok 4.1 Fast)",
     "d": "kagi.com",
     "t": "grok-4-fast",
     "u": "/assistant?profile=grok-4-fast&q={{{s}}}",
@@ -3418,7 +3418,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Grok 4.1 Fast (reasoning)",
+    "s": "Kagi Assistant (Grok 4.1 Fast, Reasoning)",
     "d": "kagi.com",
     "t": "grok-4-fast-thinking",
     "u": "/assistant?profile=grok-4-fast-thinking&q={{{s}}}",
@@ -3428,7 +3428,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Hermes-4-405B (reasoning)",
+    "s": "Kagi Assistant (Hermes-4-405B, Reasoning)",
     "d": "kagi.com",
     "t": "hermes-4-405b-thinking",
     "u": "/assistant?profile=hermes-4-405b-thinking&q={{{s}}}",
@@ -3438,7 +3438,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Kimi K2",
+    "s": "Kagi Assistant (Kimi K2)",
     "d": "kagi.com",
     "t": "kimi-k2",
     "u": "/assistant?profile=kimi-k2&q={{{s}}}",
@@ -3448,7 +3448,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Kimi K2 (reasoning)",
+    "s": "Kagi Assistant (Kimi K2, Reasoning)",
     "d": "kagi.com",
     "t": "kimi-k2-thinking",
     "u": "/assistant?profile=kimi-k2-thinking&q={{{s}}}",
@@ -3458,7 +3458,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Llama 4 Maverick",
+    "s": "Kagi Assistant (Llama 4 Maverick)",
     "d": "kagi.com",
     "t": "llama-4-maverick",
     "ts": [
@@ -3471,7 +3471,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Mistral Large 3",
+    "s": "Kagi Assistant (Mistral Large 3)",
     "d": "kagi.com",
     "t": "mistral-large",
     "u": "/assistant?profile=mistral-large&q={{{s}}}",
@@ -3481,7 +3481,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Mistral Small",
+    "s": "Kagi Assistant (Mistral Small)",
     "d": "kagi.com",
     "t": "mistral-small",
     "u": "/assistant?profile=mistral-small&q={{{s}}}",
@@ -3491,7 +3491,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - o3 pro",
+    "s": "Kagi Assistant (o3 Pro)",
     "d": "kagi.com",
     "t": "o3-pro",
     "u": "/assistant?profile=o3-pro&q={{{s}}}",
@@ -3501,7 +3501,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Qwen 3-235B",
+    "s": "Kagi Assistant (Qwen 3-235B)",
     "d": "kagi.com",
     "t": "qwen-3-235b-a22b",
     "ts": [
@@ -3514,7 +3514,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Qwen 3-235B (reasoning)",
+    "s": "Kagi Assistant (Qwen 3-235B, Reasoning)",
     "d": "kagi.com",
     "t": "qwen-3-235b-a22b-thinking",
     "ts": [
@@ -3527,7 +3527,7 @@
     ]
   },
   {
-    "s": "Kagi Assistant - Qwen 3-Coder",
+    "s": "Kagi Assistant (Qwen 3-Coder)",
     "d": "kagi.com",
     "t": "qwen-3-coder",
     "u": "/assistant?profile=qwen-3-coder&q={{{s}}}",
