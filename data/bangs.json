@@ -25387,14 +25387,6 @@
     "sc": "Languages (javascript)"
   },
   {
-    "s": "duckduckgo",
-    "d": "duckduckgo.com",
-    "t": "ddg-es",
-    "u": "https://duckduckgo.com/?q={{{s}}}&kl=xl-es&kad=es_ES&ia=about",
-    "c": "Online Services",
-    "sc": "Search (non-US)"
-  },
-  {
     "s": "ESEA",
     "d": "play.esea.net",
     "t": "esea",
@@ -26082,22 +26074,6 @@
     "sc": "Music (Lyrics)"
   },
   {
-    "s": "EVE University Wiki",
-    "d": "wiki.eveuniversity.org",
-    "t": "eveu",
-    "u": "https://wiki.eveuniversity.org/w/index.php?title=Special:Search&search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
-  },
-  {
-    "s": "Eve University Wiki",
-    "d": "wiki.eveuniversity.org",
-    "t": "eveuni",
-    "u": "https://wiki.eveuniversity.org/index.php?title=Special:Search&search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (general)"
-  },
-  {
     "s": "e-ville.com",
     "d": "www.e-ville.com",
     "t": "evillecom",
@@ -26575,17 +26551,6 @@
     "u": "https://mods.factorio.com/search?query={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
-  },
-  {
-    "s": "Film Affinity",
-    "d": "www.filmaffinity.com",
-    "t": "faff",
-    "ts": [
-      "fa"
-    ],
-    "u": "https://www.filmaffinity.com/es/search.php?stext={{{s}}}&stype=all",
-    "c": "Entertainment",
-    "sc": "Movies"
   },
   {
     "s": "FilmAffinity (Spanish, Advanced Search)",
@@ -33073,14 +33038,6 @@
     "u": "https://www.gme.cz/vysledky-vyhledavani?search_keyword={{{s}}}",
     "c": "Shopping",
     "sc": "Tech"
-  },
-  {
-    "s": "maps.google.com",
-    "d": "www.google.fr",
-    "t": "gmfr",
-    "u": "https://www.google.fr/maps/search/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Maps"
   },
   {
     "s": "greenmangaming.com",
@@ -56816,14 +56773,6 @@
     ]
   },
   {
-    "s": "DuckDuckGo (safeoff)",
-    "d": "duckduckgo.com",
-    "t": "ns",
-    "u": "https://duckduckgo.com/?q=!safeoff+{{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
     "s": "National Stock Exchange of India",
     "d": "www.nseindia.com",
     "t": "nse",
@@ -72870,25 +72819,6 @@
     "sc": "Sports"
   },
   {
-    "s": "DuckDuckGo SafeOff",
-    "d": "duckduckgo.com",
-    "t": "soff",
-    "u": "https://duckduckgo.com/?kp=-2&q={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search (DDG)"
-  },
-  {
-    "s": "DuckDuckGo Safe Search Off",
-    "d": "duckduckgo.com",
-    "t": "s-off",
-    "ts": [
-      "ssoff"
-    ],
-    "u": "https://duckduckgo.com/?q={{{s}}}&kp=-2",
-    "c": "Online Services",
-    "sc": "Search (DDG)"
-  },
-  {
     "s": "SOFIFA",
     "d": "sofifa.com",
     "t": "sofifa",
@@ -81634,14 +81564,6 @@
     "u": "https://ufind.univie.ac.at/en/search.html?query={{{s}}}",
     "c": "Research",
     "sc": "Academic"
-  },
-  {
-    "s": "UniWiki",
-    "d": "wiki.eveuniversity.org",
-    "t": "uniwiki",
-    "u": "https://wiki.eveuniversity.org/index.php?title=Special:Search&search={{{s}}}&button=",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
   },
   {
     "s": "The Unix Tree",
