@@ -6557,7 +6557,7 @@
     "sc": "Reference (words)"
   },
   {
-    "s": "flightaware",
+    "s": "FlightAware (Airport)",
     "d": "flightaware.com",
     "t": "aware",
     "u": "https://flightaware.com/live/airport/{{{s}}}",
@@ -7192,7 +7192,7 @@
     "sc": "Learning"
   },
   {
-    "s": "cryotography.cc",
+    "s": "Cryptography.cc (Base64 Encode)",
     "d": "cryptography.cc",
     "t": "base64e",
     "u": "https://cryptography.cc/convert?text={{{s}}}&algorithm=base64encode",
@@ -15069,7 +15069,7 @@
     "sc": "General"
   },
   {
-    "s": "UK Companies House",
+    "s": "Companies House (UK, Companies)",
     "d": "beta.companieshouse.gov.uk",
     "t": "companieshouse",
     "u": "https://beta.companieshouse.gov.uk/search/companies?q={{{s}}}",
@@ -28106,7 +28106,7 @@
     "sc": "Social"
   },
   {
-    "s": "finviz.com",
+    "s": "Finviz (Search)",
     "d": "finviz.com",
     "t": "fin",
     "u": "https://finviz.com/search.ashx?p={{{s}}}",
@@ -31435,7 +31435,7 @@
     "sc": "Online"
   },
   {
-    "s": "geizhals.de",
+    "s": "Geizhals (Germany)",
     "d": "geizhals.de",
     "t": "geizhalsde",
     "u": "https://geizhals.de/?fs={{{s}}}&in=",
@@ -34616,7 +34616,7 @@
     "sc": "Online"
   },
   {
-    "s": "GrubHub",
+    "s": "Grubhub (Search)",
     "d": "www.grubhub.com",
     "t": "grubhub",
     "u": "https://www.grubhub.com/search?queryText={{{s}}}",
@@ -40791,7 +40791,7 @@
     "sc": "Reference"
   },
   {
-    "s": "infogalactic.com",
+    "s": "Infogalactic (Page)",
     "d": "infogalactic.com",
     "t": "infog",
     "u": "https://infogalactic.com/info/{{{s}}}",
@@ -44230,7 +44230,7 @@
     "sc": "Books"
   },
   {
-    "s": "Amazon Kindle (China)",
+    "s": "Amazon (Kindle, China)",
     "d": "www.amazon.cn",
     "t": "kindlecn",
     "u": "https://www.amazon.cn/s?k={{{s}}}&i=digital-text",
@@ -61914,7 +61914,7 @@
     "sc": "Tech"
   },
   {
-    "s": "pinboard.in",
+    "s": "Pinboard (All Bookmarks)",
     "d": "pinboard.in",
     "t": "pina",
     "u": "https://pinboard.in/search/?query={{{s}}}&all=Search+All",
@@ -68846,7 +68846,7 @@
     "sc": "Books"
   },
   {
-    "s": "Rate Your Music genre search",
+    "s": "Rate Your Music (Genre Search)",
     "d": "rateyourmusic.com",
     "t": "rymgenre",
     "u": "https://rateyourmusic.com/search?searchtype=g&searchterm={{{s}}}",
@@ -68878,7 +68878,7 @@
     "sc": "Games (general)"
   },
   {
-    "s": "Rozetka.com.ua",
+    "s": "Rozetka (Ukrainian)",
     "d": "rozetka.com.ua",
     "t": "rztk",
     "u": "https://rozetka.com.ua/ua/search/?text={{{s}}}",
@@ -72502,7 +72502,7 @@
     "sc": "Games (Pokemon)"
   },
   {
-    "s": "Smogon University",
+    "s": "Smogon (Search)",
     "d": "www.smogon.com",
     "t": "smog",
     "u": "https://www.smogon.com/search/?q={{{s}}}",
@@ -77827,7 +77827,7 @@
     "sc": "Blogs"
   },
   {
-    "s": "thinkwiki.de",
+    "s": "ThinkWiki (German)",
     "d": "thinkwiki.de",
     "t": "thinkwikide",
     "u": "https://thinkwiki.de/index.php?search={{{s}}}",
@@ -84042,7 +84042,7 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "VTFC - vatefaireconjuguer.com",
+    "s": "Va te faire conjuguer (Conjugation)",
     "d": "www.vatefaireconjuguer.com",
     "t": "vtf",
     "u": "https://www.vatefaireconjuguer.com/conjugaison/verbe/{{{s}}}",
