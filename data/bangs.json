@@ -5366,7 +5366,7 @@
     "s": "ARIN Whois",
     "d": "whois.arin.net",
     "t": "arin",
-    "u": "https://whois.arin.net/ui/query.do?queryinput={{{s}}}",
+    "u": "https://whois.arin.net/ui/?q={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin (network)"
   },
