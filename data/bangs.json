@@ -11667,7 +11667,8 @@
     "t": "gcal",
     "ts": [
       "calendar",
-      "календарь"
+      "календарь",
+      "гкал"
     ],
     "u": "https://calendar.google.com/calendar/b/0/r/search?q={{{s}}}",
     "c": "Online Services",
