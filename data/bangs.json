@@ -11666,7 +11666,8 @@
     "d": "calendar.google.com",
     "t": "gcal",
     "ts": [
-      "calendar"
+      "calendar",
+      "календарь"
     ],
     "u": "https://calendar.google.com/calendar/b/0/r/search?q={{{s}}}",
     "c": "Online Services",
@@ -13297,7 +13298,8 @@
     "d": "www.google.com",
     "t": "gai",
     "ts": [
-      "googleai"
+      "googleai",
+      "гии"
     ],
     "u": "https://www.google.com/search?q={{{s}}}&udm=50",
     "c": "Online Services",
@@ -15103,6 +15105,9 @@
     "s": "Compose Email (Gmail)",
     "d": "mail.google.com",
     "t": "compose",
+    "ts": [
+      "письмо"
+    ],
     "u": "https://mail.google.com/mail/?view=cm&to=&su={{{s}}}",
     "c": "Online Services",
     "sc": "Google"
@@ -15329,7 +15334,8 @@
     "t": "contacts",
     "ts": [
       "gc",
-      "gcontact"
+      "gcontact",
+      "контакты"
     ],
     "u": "https://contacts.google.com/search/{{{s}}}",
     "c": "Online Services",
@@ -21777,7 +21783,9 @@
     "d": "drive.google.com",
     "t": "drive",
     "ts": [
-      "gdrive"
+      "gdrive",
+      "гдиск",
+      "драйв"
     ],
     "u": "https://drive.google.com/drive/search?q={{{s}}}",
     "c": "Online Services",
@@ -22628,6 +22636,9 @@
     "s": "Google Earth",
     "d": "earth.google.com",
     "t": "earth",
+    "ts": [
+      "земля"
+    ],
     "u": "https://earth.google.com/web/search/{{{s}}}",
     "c": "Online Services",
     "sc": "Google"
@@ -26561,6 +26572,9 @@
     "s": "Google Images (Faces)",
     "d": "www.google.com",
     "t": "faces",
+    "ts": [
+      "лица"
+    ],
     "u": "https://www.google.com/search?tbm=isch&tbs=itp:face&q={{{s}}}",
     "c": "Online Services",
     "sc": "Google"
@@ -28481,7 +28495,9 @@
     "t": "fl",
     "ts": [
       "gluck",
-      "lucky"
+      "lucky",
+      "гмп",
+      "фл"
     ],
     "u": "https://www.google.com/search?btnI&q={{{s}}}",
     "c": "Online Services",
@@ -30168,6 +30184,9 @@
     "s": "Google Search 100 Results",
     "d": "www.google.com",
     "t": "g100",
+    "ts": [
+      "г100"
+    ],
     "u": "https://www.google.com/search?q={{{s}}}&tbo=1&num=100",
     "c": "Online Services",
     "sc": "Search"
@@ -30659,7 +30678,10 @@
       "gp",
       "gplay",
       "play",
-      "playstore"
+      "playstore",
+      "гплей",
+      "плей",
+      "плейстор"
     ],
     "u": "https://play.google.com/store/search?q={{{s}}}",
     "c": "Online Services",
@@ -30903,6 +30925,9 @@
     "s": "Books.google.com",
     "d": "www.google.com",
     "t": "gbooks",
+    "ts": [
+        "гкниги"
+    ],
     "u": "https://www.google.com/search?nfpr=1&tbm=bks&q={{{s}}}",
     "c": "Research",
     "sc": "Reference"
@@ -31215,7 +31240,10 @@
     "d": "docs.google.com",
     "t": "gd",
     "ts": [
-      "gdocs"
+      "gdocs",
+      "гд",
+      "гдок",
+      "гдокументы"
     ],
     "u": "https://docs.google.com/document/u/0/?q={{{s}}}",
     "c": "Online Services",
@@ -32033,7 +32061,8 @@
     "d": "groups.google.com",
     "t": "gg",
     "ts": [
-      "ggroups"
+      "ggroups",
+      "гг"
     ],
     "u": "https://groups.google.com/groups/search?q={{{s}}}&qt_s=Search+Groups",
     "c": "Online Services",
@@ -32043,6 +32072,9 @@
     "s": "Google Images (Animated)",
     "d": "www.google.com",
     "t": "ggif",
+    "ts": [
+      "ггиф"
+    ],
     "u": "https://www.google.com/search?q={{{s}}}&site=webhp&tbm=isch&tbs=itp:animated",
     "c": "Multimedia",
     "sc": "Images"
@@ -32398,6 +32430,9 @@
     "s": "Google Images Classic",
     "d": "www.google.com",
     "t": "gic",
+    "ts": [
+      "гкк"
+    ],
     "u": "https://www.google.com/search?q={{{s}}}&tbm=isch&sout=1",
     "c": "Online Services",
     "sc": "Google"
@@ -33010,6 +33045,7 @@
     "ts": [
       "gmaps",
       "gm",
+      "гкарты",
       "googlemap",
       "googlemaps"
     ],
@@ -34206,6 +34242,9 @@
     "s": "Google Photos",
     "d": "photos.google.com",
     "t": "gphotos",
+    "ts": [
+      "гфото"
+    ],
     "u": "https://photos.google.com/search/{{{s}}}",
     "c": "Multimedia",
     "sc": "Images"
@@ -34758,7 +34797,11 @@
     "ts": [
       "gsheets",
       "gsh",
-      "gspreadsheets"
+      "gspreadsheets",
+      "гш",
+      "гт",
+      "гтаблицы",
+      "гшит"
     ],
     "u": "https://docs.google.com/spreadsheets/u/0/?q={{{s}}}",
     "c": "Online Services",
@@ -34800,6 +34843,11 @@
     "s": "Google Slides",
     "d": "slides.google.com",
     "t": "gslides",
+    "ts": [
+      "гслайд",
+      "гпрез",
+      "гпрезентации"
+    ],
     "u": "https://slides.google.com/presentation/u/0/?q={{{s}}}",
     "c": "Online Services",
     "sc": "Google"
@@ -36464,6 +36512,9 @@
     "s": "Google Video",
     "d": "www.google.com",
     "t": "gv",
+    "ts": [
+      "гв"
+    ],
     "u": "https://www.google.com/search?tbm=vid&q={{{s}}}",
     "c": "Online Services",
     "sc": "Google"
@@ -40691,6 +40742,10 @@
     "s": "Inbox by Gmail",
     "d": "inbox.google.com",
     "t": "inbox",
+    "ts": [
+      "гмейл",
+      "гпочта"
+    ],
     "u": "https://inbox.google.com/search/{{{s}}}",
     "c": "Online Services",
     "sc": "Google"
@@ -43944,6 +43999,10 @@
     "s": "Google Keep",
     "d": "keep.google.com",
     "t": "keep",
+    "ts": [
+      "гзаметки",
+      "гз"
+    ],
     "u": "https://keep.google.com/#search/text={{{s}}}",
     "c": "Online Services",
     "sc": "Google"
@@ -80676,8 +80735,7 @@
     "d": "www.youtube.com",
     "t": "ytd",
     "ts": [
-      "ytvideo",
-      "ютд"
+      "ytvideo"
     ],
     "u": "https://www.youtube.com/watch?v={{{s}}}",
     "c": "Multimedia",
@@ -84531,6 +84589,9 @@
     "s": "Google Images (wallpapers)",
     "d": "google.com",
     "t": "wallpaper",
+    "ts": [
+      "обои"
+    ],
     "u": "https://google.com/search?tbm=isch&imgsz=xxlarge&gbv=2&safe=off&q={{{s}}}+wallpaper&btnG=Search+Images&tbs=imgo:1",
     "c": "Online Services",
     "sc": "Google"
