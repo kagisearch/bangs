@@ -44894,6 +44894,14 @@
     "sc": "Tools"
   },
   {
+    "s": "King Arthur Baking",
+    "d": "www.kingarthurbaking.com",
+    "t": "kingarthur",
+    "u": "https://www.kingarthurbaking.com/search?query={{{s}}}#all_indices",
+    "c": "Research",
+    "sc": "Food"
+  },
+  {
     "s": "KingOfSat",
     "d": "en.kingofsat.net",
     "t": "kos",
