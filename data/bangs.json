@@ -31361,7 +31361,7 @@
     "s": "GeeksforGeeks",
     "d": "www.geeksforgeeks.org",
     "t": "geeks",
-    "u": "https://www.geeksforgeeks.org/?s={{{s}}}",
+    "u": "https://www.geeksforgeeks.org/search/?gq={{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
@@ -31851,7 +31851,7 @@
     "s": "geeksforgeeks",
     "d": "www.geeksforgeeks.org",
     "t": "gfg",
-    "u": "https://www.geeksforgeeks.org/?q={{{s}}}",
+    "u": "https://www.geeksforgeeks.org/search/?gq={{{s}}}",
     "c": "Tech",
     "sc": "Programming"
   },
