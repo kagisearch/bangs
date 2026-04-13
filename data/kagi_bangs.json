@@ -105,6 +105,21 @@
     "u": "/search?q={{{s}}}&verbatim=1"
   },
   {
+    "s": "Kagi Safe Search: On",
+    "d": "kagi.com",
+    "t": "safe",
+    "ts": [
+      "safeon"
+    ],
+    "u": "/search?q={{{s}}}&kp=1"
+  },
+  {
+    "s": "Kagi Safe Search: Off",
+    "d": "kagi.com",
+    "t": "safeoff",
+    "u": "/search?q={{{s}}}&kp=-2"
+  },
+  {
     "s": "Kagi Discussion",
     "d": "kagi.com",
     "t": "discussdoc",

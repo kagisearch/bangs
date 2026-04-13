@@ -69199,27 +69199,6 @@
     "sc": "Images"
   },
   {
-    "s": "DDG Safesearch On",
-    "d": "kagi.com",
-    "ad": "",
-    "t": "safe",
-    "ts": [
-      "safeon"
-    ],
-    "u": "/search?q={{{s}}}&kp=1",
-    "c": "Online Services",
-    "sc": "Search (DDG)"
-  },
-  {
-    "s": "Safe search off",
-    "d": "kagi.com",
-    "ad": "",
-    "t": "safeoff",
-    "u": "/search?q={{{s}}}&kp=-2",
-    "c": "Online Services",
-    "sc": "Search (DDG)"
-  },
-  {
     "s": "SageMath Docs (Kagi Search)",
     "d": "kagi.com",
     "ad": "doc.sagemath.org",
