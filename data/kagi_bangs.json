@@ -111,13 +111,13 @@
     "ts": [
       "safeon"
     ],
-    "u": "/search?q={{{s}}}&kp=1"
+    "u": "/search?q={{{s}}}&safe=true"
   },
   {
     "s": "Kagi Safe Search: Off",
     "d": "kagi.com",
     "t": "safeoff",
-    "u": "/search?q={{{s}}}&kp=-2"
+    "u": "/search?q={{{s}}}&safe=false"
   },
   {
     "s": "Kagi Discussion",
