@@ -90660,6 +90660,9 @@
     "s": "Storygraph",
     "d": "app.thestorygraph.com",
     "t": "storygraph",
+    "ts": [
+      "tsg"
+    ],
     "u": "https://app.thestorygraph.com/browse?search_term={{{s}}}",
     "c": "Multimedia",
     "sc": "Books"
