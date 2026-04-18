@@ -45970,7 +45970,7 @@
   {
     "s": "legacy cplusplus.com ",
     "d": "legacy.cplusplus.com",
-    "t": "c++",
+    "t": "lc++",
     "ts": [
       "lcpp"
     ],
