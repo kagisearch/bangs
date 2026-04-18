@@ -45968,6 +45968,17 @@
     "sc": "Law"
   },
   {
+    "s": "legacy cplusplus.com ",
+    "d": "legacy.cplusplus.com",
+    "t": "c++",
+    "ts": [
+      "lcpp"
+    ],
+    "u": "https://www.cplusplus.com/search.do?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Languages (c++)"
+  },
+  {
     "s": "Lawphil.net",
     "d": "cse.google.com",
     "t": "lawphil",
