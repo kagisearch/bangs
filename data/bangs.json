@@ -12500,7 +12500,8 @@
     "ts": [
       "cxx",
       "rcpp",
-      "stl"
+      "stl",
+      "cplusplus"
     ],
     "u": "https://www.cplusplus.com/search.do?q={{{s}}}",
     "c": "Tech",
@@ -15958,14 +15959,6 @@
     "u": "https://chipublib.bibliocommons.com/search?&t=title&search_category=title&q={{{s}}}",
     "c": "Research",
     "sc": "Reference"
-  },
-  {
-    "s": "Cplusplus.com",
-    "d": "www.cplusplus.com",
-    "t": "cplusplus",
-    "u": "https://www.cplusplus.com/query/search.cgi?q={{{s}}}",
-    "c": "Tech",
-    "sc": "Languages (c++)"
   },
   {
     "s": "Czech post",
