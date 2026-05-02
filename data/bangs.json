@@ -10459,6 +10459,14 @@
     "sc": "Downloads (software)"
   },
   {
+    "s": "Homebrew Cask",
+    "d": "formulae.brew.sh",
+    "t": "brewc",
+    "u": "https://formulae.brew.sh/cask/{{{s}}}",
+    "c": "Tech",
+    "sc": "Downloads (software)"
+  },
+  {
     "s": "Homebrew",
     "d": "kagi.com",
     "ad": "formulae.brew.sh",
