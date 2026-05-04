@@ -31196,7 +31196,7 @@
   {
     "s": "Godot Engine Documentation",
     "d": "docs.godotengine.org",
-    "t": "gdd",
+    "t": "godotl",
     "u": "https://docs.godotengine.org/en/latest/search.html?q={{{s}}}&check_keywords=yes&area=default",
     "c": "Tech",
     "sc": "Programming"
@@ -33583,6 +33583,9 @@
     "s": "Godot Docs",
     "d": "docs.godotengine.org",
     "t": "godot",
+    "ts": [
+      "gdd"
+    ],
     "u": "https://docs.godotengine.org/en/stable/search.html?q={{{s}}}&check_keywords=yes&area=default",
     "c": "Tech",
     "sc": "Programming"
