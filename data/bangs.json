@@ -300,9 +300,9 @@
     "d": "2gis.ru",
     "t": "2gis",
     "ts": [
-        "дубльгис",
-        "двагис",
-        "2гис"
+      "дубльгис",
+      "двагис",
+      "2гис"
     ],
     "u": "https://2gis.ru/search/{{{s}}}",
     "c": "Online Services",
@@ -1279,7 +1279,9 @@
     "s": "Amazon Belgium",
     "d": "www.amazon.com.be",
     "t": "amazonbe",
-    "ts": ["abe"],
+    "ts": [
+      "abe"
+    ],
     "u": "https://www.amazon.com.be/s?k={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
@@ -1455,8 +1457,8 @@
     "d": "dic.academic.ru",
     "t": "acad",
     "ts": [
-        "акад",
-        "академик"
+      "акад",
+      "академик"
     ],
     "u": "https://dic.academic.ru/searchall.php?SWord={{{s}}}",
     "c": "Research",
@@ -1932,7 +1934,7 @@
     "d": "www.adme.ru",
     "t": "adme",
     "ts": [
-        "адми"
+      "адми"
     ],
     "u": "https://www.adme.ru/search/?q={{{s}}}",
     "c": "Entertainment",
@@ -6534,7 +6536,7 @@
     "d": "www.avito.ru",
     "t": "avito",
     "ts": [
-        "авито"
+      "авито"
     ],
     "u": "https://www.avito.ru/?q={{{s}}}",
     "c": "Shopping",
@@ -8774,7 +8776,7 @@
     "d": "bigenc.ru",
     "t": "bigenc",
     "ts": [
-       "gre",
+      "gre",
       "брэ"
     ],
     "u": "https://bigenc.ru/search?q={{{s}}}",
@@ -15313,8 +15315,8 @@
     "d": "www.consultant.ru",
     "t": "consplus",
     "ts": [
-        "консультант",
-        "кплюс"
+      "консультант",
+      "кплюс"
     ],
     "u": "https://www.consultant.ru/search/?q={{{s}}}",
     "c": "Research",
@@ -17143,8 +17145,8 @@
     "d": "cyberleninka.ru",
     "t": "cybl",
     "ts": [
-        "кибл",
-        "киберленинка"
+      "кибл",
+      "киберленинка"
     ],
     "u": "https://cyberleninka.ru/search?q={{{s}}}",
     "c": "Research",
@@ -17275,9 +17277,9 @@
     "d": "www.drive2.ru",
     "t": "d2r",
     "ts": [
-        "drive2",
-        "драйв2",
-        "д2"
+      "drive2",
+      "драйв2",
+      "д2"
     ],
     "u": "https://www.drive2.ru/search?text={{{s}}}",
     "c": "Tech",
@@ -17296,7 +17298,7 @@
     "d": "dirty.ru",
     "t": "d3",
     "ts": [
-        "д3"
+      "д3"
     ],
     "u": "https://dirty.ru/search/?query={{{s}}}",
     "c": "Entertainment",
@@ -17339,7 +17341,7 @@
     "d": "daddyknows.ru",
     "t": "daddyknows",
     "ts": [
-        "папазнает"
+      "папазнает"
     ],
     "u": "https://daddyknows.ru/?s={{{s}}}",
     "c": "Entertainment",
@@ -20908,7 +20910,7 @@
     "d": "www.dns-shop.ru",
     "t": "dnsshop",
     "ts": [
-        "днс"
+      "днс"
     ],
     "u": "https://www.dns-shop.ru/search/?q={{{s}}}",
     "c": "Shopping",
@@ -21824,7 +21826,7 @@
     "d": "www.drom.ru",
     "t": "drom",
     "ts": [
-        "дром"
+      "дром"
     ],
     "u": "https://www.drom.ru/search/?q={{{s}}}",
     "c": "Shopping",
@@ -22546,7 +22548,7 @@
     "d": "www.e1.ru",
     "t": "e1",
     "ts": [
-        "е1"
+      "е1"
     ],
     "u": "https://www.e1.ru/news/search/?search={{{s}}}",
     "c": "News",
@@ -26876,7 +26878,7 @@
     "d": "fantlab.ru",
     "t": "fantlab",
     "ts": [
-        "фантлаб"
+      "фантлаб"
     ],
     "u": "https://fantlab.ru/searchmain?searchstr={{{s}}}",
     "c": "Multimedia",
@@ -30938,7 +30940,7 @@
     "d": "www.google.com",
     "t": "gbooks",
     "ts": [
-        "гкниги"
+      "гкниги"
     ],
     "u": "https://www.google.com/search?nfpr=1&tbm=bks&q={{{s}}}",
     "c": "Research",
@@ -33467,7 +33469,7 @@
     "d": "www.google.ru",
     "t": "gnru",
     "ts": [
-        "гн"
+      "гн"
     ],
     "u": "https://www.google.ru/search?q={{{s}}}&tbm=nws&cad=h",
     "c": "News",
@@ -34431,7 +34433,7 @@
     "d": "gramota.ru",
     "t": "gramota",
     "ts": [
-        "грамота"
+      "грамота"
     ],
     "u": "https://gramota.ru/slovari/dic/?word={{{s}}}&all=x",
     "c": "Research",
@@ -36858,7 +36860,7 @@
     "d": "habr.com",
     "t": "habr",
     "ts": [
-        "хабр"
+      "хабр"
     ],
     "u": "https://habr.com/ru/search/?&q={{{s}}}",
     "c": "Tech",
@@ -37936,8 +37938,8 @@
     "d": "hi-news.ru",
     "t": "hinews",
     "ts": [
-        "хайн",
-        "хайньюс"
+      "хайн",
+      "хайньюс"
     ],
     "u": "https://hi-news.ru/?s={{{s}}}",
     "c": "News",
@@ -38881,7 +38883,7 @@
     "d": "htmlbook.ru",
     "t": "htmlbook",
     "ts": [
-        "хтмлбук"
+      "хтмлбук"
     ],
     "u": "https://htmlbook.ru/search/?as_q={{{s}}}",
     "c": "Tech",
@@ -41533,8 +41535,8 @@
     "d": "irecommend.ru",
     "t": "irecommend",
     "ts": [
-        "айрекомменд",
-        "айрек"
+      "айрекомменд",
+      "айрек"
     ],
     "u": "https://irecommend.ru/srch?query={{{s}}}",
     "c": "Shopping",
@@ -44142,7 +44144,7 @@
     "d": "kg-portal.ru",
     "t": "kg",
     "ts": [
-        "кг"
+      "кг"
     ],
     "u": "https://kg-portal.ru/?search&s_str={{{s}}}",
     "c": "Entertainment",
@@ -47388,7 +47390,7 @@
     "d": "lingvolive.ru",
     "t": "lingvo",
     "ts": [
-        "лингво"
+      "лингво"
     ],
     "u": "https://lingvolive.ru/translate/en-ru/{{{s}}}",
     "c": "Online Services",
@@ -47655,7 +47657,7 @@
     "d": "www.litres.ru",
     "t": "litres",
     "ts": [
-        "литрес"
+      "литрес"
     ],
     "u": "https://www.litres.ru/pages/rmd_search/?q={{{s}}}",
     "c": "Shopping",
@@ -48158,7 +48160,7 @@
     "d": "www.linux.org.ru",
     "t": "lor",
     "ts": [
-        "лор"
+      "лор"
     ],
     "u": "https://www.linux.org.ru/search.jsp?q={{{s}}}&range=ALL&interval=ALL&user=&_usertopic=on",
     "c": "Tech",
@@ -49370,7 +49372,7 @@
     "d": "go.mail.ru",
     "t": "mailru",
     "ts": [
-        "мейлру"
+      "мейлру"
     ],
     "u": "https://go.mail.ru/search?fm=1&q={{{s}}}",
     "c": "Online Services",
@@ -54569,7 +54571,7 @@
     "d": "myshows.me",
     "t": "myshows",
     "ts": [
-        "мш"
+      "мш"
     ],
     "u": "https://myshows.me/search/?q={{{s}}}",
     "c": "Entertainment",
@@ -58865,7 +58867,7 @@
     "d": "www.opennet.ru",
     "t": "opennet",
     "ts": [
-        "опеннет"
+      "опеннет"
     ],
     "u": "https://www.opennet.ru/search.shtml?exclude=index|/man.shtml&words={{{s}}}",
     "c": "Tech",
@@ -60114,7 +60116,7 @@
     "d": "www.ozon.ru",
     "t": "ozon",
     "ts": [
-        "озон"
+      "озон"
     ],
     "u": "https://www.ozon.ru/search/?text={{{s}}}",
     "c": "Shopping",
@@ -66307,7 +66309,7 @@
     "d": "bab.la",
     "t": "rconj",
     "ts": [
-        "спряжение"
+      "спряжение"
     ],
     "u": "https://bab.la/conjugaison/russe/{{{s}}}",
     "c": "Research",
@@ -66350,8 +66352,8 @@
     "d": "context.reverso.net",
     "t": "rcruen",
     "ts": [
-        "реверсо",
-        "рк"
+      "реверсо",
+      "рк"
     ],
     "u": "https://context.reverso.net/translation/russian-english/{{{s}}}",
     "c": "Translation",
@@ -68947,8 +68949,8 @@
     "d": "rutube.ru",
     "t": "rutube",
     "ts": [
-        "рт",
-        "рутуб"
+      "рт",
+      "рутуб"
     ],
     "u": "https://rutube.ru/search.html?page=index&search={{{s}}}&search_type=track",
     "c": "Multimedia",
@@ -69007,8 +69009,8 @@
     "d": "ruxpert.ru",
     "t": "rxp",
     "ts": [
-        "рукс",
-        "руксперт"
+      "рукс",
+      "руксперт"
     ],
     "u": "https://ruxpert.ru/index.php?search={{{s}}}",
     "c": "Research",
@@ -70285,7 +70287,7 @@
     "d": "scpfoundation.net",
     "t": "scpru",
     "ts": [
-        "сцп"
+      "сцп"
     ],
     "u": "https://scpfoundation.net/search:site/q/{{{s}}}",
     "c": "Entertainment",
@@ -73135,7 +73137,7 @@
     "d": "sokr.ru",
     "t": "sokr",
     "ts": [
-        "сокр"
+      "сокр"
     ],
     "u": "https://sokr.ru/{{{s}}}/",
     "c": "Research",
@@ -74059,7 +74061,7 @@
     "d": "squarefaction.ru",
     "t": "sqfa",
     "ts": [
-        "скфа"
+      "скфа"
     ],
     "u": "https://squarefaction.ru/main/search/google?searchQuery={{{s}}}",
     "c": "Entertainment",
@@ -77430,8 +77432,8 @@
     "d": "te-st.ru",
     "t": "te-st",
     "ts": [
-        "тст",
-        "теплица"
+      "тст",
+      "теплица"
     ],
     "u": "https://te-st.ru/?s={{{s}}}",
     "c": "Tech",
@@ -85240,8 +85242,8 @@
     "d": "webref.ru",
     "t": "webref",
     "ts": [
-        "вебреф",
-        "вэбреф"
+      "вебреф",
+      "вэбреф"
     ],
     "u": "https://webref.ru/search/?s={{{s}}}",
     "c": "Tech",
@@ -86312,7 +86314,7 @@
     "d": "ru.wikivoyage.org",
     "t": "wikivoyageru",
     "ts": [
-        "викивояж"
+      "викивояж"
     ],
     "u": "https://ru.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go",
     "c": "Research",
@@ -87165,7 +87167,7 @@
     "d": "wooordhunt.ru",
     "t": "woo",
     "ts": [
-        "воо"
+      "воо"
     ],
     "u": "https://wooordhunt.ru/word/{{{s}}}",
     "c": "Multimedia",
@@ -89049,7 +89051,7 @@
     "d": "ya.ru",
     "t": "yav",
     "ts": [
-        "яв"
+      "яв"
     ],
     "u": "https://ya.ru/video/search?text={{{s}}}",
     "c": "Online Services",
@@ -89496,7 +89498,7 @@
     "d": "youla.ru",
     "t": "youla",
     "ts": [
-        "юла"
+      "юла"
     ],
     "u": "https://youla.ru/?q={{{s}}}",
     "c": "Shopping",
@@ -89807,7 +89809,7 @@
     "d": "tv.youtube.com",
     "t": "yttv",
     "ts": [
-        "юттв"
+      "юттв"
     ],
     "u": "https://tv.youtube.com/search/{{{s}}}",
     "c": "Entertainment",
