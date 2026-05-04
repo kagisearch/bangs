@@ -54854,6 +54854,14 @@
     "sc": "Reference (religion)"
   },
   {
+    "s": "netbible",
+    "d": "netbible.org",
+    "t": "netbible",
+    "u": "https://netbible.org/bible/search?q={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (religion)"
+  },
+  {
     "s": "NASDAQ",
     "d": "www.nasdaq.com",
     "t": "nasdaq",
