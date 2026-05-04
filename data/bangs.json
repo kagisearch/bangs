@@ -25671,9 +25671,9 @@
   },
   {
     "s": "ESV Bible",
-    "d": "www.esvbible.org",
+    "d": "www.esv.org",
     "t": "esv",
-    "u": "https://www.esvbible.org/search/?q={{{s}}}",
+    "u": "https://www.esv.org/search/?q={{{s}}}",
     "c": "Multimedia",
     "sc": "Books"
   },
