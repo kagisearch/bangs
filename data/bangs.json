@@ -65919,17 +65919,6 @@
     "sc": "Online"
   },
   {
-    "s": "Resident Advisor",
-    "d": "www.residentadvisor.net",
-    "t": "ra",
-    "ts": [
-      "residentadvisor"
-    ],
-    "u": "https://www.residentadvisor.net/search.aspx?searchstr={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Misc"
-  },
-  {
     "s": "Raspberry Pi",
     "d": "www.raspberrypi.org",
     "t": "rpi",
@@ -67271,6 +67260,17 @@
     "u": "https://www.reta-vortaro.de/cgi-bin/sercxu.pl?sercxata={{{s}}}&kadroj=1",
     "c": "Research",
     "sc": "Reference"
+  },
+  {
+    "s": "RetroAchievements",
+    "d": "retroachievements.org",
+    "t": "ra",
+    "ts": [
+      "retroachievements"
+    ],
+    "u": "https://retroachievements.org/search?query={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (general)"
   },
   {
     "s": "RetroPie",
