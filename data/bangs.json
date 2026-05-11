@@ -93456,5 +93456,13 @@
     "u": "https://tesaurus.kemendikdasmen.go.id/tematis/lema/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
+  },
+  {
+    "s": "The Software Heritage Archive",
+    "d": "archive.softwareheritage.org",
+    "t": "swh",
+    "u": "https://archive.softwareheritage.org/browse/search/?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Programming"
   }
 ]
