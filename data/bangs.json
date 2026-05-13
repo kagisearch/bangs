@@ -17485,11 +17485,11 @@
   },
   {
     "s": "Diccionariu de l'Academia de la Llingua Asturiana",
-    "d": "asturianu.elahorcado.net",
+    "d": "www.diccionariu.alladixital.org",
     "t": "dalla",
-    "u": "https://asturianu.elahorcado.net/search.php?search={{{s}}}",
+    "u": "https://www.diccionariu.alladixital.org/index.php?pallabra={{{s}}}",
     "c": "Research",
-    "sc": "Academic"
+    "sc": "Reference (words intl)"
   },
   {
     "s": "The Dallas Morning News",
