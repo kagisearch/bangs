@@ -57403,15 +57403,10 @@
     "s": "The New York Times",
     "d": "www.nytimes.com",
     "t": "nytimes",
+    "ts": [
+      "nyt"
+    ],
     "u": "https://www.nytimes.com/search?query={{{s}}}",
-    "c": "News",
-    "sc": "Newspaper"
-  },
-  {
-    "s": "New York Times",
-    "d": "query.nytimes.com",
-    "t": "nyt",
-    "u": "https://query.nytimes.com/search/sitesearch?query={{{s}}}&srchst=cse",
     "c": "News",
     "sc": "Newspaper"
   },
