@@ -59296,10 +59296,7 @@
   {
     "s": "ORF TVThek",
     "d": "tvthek.orf.at",
-    "t": "orf",
-    "ts": [
-      "tvthek"
-    ],
+    "t": "tvthek",
     "u": "https://tvthek.orf.at/search?q={{{s}}}",
     "c": "Entertainment",
     "sc": "TV"
@@ -93302,6 +93299,27 @@
     "ad": "kagifeedback.org/d",
     "t": "kfd",
     "u": "https://kagifeedback.org/?q={{{s}}}",
+    "fmt": [
+      "open_base_path",
+      "url_encode_placeholder"
+    ]
+  },
+  {
+    "s": "Orion Feedback",
+    "d": "orionfeedback.org",
+    "t": "orf",
+    "u": "https://orionfeedback.org/?q={{{s}}}",
+    "fmt": [
+      "open_base_path",
+      "url_encode_placeholder"
+    ]
+  },
+  {
+    "s": "Orion Feedback (Discussions)",
+    "d": "orionfeedback.org",
+    "ad": "orionfeedback.org/d",
+    "t": "orfd",
+    "u": "https://orionfeedback.org/?q={{{s}}}",
     "fmt": [
       "open_base_path",
       "url_encode_placeholder"
