@@ -90688,6 +90688,18 @@
     "sc": "Languages (nix)"
   },
   {
+    "s": "NixOS Home Manager Options Search",
+    "d": "search.nixos.org",
+    "t": "nixhopt",
+    "ts": [
+      "nixhmopt",
+      "nixhmo"
+    ],
+    "u": "https://search.nixos.org/options?query={{{s}}}&source=home_manager",
+    "c": "Tech",
+    "sc": "Languages (nix)"
+  },
+  {
     "s": "Noogle Nix Function Search",
     "d": "noogle.dev",
     "t": "noogle",
