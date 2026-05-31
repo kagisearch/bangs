@@ -7172,7 +7172,7 @@
       "b&n",
       "bn"
     ],
-    "u": "https://www.barnesandnoble.com/s/{{{s}}}",
+    "u": "https://www.barnesandnoble.com/search?q={{{s}}}",
     "c": "Shopping",
     "sc": "Big box/department"
   },
