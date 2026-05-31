@@ -93477,5 +93477,13 @@
     "u": "https://tesaurus.kemendikdasmen.go.id/tematis/lema/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
+  },
+  {
+    "s": "RDAP",
+    "d": "client.rdap.org",
+    "t": "rdap",
+    "u": "https://client.rdap.org/?object={{{s}}}",
+    "c": "Online Services",
+    "sc": "Search"
   }
 ]
