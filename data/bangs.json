@@ -85919,6 +85919,14 @@
     "sc": "Search"
   },
   {
+    "s": "RDAP",
+    "d": "client.rdap.org",
+    "t": "rdap",
+    "u": "https://client.rdap.org/?object={{{s}}}",
+    "c": "Online Services",
+    "sc": "Search"
+  },
+  {
     "s": "wikiHow",
     "d": "www.wikihow.com",
     "t": "wh",
