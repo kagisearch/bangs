@@ -1703,14 +1703,6 @@
     "sc": "Topical"
   },
   {
-    "s": "Animal Crossing Wikia",
-    "d": "animalcrossing.wikia.com",
-    "t": "acw",
-    "u": "https://animalcrossing.wikia.com/wiki/Special:Search?query={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (general)"
-  },
-  {
     "s": "Assassin's Creed Wiki",
     "d": "assassinscreed.fandom.com",
     "t": "acwiki",
@@ -9569,9 +9561,9 @@
   },
   {
     "s": "Bloons Wiki",
-    "d": "bloons.wikia.com",
+    "d": "bloonswiki.com",
     "t": "bloonswiki",
-    "u": "https://bloons.wikia.com/search?query={{{s}}}",
+    "u": "https://www.bloonswiki.com/index.php?search={{{s}}}&title=Special%3ASearch",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
@@ -16304,10 +16296,10 @@
     "sc": "Music"
   },
   {
-    "s": "Critical Role Wikia",
-    "d": "criticalrole.wikia.com",
+    "s": "Critical Role Wiki",
+    "d": "criticalrole.miraheze.org",
     "t": "critrole",
-    "u": "https://criticalrole.wikia.com/wiki/Special:Search?query={{{s}}}",
+    "u": "https://criticalrole.miraheze.org/w/index.php?search={{{s}}}&title=Special:Search",
     "c": "Entertainment",
     "sc": "Misc"
   },
@@ -18110,9 +18102,9 @@
   },
   {
     "s": "DEATH BATTLE Wiki",
-    "d": "deathbattle.wikia.com",
+    "d": "deathbattle.miraheze.org",
     "t": "dbwiki",
-    "u": "https://deathbattle.wikia.com/wiki/Special:Search?fulltext=Search&search={{{s}}}",
+    "u": "https://deathbattle.miraheze.org/w/index.php?title=Special:Search&search={{{s}}}",
     "c": "Entertainment",
     "sc": "Misc"
   },
@@ -19600,9 +19592,10 @@
     "t": "dfw",
     "ts": [
       "dfwiki",
-      "dorf"
+      "dorf",
+      "dwarf"
     ],
-    "u": "https://dwarffortresswiki.org/index.php?title=Special:Search&search={{{s}}}&go=Go",
+    "u": "https://dwarffortresswiki.org/index.php?title=Special:Search&search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (offline)"
   },
@@ -20350,10 +20343,14 @@
     "sc": "Programming"
   },
   {
-    "s": "discworld",
-    "d": "discworld.wikia.com",
+    "s": "Terry Pratchett Wiki",
+    "d": "wiki.lspace.org",
     "t": "discworld",
-    "u": "https://discworld.wikia.com/wiki/Special:Search?query={{{s}}}",
+    "ts": [
+      "pratchett",
+      "lspace"
+    ],
+    "u": "https://wiki.lspace.org/index.php?search={{{s}}}&title=Special%3ASearch",
     "c": "Entertainment",
     "sc": "Forum"
   },
@@ -21326,9 +21323,9 @@
   },
   {
     "s": "Dota 2 Wiki",
-    "d": "dota2.gamepedia.com",
+    "d": "liquipedia.net/dota2/",
     "t": "dota",
-    "u": "https://dota2.gamepedia.com/index.php?search={{{s}}}",
+    "u": "https://liquipedia.net/dota2/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
@@ -22426,14 +22423,6 @@
     "sc": "Games (general)"
   },
   {
-    "s": "dwarf fortress wiki",
-    "d": "dwarffortresswiki.org",
-    "t": "dwarf",
-    "u": "https://dwarffortresswiki.org/index.php?search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
-  },
-  {
     "s": "Deutsches Wörterbuch von Jacob Grimm und Wilhelm Grimm",
     "d": "woerterbuchnetz.de",
     "t": "dwb",
@@ -22632,9 +22621,9 @@
   },
   {
     "s": "Earthbound Wiki",
-    "d": "earthbound.wikia.com",
+    "d": "wikibound.info",
     "t": "earthbound",
-    "u": "https://earthbound.wikia.com/wiki/Special:Search?search={{{s}}}",
+    "u": "https://wikibound.info/w/index.php?title=Special%3ASearch&search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
@@ -23920,14 +23909,6 @@
     "u": "https://www.elconjugador.com/conjugaison/verbe/espagnol/{{{s}}}.html",
     "c": "Research",
     "sc": "Academic"
-  },
-  {
-    "s": "Elder Scrolls Wiki (Page)",
-    "d": "elderscrolls.wikia.com",
-    "t": "elderwiki",
-    "u": "https://elderscrolls.wikia.com/wiki/index.php?search={{{s}}}&fulltext=Search",
-    "c": "Entertainment",
-    "sc": "Games (general)"
   },
   {
     "s": "electron.atom.io",
@@ -35037,9 +35018,9 @@
   },
   {
     "s": "GTA Wiki",
-    "d": "gta.fandom.com",
+    "d": "gta.wiki",
     "t": "gtawiki",
-    "u": "https://gta.fandom.com/search?query={{{s}}}",
+    "u": "https://gta.wiki/?search={{{s}}}&title=Special%3ASearch",
     "c": "Entertainment",
     "sc": "Games (general)"
   },
@@ -39312,9 +39293,9 @@
   },
   {
     "s": "Hypixel Skyblock Wiki",
-    "d": "hypixel-skyblock.fandom.com",
+    "d": "hypixelskyblock.minecraft.wiki",
     "t": "hysb",
-    "u": "https://hypixel-skyblock.fandom.com/wiki/Special:Search?query={{{s}}}",
+    "u": "https://hypixelskyblock.minecraft.wiki/?search={{{s}}}&title=Special:Search",
     "c": "Entertainment",
     "sc": "Games (Minecraft)"
   },
@@ -39884,14 +39865,6 @@
     "u": "https://www.nv5geospatialsoftware.com/docs/SearchResults.aspx?q={{{s}}}",
     "c": "Tech",
     "sc": "Languages (other)"
-  },
-  {
-    "s": "THE IDOLM@STER Wiki",
-    "d": "idolmaster.wikia.com",
-    "t": "idolmawiki",
-    "u": "https://idolmaster.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
   },
   {
     "s": "Idos",
@@ -40501,19 +40474,15 @@
   },
   {
     "s": "Project iM@S Wiki",
-    "d": "www.project-imas.com",
+    "d": "project-imas.wiki",
     "t": "imas",
-    "u": "https://www.project-imas.com/w/index.php?search={{{s}}}&title=Special:Search&go=Go",
+    "ts": [
+      "idolmawiki",
+      "imaswiki"
+    ],
+    "u": "https://project-imas.wiki/index.php?search={{{s}}}&title=Special%3ASearch",
     "c": "Entertainment",
     "sc": "Games (specific)"
-  },
-  {
-    "s": "project-imas.com wiki",
-    "d": "www.project-imas.com",
-    "t": "imaswiki",
-    "u": "https://www.project-imas.com/w/index.php?search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (general)"
   },
   {
     "s": "Images des mathématiques",
@@ -48210,14 +48179,6 @@
     "sc": "TV"
   },
   {
-    "s": "One Wiki to Rule Them All:  The Lord of the Rings Wiki",
-    "d": "lotr.wikia.com",
-    "t": "lotr",
-    "u": "https://lotr.wikia.com/wiki/Special:Search?query={{{s}}}",
-    "c": "Research",
-    "sc": "Topical"
-  },
-  {
     "s": "LOTRO-Wiki",
     "d": "lotro-wiki.com",
     "t": "lotrow",
@@ -50731,14 +50692,6 @@
     "sc": "Games (Minecraft)"
   },
   {
-    "s": "Minecraft Pocket Edition Wiki",
-    "d": "minecraftpocketedition.wikia.com",
-    "t": "mcpew",
-    "u": "https://minecraftpocketedition.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search",
-    "c": "Entertainment",
-    "sc": "Games (Minecraft)"
-  },
-  {
     "s": "Montgomery County Public Libraries (Maryland)",
     "d": "mcpl.aspendiscovery.org",
     "t": "mcplmd",
@@ -51229,20 +51182,15 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "Megami Tensei Wikia",
-    "d": "megamitensei.wikia.com",
+    "s": "Megami Tensei Wiki",
+    "d": "megatenwiki.com",
     "t": "megamitensei",
-    "u": "https://megamitensei.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search",
+    "ts": [
+      "megatenw"
+    ],
+    "u": "https://megatenwiki.com/index.php?search={{{s}}}&title=Special%3ASearch",
     "c": "Entertainment",
     "sc": "Games (specific)"
-  },
-  {
-    "s": "Megami Tensei Wiki",
-    "d": "megamitensei.wikia.com",
-    "t": "megatenw",
-    "u": "https://megamitensei.wikia.com/wiki/Special:Search?search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (general)"
   },
   {
     "s": "Meijer",
@@ -52106,14 +52054,6 @@
     "sc": "Games (Minecraft)"
   },
   {
-    "s": "Minecraft Wiki",
-    "d": "minecraft.gamepedia.com",
-    "t": "minecratwiki",
-    "u": "https://minecraft.gamepedia.com/index.php?search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (Minecraft)"
-  },
-  {
     "s": "Ming Pao",
     "d": "news.mingpao.com",
     "t": "mingpao",
@@ -52497,10 +52437,10 @@
     "sc": "Games (general)"
   },
   {
-    "s": "My Little Pony: Friendship is Magic Wiki",
-    "d": "mlp.wikia.com",
+    "s": "Equestripedia",
+    "d": "equestripedia.org",
     "t": "mlp",
-    "u": "https://mlp.wikia.com/wiki/Special:Search?search={{{s}}}",
+    "u": "https://equestripedia.org/w/index.php?search={{{s}}}&title=Special%3ASearch",
     "c": "Entertainment",
     "sc": "TV"
   },
@@ -56685,6 +56625,9 @@
     "s": "Nookipedia",
     "d": "nookipedia.com",
     "t": "nook",
+    "ts": [
+      "acw"
+    ],
     "u": "https://nookipedia.com/w/index.php?title=Special:Search&search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
@@ -64833,9 +64776,9 @@
   },
   {
     "s": "Plants vs. Zombies Wiki",
-    "d": "plantsvszombies.wikia.com",
+    "d": "plantsvszombies.wiki.gg",
     "t": "pvz",
-    "u": "https://plantsvszombies.wikia.com/wiki/Special:Search?query={{{s}}}",
+    "u": "https://plantsvszombies.wiki.gg/wiki/Special:Search?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (general)"
   },
@@ -71755,10 +71698,10 @@
     "sc": "Online"
   },
   {
-    "s": "Simpsons Wikia",
-    "d": "simpsons.wikia.com",
+    "s": "Wikisimpsons",
+    "d": "simpsonswiki.com",
     "t": "simpsons",
-    "u": "https://simpsons.wikia.com/wiki/Special:Search?search={{{s}}}",
+    "u": "https://simpsonswiki.com/w/index.php?title=Special%3ASearch&search={{{s}}}",
     "c": "Entertainment",
     "sc": "TV"
   },
@@ -73878,17 +73821,12 @@
     "sc": "Search (non-US)"
   },
   {
-    "s": "SpongeBob Wikia",
-    "d": "spongebob.wikia.com",
-    "t": "spongebob",
-    "u": "https://spongebob.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search",
-    "c": "Entertainment",
-    "sc": "TV"
-  },
-  {
     "s": "Encyclopedia SpongeBobia",
     "d": "spongebob.fandom.com",
     "t": "sponge",
+    "ts": [
+      "spongebob"
+    ],
     "u": "https://spongebob.fandom.com/wiki/Special:Search?search={{{s}}}",
     "c": "Research",
     "sc": "Reference (fun)"
@@ -75083,10 +75021,10 @@
     "sc": "Business"
   },
   {
-    "s": "Slay the spire Wiki | Fandom powered by Wikia",
-    "d": "slay-the-spire.fandom.com",
+    "s": "Slay the Spire Wiki",
+    "d": "slaythespire.wiki.gg",
     "t": "stsw",
-    "u": "https://slay-the-spire.fandom.com/wiki/Special:Search?query={{{s}}}",
+    "u": "https://slaythespire.wiki.gg/wiki/Special:Search?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
@@ -75259,9 +75197,9 @@
   },
   {
     "s": "Subnautica Wiki",
-    "d": "subnautica.wikia.com",
+    "d": "wiki.subnautica.com",
     "t": "subnautica",
-    "u": "https://subnautica.wikia.com/wiki/Special:Search?search={{{s}}}",
+    "u": "https://wiki.subnautica.com/sn/?search={{{s}}}&title=Special%3ASearch",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
@@ -77459,14 +77397,6 @@
     "sc": "Blogs (intl)"
   },
   {
-    "s": "The Elder Scrolls WIki",
-    "d": "elderscrolls.wikia.com",
-    "t": "teswiki",
-    "u": "https://elderscrolls.wikia.com/wiki/Special:Search?search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Games (specific)"
-  },
-  {
     "s": "TEU",
     "d": "eur-lex.europa.eu",
     "t": "teu",
@@ -77646,7 +77576,8 @@
     "t": "tgate",
     "ts": [
       "tolkiengateway",
-      "tolkien"
+      "tolkien",
+      "lotr"
     ],
     "u": "https://tolkiengateway.net/wiki/Special:Search?search={{{s}}}&go=Go",
     "c": "Entertainment",
@@ -81191,7 +81122,11 @@
     "s": "The Unofficial Elder Scrolls Pages",
     "d": "en.uesp.net",
     "t": "uesp",
-    "u": "https://en.uesp.net/w/index.php?title=Special:Search&profile=default&search={{{s}}}&fulltext=Search",
+    "ts": [
+      "teswiki",
+      "elderwiki"
+    ],
+    "u": "https://en.uesp.net/w/index.php?title=Special%3ASearch&search=test",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
@@ -81619,10 +81554,10 @@
     "sc": "Academic"
   },
   {
-    "s": "Undertale wiki",
-    "d": "undertale.wikia.com",
+    "s": "Undertale Wiki",
+    "d": "undertale.wiki.com",
     "t": "undertale",
-    "u": "https://undertale.wikia.com/wiki/Special:Search?search={{{s}}}&fulltext=Search",
+    "u": "https://undertale.wiki/index.php?search={{{s}}}&title=Special:Search",
     "c": "Entertainment",
     "sc": "Games (offline)"
   },
@@ -88698,9 +88633,9 @@
   },
   {
     "s": "Xenoblade Wiki",
-    "d": "xenoblade.wikia.com",
+    "d": "xenoserieswiki.org",
     "t": "xenoblade",
-    "u": "https://xenoblade.wikia.com/wiki/Special:Search?search={{{s}}}",
+    "u": "https://www.xenoserieswiki.org/w/index.php?search={{{s}}}&title=Special%3ASearch",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
