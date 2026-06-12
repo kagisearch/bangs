@@ -93489,5 +93489,16 @@
     "u": "https://tesaurus.kemendikdasmen.go.id/tematis/lema/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
+  },
+  {
+    "s": "Podcast Index",
+    "d": "podcastindex.org",
+    "t": "podindex",
+    "ts": [
+      "poddex"
+    ],
+    "u": "https://podcastindex.org/search?{{{s}}}&type=all",
+    "c": "Online Services",
+    "sc": "Search"
   }
 ]
