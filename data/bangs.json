@@ -84843,6 +84843,18 @@
     "sc": "Tools (URLs)"
   },
   {
+    "s": "Wavedash",
+    "d": "wavedash.com",
+    "t": "wavedash",
+    "ts": [
+      "wvd",
+      "wvdsh"
+    ],
+    "u": "https://wavedash.com/browse?q={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (general)"
+  },
+  {
     "s": "Wolfram Alpha",
     "d": "wolframalpha.com",
     "t": "wa",
