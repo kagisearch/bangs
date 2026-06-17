@@ -11434,6 +11434,14 @@
     "sc": "Online (intl)"
   },
   {
+    "s": "CHZZK",
+    "d": "chzzk.naver.com",
+    "t": "chzzk",
+    "u": "https://chzzk.naver.com/search?query={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (general)"
+  },
+  {
     "s": "Camptocamp",
     "d": "www.camptocamp.org",
     "t": "c2c",
@@ -73016,6 +73024,14 @@
     "u": "https://www.socksandmore.dk/catalogsearch/result/?q={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
+  },
+  {
+    "s": "SOOP",
+    "d": "www.sooplive.com",
+    "t": "soop",
+    "u": "https://www.sooplive.com/search?szKeyword={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (general)"
   },
   {
     "s": "StackOverflow Companies",
