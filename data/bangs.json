@@ -50605,6 +50605,20 @@
     "sc": "Games (Minecraft)"
   },
   {
+    "s": "Modrinth (Project by slug)",
+    "d": "modrinth.com",
+    "t": "mdproject",
+    "ts": [
+      "mrproject"
+    ],
+    "u": "https://modrinth.com/project/{{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (Minecraft)",
+    "fmt": [
+      "open_base_path"
+    ]
+  },
+  {
     "s": "Modrinth (Mods)",
     "d": "modrinth.com",
     "t": "mdmods",
