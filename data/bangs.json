@@ -64389,6 +64389,18 @@
     "sc": "Blogs"
   },
   {
+    "s": "Podcast Index",
+    "d": "podcastindex.org",
+    "t": "podindex",
+    "ts": [
+      "poddex",
+      "podcastindex"
+    ],
+    "u": "https://podcastindex.org/search?{{{s}}}&type=all",
+    "c": "Online Services",
+    "sc": "Search"
+  },
+  {
     "s": "PSDDude Photoshop Tutorials",
     "d": "www.psd-dude.com",
     "t": "psddude",
