@@ -89678,7 +89678,7 @@
     "s": "YouTube Channel",
     "d": "www.youtube.com",
     "t": "ytc",
-    "u": "https://www.youtube.com/user/{{{s}}}",
+    "u": "https://www.youtube.com/results?search_query={{{s}}}&sp=EgIQAg%253D%253D",
     "c": "Entertainment",
     "sc": "Misc"
   },
