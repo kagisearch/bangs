@@ -11434,6 +11434,14 @@
     "sc": "Online (intl)"
   },
   {
+    "s": "CHZZK",
+    "d": "chzzk.naver.com",
+    "t": "chzzk",
+    "u": "https://chzzk.naver.com/search?query={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (general)"
+  },
+  {
     "s": "Camptocamp",
     "d": "www.camptocamp.org",
     "t": "c2c",
@@ -50557,6 +50565,20 @@
     "sc": "Games (Minecraft)"
   },
   {
+    "s": "Modrinth (Project by slug)",
+    "d": "modrinth.com",
+    "t": "mdproject",
+    "ts": [
+      "mrproject"
+    ],
+    "u": "https://modrinth.com/project/{{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (Minecraft)",
+    "fmt": [
+      "open_base_path"
+    ]
+  },
+  {
     "s": "Modrinth (Mods)",
     "d": "modrinth.com",
     "t": "mdmods",
@@ -72957,6 +72979,14 @@
     "sc": "Online"
   },
   {
+    "s": "SOOP",
+    "d": "www.sooplive.com",
+    "t": "soop",
+    "u": "https://www.sooplive.com/search?szKeyword={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (general)"
+  },
+  {
     "s": "StackOverflow Companies",
     "d": "stackoverflow.com",
     "t": "socompanies",
@@ -84744,6 +84774,18 @@
     "sc": "Tools (URLs)"
   },
   {
+    "s": "Wavedash",
+    "d": "wavedash.com",
+    "t": "wavedash",
+    "ts": [
+      "wvd",
+      "wvdsh"
+    ],
+    "u": "https://wavedash.com/browse?q={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (general)"
+  },
+  {
     "s": "Wolfram Alpha",
     "d": "wolframalpha.com",
     "t": "wa",
@@ -85846,6 +85888,14 @@
     "d": "www.who.is",
     "t": "who",
     "u": "https://www.who.is/whois/{{{s}}}",
+    "c": "Online Services",
+    "sc": "Search"
+  },
+  {
+    "s": "RDAP",
+    "d": "client.rdap.org",
+    "t": "rdap",
+    "u": "https://client.rdap.org/?object={{{s}}}",
     "c": "Online Services",
     "sc": "Search"
   },
