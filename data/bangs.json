@@ -19290,6 +19290,14 @@
     ]
   },
   {
+  "s": "Deltarune Wiki",
+  "d": "deltarune.wiki",
+  "t": "deltarune",
+  "u": "https://deltarune.wiki/index.php?search={{{s}}}&title=Special:Search",
+  "c": "Entertainment",
+  "sc": "Games (specific)"
+},
+  {
     "s": "Dragen en Voeden Forum",
     "d": "forum.dragen-en-voeden.nl",
     "t": "denv",
