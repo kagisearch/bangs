@@ -93470,5 +93470,13 @@
     "u": "https://tesaurus.kemendikdasmen.go.id/tematis/lema/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
-  }
+  },
+{
+  "s": "Deltarune Wiki",
+  "d": "deltarune.wiki",
+  "t": "deltarune",
+  "u": "https://deltarune.wiki/index.php?search={{{s}}}&title=Special:Search",
+  "c": "Entertainment",
+  "sc": "Games (specific)"
+}
 ]
