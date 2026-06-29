@@ -79296,7 +79296,7 @@
     "s": "Toronto Public Library",
     "d": "www.torontopubliclibrary.ca",
     "t": "tpl",
-    "u": "https://www.torontopubliclibrary.ca/search.jsp?Ntt={{{s}}}",
+    "u": "https://tpl.bibliocommons.com/v2/search?query={{{s}}}&searchType=smart",
     "c": "Research",
     "sc": "Local"
   },
