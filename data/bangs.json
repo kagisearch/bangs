@@ -64365,7 +64365,7 @@
       "poddex",
       "podcastindex"
     ],
-    "u": "https://podcastindex.org/search?{{{s}}}&type=all",
+    "u": "https://podcastindex.org/search?q={{{s}}}&type=all",
     "c": "Online Services",
     "sc": "Search"
   },
