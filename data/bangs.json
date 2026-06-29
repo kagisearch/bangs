@@ -69375,14 +69375,6 @@
     "sc": "Sysadmin"
   },
   {
-    "s": "whosampled",
-    "d": "www.whosampled.com",
-    "t": "sampled",
-    "u": "https://www.whosampled.com/search/artists/?q={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Music"
-  },
-  {
     "s": "Samsung",
     "d": "www.samsung.com",
     "t": "sam",
@@ -85880,10 +85872,39 @@
     "sc": "Sysadmin (network)"
   },
   {
-    "s": "Who Sampled",
+    "s": "WhoSampled",
     "d": "whosampled.com",
     "t": "whosampled",
+    "ts": [
+      "whosam"
+    ],
     "u": "https://whosampled.com/search/?q={{{s}}}",
+    "c": "Multimedia",
+    "sc": "Music"
+  },
+  {
+    "s": "WhoSampled (Artists)",
+    "d": "www.whosampled.com",
+    "t": "whosama",
+    "ts": [
+      "whosamart",
+      "whosamartist",
+      "whosamartists",
+      "sampled"
+    ],
+    "u": "https://www.whosampled.com/search/artists/?q={{{s}}}",
+    "c": "Multimedia",
+    "sc": "Music"
+  },
+  {
+    "s": "WhoSampled (Tracks)",
+    "d": "www.whosampled.com",
+    "t": "whosamt",
+    "ts": [
+      "whosamtrack",
+      "whosamtracks"
+    ],
+    "u": "https://www.whosampled.com/search/tracks/?q={{{s}}}",
     "c": "Multimedia",
     "sc": "Music"
   },
