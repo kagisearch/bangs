@@ -57463,6 +57463,28 @@
     "sc": "Learning (intl)"
   },
   {
+    "s": "Oxlint (Rule)",
+    "d": "oxc.rs",
+    "t": "oxlint",
+    "u": "https://oxc.rs/docs/guide/usage/linter/rules/{{{s}}}",
+    "c": "Tech",
+    "sc": "Languages (javascript)",
+    "fmt": []
+  },
+  {
+    "s": "Oxlint (ESLint Rule)",
+    "d": "oxc.rs",
+    "t": "oxlinte",
+    "ts": [
+      "oxlintes",
+      "oxlinteslint"
+    ],
+    "u": "https://oxc.rs/docs/guide/usage/linter/rules/eslint/{{{s}}}",
+    "c": "Tech",
+    "sc": "Languages (javascript)",
+    "fmt": []
+  },
+  {
     "s": "OverAPI Cheatsheet",
     "d": "overapi.com",
     "t": "oapi",
