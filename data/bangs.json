@@ -57463,6 +57463,28 @@
     "sc": "Learning (intl)"
   },
   {
+    "s": "Oxlint (Rule)",
+    "d": "oxc.rs",
+    "t": "oxlint",
+    "u": "https://oxc.rs/docs/guide/usage/linter/rules/{{{s}}}",
+    "c": "Tech",
+    "sc": "Languages (javascript)",
+    "fmt": []
+  },
+  {
+    "s": "Oxlint (ESLint Rule)",
+    "d": "oxc.rs",
+    "t": "oxlinte",
+    "ts": [
+      "oxlintes",
+      "oxlinteslint"
+    ],
+    "u": "https://oxc.rs/docs/guide/usage/linter/rules/eslint/{{{s}}}",
+    "c": "Tech",
+    "sc": "Languages (javascript)",
+    "fmt": []
+  },
+  {
     "s": "OverAPI Cheatsheet",
     "d": "overapi.com",
     "t": "oapi",
@@ -64358,6 +64380,18 @@
     "sc": "Blogs"
   },
   {
+    "s": "Podcast Index",
+    "d": "podcastindex.org",
+    "t": "podindex",
+    "ts": [
+      "poddex",
+      "podcastindex"
+    ],
+    "u": "https://podcastindex.org/search?q={{{s}}}&type=all",
+    "c": "Online Services",
+    "sc": "Search"
+  },
+  {
     "s": "PSDDude Photoshop Tutorials",
     "d": "www.psd-dude.com",
     "t": "psddude",
@@ -67914,7 +67948,7 @@
     "sc": "Music"
   },
   {
-    "s": "Roblox Experiences",
+    "s": "Roblox Games",
     "d": "www.roblox.com",
     "t": "robloxg",
     "ts": [
@@ -69361,14 +69395,6 @@
     "u": "https://wiki.samba.org/index.php?title=Special:Search&search={{{s}}}&go=Go",
     "c": "Tech",
     "sc": "Sysadmin"
-  },
-  {
-    "s": "whosampled",
-    "d": "www.whosampled.com",
-    "t": "sampled",
-    "u": "https://www.whosampled.com/search/artists/?q={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Music"
   },
   {
     "s": "Samsung",
@@ -85868,10 +85894,39 @@
     "sc": "Sysadmin (network)"
   },
   {
-    "s": "Who Sampled",
+    "s": "WhoSampled",
     "d": "whosampled.com",
     "t": "whosampled",
+    "ts": [
+      "whosam"
+    ],
     "u": "https://whosampled.com/search/?q={{{s}}}",
+    "c": "Multimedia",
+    "sc": "Music"
+  },
+  {
+    "s": "WhoSampled (Artists)",
+    "d": "www.whosampled.com",
+    "t": "whosama",
+    "ts": [
+      "whosamart",
+      "whosamartist",
+      "whosamartists",
+      "sampled"
+    ],
+    "u": "https://www.whosampled.com/search/artists/?q={{{s}}}",
+    "c": "Multimedia",
+    "sc": "Music"
+  },
+  {
+    "s": "WhoSampled (Tracks)",
+    "d": "www.whosampled.com",
+    "t": "whosamt",
+    "ts": [
+      "whosamtrack",
+      "whosamtracks"
+    ],
+    "u": "https://www.whosampled.com/search/tracks/?q={{{s}}}",
     "c": "Multimedia",
     "sc": "Music"
   },
@@ -89666,7 +89721,7 @@
     "s": "YouTube Channel",
     "d": "www.youtube.com",
     "t": "ytc",
-    "u": "https://www.youtube.com/user/{{{s}}}",
+    "u": "https://www.youtube.com/results?search_query={{{s}}}&sp=EgIQAg%253D%253D",
     "c": "Entertainment",
     "sc": "Misc"
   },
