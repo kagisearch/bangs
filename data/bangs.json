@@ -90752,7 +90752,7 @@
     "sc": "Reference"
   },
   {
-    "s": "Wikipedia (English)",
+    "s": "English Wikipedia",
     "d": "en.wikipedia.org",
     "t": "wen",
     "ts": [
@@ -91656,7 +91656,7 @@
     "sc": "Reference"
   },
   {
-    "s": "Norwegian (Nynorsk) Wikipedia",
+    "s": "Norwegian Nynorsk Wikipedia",
     "d": "nn.wikipedia.org",
     "t": "wnn",
     "ts": [
@@ -92603,7 +92603,7 @@
     "sc": "Reference"
   },
   {
-    "s": "Wikipedia - Zitierhilfe",
+    "s": "German Wikipedia CiteThisPage",
     "d": "de.wikipedia.org",
     "t": "cwde",
     "u": "https://de.wikipedia.org/w/index.php?title=Spezial:Zitierhilfe&page={{{s}}}",
@@ -92637,7 +92637,7 @@
     "sc": "Games (Pokemon)"
   },
   {
-    "s": "Wikipedia – Friddje diehtosátnegirji",
+    "s": "Northern Sami Wikipedia",
     "d": "se.wikipedia.org",
     "t": "wse",
     "u": "https://se.wikipedia.org/w/index.php?search={{{s}}}",
@@ -92645,7 +92645,7 @@
     "sc": "Reference"
   },
   {
-    "s": "Wikipedia (VO)",
+    "s": "Volapük Wikipedia",
     "d": "vo.wikipedia.org",
     "t": "wvo",
     "u": "https://vo.wikipedia.org/w/index.php?search={{{s}}}",
