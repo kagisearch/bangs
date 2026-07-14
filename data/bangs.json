@@ -86532,14 +86532,6 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "Wikrionary(GR)",
-    "d": "el.m.wiktionary.org",
-    "t": "wiktgr",
-    "u": "https://el.m.wiktionary.org/wiki{{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
     "s": "Wiktionary (hu)",
     "d": "hu.wiktionary.org",
     "t": "wikthu",
@@ -86832,17 +86824,6 @@
     "d": "www.wissen.de",
     "t": "wissen",
     "u": "https://www.wissen.de/wissensserver/search?keyword={{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
-    "s": "Wiktionary(GR)",
-    "d": "el.m.wiktionary.org",
-    "t": "witgr",
-    "ts": [
-      "λεξικό"
-    ],
-    "u": "https://el.m.wiktionary.org/wiki/{{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -88232,14 +88213,6 @@
     "u": "https://whatthefuckshouldilistentorightnow.com/artist.php?artist={{{s}}}",
     "c": "Entertainment",
     "sc": "Audio"
-  },
-  {
-    "s": "Wiktionary Mobile",
-    "d": "en.m.wiktionary.org",
-    "t": "wtm",
-    "u": "https://en.m.wiktionary.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words)"
   },
   {
     "s": "WikiWoordenboek",
@@ -92736,38 +92709,6 @@
     "sc": "Reference"
   },
   {
-    "s": "Wikipedia Deutsch Mobile",
-    "d": "de.m.wikipedia.org",
-    "t": "wmde",
-    "u": "https://de.m.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
-    "s": "Wikipedia French mobile",
-    "d": "fr.m.wikipedia.org",
-    "t": "wmfr",
-    "u": "https://fr.m.wikipedia.org/w/index.php?search={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
-    "s": "Wikipedia Mobile (Serbia)",
-    "d": "sr.m.wikipedia.org",
-    "t": "wmsr",
-    "u": "https://sr.m.wikipedia.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
-    "s": "Wikipedia mobile",
-    "d": "en.m.wikipedia.org",
-    "t": "wm",
-    "u": "https://en.m.wikipedia.org/wiki?search={{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
     "s": "Wikipedia (FR)",
     "d": "fr.wikipedia.org",
     "t": "wpfr",
@@ -92808,14 +92749,6 @@
     "sc": "Search"
   },
   {
-    "s": "Wikipedia (Ukraine)",
-    "d": "uk.m.wikipedia.org",
-    "t": "в",
-    "u": "https://uk.m.wikipedia.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
     "s": "Википедия",
     "d": "ru.wikipedia.org",
     "t": "вики",
@@ -92825,14 +92758,6 @@
     "u": "https://ru.wikipedia.org/w/index.php?search={{{s}}}&",
     "c": "Multimedia",
     "sc": "Docs"
-  },
-  {
-    "s": "Βικιπαίδεια",
-    "d": "el.m.wikipedia.org",
-    "t": "βικι",
-    "u": "https://el.m.wikipedia.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
   },
   {
     "s": "Wikipedia (BG)",
