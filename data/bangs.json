@@ -90766,33 +90766,33 @@
     "sc": "Reference"
   },
   {
-    "s": "Wikipedia Random in Category",
+    "s": "English Wikipedia Random in Category",
     "d": "en.wikipedia.org",
-    "t": "wrand",
+    "t": "enwikirand",
     "u": "https://en.wikipedia.org/wiki/Special:RandomInCategory/{{{s}}}",
     "c": "Research",
     "sc": "Learning"
   },
   {
-    "s": "Wikipedia Band Discography",
+    "s": "English Wikipedia Discography",
     "d": "en.wikipedia.org",
-    "t": "wdg",
+    "t": "enwikidg",
     "u": "https://en.wikipedia.org/w/index.php?title=Special:Search&search={{{s}}}+discography",
     "c": "Research",
     "sc": "Reference"
   },
   {
-    "s": "Wikipedia Modules",
+    "s": "English Wikipedia Modules",
     "d": "en.wikipedia.org",
-    "t": "wikimodule",
+    "t": "enwikimod",
     "u": "https://en.wikipedia.org/wiki/Module:{{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
   {
-    "s": "Wikipedia Templates",
+    "s": "English Wikipedia Templates",
     "d": "en.wikipedia.org",
-    "t": "wikitemplate",
+    "t": "enwikitm",
     "u": "https://en.wikipedia.org/wiki/Template:{{{s}}}",
     "c": "Research",
     "sc": "Academic"
