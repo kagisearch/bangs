@@ -86274,7 +86274,6 @@
     "d": "en.wikiversity.org",
     "t": "wikiversity",
     "ts": [
-      "wku",
       "wvers"
     ],
     "u": "https://en.wikiversity.org/w/index.php?search={{{s}}}",
@@ -88187,7 +88186,7 @@
   {
     "s": "Wiktionary (Hindi)",
     "d": "hi.wiktionary.org",
-    "t": "wth",
+    "t": "hiwiktionary",
     "u": "https://hi.wiktionary.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
@@ -90820,9 +90819,7 @@
     "d": "fr.wikipedia.org",
     "t": "frwikipedia",
     "ts": [
-      "frwiki",
       "frwp",
-      "frw",
       "wikifr",
       "wpfr",
       "wfr"
@@ -90934,7 +90931,6 @@
     "ts": [
       "fawiki",
       "fawp",
-      "faw",
       "wikifa",
       "wpfa",
       "wfa"
@@ -90952,7 +90948,6 @@
       "plwp",
       "plw",
       "wikipl",
-      "wppl",
       "wpl"
     ],
     "u": "https://pl.wikipedia.org/w/index.php?search={{{s}}}",
@@ -90982,7 +90977,6 @@
     "ts": [
       "nlwiki",
       "nlwp",
-      "nlw",
       "wikinl",
       "wpnl",
       "wnl"
@@ -91030,7 +91024,6 @@
     "ts": [
       "trwiki",
       "trwp",
-      "trw",
       "wikitr",
       "wptr",
       "wtr"
@@ -91046,7 +91039,6 @@
     "ts": [
       "cswiki",
       "cswp",
-      "csw",
       "wikics",
       "wpcs",
       "wcs"
@@ -91094,7 +91086,6 @@
     "ts": [
       "svwiki",
       "svwp",
-      "svw",
       "wikisv",
       "wpsv",
       "wsv"
@@ -91188,9 +91179,7 @@
     "d": "th.wikipedia.org",
     "t": "thwikipedia",
     "ts": [
-      "thwiki",
       "thwp",
-      "thw",
       "wikith",
       "wpth",
       "wth"
@@ -91302,7 +91291,6 @@
     "ts": [
       "etwiki",
       "etwp",
-      "etw",
       "wikiet",
       "wpet",
       "wet"
@@ -91316,7 +91304,6 @@
     "d": "da.wikipedia.org",
     "t": "dawikipedia",
     "ts": [
-      "dawiki",
       "dawp",
       "daw",
       "wikida",
@@ -91350,7 +91337,6 @@
     "ts": [
       "bgwiki",
       "bgwp",
-      "bgw",
       "wikibg",
       "wpbg",
       "wbg"
@@ -91444,7 +91430,6 @@
     "d": "hr.wikipedia.org",
     "t": "hrwikipedia",
     "ts": [
-      "hrwiki",
       "hrwp",
       "hrw",
       "wikihr",
@@ -91492,7 +91477,6 @@
     "d": "sl.wikipedia.org",
     "t": "slwikipedia",
     "ts": [
-      "slwiki",
       "slwp",
       "slw",
       "wikisl",
@@ -91510,7 +91494,6 @@
     "ts": [
       "eowiki",
       "eowp",
-      "eow",
       "wikieo",
       "wpeo",
       "weo"
@@ -91558,10 +91541,8 @@
     "ts": [
       "tawiki",
       "tawp",
-      "taw",
       "wikita",
-      "wpta",
-      "wta"
+      "wpta"
     ],
     "u": "https://ta.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
@@ -91572,7 +91553,6 @@
     "d": "gl.wikipedia.org",
     "t": "glwikipedia",
     "ts": [
-      "glwiki",
       "glwp",
       "glw",
       "wikigl",
@@ -91638,7 +91618,6 @@
     "ts": [
       "mkwiki",
       "mkwp",
-      "mkw",
       "wikimk",
       "wpmk",
       "wmk"
@@ -91736,8 +91715,7 @@
       "shwp",
       "shw",
       "wikish",
-      "wpsh",
-      "wsh"
+      "wpsh"
     ],
     "u": "https://sh.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
@@ -91764,7 +91742,6 @@
     "d": "sw.wikipedia.org",
     "t": "swwikipedia",
     "ts": [
-      "swwiki",
       "swwp",
       "sww",
       "wikisw",
@@ -91782,10 +91759,8 @@
     "ts": [
       "bswiki",
       "bswp",
-      "bsw",
       "wikibs",
-      "wpbs",
-      "wbs"
+      "wpbs"
     ],
     "u": "https://bs.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
@@ -91798,7 +91773,6 @@
     "ts": [
       "iswiki",
       "iswp",
-      "isw",
       "wikiis",
       "wpis",
       "wis"
@@ -91830,7 +91804,6 @@
     "ts": [
       "lawiki",
       "lawp",
-      "law",
       "wikila",
       "wpla",
       "wla"
@@ -91878,7 +91851,6 @@
     "ts": [
       "mrwiki",
       "mrwp",
-      "mrw",
       "wikimr",
       "wpmr",
       "wmr"
@@ -91910,10 +91882,8 @@
     "ts": [
       "tlwiki",
       "tlwp",
-      "tlw",
       "wikitl",
-      "wptl",
-      "wtl"
+      "wptl"
     ],
     "u": "https://tl.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
@@ -92054,7 +92024,6 @@
     "ts": [
       "ocwiki",
       "ocwp",
-      "ocw",
       "wikioc",
       "wpoc",
       "woc"
@@ -92150,7 +92119,6 @@
     "ts": [
       "siwiki",
       "siwp",
-      "siw",
       "wikisi",
       "wpsi",
       "wsi"
@@ -92254,10 +92222,8 @@
     "ts": [
       "htwiki",
       "htwp",
-      "htw",
       "wikiht",
-      "wpht",
-      "wht"
+      "wpht"
     ],
     "u": "https://ht.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
@@ -92320,8 +92286,7 @@
       "sowp",
       "sow",
       "wikiso",
-      "wpso",
-      "wso"
+      "wpso"
     ],
     "u": "https://so.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
@@ -92398,7 +92363,6 @@
     "ts": [
       "anwiki",
       "anwp",
-      "anw",
       "wikian",
       "wpan",
       "wan"
@@ -92590,7 +92554,6 @@
     "ts": [
       "mtwiki",
       "mtwp",
-      "mtw",
       "wikimt",
       "wpmt",
       "wmt"
@@ -92624,8 +92587,7 @@
       "amwp",
       "amw",
       "wikiam",
-      "wpam",
-      "wam"
+      "wpam"
     ],
     "u": "https://am.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
@@ -92656,8 +92618,7 @@
       "suwp",
       "suw",
       "wikisu",
-      "wpsu",
-      "wsu"
+      "wpsu"
     ],
     "u": "https://su.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
@@ -92686,7 +92647,6 @@
     "ts": [
       "mgwiki",
       "mgwp",
-      "mgw",
       "wikimg",
       "wpmg",
       "wmg"
@@ -92750,7 +92710,6 @@
     "ts": [
       "tnwiki",
       "tnwp",
-      "tnw",
       "wikitn",
       "wptn",
       "wtn"
@@ -92798,7 +92757,6 @@
     "ts": [
       "cowiki",
       "cowp",
-      "cow",
       "wikico",
       "wpco",
       "wco"
@@ -92880,8 +92838,7 @@
       "iewp",
       "iew",
       "wikiie",
-      "wpie",
-      "wie"
+      "wpie"
     ],
     "u": "https://ie.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
@@ -92924,9 +92881,7 @@
     "d": "fo.wikipedia.org",
     "t": "fowikipedia",
     "ts": [
-      "fowiki",
       "fowp",
-      "fow",
       "wikifo",
       "wpfo",
       "wfo"
@@ -92942,10 +92897,8 @@
     "ts": [
       "iawiki",
       "iawp",
-      "iaw",
       "wikiia",
-      "wpia",
-      "wia"
+      "wpia"
     ],
     "u": "https://ia.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
@@ -93040,8 +92993,7 @@
       "pmswp",
       "pmsw",
       "wikipms",
-      "wppms",
-      "wpms"
+      "wppms"
     ],
     "u": "https://pms.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
@@ -93070,7 +93022,6 @@
     "ts": [
       "tkwiki",
       "tkwp",
-      "tkw",
       "wikitk",
       "wptk",
       "wtk"
@@ -93234,7 +93185,6 @@
       "sewp",
       "sew",
       "wikise",
-      "wpse",
       "wse"
     ],
     "u": "https://se.wikipedia.org/w/index.php?search={{{s}}}",
