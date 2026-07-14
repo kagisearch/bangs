@@ -92611,14 +92611,6 @@
     "sc": "Reference"
   },
   {
-    "s": "de.wikipedia.org",
-    "d": "de.wikipedia.org",
-    "t": "dew",
-    "u": "https://de.wikipedia.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
     "s": "Google de.Wikipedia",
     "d": "www.google.de",
     "ad": "de.wikipedia.org",
@@ -92637,84 +92629,12 @@
     "sc": "Google"
   },
   {
-    "s": "Simple English Wikipedia (short bang)",
-    "d": "simple.wikipedia.org",
-    "t": "se.w",
-    "u": "https://simple.wikipedia.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "Vikipedi (Turkish Wikipedia)",
-    "d": "tr.wikipedia.org",
-    "t": "vikipedi",
-    "u": "https://tr.wikipedia.org/wiki/Special:Search?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "Wikipedia (BR)",
-    "d": "pt.wikipedia.org",
-    "t": "w.br",
-    "u": "https://pt.wikipedia.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
     "s": "Pokemon Wiki",
     "d": "es.pokemon.wikia.com",
     "t": "wdex",
     "u": "https://es.pokemon.wikia.com/wiki/Especial:Buscar?query={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (Pokemon)"
-  },
-  {
-    "s": "Wikipedia Euskaraz (in Basque)",
-    "d": "eu.wikipedia.org",
-    "t": "weus",
-    "u": "https://eu.wikipedia.org/wiki/Special:Search?search={{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
-    "s": "fr.wikipedia.org",
-    "d": "fr.wikipedia.org",
-    "t": "wf",
-    "u": "https://fr.wikipedia.org/wiki/Special:Search?search={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search (non-US)"
-  },
-  {
-    "s": "Wikipedia (GR)",
-    "d": "el.wikipedia.org",
-    "t": "wgr",
-    "u": "https://el.wikipedia.org/wiki/Special:Search?search={{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
-    "s": "Wikipedia Polska",
-    "d": "pl.wikipedia.org",
-    "t": "wiki.pl",
-    "u": "https://pl.wikipedia.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
-    "s": "Wikipedia in Japanese",
-    "d": "ja.wikipedia.org",
-    "t": "wj",
-    "u": "https://ja.wikipedia.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
-    "s": "Wikipedia (FR)",
-    "d": "fr.wikipedia.org",
-    "t": "wpfr",
-    "u": "https://fr.wikipedia.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Learning (intl)"
   },
   {
     "s": "Wikipedia – Friddje diehtosátnegirji",
@@ -92731,41 +92651,6 @@
     "u": "https://vo.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
-  },
-  {
-    "s": "ويكيبيديا العربية",
-    "d": "ar.wikipedia.org",
-    "t": "و",
-    "u": "https://ar.wikipedia.org/wiki/Special:Search?search={{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
-    "s": "greek wikipedia",
-    "d": "el.wikipedia.org",
-    "t": "ςγρ",
-    "u": "https://el.wikipedia.org/wiki/?search={{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
-    "s": "Википедия",
-    "d": "ru.wikipedia.org",
-    "t": "вики",
-    "ts": [
-      "ц"
-    ],
-    "u": "https://ru.wikipedia.org/w/index.php?search={{{s}}}&",
-    "c": "Multimedia",
-    "sc": "Docs"
-  },
-  {
-    "s": "Wikipedia (BG)",
-    "d": "bg.wikipedia.org",
-    "t": "уики",
-    "u": "https://bg.wikipedia.org/wiki/{{{s}}}",
-    "c": "Translation",
-    "sc": "Google"
   },
   {
     "s": "Predecessor Official Wiki",
