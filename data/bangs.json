@@ -90754,7 +90754,7 @@
   {
     "s": "English Wikipedia",
     "d": "en.wikipedia.org",
-    "t": "wen",
+    "t": "enwikipedia",
     "ts": [
       "enwiki",
       "wikien",
@@ -90800,7 +90800,7 @@
   {
     "s": "German Wikipedia",
     "d": "de.wikipedia.org",
-    "t": "wde",
+    "t": "dewikipedia",
     "ts": [
       "dewiki",
       "wikide",
@@ -90816,7 +90816,7 @@
   {
     "s": "French Wikipedia",
     "d": "fr.wikipedia.org",
-    "t": "wfr",
+    "t": "frwikipedia",
     "ts": [
       "wikifr"
     ],
@@ -90827,7 +90827,7 @@
   {
     "s": "Spanish Wikipedia",
     "d": "es.wikipedia.org",
-    "t": "wes",
+    "t": "eswikipedia",
     "ts": [
       "eswiki",
       "wikies"
@@ -90839,7 +90839,7 @@
   {
     "s": "Japanese Wikipedia",
     "d": "ja.wikipedia.org",
-    "t": "wja",
+    "t": "jawikipedia",
     "ts": [
       "jawiki",
       "wikija",
@@ -90852,7 +90852,7 @@
   {
     "s": "Russian Wikipedia",
     "d": "ru.wikipedia.org",
-    "t": "wru",
+    "t": "ruwikipedia",
     "ts": [
       "ruwiki",
       "wikiru",
@@ -90868,7 +90868,7 @@
   {
     "s": "Portuguese Wikipedia",
     "d": "pt.wikipedia.org",
-    "t": "wpt",
+    "t": "ptwikipedia",
     "ts": [
       "ptwiki",
       "wikipt"
@@ -90880,7 +90880,7 @@
   {
     "s": "Italian Wikipedia",
     "d": "it.wikipedia.org",
-    "t": "wit",
+    "t": "itwikipedia",
     "ts": [
       "itwiki",
       "wikiit",
@@ -90893,7 +90893,7 @@
   {
     "s": "Chinese Wikipedia",
     "d": "zh.wikipedia.org",
-    "t": "wzh",
+    "t": "zhwikipedia",
     "ts": [
       "zhwiki",
       "wikizh",
@@ -90906,7 +90906,7 @@
   {
     "s": "Persian Wikipedia",
     "d": "fa.wikipedia.org",
-    "t": "wfa",
+    "t": "fawikipedia",
     "ts": [
       "fawiki",
       "wikifa",
@@ -90919,7 +90919,7 @@
   {
     "s": "Polish Wikipedia",
     "d": "pl.wikipedia.org",
-    "t": "wpl",
+    "t": "plwikipedia",
     "ts": [
       "plwiki",
       "wikipl",
@@ -90932,7 +90932,7 @@
   {
     "s": "Arabic Wikipedia",
     "d": "ar.wikipedia.org",
-    "t": "war",
+    "t": "arwikipedia",
     "ts": [
       "arwiki",
       "wikiar"
@@ -90944,7 +90944,7 @@
   {
     "s": "Dutch Wikipedia",
     "d": "nl.wikipedia.org",
-    "t": "wnl",
+    "t": "nlwikipedia",
     "ts": [
       "nlwiki",
       "wikinl",
@@ -90957,7 +90957,7 @@
   {
     "s": "Hebrew Wikipedia",
     "d": "he.wikipedia.org",
-    "t": "whe",
+    "t": "hewikipedia",
     "ts": [
       "hewiki",
       "wikihe",
@@ -90971,7 +90971,7 @@
   {
     "s": "Ukrainian Wikipedia",
     "d": "uk.wikipedia.org",
-    "t": "wuk",
+    "t": "ukwikipedia",
     "ts": [
       "ukwiki",
       "wikiuk"
@@ -90983,7 +90983,7 @@
   {
     "s": "Turkish Wikipedia",
     "d": "tr.wikipedia.org",
-    "t": "wtr",
+    "t": "trwikipedia",
     "ts": [
       "trwiki",
       "wikitr"
@@ -90995,7 +90995,7 @@
   {
     "s": "Czech Wikipedia",
     "d": "cs.wikipedia.org",
-    "t": "wcs",
+    "t": "cswikipedia",
     "ts": [
       "cswiki",
       "wikics",
@@ -91008,7 +91008,7 @@
   {
     "s": "Indonesian Wikipedia",
     "d": "id.wikipedia.org",
-    "t": "wid",
+    "t": "idwikipedia",
     "ts": [
       "idwiki",
       "wikiid"
@@ -91020,7 +91020,7 @@
   {
     "s": "Korean Wikipedia",
     "d": "ko.wikipedia.org",
-    "t": "wko",
+    "t": "kowikipedia",
     "ts": [
       "kowiki",
       "wikiko"
@@ -91032,7 +91032,7 @@
   {
     "s": "Swedish Wikipedia",
     "d": "sv.wikipedia.org",
-    "t": "wsv",
+    "t": "svwikipedia",
     "ts": [
       "svwiki",
       "wikisv"
@@ -91044,7 +91044,7 @@
   {
     "s": "Finnish Wikipedia",
     "d": "fi.wikipedia.org",
-    "t": "wfi",
+    "t": "fiwikipedia",
     "ts": [
       "fiwiki",
       "wikifi",
@@ -91057,7 +91057,7 @@
   {
     "s": "Simple English Wikipedia",
     "d": "simple.wikipedia.org",
-    "t": "wsimple",
+    "t": "simplewikipedia",
     "ts": [
       "simplewiki",
       "wikisimple",
@@ -91070,7 +91070,7 @@
   {
     "s": "Vietnamese Wikipedia",
     "d": "vi.wikipedia.org",
-    "t": "wvi",
+    "t": "viwikipedia",
     "ts": [
       "viwiki",
       "wikivi",
@@ -91084,7 +91084,7 @@
   {
     "s": "Hungarian Wikipedia",
     "d": "hu.wikipedia.org",
-    "t": "whu",
+    "t": "huwikipedia",
     "ts": [
       "huwiki",
       "wikihu"
@@ -91096,7 +91096,7 @@
   {
     "s": "Catalan Wikipedia",
     "d": "ca.wikipedia.org",
-    "t": "wca",
+    "t": "cawikipedia",
     "ts": [
       "cawiki",
       "wikica",
@@ -91110,7 +91110,7 @@
   {
     "s": "Thai Wikipedia",
     "d": "th.wikipedia.org",
-    "t": "wikith",
+    "t": "thwikipedia",
     "u": "https://th.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Reference"
@@ -91118,7 +91118,7 @@
   {
     "s": "Norwegian Wikipedia",
     "d": "no.wikipedia.org",
-    "t": "wno",
+    "t": "nowikipedia",
     "ts": [
       "nowiki",
       "wikino"
@@ -91130,7 +91130,7 @@
   {
     "s": "Serbian Wikipedia",
     "d": "sr.wikipedia.org",
-    "t": "wsr",
+    "t": "srwikipedia",
     "ts": [
       "srwiki",
       "wikisr"
@@ -91142,7 +91142,7 @@
   {
     "s": "Greek Wikipedia",
     "d": "el.wikipedia.org",
-    "t": "wel",
+    "t": "elwikipedia",
     "ts": [
       "elwiki",
       "wikiel",
@@ -91155,7 +91155,7 @@
   {
     "s": "Hindi Wikipedia",
     "d": "hi.wikipedia.org",
-    "t": "whi",
+    "t": "hiwikipedia",
     "ts": [
       "hiwiki",
       "wikihi",
@@ -91168,7 +91168,7 @@
   {
     "s": "Bengali Wikipedia",
     "d": "bn.wikipedia.org",
-    "t": "wbn",
+    "t": "bnwikipedia",
     "ts": [
       "bnwiki",
       "wikibn"
@@ -91180,7 +91180,7 @@
   {
     "s": "Romanian Wikipedia",
     "d": "ro.wikipedia.org",
-    "t": "wro",
+    "t": "rowikipedia",
     "ts": [
       "wikiro"
     ],
@@ -91191,7 +91191,7 @@
   {
     "s": "Estonian Wikipedia",
     "d": "et.wikipedia.org",
-    "t": "wet",
+    "t": "etwikipedia",
     "ts": [
       "etwiki",
       "wikiet",
@@ -91204,7 +91204,7 @@
   {
     "s": "Danish Wikipedia",
     "d": "da.wikipedia.org",
-    "t": "wda",
+    "t": "dawikipedia",
     "ts": [
       "wikida",
       "wdk"
@@ -91216,7 +91216,7 @@
   {
     "s": "Uzbek Wikipedia",
     "d": "uz.wikipedia.org",
-    "t": "wuz",
+    "t": "uzwikipedia",
     "ts": [
       "uzwiki",
       "wikiuz"
@@ -91228,7 +91228,7 @@
   {
     "s": "Bulgarian Wikipedia",
     "d": "bg.wikipedia.org",
-    "t": "wbg",
+    "t": "bgwikipedia",
     "ts": [
       "bgwiki",
       "wikibg"
@@ -91240,7 +91240,7 @@
   {
     "s": "Azerbaijani Wikipedia",
     "d": "az.wikipedia.org",
-    "t": "waz",
+    "t": "azwikipedia",
     "ts": [
       "azwiki",
       "wikiaz"
@@ -91252,7 +91252,7 @@
   {
     "s": "Malay Wikipedia",
     "d": "ms.wikipedia.org",
-    "t": "wms",
+    "t": "mswikipedia",
     "ts": [
       "mswiki",
       "wikims"
@@ -91264,7 +91264,7 @@
   {
     "s": "Slovak Wikipedia",
     "d": "sk.wikipedia.org",
-    "t": "wsk",
+    "t": "skwikipedia",
     "ts": [
       "skwiki",
       "wikisk"
@@ -91276,7 +91276,7 @@
   {
     "s": "Basque Wikipedia",
     "d": "eu.wikipedia.org",
-    "t": "weu",
+    "t": "euwikipedia",
     "ts": [
       "euwiki",
       "wikieu"
@@ -91288,7 +91288,7 @@
   {
     "s": "Armenian Wikipedia",
     "d": "hy.wikipedia.org",
-    "t": "why",
+    "t": "hywikipedia",
     "ts": [
       "hywiki",
       "wikihy",
@@ -91301,7 +91301,7 @@
   {
     "s": "Croatian Wikipedia",
     "d": "hr.wikipedia.org",
-    "t": "whr",
+    "t": "hrwikipedia",
     "ts": [
       "wikihr"
     ],
@@ -91312,7 +91312,7 @@
   {
     "s": "Kazakh Wikipedia",
     "d": "kk.wikipedia.org",
-    "t": "wkk",
+    "t": "kkwikipedia",
     "ts": [
       "kkwiki",
       "wikikk"
@@ -91324,7 +91324,7 @@
   {
     "s": "Lithuanian Wikipedia",
     "d": "lt.wikipedia.org",
-    "t": "wlt",
+    "t": "ltwikipedia",
     "ts": [
       "ltwiki",
       "wikilt"
@@ -91336,7 +91336,7 @@
   {
     "s": "Slovene Wikipedia",
     "d": "sl.wikipedia.org",
-    "t": "wsl",
+    "t": "slwikipedia",
     "ts": [
       "wikisl"
     ],
@@ -91347,7 +91347,7 @@
   {
     "s": "Esperanto Wikipedia",
     "d": "eo.wikipedia.org",
-    "t": "weo",
+    "t": "eowikipedia",
     "ts": [
       "eowiki",
       "wikieo",
@@ -91361,7 +91361,7 @@
   {
     "s": "Latvian Wikipedia",
     "d": "lv.wikipedia.org",
-    "t": "wlv",
+    "t": "lvwikipedia",
     "ts": [
       "lvwiki",
       "wikilv"
@@ -91373,7 +91373,7 @@
   {
     "s": "Georgian Wikipedia",
     "d": "ka.wikipedia.org",
-    "t": "wka",
+    "t": "kawikipedia",
     "ts": [
       "kawiki",
       "wikika"
@@ -91385,7 +91385,7 @@
   {
     "s": "Tamil Wikipedia",
     "d": "ta.wikipedia.org",
-    "t": "tawiki",
+    "t": "tawikipedia",
     "ts": [
       "wikita",
       "tawk"
@@ -91397,7 +91397,7 @@
   {
     "s": "Galician Wikipedia",
     "d": "gl.wikipedia.org",
-    "t": "wgl",
+    "t": "glwikipedia",
     "ts": [
       "wikigl",
       "wgal"
@@ -91409,7 +91409,7 @@
   {
     "s": "Albanian Wikipedia",
     "d": "sq.wikipedia.org",
-    "t": "wsq",
+    "t": "sqwikipedia",
     "ts": [
       "sqwiki",
       "wikisq"
@@ -91421,7 +91421,7 @@
   {
     "s": "Urdu Wikipedia",
     "d": "ur.wikipedia.org",
-    "t": "wur",
+    "t": "urwikipedia",
     "ts": [
       "urwiki",
       "wikiur"
@@ -91433,7 +91433,7 @@
   {
     "s": "Belarusian Wikipedia",
     "d": "be.wikipedia.org",
-    "t": "wbe",
+    "t": "bewikipedia",
     "ts": [
       "bewiki",
       "wikibe"
@@ -91445,7 +91445,7 @@
   {
     "s": "Macedonian Wikipedia",
     "d": "mk.wikipedia.org",
-    "t": "wmk",
+    "t": "mkwikipedia",
     "ts": [
       "mkwiki",
       "wikimk"
@@ -91457,7 +91457,7 @@
   {
     "s": "Malayalam Wikipedia",
     "d": "ml.wikipedia.org",
-    "t": "wml",
+    "t": "mlwikipedia",
     "ts": [
       "mlwiki",
       "wikiml"
@@ -91469,7 +91469,7 @@
   {
     "s": "Telugu Wikipedia",
     "d": "te.wikipedia.org",
-    "t": "wte",
+    "t": "tewikipedia",
     "ts": [
       "tewiki",
       "wikite"
@@ -91481,7 +91481,7 @@
   {
     "s": "Hausa Wikipedia",
     "d": "ha.wikipedia.org",
-    "t": "wha",
+    "t": "hawikipedia",
     "ts": [
       "hawiki",
       "wikiha"
@@ -91493,7 +91493,7 @@
   {
     "s": "Afrikaans Wikipedia",
     "d": "af.wikipedia.org",
-    "t": "waf",
+    "t": "afwikipedia",
     "ts": [
       "afwiki",
       "wikiaf"
@@ -91505,7 +91505,7 @@
   {
     "s": "Egyptian Arabic Wikipedia",
     "d": "arz.wikipedia.org",
-    "t": "warz",
+    "t": "arzwikipedia",
     "ts": [
       "arzwiki",
       "wikiarz"
@@ -91517,7 +91517,7 @@
   {
     "s": "Serbo-Croatian Wikipedia",
     "d": "sh.wikipedia.org",
-    "t": "shwiki",
+    "t": "shwikipedia",
     "ts": [
       "wikish"
     ],
@@ -91528,7 +91528,7 @@
   {
     "s": "Kannada Wikipedia",
     "d": "kn.wikipedia.org",
-    "t": "wkn",
+    "t": "knwikipedia",
     "ts": [
       "knwiki",
       "wikikn"
@@ -91540,7 +91540,7 @@
   {
     "s": "Swahili Wikipedia",
     "d": "sw.wikipedia.org",
-    "t": "wsw",
+    "t": "swwikipedia",
     "ts": [
       "wikisw"
     ],
@@ -91551,7 +91551,7 @@
   {
     "s": "Bosnian Wikipedia",
     "d": "bs.wikipedia.org",
-    "t": "bswiki",
+    "t": "bswikipedia",
     "ts": [
       "wikibs"
     ],
@@ -91562,7 +91562,7 @@
   {
     "s": "Icelandic Wikipedia",
     "d": "is.wikipedia.org",
-    "t": "wis",
+    "t": "iswikipedia",
     "ts": [
       "iswiki",
       "wikiis"
@@ -91574,7 +91574,7 @@
   {
     "s": "Central Bikol Wikipedia",
     "d": "bcl.wikipedia.org",
-    "t": "wbcl",
+    "t": "bclwikipedia",
     "ts": [
       "bclwiki",
       "wikibcl"
@@ -91586,7 +91586,7 @@
   {
     "s": "Latin Wikipedia",
     "d": "la.wikipedia.org",
-    "t": "wla",
+    "t": "lawikipedia",
     "ts": [
       "lawiki",
       "wikila",
@@ -91599,7 +91599,7 @@
   {
     "s": "Sorani Kurdish Wikipedia",
     "d": "ckb.wikipedia.org",
-    "t": "wckb",
+    "t": "ckbwikipedia",
     "ts": [
       "ckbwiki",
       "wikickb"
@@ -91611,7 +91611,7 @@
   {
     "s": "Cebuano Wikipedia",
     "d": "ceb.wikipedia.org",
-    "t": "wceb",
+    "t": "cebwikipedia",
     "ts": [
       "cebwiki",
       "wikiceb"
@@ -91623,7 +91623,7 @@
   {
     "s": "Marathi Wikipedia",
     "d": "mr.wikipedia.org",
-    "t": "wmr",
+    "t": "mrwikipedia",
     "ts": [
       "mrwiki",
       "wikimr"
@@ -91635,7 +91635,7 @@
   {
     "s": "Assamese Wikipedia",
     "d": "as.wikipedia.org",
-    "t": "was",
+    "t": "aswikipedia",
     "ts": [
       "aswiki",
       "wikias"
@@ -91647,7 +91647,7 @@
   {
     "s": "Tagalog Wikipedia",
     "d": "tl.wikipedia.org",
-    "t": "tlwiki",
+    "t": "tlwikipedia",
     "ts": [
       "wikitl"
     ],
@@ -91658,7 +91658,7 @@
   {
     "s": "Norwegian Nynorsk Wikipedia",
     "d": "nn.wikipedia.org",
-    "t": "wnn",
+    "t": "nnwikipedia",
     "ts": [
       "nnwiki",
       "wikinn"
@@ -91670,7 +91670,7 @@
   {
     "s": "Igbo Wikipedia",
     "d": "ig.wikipedia.org",
-    "t": "wig",
+    "t": "igwikipedia",
     "ts": [
       "igwiki",
       "wikiig"
@@ -91682,7 +91682,7 @@
   {
     "s": "Welsh Wikipedia",
     "d": "cy.wikipedia.org",
-    "t": "wcy",
+    "t": "cywikipedia",
     "ts": [
       "cywiki",
       "wikicy"
@@ -91694,7 +91694,7 @@
   {
     "s": "Mongolian Wikipedia",
     "d": "mn.wikipedia.org",
-    "t": "wmn",
+    "t": "mnwikipedia",
     "ts": [
       "mnwiki",
       "wikimn"
@@ -91706,7 +91706,7 @@
   {
     "s": "Nepali Wikipedia",
     "d": "ne.wikipedia.org",
-    "t": "wne",
+    "t": "newikipedia",
     "ts": [
       "newiki",
       "wikine"
@@ -91718,7 +91718,7 @@
   {
     "s": "Burmese Wikipedia",
     "d": "my.wikipedia.org",
-    "t": "wmy",
+    "t": "mywikipedia",
     "ts": [
       "mywiki",
       "wikimy"
@@ -91730,7 +91730,7 @@
   {
     "s": "South Azerbaijani Wikipedia",
     "d": "azb.wikipedia.org",
-    "t": "wazb",
+    "t": "azbwikipedia",
     "ts": [
       "azbwiki",
       "wikiazb"
@@ -91742,7 +91742,7 @@
   {
     "s": "Asturian Wikipedia",
     "d": "ast.wikipedia.org",
-    "t": "wast",
+    "t": "astwikipedia",
     "ts": [
       "astwiki",
       "wikiast"
@@ -91754,7 +91754,7 @@
   {
     "s": "Occitan Wikipedia",
     "d": "oc.wikipedia.org",
-    "t": "woc",
+    "t": "ocwikipedia",
     "ts": [
       "ocwiki",
       "wikioc"
@@ -91766,7 +91766,7 @@
   {
     "s": "Punjabi Wikipedia",
     "d": "pa.wikipedia.org",
-    "t": "wpa",
+    "t": "pawikipedia",
     "ts": [
       "pawiki",
       "wikipa"
@@ -91778,7 +91778,7 @@
   {
     "s": "Irish Wikipedia",
     "d": "ga.wikipedia.org",
-    "t": "wga",
+    "t": "gawikipedia",
     "ts": [
       "gawiki",
       "wikiga"
@@ -91790,7 +91790,7 @@
   {
     "s": "Breton Wikipedia",
     "d": "br.wikipedia.org",
-    "t": "wbr",
+    "t": "brwikipedia",
     "ts": [
       "brwiki",
       "wikibr"
@@ -91802,7 +91802,7 @@
   {
     "s": "Kyrgyz Wikipedia",
     "d": "ky.wikipedia.org",
-    "t": "wky",
+    "t": "kywikipedia",
     "ts": [
       "kywiki",
       "wikiky"
@@ -91814,7 +91814,7 @@
   {
     "s": "Kurdish Wikipedia",
     "d": "ku.wikipedia.org",
-    "t": "kuwiki",
+    "t": "kuwikipedia",
     "ts": [
       "wikiku"
     ],
@@ -91825,7 +91825,7 @@
   {
     "s": "Sinhala Wikipedia",
     "d": "si.wikipedia.org",
-    "t": "wsi",
+    "t": "siwikipedia",
     "ts": [
       "siwiki",
       "wikisi"
@@ -91837,7 +91837,7 @@
   {
     "s": "West Frisian Wikipedia",
     "d": "fy.wikipedia.org",
-    "t": "wfy",
+    "t": "fywikipedia",
     "ts": [
       "fywiki",
       "wikify"
@@ -91849,7 +91849,7 @@
   {
     "s": "Alemannic Wikipedia",
     "d": "als.wikipedia.org",
-    "t": "wals",
+    "t": "alswikipedia",
     "ts": [
       "alswiki",
       "wikials"
@@ -91861,7 +91861,7 @@
   {
     "s": "Javanese Wikipedia",
     "d": "jv.wikipedia.org",
-    "t": "wjv",
+    "t": "jvwikipedia",
     "ts": [
       "jvwiki",
       "wikijv"
@@ -91873,7 +91873,7 @@
   {
     "s": "Tajik Wikipedia",
     "d": "tg.wikipedia.org",
-    "t": "tgwiki",
+    "t": "tgwikipedia",
     "ts": [
       "wikitg"
     ],
@@ -91884,7 +91884,7 @@
   {
     "s": "Scots Wikipedia",
     "d": "sco.wikipedia.org",
-    "t": "wsco",
+    "t": "scowikipedia",
     "ts": [
       "scowiki",
       "wikisco"
@@ -91904,7 +91904,7 @@
   {
     "s": "Haitian Creole Wikipedia",
     "d": "ht.wikipedia.org",
-    "t": "htwiki",
+    "t": "htwikipedia",
     "ts": [
       "wikiht"
     ],
@@ -91915,7 +91915,7 @@
   {
     "s": "Tatar Wikipedia",
     "d": "tt.wikipedia.org",
-    "t": "wtt",
+    "t": "ttwikipedia",
     "ts": [
       "ttwiki",
       "wikitt"
@@ -91927,7 +91927,7 @@
   {
     "s": "Bashkir Wikipedia",
     "d": "ba.wikipedia.org",
-    "t": "wba",
+    "t": "bawikipedia",
     "ts": [
       "bawiki",
       "wikiba"
@@ -91939,7 +91939,7 @@
   {
     "s": "Luxembourgish Wikipedia",
     "d": "lb.wikipedia.org",
-    "t": "wlb",
+    "t": "lbwikipedia",
     "ts": [
       "lbwiki",
       "wikilb"
@@ -91951,7 +91951,7 @@
   {
     "s": "Somali Wikipedia",
     "d": "so.wikipedia.org",
-    "t": "sowiki",
+    "t": "sowikipedia",
     "ts": [
       "wikiso"
     ],
@@ -91962,7 +91962,7 @@
   {
     "s": "Yoruba Wikipedia",
     "d": "yo.wikipedia.org",
-    "t": "wyo",
+    "t": "yowikipedia",
     "ts": [
       "yowiki",
       "wikiyo"
@@ -91974,7 +91974,7 @@
   {
     "s": "Gujarati Wikipedia",
     "d": "gu.wikipedia.org",
-    "t": "wgu",
+    "t": "guwikipedia",
     "ts": [
       "guwiki",
       "wikigu"
@@ -91986,7 +91986,7 @@
   {
     "s": "Waray Wikipedia",
     "d": "war.wikipedia.org",
-    "t": "wwar",
+    "t": "warwikipedia",
     "ts": [
       "warwiki",
       "wikiwar"
@@ -91998,7 +91998,7 @@
   {
     "s": "Karakalpak Wikipedia",
     "d": "kaa.wikipedia.org",
-    "t": "wkaa",
+    "t": "kaawikipedia",
     "ts": [
       "kaawiki",
       "wikikaa"
@@ -92010,7 +92010,7 @@
   {
     "s": "Aragonese Wikipedia",
     "d": "an.wikipedia.org",
-    "t": "wan",
+    "t": "anwikipedia",
     "ts": [
       "anwiki",
       "wikian"
@@ -92022,7 +92022,7 @@
   {
     "s": "Zulu Wikipedia",
     "d": "zu.wikipedia.org",
-    "t": "wzu",
+    "t": "zuwikipedia",
     "ts": [
       "zuwiki",
       "wikizu"
@@ -92034,7 +92034,7 @@
   {
     "s": "Khmer Wikipedia",
     "d": "km.wikipedia.org",
-    "t": "wkm",
+    "t": "kmwikipedia",
     "ts": [
       "kmwiki",
       "wikikm"
@@ -92046,7 +92046,7 @@
   {
     "s": "Bavarian Wikipedia",
     "d": "bar.wikipedia.org",
-    "t": "wbar",
+    "t": "barwikipedia",
     "ts": [
       "barwiki",
       "wikibar"
@@ -92058,7 +92058,7 @@
   {
     "s": "Ido Wikipedia",
     "d": "io.wikipedia.org",
-    "t": "wio",
+    "t": "iowikipedia",
     "ts": [
       "iowiki",
       "wikiio"
@@ -92070,7 +92070,7 @@
   {
     "s": "Western Punjabi Wikipedia",
     "d": "pnb.wikipedia.org",
-    "t": "wpnb",
+    "t": "pnbwikipedia",
     "ts": [
       "pnbwiki",
       "wikipnb"
@@ -92082,7 +92082,7 @@
   {
     "s": "Wu Wikipedia",
     "d": "wuu.wikipedia.org",
-    "t": "wwuu",
+    "t": "wuuwikipedia",
     "ts": [
       "wuuwiki",
       "wikiwuu"
@@ -92094,7 +92094,7 @@
   {
     "s": "Chechen Wikipedia",
     "d": "ce.wikipedia.org",
-    "t": "wce",
+    "t": "cewikipedia",
     "ts": [
       "cewiki",
       "wikice"
@@ -92106,7 +92106,7 @@
   {
     "s": "Lombard Wikipedia",
     "d": "lmo.wikipedia.org",
-    "t": "wlmo",
+    "t": "lmowikipedia",
     "ts": [
       "lmowiki",
       "wikilmo"
@@ -92118,7 +92118,7 @@
   {
     "s": "Odia Wikipedia",
     "d": "or.wikipedia.org",
-    "t": "wor",
+    "t": "orwikipedia",
     "ts": [
       "orwiki",
       "wikior"
@@ -92130,7 +92130,7 @@
   {
     "s": "Kinyarwanda Wikipedia",
     "d": "rw.wikipedia.org",
-    "t": "wrw",
+    "t": "rwwikipedia",
     "ts": [
       "rwwiki",
       "wikirw"
@@ -92142,7 +92142,7 @@
   {
     "s": "Low German Wikipedia",
     "d": "nds.wikipedia.org",
-    "t": "wnds",
+    "t": "ndswikipedia",
     "ts": [
       "ndswiki",
       "wikinds"
@@ -92154,7 +92154,7 @@
   {
     "s": "Maltese Wikipedia",
     "d": "mt.wikipedia.org",
-    "t": "wmt",
+    "t": "mtwikipedia",
     "ts": [
       "mtwiki",
       "wikimt"
@@ -92166,7 +92166,7 @@
   {
     "s": "Balinese Wikipedia",
     "d": "ban.wikipedia.org",
-    "t": "wban",
+    "t": "banwikipedia",
     "ts": [
       "banwiki",
       "wikiban"
@@ -92178,7 +92178,7 @@
   {
     "s": "Amharic Wikipedia",
     "d": "am.wikipedia.org",
-    "t": "amwiki",
+    "t": "amwikipedia",
     "ts": [
       "wikiam"
     ],
@@ -92189,7 +92189,7 @@
   {
     "s": "Fiji Hindi Wikipedia",
     "d": "hif.wikipedia.org",
-    "t": "whif",
+    "t": "hifwikipedia",
     "ts": [
       "hifwiki",
       "wikihif"
@@ -92201,7 +92201,7 @@
   {
     "s": "Sundanese Wikipedia",
     "d": "su.wikipedia.org",
-    "t": "suwiki",
+    "t": "suwikipedia",
     "ts": [
       "wikisu"
     ],
@@ -92212,7 +92212,7 @@
   {
     "s": "Yiddish Wikipedia",
     "d": "yi.wikipedia.org",
-    "t": "wyi",
+    "t": "yiwikipedia",
     "ts": [
       "yiwiki",
       "wikiyi"
@@ -92224,7 +92224,7 @@
   {
     "s": "Malagasy Wikipedia",
     "d": "mg.wikipedia.org",
-    "t": "wmg",
+    "t": "mgwikipedia",
     "ts": [
       "mgwiki",
       "wikimg"
@@ -92236,7 +92236,7 @@
   {
     "s": "Minangkabau Wikipedia",
     "d": "min.wikipedia.org",
-    "t": "wmin",
+    "t": "minwikipedia",
     "ts": [
       "minwiki",
       "wikimin"
@@ -92248,7 +92248,7 @@
   {
     "s": "Venetian Wikipedia",
     "d": "vec.wikipedia.org",
-    "t": "wvec",
+    "t": "vecwikipedia",
     "ts": [
       "vecwiki",
       "wikivec"
@@ -92260,7 +92260,7 @@
   {
     "s": "Old English Wikipedia",
     "d": "ang.wikipedia.org",
-    "t": "wang",
+    "t": "angwikipedia",
     "ts": [
       "angwiki",
       "wikiang"
@@ -92272,7 +92272,7 @@
   {
     "s": "Tswana Wikipedia",
     "d": "tn.wikipedia.org",
-    "t": "wtn",
+    "t": "tnwikipedia",
     "ts": [
       "tnwiki",
       "wikitn"
@@ -92284,7 +92284,7 @@
   {
     "s": "Moroccan Arabic Wikipedia",
     "d": "ary.wikipedia.org",
-    "t": "wary",
+    "t": "arywikipedia",
     "ts": [
       "arywiki",
       "wikiary"
@@ -92296,7 +92296,7 @@
   {
     "s": "Bhojpuri Wikipedia",
     "d": "bh.wikipedia.org",
-    "t": "wbh",
+    "t": "bhwikipedia",
     "ts": [
       "bhwiki",
       "wikibh"
@@ -92308,7 +92308,7 @@
   {
     "s": "Corsican Wikipedia",
     "d": "co.wikipedia.org",
-    "t": "wco",
+    "t": "cowikipedia",
     "ts": [
       "cowiki",
       "wikico"
@@ -92320,7 +92320,7 @@
   {
     "s": "Crimean Tatar Wikipedia",
     "d": "crh.wikipedia.org",
-    "t": "wcrh",
+    "t": "crhwikipedia",
     "ts": [
       "crhwiki",
       "wikicrh"
@@ -92332,7 +92332,7 @@
   {
     "s": "Sanskrit Wikipedia",
     "d": "sa.wikipedia.org",
-    "t": "wsa",
+    "t": "sawikipedia",
     "ts": [
       "sawiki",
       "wikisa"
@@ -92344,7 +92344,7 @@
   {
     "s": "Mazanderani Wikipedia",
     "d": "mzn.wikipedia.org",
-    "t": "wmzn",
+    "t": "mznwikipedia",
     "ts": [
       "mznwiki",
       "wikimzn"
@@ -92356,7 +92356,7 @@
   {
     "s": "Quechua Wikipedia",
     "d": "qu.wikipedia.org",
-    "t": "wqu",
+    "t": "quwikipedia",
     "ts": [
       "quwiki",
       "wikiqu"
@@ -92368,7 +92368,7 @@
   {
     "s": "Interlingue Wikipedia",
     "d": "ie.wikipedia.org",
-    "t": "iewiki",
+    "t": "iewikipedia",
     "ts": [
       "wikiie"
     ],
@@ -92379,7 +92379,7 @@
   {
     "s": "Pashto Wikipedia",
     "d": "ps.wikipedia.org",
-    "t": "wps",
+    "t": "pswikipedia",
     "ts": [
       "pswiki",
       "wikips"
@@ -92391,7 +92391,7 @@
   {
     "s": "Chuvash Wikipedia",
     "d": "cv.wikipedia.org",
-    "t": "wcv",
+    "t": "cvwikipedia",
     "ts": [
       "cvwiki",
       "wikicv"
@@ -92403,7 +92403,7 @@
   {
     "s": "Faroese Wikipedia",
     "d": "fo.wikipedia.org",
-    "t": "wfo",
+    "t": "fowikipedia",
     "ts": [
       "wikifo"
     ],
@@ -92414,7 +92414,7 @@
   {
     "s": "Interlingua Wikipedia",
     "d": "ia.wikipedia.org",
-    "t": "iawiki",
+    "t": "iawikipedia",
     "ts": [
       "wikiia"
     ],
@@ -92425,7 +92425,7 @@
   {
     "s": "Moroccan Amazigh Wikipedia",
     "d": "zgh.wikipedia.org",
-    "t": "wzgh",
+    "t": "zghwikipedia",
     "ts": [
       "zghwiki",
       "wikizgh"
@@ -92437,7 +92437,7 @@
   {
     "s": "Rusyn Wikipedia",
     "d": "rue.wikipedia.org",
-    "t": "wrue",
+    "t": "ruewikipedia",
     "ts": [
       "ruewiki",
       "wikirue"
@@ -92449,7 +92449,7 @@
   {
     "s": "Dagbani Wikipedia",
     "d": "dag.wikipedia.org",
-    "t": "wdag",
+    "t": "dagwikipedia",
     "ts": [
       "dagwiki",
       "wikidag"
@@ -92461,7 +92461,7 @@
   {
     "s": "Guarani Wikipedia",
     "d": "gn.wikipedia.org",
-    "t": "wgn",
+    "t": "gnwikipedia",
     "ts": [
       "gnwiki",
       "wikign"
@@ -92473,7 +92473,7 @@
   {
     "s": "Silesian Wikipedia",
     "d": "szl.wikipedia.org",
-    "t": "wszl",
+    "t": "szlwikipedia",
     "ts": [
       "szlwiki",
       "wikiszl"
@@ -92485,7 +92485,7 @@
   {
     "s": "Piedmontese Wikipedia",
     "d": "pms.wikipedia.org",
-    "t": "wpms",
+    "t": "pmswikipedia",
     "ts": [
       "pmswiki",
       "wikipms"
@@ -92497,7 +92497,7 @@
   {
     "s": "Lao Wikipedia",
     "d": "lo.wikipedia.org",
-    "t": "wlo",
+    "t": "lowikipedia",
     "ts": [
       "lowiki",
       "wikilo"
@@ -92509,7 +92509,7 @@
   {
     "s": "Turkmen Wikipedia",
     "d": "tk.wikipedia.org",
-    "t": "wtk",
+    "t": "tkwikipedia",
     "ts": [
       "tkwiki",
       "wikitk"
@@ -92521,7 +92521,7 @@
   {
     "s": "Mirandese Wikipedia",
     "d": "mwl.wikipedia.org",
-    "t": "wmwl",
+    "t": "mwlwikipedia",
     "ts": [
       "mwlwiki",
       "wikimwl"
@@ -92533,7 +92533,7 @@
   {
     "s": "Sardinian Wikipedia",
     "d": "sc.wikipedia.org",
-    "t": "wsc",
+    "t": "scwikipedia",
     "ts": [
       "scwiki",
       "wikisc"
@@ -92545,7 +92545,7 @@
   {
     "s": "Wayuu Wikipedia",
     "d": "guc.wikipedia.org",
-    "t": "wguc",
+    "t": "gucwikipedia",
     "ts": [
       "gucwiki",
       "wikiguc"
@@ -92557,7 +92557,7 @@
   {
     "s": "Sicilian Wikipedia",
     "d": "scn.wikipedia.org",
-    "t": "wscn",
+    "t": "scnwikipedia",
     "ts": [
       "scnwiki",
       "wikiscn"
@@ -92569,7 +92569,7 @@
   {
     "s": "Yakut Wikipedia",
     "d": "sah.wikipedia.org",
-    "t": "wsah",
+    "t": "sahwikipedia",
     "ts": [
       "sahwiki",
       "wikisah"
@@ -92581,7 +92581,7 @@
   {
     "s": "Maithili Wikipedia",
     "d": "mai.wikipedia.org",
-    "t": "wmai",
+    "t": "maiwikipedia",
     "ts": [
       "maiwiki",
       "wikimai"
@@ -92593,7 +92593,7 @@
   {
     "s": "Santali Wikipedia",
     "d": "sat.wikipedia.org",
-    "t": "wsat",
+    "t": "satwikipedia",
     "ts": [
       "satwiki",
       "wikisat"
@@ -92623,7 +92623,7 @@
     "s": "Google Wikipedia",
     "d": "www.google.com",
     "ad": "wikipedia.org",
-    "t": "gwp",
+    "t": "wwwgoogle",
     "u": "https://www.google.com/search?q={{{s}}} site:wikipedia.org",
     "c": "Online Services",
     "sc": "Google"
@@ -92639,7 +92639,7 @@
   {
     "s": "Northern Sami Wikipedia",
     "d": "se.wikipedia.org",
-    "t": "wse",
+    "t": "sewikipedia",
     "u": "https://se.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Reference"
@@ -92647,7 +92647,7 @@
   {
     "s": "Volapük Wikipedia",
     "d": "vo.wikipedia.org",
-    "t": "wvo",
+    "t": "vowikipedia",
     "u": "https://vo.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
