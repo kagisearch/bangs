@@ -15339,6 +15339,15 @@
     "sc": "Law"
   },
   {
+    "s": "Context7",
+    "d": "context7.com",
+    "t": "context7",
+    "ts": ["ctx7"],
+    "u": "https://context7.com/?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Libraries/Frameworks"
+  },
+  {
     "s": "Consumer Reports",
     "d": "www.consumerreports.org",
     "t": "consumer",
