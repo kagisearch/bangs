@@ -64300,7 +64300,8 @@
     "s": "Proton Mail",
     "d": "mail.proton.me",
     "t": "protonmail",
-    "u": "https://mail.proton.me/#keyword={{{s}}}",
+    "u": "https://mail.proton.me/u/0/all-mail#keyword={{{s}}}",
+
     "c": "Online Services",
     "sc": "Tools"
   },
@@ -66742,15 +66743,6 @@
     "u": "https://www.reddit.com/search?q={{{s}}}",
     "c": "News",
     "sc": "Aggregators"
-  },
-  {
-    "s": "Reddit: subreddit Defined Search",
-    "d": "reddit.com",
-    "t": "rsr",
-    "u": "https://reddit.com/r/$1/search?q=$2&restrict_sr=on",
-    "x": "(\\w+)\\s+(.*)",
-    "c": "Online Services",
-    "sc": "Social"
   },
   {
     "s": "Reddit subreddit",
