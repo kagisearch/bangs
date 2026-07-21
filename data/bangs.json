@@ -66744,14 +66744,13 @@
     "sc": "Aggregators"
   },
   {
-    "s": "Reddit: subreddit defined Search",
+    "s": "Reddit: subreddit Defined Search",
     "d": "reddit.com",
     "t": "rs",
     "u": "https://old.reddit.com/r/$1/search?q=$2&restrict_sr=on",
     "x": "(\\w+)\\s+(.*)",
-    "fmt": [
-      "url_encode_placeholder"
-    ]
+    "c": "Online Services",
+    "sc": "Social"
   },
   {
     "s": "Reddit subreddit",
