@@ -66746,7 +66746,7 @@
   {
     "s": "Reddit: subreddit Defined Search",
     "d": "reddit.com",
-    "t": "rs",
+    "t": "rsr",
     "u": "https://reddit.com/r/$1/search?q=$2&restrict_sr=on",
     "x": "(\\w+)\\s+(.*)",
     "c": "Online Services",
