@@ -64300,7 +64300,7 @@
     "s": "Proton Mail",
     "d": "mail.proton.me",
     "t": "protonmail",
-    "u": "https://mail.proton.me/#keyword={{{s}}}",
+    "u": "https://mail.proton.me/u/0/all-mail#keyword={{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
   },
