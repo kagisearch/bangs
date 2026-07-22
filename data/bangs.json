@@ -82357,6 +82357,15 @@
     "sc": "Tools"
   },
   {
+    "s": "XE Currency Defined Search",
+    "d": "www.xe.com",
+    "t": "xec",
+    "u": "https://www.xe.com/currencyconverter/convert/?Amount=$3&From=$1&To=$2",
+    "x": "([A-Z]{3})\\s+([A-Z]{3})\\s+(\\d+(?:\\.\\d+)?)",
+    "c": "Online Services",
+    "sc": "Tools"
+  },
+  {
     "s": "Machineseeker.com - Used machinery search engine",
     "d": "www.machineseeker.com",
     "t": "used",
