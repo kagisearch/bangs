@@ -83744,7 +83744,7 @@
     "ts": [
       "virustotal"
     ],
-    "u": "https://www.virustotal.com/en/search?query={{{s}}}",
+    "u": "https://www.virustotal.com/gui/search?query={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin"
   },
