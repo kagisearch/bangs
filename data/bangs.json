@@ -84289,7 +84289,7 @@
     "s": "www.virustotal.com",
     "d": "www.virustotal.com",
     "t": "vtip",
-    "u": "https://www.virustotal.com/en/ip-address/{{{s}}}/information/",
+    "u": "https://www.virustotal.com/gui/ip-address/{{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin"
   },
