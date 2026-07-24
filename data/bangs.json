@@ -83740,10 +83740,7 @@
   {
     "s": "VirusTotal",
     "d": "www.virustotal.com",
-    "t": "virustotalfilesearch",
-    "ts": [
-      "virustotal"
-    ],
+    "t": "virustotal",
     "u": "https://www.virustotal.com/gui/search?query={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin"
