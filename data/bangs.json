@@ -84294,6 +84294,25 @@
     "sc": "Sysadmin"
   },
   {
+    "s": "www.virustotal.com",
+    "d": "www.virustotal.com",
+    "t": "vtdomain",
+    "u": "https://www.virustotal.com/gui/domain/{{{s}}}",
+    "c": "Tech",
+    "sc": "Sysadmin"
+  },
+  {
+    "s": "www.virustotal.com",
+    "d": "www.virustotal.com",
+    "t": "vtfile",
+    "ts": [
+      "vthash"
+    ],
+    "u": "https://www.virustotal.com/gui/file/{{{s}}}",
+    "c": "Tech",
+    "sc": "Sysadmin"
+  },
+  {
     "s": "Visualization Toolkit (VTK) class documentation (devel)",
     "d": "www.vtk.org",
     "t": "vtkcd",
