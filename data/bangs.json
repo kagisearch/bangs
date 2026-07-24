@@ -84283,7 +84283,7 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "www.virustotal.com",
+    "s": "VirusTotal IP",
     "d": "www.virustotal.com",
     "t": "vtip",
     "u": "https://www.virustotal.com/gui/ip-address/{{{s}}}",
@@ -84291,7 +84291,7 @@
     "sc": "Sysadmin"
   },
   {
-    "s": "www.virustotal.com",
+    "s": "VirusTotal Domain",
     "d": "www.virustotal.com",
     "t": "vtdomain",
     "u": "https://www.virustotal.com/gui/domain/{{{s}}}",
@@ -84299,7 +84299,7 @@
     "sc": "Sysadmin"
   },
   {
-    "s": "www.virustotal.com",
+    "s": "VirusTotal File",
     "d": "www.virustotal.com",
     "t": "vtfile",
     "ts": [
