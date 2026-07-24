@@ -83741,6 +83741,9 @@
     "s": "VirusTotal",
     "d": "www.virustotal.com",
     "t": "virustotal",
+    "ts": [
+      "vt"
+    ],
     "u": "https://www.virustotal.com/gui/search?query={{{s}}}",
     "c": "Tech",
     "sc": "Sysadmin"
@@ -84332,14 +84335,6 @@
     "u": "https://vtmb.wikia.com/wiki/Special:Search?query={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
-  },
-  {
-    "s": "Vulgum Techus",
-    "d": "www.vulgumtechus.com",
-    "t": "vt",
-    "u": "https://www.vulgumtechus.com/index.php?title=Spécial:Recherche&search={{{s}}}",
-    "c": "Tech",
-    "sc": "Blogs"
   },
   {
     "s": "Bibliotheek van de Vrije Univesiteit Brussel",
