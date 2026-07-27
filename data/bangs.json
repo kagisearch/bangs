@@ -2455,12 +2455,12 @@
     "sc": "International"
   },
   {
-  "s": "Amazon Ireland",
-  "d": "www.amazon.ie",
-  "t": "aie",
-  "u": "https://www.amazon.ie/s?k={{{s}}}",
-  "c": "Shopping",
-  "sc": "Online"
+    "s": "Amazon Ireland",
+    "d": "www.amazon.ie",
+    "t": "aie",
+    "u": "https://www.amazon.ie/s?k={{{s}}}",
+    "c": "Shopping",
+    "sc": "Online"
   },
   {
     "s": "Arlington Industries",
