@@ -79478,7 +79478,7 @@
     "s": "Trakt",
     "d": "trakt.tv",
     "t": "trakt",
-    "u": "https://trakt.tv/search?utf8=%E2%9C%93&query={{{s}}}",
+    "u": "https://app.trakt.tv/search?m=media&q={{{s}}}",
     "c": "Entertainment",
     "sc": "TV"
   },
