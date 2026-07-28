@@ -79476,7 +79476,7 @@
   },
   {
     "s": "Trakt",
-    "d": "trakt.tv",
+    "d": "app.trakt.tv",
     "t": "trakt",
     "u": "https://app.trakt.tv/search?m=media&q={{{s}}}",
     "c": "Entertainment",
