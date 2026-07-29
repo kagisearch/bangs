@@ -55067,6 +55067,21 @@
     "sc": "Search"
   },
   {
+    "s": "nbarapm.com",
+    "d": "nbarapm.com",
+    "t": "nbarapm",
+    "ts": [
+      "rapm"
+    ],
+    "u": "https://nbarapm.com/player/{{{s}}}",
+    "c": "Entertainment",
+    "sc": "Sports",
+    "fmt": [
+      "open_base_path",
+      "url_encode_placeholder"
+    ]
+  },
+  {
     "s": "Notebookcheck(DE)",
     "d": "www.notebookcheck.com",
     "t": "nbcde",
