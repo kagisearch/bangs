@@ -46028,10 +46028,10 @@
     "sc": "Online"
   },
   {
-    "s": "LaTeX - Wikibooks",
+    "s": "English Wikibooks LaTeX",
     "d": "en.wikibooks.org",
-    "t": "latexwb",
-    "u": "https://en.wikibooks.org/wiki/Search?search={{{s}}}&prefix=LaTeX",
+    "t": "enwblatex",
+    "u": "https://en.wikibooks.org/w/index.php?search={{{s}}}&prefix=LaTeX",
     "c": "Tech",
     "sc": "Languages (latex)"
   },
@@ -86311,10 +86311,10 @@
     "sc": "Sysadmin"
   },
   {
-    "s": "Wiki Cookbook",
+    "s": "English Wikibooks Cookbook",
     "d": "en.wikibooks.org",
-    "t": "wikicook",
-    "u": "https://en.wikibooks.org/wiki/Special:Search?search={{{s}}}&prefix=Cookbook:&fulltext=Search+Cookbook&fulltext=Search",
+    "t": "enwbcook",
+    "u": "https://en.wikibooks.org/w/index.php?search={{{s}}}&prefix=Cookbook:",
     "c": "Research",
     "sc": "Food"
   },
@@ -86983,8 +86983,7 @@
     "d": "ur.wikibooks.org",
     "t": "urwikibooks",
     "ts": [
-      "urwb",
-      "wbur"
+      "urwb"
     ],
     "u": "https://ur.wikibooks.org/w/index.php?search={{{s}}}",
     "c": "Research",
@@ -94800,8 +94799,7 @@
       "barwp",
       "barw",
       "wikibar",
-      "wpbar",
-      "wbar"
+      "wpbar"
     ],
     "u": "https://bar.wikipedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
