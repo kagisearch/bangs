@@ -42532,14 +42532,6 @@
     "sc": "Reference"
   },
   {
-    "s": "Japanese Wikiquote",
-    "d": "ja.wikiquote.org",
-    "t": "jawq",
-    "u": "https://ja.wikiquote.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "Japanese Wikisource",
     "d": "ja.wikisource.org",
     "t": "jaws",
@@ -65725,17 +65717,6 @@
     "sc": "Reference"
   },
   {
-    "s": "WikiQuote",
-    "d": "en.wikiquote.org",
-    "t": "quotes",
-    "ts": [
-      "wq"
-    ],
-    "u": "https://en.wikiquote.org/wiki/Special:Search?search={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Misc"
-  },
-  {
     "s": "Quotev",
     "d": "www.quotev.com",
     "t": "quotev",
@@ -86490,14 +86471,6 @@
     "sc": "Tools"
   },
   {
-    "s": "Wikiquote",
-    "d": "en.wikiquote.org",
-    "t": "wikiquote",
-    "u": "https://en.wikiquote.org/w/index.php?search={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Docs"
-  },
-  {
     "s": "Wikirby",
     "d": "wikirby.com",
     "t": "wikirby",
@@ -88195,34 +88168,926 @@
     "sc": "Blogs (intl)"
   },
   {
-    "s": "Wikiquote German",
-    "d": "de.wikiquote.org",
-    "t": "wqde",
-    "u": "https://de.wikiquote.org/w/index.php?search={{{s}}}&title=Spezial:Suche",
-    "c": "Research",
-    "sc": "Reference (words)"
-  },
-  {
-    "s": "Wikiquote Español",
-    "d": "es.wikiquote.org",
-    "t": "wqes",
-    "u": "https://es.wikiquote.org/w/?search={{{s}}}",
+    "s": "English Wikiquote",
+    "d": "en.wikiquote.org",
+    "t": "enwikiquote",
+    "ts": [
+      "enwq",
+      "wqen"
+    ],
+    "u": "https://en.wikiquote.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Reference"
   },
   {
-    "s": "WikiQuote Italian",
+    "s": "Italian Wikiquote",
     "d": "it.wikiquote.org",
-    "t": "wqit",
-    "u": "https://it.wikiquote.org/?q={{{s}}}:",
-    "c": "Online Services",
-    "sc": "Tools"
+    "t": "itwikiquote",
+    "ts": [
+      "itwq",
+      "wqit"
+    ],
+    "u": "https://it.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
   },
   {
-    "s": "Wikiquote Polish",
+    "s": "Polish Wikiquote",
     "d": "pl.wikiquote.org",
-    "t": "wqpl",
-    "u": "https://pl.wikiquote.org/w/index.php?search={{{s}}}&title=Specjalna:Szukaj&go=Przejdź",
+    "t": "plwikiquote",
+    "ts": [
+      "plwq",
+      "wqpl"
+    ],
+    "u": "https://pl.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Russian Wikiquote",
+    "d": "ru.wikiquote.org",
+    "t": "ruwikiquote",
+    "ts": [
+      "ruwq",
+      "wqru"
+    ],
+    "u": "https://ru.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Czech Wikiquote",
+    "d": "cs.wikiquote.org",
+    "t": "cswikiquote",
+    "ts": [
+      "cswq",
+      "wqcs"
+    ],
+    "u": "https://cs.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Estonian Wikiquote",
+    "d": "et.wikiquote.org",
+    "t": "etwikiquote",
+    "ts": [
+      "etwq",
+      "wqet"
+    ],
+    "u": "https://et.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Ukrainian Wikiquote",
+    "d": "uk.wikiquote.org",
+    "t": "ukwikiquote",
+    "ts": [
+      "ukwq",
+      "wquk"
+    ],
+    "u": "https://uk.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Portuguese Wikiquote",
+    "d": "pt.wikiquote.org",
+    "t": "ptwikiquote",
+    "ts": [
+      "ptwq",
+      "wqpt"
+    ],
+    "u": "https://pt.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Hebrew Wikiquote",
+    "d": "he.wikiquote.org",
+    "t": "hewikiquote",
+    "ts": [
+      "hewq",
+      "wqhe"
+    ],
+    "u": "https://he.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "French Wikiquote",
+    "d": "fr.wikiquote.org",
+    "t": "frwikiquote",
+    "ts": [
+      "frwq",
+      "wqfr"
+    ],
+    "u": "https://fr.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Persian Wikiquote",
+    "d": "fa.wikiquote.org",
+    "t": "fawikiquote",
+    "ts": [
+      "fawq",
+      "wqfa"
+    ],
+    "u": "https://fa.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Spanish Wikiquote",
+    "d": "es.wikiquote.org",
+    "t": "eswikiquote",
+    "ts": [
+      "eswq",
+      "wqes"
+    ],
+    "u": "https://es.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "German Wikiquote",
+    "d": "de.wikiquote.org",
+    "t": "dewikiquote",
+    "ts": [
+      "dewq",
+      "wqde"
+    ],
+    "u": "https://de.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Serbian Wikiquote",
+    "d": "sr.wikiquote.org",
+    "t": "srwikiquote",
+    "ts": [
+      "srwq",
+      "wqsr"
+    ],
+    "u": "https://sr.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Turkish Wikiquote",
+    "d": "tr.wikiquote.org",
+    "t": "trwikiquote",
+    "ts": [
+      "trwq",
+      "wqtr"
+    ],
+    "u": "https://tr.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Esperanto Wikiquote",
+    "d": "eo.wikiquote.org",
+    "t": "eowikiquote",
+    "ts": [
+      "eowq",
+      "wqeo"
+    ],
+    "u": "https://eo.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Azerbaijani Wikiquote",
+    "d": "az.wikiquote.org",
+    "t": "azwikiquote",
+    "ts": [
+      "azwq",
+      "wqaz"
+    ],
+    "u": "https://az.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Slovak Wikiquote",
+    "d": "sk.wikiquote.org",
+    "t": "skwikiquote",
+    "ts": [
+      "skwq",
+      "wqsk"
+    ],
+    "u": "https://sk.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Catalan Wikiquote",
+    "d": "ca.wikiquote.org",
+    "t": "cawikiquote",
+    "ts": [
+      "cawq",
+      "wqca"
+    ],
+    "u": "https://ca.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Bosnian Wikiquote",
+    "d": "bs.wikiquote.org",
+    "t": "bswikiquote",
+    "ts": [
+      "bswq",
+      "wqbs"
+    ],
+    "u": "https://bs.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Chinese Wikiquote",
+    "d": "zh.wikiquote.org",
+    "t": "zhwikiquote",
+    "ts": [
+      "zhwq",
+      "wqzh"
+    ],
+    "u": "https://zh.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Arabic Wikiquote",
+    "d": "ar.wikiquote.org",
+    "t": "arwikiquote",
+    "ts": [
+      "arwq",
+      "wqar"
+    ],
+    "u": "https://ar.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Indonesian Wikiquote",
+    "d": "id.wikiquote.org",
+    "t": "idwikiquote",
+    "ts": [
+      "idwq",
+      "wqid"
+    ],
+    "u": "https://id.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Finnish Wikiquote",
+    "d": "fi.wikiquote.org",
+    "t": "fiwikiquote",
+    "ts": [
+      "fiwq",
+      "wqfi"
+    ],
+    "u": "https://fi.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Lithuanian Wikiquote",
+    "d": "lt.wikiquote.org",
+    "t": "ltwikiquote",
+    "ts": [
+      "ltwq",
+      "wqlt"
+    ],
+    "u": "https://lt.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Slovenian Wikiquote",
+    "d": "sl.wikiquote.org",
+    "t": "slwikiquote",
+    "ts": [
+      "slwq",
+      "wqsl"
+    ],
+    "u": "https://sl.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Bangla Wikiquote",
+    "d": "bn.wikiquote.org",
+    "t": "bnwikiquote",
+    "ts": [
+      "bnwq",
+      "wqbn"
+    ],
+    "u": "https://bn.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Sundanese Wikiquote",
+    "d": "su.wikiquote.org",
+    "t": "suwikiquote",
+    "ts": [
+      "suwq",
+      "wqsu"
+    ],
+    "u": "https://su.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Armenian Wikiquote",
+    "d": "hy.wikiquote.org",
+    "t": "hywikiquote",
+    "ts": [
+      "hywq",
+      "wqhy"
+    ],
+    "u": "https://hy.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Bulgarian Wikiquote",
+    "d": "bg.wikiquote.org",
+    "t": "bgwikiquote",
+    "ts": [
+      "bgwq",
+      "wqbg"
+    ],
+    "u": "https://bg.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Croatian Wikiquote",
+    "d": "hr.wikiquote.org",
+    "t": "hrwikiquote",
+    "ts": [
+      "hrwq",
+      "wqhr"
+    ],
+    "u": "https://hr.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Igbo Wikiquote",
+    "d": "ig.wikiquote.org",
+    "t": "igwikiquote",
+    "ts": [
+      "igwq",
+      "wqig"
+    ],
+    "u": "https://ig.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Greek Wikiquote",
+    "d": "el.wikiquote.org",
+    "t": "elwikiquote",
+    "ts": [
+      "elwq",
+      "wqel"
+    ],
+    "u": "https://el.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Uzbek Wikiquote",
+    "d": "uz.wikiquote.org",
+    "t": "uzwikiquote",
+    "ts": [
+      "uzwq",
+      "wquz"
+    ],
+    "u": "https://uz.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Norwegian Nynorsk Wikiquote",
+    "d": "nn.wikiquote.org",
+    "t": "nnwikiquote",
+    "ts": [
+      "nnwq",
+      "wqnn"
+    ],
+    "u": "https://nn.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Limburgish Wikiquote",
+    "d": "li.wikiquote.org",
+    "t": "liwikiquote",
+    "ts": [
+      "liwq",
+      "wqli"
+    ],
+    "u": "https://li.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Swedish Wikiquote",
+    "d": "sv.wikiquote.org",
+    "t": "svwikiquote",
+    "ts": [
+      "svwq",
+      "wqsv"
+    ],
+    "u": "https://sv.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Vietnamese Wikiquote",
+    "d": "vi.wikiquote.org",
+    "t": "viwikiquote",
+    "ts": [
+      "viwq",
+      "wqvi"
+    ],
+    "u": "https://vi.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Banjar Wikiquote",
+    "d": "bjn.wikiquote.org",
+    "t": "bjnwikiquote",
+    "ts": [
+      "bjnwq",
+      "wqbjn"
+    ],
+    "u": "https://bjn.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Hungarian Wikiquote",
+    "d": "hu.wikiquote.org",
+    "t": "huwikiquote",
+    "ts": [
+      "huwq",
+      "wqhu"
+    ],
+    "u": "https://hu.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Assamese Wikiquote",
+    "d": "as.wikiquote.org",
+    "t": "aswikiquote",
+    "ts": [
+      "aswq",
+      "wqas"
+    ],
+    "u": "https://as.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Dutch Wikiquote",
+    "d": "nl.wikiquote.org",
+    "t": "nlwikiquote",
+    "ts": [
+      "nlwq",
+      "wqnl"
+    ],
+    "u": "https://nl.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Japanese Wikiquote",
+    "d": "ja.wikiquote.org",
+    "t": "jawikiquote",
+    "ts": [
+      "jawq",
+      "wqja"
+    ],
+    "u": "https://ja.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Korean Wikiquote",
+    "d": "ko.wikiquote.org",
+    "t": "kowikiquote",
+    "ts": [
+      "kowq",
+      "wqko"
+    ],
+    "u": "https://ko.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Yakut Wikiquote",
+    "d": "sah.wikiquote.org",
+    "t": "sahwikiquote",
+    "ts": [
+      "sahwq",
+      "wqsah"
+    ],
+    "u": "https://sah.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Latin Wikiquote",
+    "d": "la.wikiquote.org",
+    "t": "lawikiquote",
+    "ts": [
+      "lawq",
+      "wqla"
+    ],
+    "u": "https://la.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Tamil Wikiquote",
+    "d": "ta.wikiquote.org",
+    "t": "tawikiquote",
+    "ts": [
+      "tawq",
+      "wqta"
+    ],
+    "u": "https://ta.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Hindi Wikiquote",
+    "d": "hi.wikiquote.org",
+    "t": "hiwikiquote",
+    "ts": [
+      "hiwq",
+      "wqhi"
+    ],
+    "u": "https://hi.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Telugu Wikiquote",
+    "d": "te.wikiquote.org",
+    "t": "tewikiquote",
+    "ts": [
+      "tewq",
+      "wqte"
+    ],
+    "u": "https://te.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Gun Wikiquote",
+    "d": "guw.wikiquote.org",
+    "t": "guwwikiquote",
+    "ts": [
+      "guwwq",
+      "wqguw"
+    ],
+    "u": "https://guw.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Romanian Wikiquote",
+    "d": "ro.wikiquote.org",
+    "t": "rowikiquote",
+    "ts": [
+      "rowq",
+      "wqro"
+    ],
+    "u": "https://ro.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Thai Wikiquote",
+    "d": "th.wikiquote.org",
+    "t": "thwikiquote",
+    "ts": [
+      "thwq",
+      "wqth"
+    ],
+    "u": "https://th.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Urdu Wikiquote",
+    "d": "ur.wikiquote.org",
+    "t": "urwikiquote",
+    "ts": [
+      "urwq",
+      "wqur"
+    ],
+    "u": "https://ur.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Galician Wikiquote",
+    "d": "gl.wikiquote.org",
+    "t": "glwikiquote",
+    "ts": [
+      "glwq",
+      "wqgl"
+    ],
+    "u": "https://gl.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Tagalog Wikiquote",
+    "d": "tl.wikiquote.org",
+    "t": "tlwikiquote",
+    "ts": [
+      "tlwq",
+      "wqtl"
+    ],
+    "u": "https://tl.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Gujarati Wikiquote",
+    "d": "gu.wikiquote.org",
+    "t": "guwikiquote",
+    "ts": [
+      "guwq",
+      "wqgu"
+    ],
+    "u": "https://gu.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Georgian Wikiquote",
+    "d": "ka.wikiquote.org",
+    "t": "kawikiquote",
+    "ts": [
+      "kawq",
+      "wqka"
+    ],
+    "u": "https://ka.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Belarusian Wikiquote",
+    "d": "be.wikiquote.org",
+    "t": "bewikiquote",
+    "ts": [
+      "bewq",
+      "wqbe"
+    ],
+    "u": "https://be.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Kannada Wikiquote",
+    "d": "kn.wikiquote.org",
+    "t": "knwikiquote",
+    "ts": [
+      "knwq",
+      "wqkn"
+    ],
+    "u": "https://kn.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Norwegian Wikiquote",
+    "d": "no.wikiquote.org",
+    "t": "nowikiquote",
+    "ts": [
+      "nowq",
+      "wqno"
+    ],
+    "u": "https://no.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Welsh Wikiquote",
+    "d": "cy.wikiquote.org",
+    "t": "cywikiquote",
+    "ts": [
+      "cywq",
+      "wqcy"
+    ],
+    "u": "https://cy.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Nigerian Pidgin Wikiquote",
+    "d": "pcm.wikiquote.org",
+    "t": "pcmwikiquote",
+    "ts": [
+      "pcmwq",
+      "wqpcm"
+    ],
+    "u": "https://pcm.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Malayalam Wikiquote",
+    "d": "ml.wikiquote.org",
+    "t": "mlwikiquote",
+    "ts": [
+      "mlwq",
+      "wqml"
+    ],
+    "u": "https://ml.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Albanian Wikiquote",
+    "d": "sq.wikiquote.org",
+    "t": "sqwikiquote",
+    "ts": [
+      "sqwq",
+      "wqsq"
+    ],
+    "u": "https://sq.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Basque Wikiquote",
+    "d": "eu.wikiquote.org",
+    "t": "euwikiquote",
+    "ts": [
+      "euwq",
+      "wqeu"
+    ],
+    "u": "https://eu.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Kurdish Wikiquote",
+    "d": "ku.wikiquote.org",
+    "t": "kuwikiquote",
+    "ts": [
+      "kuwq",
+      "wqku"
+    ],
+    "u": "https://ku.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Malay Wikiquote",
+    "d": "ms.wikiquote.org",
+    "t": "mswikiquote",
+    "ts": [
+      "mswq",
+      "wqms"
+    ],
+    "u": "https://ms.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Danish Wikiquote",
+    "d": "da.wikiquote.org",
+    "t": "dawikiquote",
+    "ts": [
+      "dawq",
+      "wqda"
+    ],
+    "u": "https://da.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Central Bikol Wikiquote",
+    "d": "bcl.wikiquote.org",
+    "t": "bclwikiquote",
+    "ts": [
+      "bclwq",
+      "wqbcl"
+    ],
+    "u": "https://bcl.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Sanskrit Wikiquote",
+    "d": "sa.wikiquote.org",
+    "t": "sawikiquote",
+    "ts": [
+      "sawq",
+      "wqsa"
+    ],
+    "u": "https://sa.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Icelandic Wikiquote",
+    "d": "is.wikiquote.org",
+    "t": "iswikiquote",
+    "ts": [
+      "iswq",
+      "wqis"
+    ],
+    "u": "https://is.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Gorontalo Wikiquote",
+    "d": "gor.wikiquote.org",
+    "t": "gorwikiquote",
+    "ts": [
+      "gorwq",
+      "wqgor"
+    ],
+    "u": "https://gor.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Breton Wikiquote",
+    "d": "br.wikiquote.org",
+    "t": "brwikiquote",
+    "ts": [
+      "brwq",
+      "wqbr"
+    ],
+    "u": "https://br.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Marathi Wikiquote",
+    "d": "mr.wikiquote.org",
+    "t": "mrwikiquote",
+    "ts": [
+      "mrwq",
+      "wqmr"
+    ],
+    "u": "https://mr.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Afrikaans Wikiquote",
+    "d": "af.wikiquote.org",
+    "t": "afwikiquote",
+    "ts": [
+      "afwq",
+      "wqaf"
+    ],
+    "u": "https://af.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Minangkabau Wikiquote",
+    "d": "min.wikiquote.org",
+    "t": "minwikiquote",
+    "ts": [
+      "minwq",
+      "wqmin"
+    ],
+    "u": "https://min.wikiquote.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Kyrgyz Wikiquote",
+    "d": "ky.wikiquote.org",
+    "t": "kywikiquote",
+    "ts": [
+      "kywq",
+      "wqky"
+    ],
+    "u": "https://ky.wikiquote.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Reference"
   },
