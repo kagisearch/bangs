@@ -42556,14 +42556,6 @@
     "sc": "Reference"
   },
   {
-    "s": "Japanese Wikiversity",
-    "d": "ja.wikiversity.org",
-    "t": "jawv",
-    "u": "https://ja.wikiversity.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "JAX Docs",
     "d": "jax.readthedocs.io",
     "t": "jax",
@@ -86587,15 +86579,220 @@
     "sc": "Games (specific)"
   },
   {
-    "s": "Wikiversity",
-    "d": "en.wikiversity.org",
-    "t": "wikiversity",
+    "s": "German Wikiversity",
+    "d": "de.wikiversity.org",
+    "t": "dewikiversity",
     "ts": [
-      "wvers"
+      "dewv",
+      "wvde"
     ],
-    "u": "https://en.wikiversity.org/w/index.php?search={{{s}}}",
+    "u": "de.wikiversity.org/w/index.php?search={{{s}}}",
     "c": "Research",
-    "sc": "Academic"
+    "sc": "Learning"
+  },
+  {
+    "s": "English Wikiversity",
+    "d": "en.wikiversity.org",
+    "t": "enwikiversity",
+    "ts": [
+      "enwv",
+      "wven"
+    ],
+    "u": "en.wikiversity.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "French Wikiversity",
+    "d": "fr.wikiversity.org",
+    "t": "frwikiversity",
+    "ts": [
+      "frwv",
+      "wvfr"
+    ],
+    "u": "fr.wikiversity.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Chinese Wikiversity",
+    "d": "zh.wikiversity.org",
+    "t": "zhwikiversity",
+    "ts": [
+      "zhwv",
+      "wvzh"
+    ],
+    "u": "zh.wikiversity.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Italian Wikiversity",
+    "d": "it.wikiversity.org",
+    "t": "itwikiversity",
+    "ts": [
+      "itwv",
+      "wvit"
+    ],
+    "u": "it.wikiversity.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Portuguese Wikiversity",
+    "d": "pt.wikiversity.org",
+    "t": "ptwikiversity",
+    "ts": [
+      "ptwv",
+      "wvpt"
+    ],
+    "u": "pt.wikiversity.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Czech Wikiversity",
+    "d": "cs.wikiversity.org",
+    "t": "cswikiversity",
+    "ts": [
+      "cswv",
+      "wvcs"
+    ],
+    "u": "cs.wikiversity.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Russian Wikiversity",
+    "d": "ru.wikiversity.org",
+    "t": "ruwikiversity",
+    "ts": [
+      "ruwv",
+      "wvru"
+    ],
+    "u": "ru.wikiversity.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Spanish Wikiversity",
+    "d": "es.wikiversity.org",
+    "t": "eswikiversity",
+    "ts": [
+      "eswv",
+      "wves"
+    ],
+    "u": "es.wikiversity.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Beta Wikiversity",
+    "d": "beta.wikiversity.org",
+    "t": "betawikiversity",
+    "ts": [
+      "betawv",
+      "wvbeta"
+    ],
+    "u": "beta.wikiversity.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Slovenian Wikiversity",
+    "d": "sl.wikiversity.org",
+    "t": "slwikiversity",
+    "ts": [
+      "slwv",
+      "wvsl"
+    ],
+    "u": "sl.wikiversity.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Arabic Wikiversity",
+    "d": "ar.wikiversity.org",
+    "t": "arwikiversity",
+    "ts": [
+      "arwv",
+      "wvar"
+    ],
+    "u": "ar.wikiversity.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Swedish Wikiversity",
+    "d": "sv.wikiversity.org",
+    "t": "svwikiversity",
+    "ts": [
+      "svwv",
+      "wvsv"
+    ],
+    "u": "sv.wikiversity.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Finnish Wikiversity",
+    "d": "fi.wikiversity.org",
+    "t": "fiwikiversity",
+    "ts": [
+      "fiwv",
+      "wvfi"
+    ],
+    "u": "fi.wikiversity.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Greek Wikiversity",
+    "d": "el.wikiversity.org",
+    "t": "elwikiversity",
+    "ts": [
+      "elwv",
+      "wvel"
+    ],
+    "u": "el.wikiversity.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Hindi Wikiversity",
+    "d": "hi.wikiversity.org",
+    "t": "hiwikiversity",
+    "ts": [
+      "hiwv",
+      "wvhi"
+    ],
+    "u": "hi.wikiversity.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Korean Wikiversity",
+    "d": "ko.wikiversity.org",
+    "t": "kowikiversity",
+    "ts": [
+      "kowv",
+      "wvko"
+    ],
+    "u": "ko.wikiversity.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Japanese Wikiversity",
+    "d": "ja.wikiversity.org",
+    "t": "jawikiversity",
+    "ts": [
+      "jawv",
+      "wvja"
+    ],
+    "u": "ja.wikiversity.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
   },
   {
     "s": "Wikivoyage (Deutsch)",
