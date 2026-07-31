@@ -42524,14 +42524,6 @@
     "sc": "Companies"
   },
   {
-    "s": "Japanese Wikibooks",
-    "d": "ja.wikibooks.org",
-    "t": "jawb",
-    "u": "https://ja.wikibooks.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "Japanese Wikisource",
     "d": "ja.wikisource.org",
     "t": "jaws",
@@ -85147,14 +85139,6 @@
     "sc": "Sports"
   },
   {
-    "s": "Wikibooks De",
-    "d": "de.wikibooks.org",
-    "t": "wbde",
-    "u": "https://de.wikibooks.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
     "s": "r/worldbuilding",
     "d": "www.reddit.com",
     "t": "wbd",
@@ -85179,22 +85163,6 @@
     "sc": "Design"
   },
   {
-    "s": "Wikibooks JP",
-    "d": "ja.wikibooks.org",
-    "t": "wbj",
-    "u": "https://ja.wikibooks.org/w/index.php?search={{{s}}}&title=特別:検索&go=表示",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
-    "s": "Wikibooks Malayalam",
-    "d": "ml.wikibooks.org",
-    "t": "wbml",
-    "u": "https://ml.wikibooks.org/wiki/special:search/{{{s}}}",
-    "c": "Research",
-    "sc": "Learning (intl)"
-  },
-  {
     "s": "Webmasterparadies.de",
     "d": "webmasterparadies.de",
     "t": "wbmp",
@@ -85209,17 +85177,6 @@
     "u": "https://www.wbur.org/search?q={{{s}}}",
     "c": "News",
     "sc": "Broadcast"
-  },
-  {
-    "s": "Wikibooks",
-    "d": "en.wikibooks.org",
-    "t": "wb",
-    "ts": [
-      "wikibooks"
-    ],
-    "u": "https://en.wikibooks.org/wiki/Special:Search?search={{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
   },
   {
     "s": "World Cube Association Championships",
@@ -86360,6 +86317,930 @@
     "u": "https://en.wikibooks.org/wiki/Special:Search?search={{{s}}}&prefix=Cookbook:&fulltext=Search+Cookbook&fulltext=Search",
     "c": "Research",
     "sc": "Food"
+  },
+  {
+    "s": "English Wikibooks",
+    "d": "en.wikibooks.org",
+    "t": "enwikibooks",
+    "ts": [
+      "enwb",
+      "wben"
+    ],
+    "u": "https://en.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Hungarian Wikibooks",
+    "d": "hu.wikibooks.org",
+    "t": "huwikibooks",
+    "ts": [
+      "huwb",
+      "wbhu"
+    ],
+    "u": "https://hu.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "German Wikibooks",
+    "d": "de.wikibooks.org",
+    "t": "dewikibooks",
+    "ts": [
+      "dewb",
+      "wbde"
+    ],
+    "u": "https://de.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "French Wikibooks",
+    "d": "fr.wikibooks.org",
+    "t": "frwikibooks",
+    "ts": [
+      "frwb",
+      "wbfr"
+    ],
+    "u": "https://fr.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Italian Wikibooks",
+    "d": "it.wikibooks.org",
+    "t": "itwikibooks",
+    "ts": [
+      "itwb",
+      "wbit"
+    ],
+    "u": "https://it.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Japanese Wikibooks",
+    "d": "ja.wikibooks.org",
+    "t": "jawikibooks",
+    "ts": [
+      "jawb",
+      "wbja"
+    ],
+    "u": "https://ja.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Portuguese Wikibooks",
+    "d": "pt.wikibooks.org",
+    "t": "ptwikibooks",
+    "ts": [
+      "ptwb",
+      "wbpt"
+    ],
+    "u": "https://pt.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Dutch Wikibooks",
+    "d": "nl.wikibooks.org",
+    "t": "nlwikibooks",
+    "ts": [
+      "nlwb",
+      "wbnl"
+    ],
+    "u": "https://nl.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Spanish Wikibooks",
+    "d": "es.wikibooks.org",
+    "t": "eswikibooks",
+    "ts": [
+      "eswb",
+      "wbes"
+    ],
+    "u": "https://es.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Vietnamese Wikibooks",
+    "d": "vi.wikibooks.org",
+    "t": "viwikibooks",
+    "ts": [
+      "viwb",
+      "wbvi"
+    ],
+    "u": "https://vi.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Polish Wikibooks",
+    "d": "pl.wikibooks.org",
+    "t": "plwikibooks",
+    "ts": [
+      "plwb",
+      "wbpl"
+    ],
+    "u": "https://pl.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Indonesian Wikibooks",
+    "d": "id.wikibooks.org",
+    "t": "idwikibooks",
+    "ts": [
+      "idwb",
+      "wbid"
+    ],
+    "u": "https://id.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Finnish Wikibooks",
+    "d": "fi.wikibooks.org",
+    "t": "fiwikibooks",
+    "ts": [
+      "fiwb",
+      "wbfi"
+    ],
+    "u": "https://fi.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Hebrew Wikibooks",
+    "d": "he.wikibooks.org",
+    "t": "hewikibooks",
+    "ts": [
+      "hewb",
+      "wbhe"
+    ],
+    "u": "https://he.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Bangla Wikibooks",
+    "d": "bn.wikibooks.org",
+    "t": "bnwikibooks",
+    "ts": [
+      "bnwb",
+      "wbbn"
+    ],
+    "u": "https://bn.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Chinese Wikibooks",
+    "d": "zh.wikibooks.org",
+    "t": "zhwikibooks",
+    "ts": [
+      "zhwb",
+      "wbzh"
+    ],
+    "u": "https://zh.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Lithuanian Wikibooks",
+    "d": "lt.wikibooks.org",
+    "t": "ltwikibooks",
+    "ts": [
+      "ltwb",
+      "wblt"
+    ],
+    "u": "https://lt.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Persian Wikibooks",
+    "d": "fa.wikibooks.org",
+    "t": "fawikibooks",
+    "ts": [
+      "fawb",
+      "wbfa"
+    ],
+    "u": "https://fa.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Azerbaijani Wikibooks",
+    "d": "az.wikibooks.org",
+    "t": "azwikibooks",
+    "ts": [
+      "azwb",
+      "wbaz"
+    ],
+    "u": "https://az.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Albanian Wikibooks",
+    "d": "sq.wikibooks.org",
+    "t": "sqwikibooks",
+    "ts": [
+      "sqwb",
+      "wbsq"
+    ],
+    "u": "https://sq.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Russian Wikibooks",
+    "d": "ru.wikibooks.org",
+    "t": "ruwikibooks",
+    "ts": [
+      "ruwb",
+      "wbru"
+    ],
+    "u": "https://ru.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Catalan Wikibooks",
+    "d": "ca.wikibooks.org",
+    "t": "cawikibooks",
+    "ts": [
+      "cawb",
+      "wbca"
+    ],
+    "u": "https://ca.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Basque Wikibooks",
+    "d": "eu.wikibooks.org",
+    "t": "euwikibooks",
+    "ts": [
+      "euwb",
+      "wbeu"
+    ],
+    "u": "https://eu.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Thai Wikibooks",
+    "d": "th.wikibooks.org",
+    "t": "thwikibooks",
+    "ts": [
+      "thwb",
+      "wbth"
+    ],
+    "u": "https://th.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Czech Wikibooks",
+    "d": "cs.wikibooks.org",
+    "t": "cswikibooks",
+    "ts": [
+      "cswb",
+      "wbcs"
+    ],
+    "u": "https://cs.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Sinhala Wikibooks",
+    "d": "si.wikibooks.org",
+    "t": "siwikibooks",
+    "ts": [
+      "siwb",
+      "wbsi"
+    ],
+    "u": "https://si.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Danish Wikibooks",
+    "d": "da.wikibooks.org",
+    "t": "dawikibooks",
+    "ts": [
+      "dawb",
+      "wbda"
+    ],
+    "u": "https://da.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Korean Wikibooks",
+    "d": "ko.wikibooks.org",
+    "t": "kowikibooks",
+    "ts": [
+      "kowb",
+      "wbko"
+    ],
+    "u": "https://ko.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Hindi Wikibooks",
+    "d": "hi.wikibooks.org",
+    "t": "hiwikibooks",
+    "ts": [
+      "hiwb",
+      "wbhi"
+    ],
+    "u": "https://hi.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Bashkir Wikibooks",
+    "d": "ba.wikibooks.org",
+    "t": "bawikibooks",
+    "ts": [
+      "bawb",
+      "wbba"
+    ],
+    "u": "https://ba.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Swedish Wikibooks",
+    "d": "sv.wikibooks.org",
+    "t": "svwikibooks",
+    "ts": [
+      "svwb",
+      "wbsv"
+    ],
+    "u": "https://sv.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Galician Wikibooks",
+    "d": "gl.wikibooks.org",
+    "t": "glwikibooks",
+    "ts": [
+      "glwb",
+      "wbgl"
+    ],
+    "u": "https://gl.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Ukrainian Wikibooks",
+    "d": "uk.wikibooks.org",
+    "t": "ukwikibooks",
+    "ts": [
+      "ukwb",
+      "wbuk"
+    ],
+    "u": "https://uk.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Serbian Wikibooks",
+    "d": "sr.wikibooks.org",
+    "t": "srwikibooks",
+    "ts": [
+      "srwb",
+      "wbsr"
+    ],
+    "u": "https://sr.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Turkish Wikibooks",
+    "d": "tr.wikibooks.org",
+    "t": "trwikibooks",
+    "ts": [
+      "trwb",
+      "wbtr"
+    ],
+    "u": "https://tr.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Croatian Wikibooks",
+    "d": "hr.wikibooks.org",
+    "t": "hrwikibooks",
+    "ts": [
+      "hrwb",
+      "wbhr"
+    ],
+    "u": "https://hr.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Norwegian Wikibooks",
+    "d": "no.wikibooks.org",
+    "t": "nowikibooks",
+    "ts": [
+      "nowb",
+      "wbno"
+    ],
+    "u": "https://no.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Arabic Wikibooks",
+    "d": "ar.wikibooks.org",
+    "t": "arwikibooks",
+    "ts": [
+      "arwb",
+      "wbar"
+    ],
+    "u": "https://ar.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Sanskrit Wikibooks",
+    "d": "sa.wikibooks.org",
+    "t": "sawikibooks",
+    "ts": [
+      "sawb",
+      "wbsa"
+    ],
+    "u": "https://sa.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Tamil Wikibooks",
+    "d": "ta.wikibooks.org",
+    "t": "tawikibooks",
+    "ts": [
+      "tawb",
+      "wbta"
+    ],
+    "u": "https://ta.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Esperanto Wikibooks",
+    "d": "eo.wikibooks.org",
+    "t": "eowikibooks",
+    "ts": [
+      "eowb",
+      "wbeo"
+    ],
+    "u": "https://eo.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Minangkabau Wikibooks",
+    "d": "min.wikibooks.org",
+    "t": "minwikibooks",
+    "ts": [
+      "minwb",
+      "wbmin"
+    ],
+    "u": "https://min.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Malay Wikibooks",
+    "d": "ms.wikibooks.org",
+    "t": "mswikibooks",
+    "ts": [
+      "mswb",
+      "wbms"
+    ],
+    "u": "https://ms.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Icelandic Wikibooks",
+    "d": "is.wikibooks.org",
+    "t": "iswikibooks",
+    "ts": [
+      "iswb",
+      "wbis"
+    ],
+    "u": "https://is.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Slovak Wikibooks",
+    "d": "sk.wikibooks.org",
+    "t": "skwikibooks",
+    "ts": [
+      "skwb",
+      "wbsk"
+    ],
+    "u": "https://sk.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Romanian Wikibooks",
+    "d": "ro.wikibooks.org",
+    "t": "rowikibooks",
+    "ts": [
+      "rowb",
+      "wbro"
+    ],
+    "u": "https://ro.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Shan Wikibooks",
+    "d": "shn.wikibooks.org",
+    "t": "shnwikibooks",
+    "ts": [
+      "shnwb",
+      "wbshn"
+    ],
+    "u": "https://shn.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Bulgarian Wikibooks",
+    "d": "bg.wikibooks.org",
+    "t": "bgwikibooks",
+    "ts": [
+      "bgwb",
+      "wbbg"
+    ],
+    "u": "https://bg.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Georgian Wikibooks",
+    "d": "ka.wikibooks.org",
+    "t": "kawikibooks",
+    "ts": [
+      "kawb",
+      "wbka"
+    ],
+    "u": "https://ka.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Telugu Wikibooks",
+    "d": "te.wikibooks.org",
+    "t": "tewikibooks",
+    "ts": [
+      "tewb",
+      "wbte"
+    ],
+    "u": "https://te.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Tatar Wikibooks",
+    "d": "tt.wikibooks.org",
+    "t": "ttwikibooks",
+    "ts": [
+      "ttwb",
+      "wbtt"
+    ],
+    "u": "https://tt.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Greek Wikibooks",
+    "d": "el.wikibooks.org",
+    "t": "elwikibooks",
+    "ts": [
+      "elwb",
+      "wbel"
+    ],
+    "u": "https://el.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Slovenian Wikibooks",
+    "d": "sl.wikibooks.org",
+    "t": "slwikibooks",
+    "ts": [
+      "slwb",
+      "wbsl"
+    ],
+    "u": "https://sl.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Limburgish Wikibooks",
+    "d": "li.wikibooks.org",
+    "t": "liwikibooks",
+    "ts": [
+      "liwb",
+      "wbli"
+    ],
+    "u": "https://li.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Tagalog Wikibooks",
+    "d": "tl.wikibooks.org",
+    "t": "tlwikibooks",
+    "ts": [
+      "tlwb",
+      "wbtl"
+    ],
+    "u": "https://tl.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Urdu Wikibooks",
+    "d": "ur.wikibooks.org",
+    "t": "urwikibooks",
+    "ts": [
+      "urwb",
+      "wbur"
+    ],
+    "u": "https://ur.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Latin Wikibooks",
+    "d": "la.wikibooks.org",
+    "t": "lawikibooks",
+    "ts": [
+      "lawb",
+      "wbla"
+    ],
+    "u": "https://la.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Belarusian Wikibooks",
+    "d": "be.wikibooks.org",
+    "t": "bewikibooks",
+    "ts": [
+      "bewb",
+      "wbbe"
+    ],
+    "u": "https://be.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Khmer Wikibooks",
+    "d": "km.wikibooks.org",
+    "t": "kmwikibooks",
+    "ts": [
+      "kmwb",
+      "wbkm"
+    ],
+    "u": "https://km.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Marathi Wikibooks",
+    "d": "mr.wikibooks.org",
+    "t": "mrwikibooks",
+    "ts": [
+      "mrwb",
+      "wbmr"
+    ],
+    "u": "https://mr.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Kazakh Wikibooks",
+    "d": "kk.wikibooks.org",
+    "t": "kkwikibooks",
+    "ts": [
+      "kkwb",
+      "wbkk"
+    ],
+    "u": "https://kk.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Estonian Wikibooks",
+    "d": "et.wikibooks.org",
+    "t": "etwikibooks",
+    "ts": [
+      "etwb",
+      "wbet"
+    ],
+    "u": "https://et.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Macedonian Wikibooks",
+    "d": "mk.wikibooks.org",
+    "t": "mkwikibooks",
+    "ts": [
+      "mkwb",
+      "wbmk"
+    ],
+    "u": "https://mk.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Interlingua Wikibooks",
+    "d": "ia.wikibooks.org",
+    "t": "iawikibooks",
+    "ts": [
+      "iawb",
+      "wbia"
+    ],
+    "u": "https://ia.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Malayalam Wikibooks",
+    "d": "ml.wikibooks.org",
+    "t": "mlwikibooks",
+    "ts": [
+      "mlwb",
+      "wbml"
+    ],
+    "u": "https://ml.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Occitan Wikibooks",
+    "d": "oc.wikibooks.org",
+    "t": "ocwikibooks",
+    "ts": [
+      "ocwb",
+      "wboc"
+    ],
+    "u": "https://oc.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Nepali Wikibooks",
+    "d": "ne.wikibooks.org",
+    "t": "newikibooks",
+    "ts": [
+      "newb",
+      "wbne"
+    ],
+    "u": "https://ne.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Punjabi Wikibooks",
+    "d": "pa.wikibooks.org",
+    "t": "pawikibooks",
+    "ts": [
+      "pawb",
+      "wbpa"
+    ],
+    "u": "https://pa.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Armenian Wikibooks",
+    "d": "hy.wikibooks.org",
+    "t": "hywikibooks",
+    "ts": [
+      "hywb",
+      "wbhy"
+    ],
+    "u": "https://hy.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Tajik Wikibooks",
+    "d": "tg.wikibooks.org",
+    "t": "tgwikibooks",
+    "ts": [
+      "tgwb",
+      "wbtg"
+    ],
+    "u": "https://tg.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Kurdish Wikibooks",
+    "d": "ku.wikibooks.org",
+    "t": "kuwikibooks",
+    "ts": [
+      "kuwb",
+      "wbku"
+    ],
+    "u": "https://ku.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Western Frisian Wikibooks",
+    "d": "fy.wikibooks.org",
+    "t": "fywikibooks",
+    "ts": [
+      "fywb",
+      "wbfy"
+    ],
+    "u": "https://fy.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Malagasy Wikibooks",
+    "d": "mg.wikibooks.org",
+    "t": "mgwikibooks",
+    "ts": [
+      "mgwb",
+      "wbmg"
+    ],
+    "u": "https://mg.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Chuvash Wikibooks",
+    "d": "cv.wikibooks.org",
+    "t": "cvwikibooks",
+    "ts": [
+      "cvwb",
+      "wbcv"
+    ],
+    "u": "https://cv.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Afrikaans Wikibooks",
+    "d": "af.wikibooks.org",
+    "t": "afwikibooks",
+    "ts": [
+      "afwb",
+      "wbaf"
+    ],
+    "u": "https://af.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Bosnian Wikibooks",
+    "d": "bs.wikibooks.org",
+    "t": "bswikibooks",
+    "ts": [
+      "bswb",
+      "wbbs"
+    ],
+    "u": "https://bs.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Welsh Wikibooks",
+    "d": "cy.wikibooks.org",
+    "t": "cywikibooks",
+    "ts": [
+      "cywb",
+      "wbcy"
+    ],
+    "u": "https://cy.wikibooks.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
   },
   {
     "s": "WikiDex",
