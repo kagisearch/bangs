@@ -29789,23 +29789,6 @@
     "sc": "Games (general)"
   },
   {
-    "s": "Wiktionary Français",
-    "d": "fr.wiktionary.org",
-    "t": "fr.wiktionary",
-    "ts": [
-      "wifr",
-      "wiktfr",
-      "wtfr"
-    ],
-    "u": "https://fr.wiktionary.org/wiki/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools",
-    "fmt": [
-      "open_base_path",
-      "url_encode_placeholder"
-    ]
-  },
-  {
     "s": "Food Standards Agency - Food Hygiene Ratings",
     "d": "ratings.food.gov.uk",
     "t": "fsarating",
@@ -42522,14 +42505,6 @@
     "u": "https://developer.mozilla.org/search?q={{{s}}}",
     "c": "Tech",
     "sc": "Companies"
-  },
-  {
-    "s": "Japanese Wiktionary",
-    "d": "ja.wiktionary.org",
-    "t": "jawt",
-    "u": "https://ja.wiktionary.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
   },
   {
     "s": "JAX Docs",
@@ -87986,165 +87961,12 @@
     ]
   },
   {
-    "s": "wikizionario",
-    "d": "it.wiktionary.org",
-    "t": "wikizionario",
-    "u": "https://it.wiktionary.org/wiki/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools"
-  },
-  {
-    "s": "Викисловарь",
-    "d": "ru.wiktionary.org",
-    "t": "wikru",
-    "ts": [
-      "wiktru",
-      "вс"
-    ],
-    "u": "https://ru.wiktionary.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words intl)"
-  },
-  {
-    "s": "Wikeriadur",
-    "d": "br.wiktionary.org",
-    "t": "wiktbr",
-    "u": "https://br.wiktionary.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words intl)"
-  },
-  {
-    "s": "Wiktionary, das freie Wörterbuch",
-    "d": "de.wiktionary.org",
-    "t": "wiktde",
-    "u": "https://de.wiktionary.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Reference (words intl)"
-  },
-  {
-    "s": "Wiktionary Search",
-    "d": "en.wiktionary.org",
-    "t": "wikten",
-    "ts": [
-      "wiktionary",
-      "wikt",
-      "wten",
-      "wtla"
-    ],
-    "u": "https://en.wiktionary.org/wiki/Special:Search?search={{{s}}}&go=Define",
-    "c": "Research",
-    "sc": "Reference (words)"
-  },
-  {
-    "s": "Vikivortaro",
-    "d": "eo.wiktionary.org",
-    "t": "wikteo",
-    "ts": [
-      "wteo"
-    ],
-    "u": "https://eo.wiktionary.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words)"
-  },
-  {
-    "s": "Wikcionario",
-    "d": "es.wiktionary.org",
-    "t": "wiktes",
-    "ts": [
-      "wtes"
-    ],
-    "u": "https://es.wiktionary.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words intl)"
-  },
-  {
-    "s": "Wiktionary (hu)",
-    "d": "hu.wiktionary.org",
-    "t": "wikthu",
-    "u": "https://hu.wiktionary.org/w/index.php?search={{{s}}}&title=Speciális:Keresés",
-    "c": "Research",
-    "sc": "Reference (words intl)"
-  },
-  {
-    "s": "Wikizionario",
-    "d": "it.wiktionary.org",
-    "t": "wiktit",
-    "ts": [
-      "wtit"
-    ],
-    "u": "https://it.wiktionary.org/w/index.php?search={{{s}}}&title=Speciale:Ricerca",
-    "c": "Research",
-    "sc": "Reference (words)"
-  },
-  {
-    "s": "Wiktionary (Japan)",
-    "d": "ja.wiktionary.org",
-    "t": "wiktja",
-    "ts": [
-      "wtja"
-    ],
-    "u": "https://ja.wiktionary.org/wiki/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
-    "s": "위키낱말사전",
-    "d": "ko.wiktionary.org",
-    "t": "wiktko",
-    "u": "https://ko.wiktionary.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words)"
-  },
-  {
-    "s": "Latin Wiktionary",
-    "d": "la.wiktionary.org",
-    "t": "wiktla",
-    "u": "https://la.wiktionary.org/wiki/Special:Search?search={{{s}}}&go=Define",
-    "c": "Research",
-    "sc": "Reference (words intl)"
-  },
-  {
     "s": "Dutch News",
     "d": "www.dutchnews.nl",
     "t": "dutchnews",
     "u": "https://www.dutchnews.nl/?s={{{s}}}&post_type=post",
     "c": "News",
     "sc": "Online"
-  },
-  {
-    "s": "Dutch Wiktionary",
-    "d": "nl.wiktionary.org",
-    "t": "wiktnl",
-    "u": "https://nl.wiktionary.org/w/index.php?search={{{s}}}&title=Speciaal:Zoeken",
-    "c": "Research",
-    "sc": "Reference (words intl)"
-  },
-  {
-    "s": "Norwegian Wiktionary (book language)",
-    "d": "no.wiktionary.org",
-    "t": "wiktno",
-    "u": "https://no.wiktionary.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words intl)"
-  },
-  {
-    "s": "Wikcionário (PT)",
-    "d": "pt.wiktionary.org",
-    "t": "wiktpt",
-    "ts": [
-      "wtpt"
-    ],
-    "u": "https://pt.wiktionary.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words)"
-  },
-  {
-    "s": "Swedish Wiktionary",
-    "d": "sv.wiktionary.org",
-    "t": "wiktsv",
-    "u": "https://sv.wiktionary.org/w/index.php?search={{{s}}}&title=Special:Sök",
-    "c": "Research",
-    "sc": "Reference (words intl)"
   },
   {
     "s": "Wiley Online Library",
@@ -88354,14 +88176,6 @@
     "sc": "Academic"
   },
   {
-    "s": "wiktionary pl",
-    "d": "pl.wiktionary.org",
-    "t": "witpl",
-    "u": "https://pl.wiktionary.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "WJEC",
     "d": "www.wjec.co.uk",
     "t": "wjec",
@@ -88394,22 +88208,6 @@
     "sc": "Libraries/Frameworks"
   },
   {
-    "s": "Wiktionary (Italian)",
-    "d": "it.wiktionary.org",
-    "t": "wkit",
-    "u": "https://it.wiktionary.org/w/index.php?search={{{s}}}",
-    "c": "Online Services",
-    "sc": "Tools (URLs)"
-  },
-  {
-    "s": "Lithuanian Wiktionary (Vikižodynas)",
-    "d": "lt.wiktionary.org",
-    "t": "wklt",
-    "u": "https://lt.wiktionary.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words)"
-  },
-  {
     "s": "Wykop.pl",
     "d": "www.wykop.pl",
     "t": "wkp",
@@ -88433,17 +88231,6 @@
     "u": "https://species.wikimedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Learning"
-  },
-  {
-    "s": "Wiktionary German",
-    "d": "de.wiktionary.org",
-    "t": "wktde",
-    "ts": [
-      "wtde"
-    ],
-    "u": "https://de.wiktionary.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words intl)"
   },
   {
     "s": "TV Wunschliste",
@@ -90519,46 +90306,6 @@
     "sc": "Sports"
   },
   {
-    "s": "Уикиречник",
-    "d": "bg.wiktionary.org",
-    "t": "wtbg",
-    "u": "https://bg.wiktionary.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words intl)"
-  },
-  {
-    "s": "Wiktkionary e brezhoneg",
-    "d": "br.wiktionary.org",
-    "t": "wtbr",
-    "u": "https://br.wiktionary.org/wiki/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Search"
-  },
-  {
-    "s": "Wiktionary Catalan",
-    "d": "ca.wiktionary.org",
-    "t": "wtca",
-    "u": "https://ca.wiktionary.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Learning"
-  },
-  {
-    "s": "Wiktionary (Czech)",
-    "d": "cs.wiktionary.org",
-    "t": "wtcz",
-    "u": "https://cs.wiktionary.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words intl)"
-  },
-  {
-    "s": "Wiktionary (Greek)",
-    "d": "el.wiktionary.org",
-    "t": "wtel",
-    "u": "https://el.wiktionary.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words)"
-  },
-  {
     "s": "Stiftung Warentest",
     "d": "www.test.de",
     "t": "wtest",
@@ -90567,40 +90314,10 @@
     "sc": "Services"
   },
   {
-    "s": "Wiktionary (Finnish)",
-    "d": "fi.wiktionary.org",
-    "t": "wtfi",
-    "u": "https://fi.wiktionary.org/w/index.php?search={{{s}}}&title=Toiminnot:Haku",
-    "c": "Research",
-    "sc": "Reference (words intl)"
-  },
-  {
     "s": "MirBSD Acronyms Database",
     "d": "www.mirbsd.org",
     "t": "wtf",
     "u": "https://www.mirbsd.org/wtf.cgi?q={{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words)"
-  },
-  {
-    "s": "Wiktionary (Hindi)",
-    "d": "hi.wiktionary.org",
-    "t": "hiwiktionary",
-    "u": "https://hi.wiktionary.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words)"
-  },
-  {
-    "s": "Wiktionary",
-    "d": "en.wiktionary.org",
-    "t": "wtionary",
-    "ts": [
-      "wt",
-      "wdic",
-      "wictionary",
-      "wkten"
-    ],
-    "u": "https://en.wiktionary.org/w/index.php?search={{{s}}}&title=Special:Search&go=Go",
     "c": "Research",
     "sc": "Reference (words)"
   },
@@ -90613,68 +90330,12 @@
     "sc": "Audio"
   },
   {
-    "s": "WikiWoordenboek",
-    "d": "nl.wiktionary.org",
-    "t": "wtnl",
-    "u": "https://nl.wiktionary.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words intl)"
-  },
-  {
-    "s": "Wiktionary (Norwegian)",
-    "d": "no.wiktionary.org",
-    "t": "wtno",
-    "u": "https://no.wiktionary.org/wiki/index.php?title=Special:Search&search={{{s}}}",
-    "c": "Research",
-    "sc": "Learning (intl)"
-  },
-  {
-    "s": "Wiktionary (PL)",
-    "d": "pl.wiktionary.org",
-    "t": "wtpl",
-    "u": "https://pl.wiktionary.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words)"
-  },
-  {
-    "s": "Wiktionary (RO)",
-    "d": "ro.wiktionary.org",
-    "t": "wtro",
-    "u": "https://ro.wiktionary.org/wiki/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words)"
-  },
-  {
-    "s": "ru.wiktionary.org",
-    "d": "ru.wiktionary.org",
-    "t": "wtru",
-    "u": "https://ru.wiktionary.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Reference (words)"
-  },
-  {
     "s": "Westminster Bookstore",
     "d": "www.wtsbooks.com",
     "t": "wtsbooks",
     "u": "https://www.wtsbooks.com/index/page/search?FullText={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
-  },
-  {
-    "s": "Wiktionary (SV)",
-    "d": "sv.wiktionary.org",
-    "t": "wtsv",
-    "u": "https://sv.wiktionary.org/w/index.php?search={{{s}}}&button=&title=Special:Sök",
-    "c": "Research",
-    "sc": "Reference (words intl)"
-  },
-  {
-    "s": "விக்சனரி (Wiktionary Tamil)",
-    "d": "ta.wiktionary.org",
-    "t": "wtta",
-    "u": "https://ta.wiktionary.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Reference (words intl)"
   },
   {
     "s": "wttr.in",
@@ -90688,14 +90349,6 @@
     "sc": "Weather"
   },
   {
-    "s": "Wiktionary tiếng Việt",
-    "d": "vi.wiktionary.org",
-    "t": "wtvi",
-    "u": "https://vi.wiktionary.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words)"
-  },
-  {
     "s": "War Thunder Wiki",
     "d": "wiki.warthunder.com",
     "t": "wtw",
@@ -90704,10 +90357,2090 @@
     "sc": "Games (general)"
   },
   {
-    "s": "Wiktionary (Chinese)",
+    "s": "English Wiktionary",
+    "d": "en.wiktionary.org",
+    "t": "enwiktionary",
+    "ts": [
+      "enwikt",
+      "wikten"
+    ],
+    "u": "https://en.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "French Wiktionary",
+    "d": "fr.wiktionary.org",
+    "t": "frwiktionary",
+    "ts": [
+      "frwikt",
+      "wiktfr"
+    ],
+    "u": "https://fr.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Malagasy Wiktionary",
+    "d": "mg.wiktionary.org",
+    "t": "mgwiktionary",
+    "ts": [
+      "mgwikt",
+      "wiktmg"
+    ],
+    "u": "https://mg.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Chinese Wiktionary",
     "d": "zh.wiktionary.org",
-    "t": "wtzh",
+    "t": "zhwiktionary",
+    "ts": [
+      "zhwikt",
+      "wiktzh"
+    ],
     "u": "https://zh.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Thai Wiktionary",
+    "d": "th.wiktionary.org",
+    "t": "thwiktionary",
+    "ts": [
+      "thwikt",
+      "wiktth"
+    ],
+    "u": "https://th.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Greek Wiktionary",
+    "d": "el.wiktionary.org",
+    "t": "elwiktionary",
+    "ts": [
+      "elwikt",
+      "wiktel"
+    ],
+    "u": "https://el.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Russian Wiktionary",
+    "d": "ru.wiktionary.org",
+    "t": "ruwiktionary",
+    "ts": [
+      "ruwikt",
+      "wiktru"
+    ],
+    "u": "https://ru.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Turkish Wiktionary",
+    "d": "tr.wiktionary.org",
+    "t": "trwiktionary",
+    "ts": [
+      "trwikt",
+      "wikttr"
+    ],
+    "u": "https://tr.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "German Wiktionary",
+    "d": "de.wiktionary.org",
+    "t": "dewiktionary",
+    "ts": [
+      "dewikt",
+      "wiktde"
+    ],
+    "u": "https://de.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Dutch Wiktionary",
+    "d": "nl.wiktionary.org",
+    "t": "nlwiktionary",
+    "ts": [
+      "nlwikt",
+      "wiktnl"
+    ],
+    "u": "https://nl.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Kurdish Wiktionary",
+    "d": "ku.wiktionary.org",
+    "t": "kuwiktionary",
+    "ts": [
+      "kuwikt",
+      "wiktku"
+    ],
+    "u": "https://ku.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Swedish Wiktionary",
+    "d": "sv.wiktionary.org",
+    "t": "svwiktionary",
+    "ts": [
+      "svwikt",
+      "wiktsv"
+    ],
+    "u": "https://sv.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Spanish Wiktionary",
+    "d": "es.wiktionary.org",
+    "t": "eswiktionary",
+    "ts": [
+      "eswikt",
+      "wiktes"
+    ],
+    "u": "https://es.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Serbo-Croatian Wiktionary",
+    "d": "sh.wiktionary.org",
+    "t": "shwiktionary",
+    "ts": [
+      "shwikt",
+      "wiktsh"
+    ],
+    "u": "https://sh.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Polish Wiktionary",
+    "d": "pl.wiktionary.org",
+    "t": "plwiktionary",
+    "ts": [
+      "plwikt",
+      "wiktpl"
+    ],
+    "u": "https://pl.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Italian Wiktionary",
+    "d": "it.wiktionary.org",
+    "t": "itwiktionary",
+    "ts": [
+      "itwikt",
+      "wiktit"
+    ],
+    "u": "https://it.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Finnish Wiktionary",
+    "d": "fi.wiktionary.org",
+    "t": "fiwiktionary",
+    "ts": [
+      "fiwikt",
+      "wiktfi"
+    ],
+    "u": "https://fi.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Lithuanian Wiktionary",
+    "d": "lt.wiktionary.org",
+    "t": "ltwiktionary",
+    "ts": [
+      "ltwikt",
+      "wiktlt"
+    ],
+    "u": "https://lt.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Catalan Wiktionary",
+    "d": "ca.wiktionary.org",
+    "t": "cawiktionary",
+    "ts": [
+      "cawikt",
+      "wiktca"
+    ],
+    "u": "https://ca.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Hungarian Wiktionary",
+    "d": "hu.wiktionary.org",
+    "t": "huwiktionary",
+    "ts": [
+      "huwikt",
+      "wikthu"
+    ],
+    "u": "https://hu.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Portuguese Wiktionary",
+    "d": "pt.wiktionary.org",
+    "t": "ptwiktionary",
+    "ts": [
+      "ptwikt",
+      "wiktpt"
+    ],
+    "u": "https://pt.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Japanese Wiktionary",
+    "d": "ja.wiktionary.org",
+    "t": "jawiktionary",
+    "ts": [
+      "jawikt",
+      "wiktja"
+    ],
+    "u": "https://ja.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Tamil Wiktionary",
+    "d": "ta.wiktionary.org",
+    "t": "tawiktionary",
+    "ts": [
+      "tawikt",
+      "wiktta"
+    ],
+    "u": "https://ta.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Vietnamese Wiktionary",
+    "d": "vi.wiktionary.org",
+    "t": "viwiktionary",
+    "ts": [
+      "viwikt",
+      "wiktvi"
+    ],
+    "u": "https://vi.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Ido Wiktionary",
+    "d": "io.wiktionary.org",
+    "t": "iowiktionary",
+    "ts": [
+      "iowikt",
+      "wiktio"
+    ],
+    "u": "https://io.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Armenian Wiktionary",
+    "d": "hy.wiktionary.org",
+    "t": "hywiktionary",
+    "ts": [
+      "hywikt",
+      "wikthy"
+    ],
+    "u": "https://hy.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Korean Wiktionary",
+    "d": "ko.wiktionary.org",
+    "t": "kowiktionary",
+    "ts": [
+      "kowikt",
+      "wiktko"
+    ],
+    "u": "https://ko.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Kannada Wiktionary",
+    "d": "kn.wiktionary.org",
+    "t": "knwiktionary",
+    "ts": [
+      "knwikt",
+      "wiktkn"
+    ],
+    "u": "https://kn.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Indonesian Wiktionary",
+    "d": "id.wiktionary.org",
+    "t": "idwiktionary",
+    "ts": [
+      "idwikt",
+      "wiktid"
+    ],
+    "u": "https://id.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Serbian Wiktionary",
+    "d": "sr.wiktionary.org",
+    "t": "srwiktionary",
+    "ts": [
+      "srwikt",
+      "wiktsr"
+    ],
+    "u": "https://sr.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Esperanto Wiktionary",
+    "d": "eo.wiktionary.org",
+    "t": "eowiktionary",
+    "ts": [
+      "eowikt",
+      "wikteo"
+    ],
+    "u": "https://eo.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Mon Wiktionary",
+    "d": "mnw.wiktionary.org",
+    "t": "mnwwiktionary",
+    "ts": [
+      "mnwwikt",
+      "wiktmnw"
+    ],
+    "u": "https://mnw.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Hindi Wiktionary",
+    "d": "hi.wiktionary.org",
+    "t": "hiwiktionary",
+    "ts": [
+      "hiwikt",
+      "wikthi"
+    ],
+    "u": "https://hi.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Romanian Wiktionary",
+    "d": "ro.wiktionary.org",
+    "t": "rowiktionary",
+    "ts": [
+      "rowikt",
+      "wiktro"
+    ],
+    "u": "https://ro.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Estonian Wiktionary",
+    "d": "et.wiktionary.org",
+    "t": "etwiktionary",
+    "ts": [
+      "etwikt",
+      "wiktet"
+    ],
+    "u": "https://et.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Czech Wiktionary",
+    "d": "cs.wiktionary.org",
+    "t": "cswiktionary",
+    "ts": [
+      "cswikt",
+      "wiktcs"
+    ],
+    "u": "https://cs.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Norwegian Wiktionary",
+    "d": "no.wiktionary.org",
+    "t": "nowiktionary",
+    "ts": [
+      "nowikt",
+      "wiktno"
+    ],
+    "u": "https://no.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Saraiki Wiktionary",
+    "d": "skr.wiktionary.org",
+    "t": "skrwiktionary",
+    "ts": [
+      "skrwikt",
+      "wiktskr"
+    ],
+    "u": "https://skr.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Malayalam Wiktionary",
+    "d": "ml.wiktionary.org",
+    "t": "mlwiktionary",
+    "ts": [
+      "mlwikt",
+      "wiktml"
+    ],
+    "u": "https://ml.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Limburgish Wiktionary",
+    "d": "li.wiktionary.org",
+    "t": "liwiktionary",
+    "ts": [
+      "liwikt",
+      "wiktli"
+    ],
+    "u": "https://li.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Uzbek Wiktionary",
+    "d": "uz.wiktionary.org",
+    "t": "uzwiktionary",
+    "ts": [
+      "uzwikt",
+      "wiktuz"
+    ],
+    "u": "https://uz.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Persian Wiktionary",
+    "d": "fa.wiktionary.org",
+    "t": "fawiktionary",
+    "ts": [
+      "fawikt",
+      "wiktfa"
+    ],
+    "u": "https://fa.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Odia Wiktionary",
+    "d": "or.wiktionary.org",
+    "t": "orwiktionary",
+    "ts": [
+      "orwikt",
+      "wiktor"
+    ],
+    "u": "https://or.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Telugu Wiktionary",
+    "d": "te.wiktionary.org",
+    "t": "tewiktionary",
+    "ts": [
+      "tewikt",
+      "wiktte"
+    ],
+    "u": "https://te.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Bangla Wiktionary",
+    "d": "bn.wiktionary.org",
+    "t": "bnwiktionary",
+    "ts": [
+      "bnwikt",
+      "wiktbn"
+    ],
+    "u": "https://bn.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Icelandic Wiktionary",
+    "d": "is.wiktionary.org",
+    "t": "iswiktionary",
+    "ts": [
+      "iswikt",
+      "wiktis"
+    ],
+    "u": "https://is.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Burmese Wiktionary",
+    "d": "my.wiktionary.org",
+    "t": "mywiktionary",
+    "ts": [
+      "mywikt",
+      "wiktmy"
+    ],
+    "u": "https://my.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Swahili Wiktionary",
+    "d": "sw.wiktionary.org",
+    "t": "swwiktionary",
+    "ts": [
+      "swwikt",
+      "wiktsw"
+    ],
+    "u": "https://sw.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Galician Wiktionary",
+    "d": "gl.wiktionary.org",
+    "t": "glwiktionary",
+    "ts": [
+      "glwikt",
+      "wiktgl"
+    ],
+    "u": "https://gl.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Sango Wiktionary",
+    "d": "sg.wiktionary.org",
+    "t": "sgwiktionary",
+    "ts": [
+      "sgwikt",
+      "wiktsg"
+    ],
+    "u": "https://sg.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Javanese Wiktionary",
+    "d": "jv.wiktionary.org",
+    "t": "jvwiktionary",
+    "ts": [
+      "jvwikt",
+      "wiktjv"
+    ],
+    "u": "https://jv.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Asturian Wiktionary",
+    "d": "ast.wiktionary.org",
+    "t": "astwiktionary",
+    "ts": [
+      "astwikt",
+      "wiktast"
+    ],
+    "u": "https://ast.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Occitan Wiktionary",
+    "d": "oc.wiktionary.org",
+    "t": "ocwiktionary",
+    "ts": [
+      "ocwikt",
+      "wiktoc"
+    ],
+    "u": "https://oc.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Arabic Wiktionary",
+    "d": "ar.wiktionary.org",
+    "t": "arwiktionary",
+    "ts": [
+      "arwikt",
+      "wiktar"
+    ],
+    "u": "https://ar.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Ukrainian Wiktionary",
+    "d": "uk.wiktionary.org",
+    "t": "ukwiktionary",
+    "ts": [
+      "ukwikt",
+      "wiktuk"
+    ],
+    "u": "https://uk.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Azerbaijani Wiktionary",
+    "d": "az.wiktionary.org",
+    "t": "azwiktionary",
+    "ts": [
+      "azwikt",
+      "wiktaz"
+    ],
+    "u": "https://az.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Basque Wiktionary",
+    "d": "eu.wiktionary.org",
+    "t": "euwiktionary",
+    "ts": [
+      "euwikt",
+      "wikteu"
+    ],
+    "u": "https://eu.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Simple English Wiktionary",
+    "d": "simple.wiktionary.org",
+    "t": "simplewiktionary",
+    "ts": [
+      "simplewikt",
+      "wiktsimple"
+    ],
+    "u": "https://simple.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Breton Wiktionary",
+    "d": "br.wiktionary.org",
+    "t": "brwiktionary",
+    "ts": [
+      "brwikt",
+      "wiktbr"
+    ],
+    "u": "https://br.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Oromo Wiktionary",
+    "d": "om.wiktionary.org",
+    "t": "omwiktionary",
+    "ts": [
+      "omwikt",
+      "wiktom"
+    ],
+    "u": "https://om.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Shan Wiktionary",
+    "d": "shn.wiktionary.org",
+    "t": "shnwiktionary",
+    "ts": [
+      "shnwikt",
+      "wiktshn"
+    ],
+    "u": "https://shn.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Danish Wiktionary",
+    "d": "da.wiktionary.org",
+    "t": "dawiktionary",
+    "ts": [
+      "dawikt",
+      "wiktda"
+    ],
+    "u": "https://da.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Malay Wiktionary",
+    "d": "ms.wiktionary.org",
+    "t": "mswiktionary",
+    "ts": [
+      "mswikt",
+      "wiktms"
+    ],
+    "u": "https://ms.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Kabardian Wiktionary",
+    "d": "kbd.wiktionary.org",
+    "t": "kbdwiktionary",
+    "ts": [
+      "kbdwikt",
+      "wiktkbd"
+    ],
+    "u": "https://kbd.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Slovak Wiktionary",
+    "d": "sk.wiktionary.org",
+    "t": "skwiktionary",
+    "ts": [
+      "skwikt",
+      "wiktsk"
+    ],
+    "u": "https://sk.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Latin Wiktionary",
+    "d": "la.wiktionary.org",
+    "t": "lawiktionary",
+    "ts": [
+      "lawikt",
+      "wiktla"
+    ],
+    "u": "https://la.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Walloon Wiktionary",
+    "d": "wa.wiktionary.org",
+    "t": "wawiktionary",
+    "ts": [
+      "wawikt",
+      "wiktwa"
+    ],
+    "u": "https://wa.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Lombard Wiktionary",
+    "d": "lmo.wiktionary.org",
+    "t": "lmowiktionary",
+    "ts": [
+      "lmowikt",
+      "wiktlmo"
+    ],
+    "u": "https://lmo.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Kyrgyz Wiktionary",
+    "d": "ky.wiktionary.org",
+    "t": "kywiktionary",
+    "ts": [
+      "kywikt",
+      "wiktky"
+    ],
+    "u": "https://ky.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Croatian Wiktionary",
+    "d": "hr.wiktionary.org",
+    "t": "hrwiktionary",
+    "ts": [
+      "hrwikt",
+      "wikthr"
+    ],
+    "u": "https://hr.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Fijian Wiktionary",
+    "d": "fj.wiktionary.org",
+    "t": "fjwiktionary",
+    "ts": [
+      "fjwikt",
+      "wiktfj"
+    ],
+    "u": "https://fj.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Bulgarian Wiktionary",
+    "d": "bg.wiktionary.org",
+    "t": "bgwiktionary",
+    "ts": [
+      "bgwikt",
+      "wiktbg"
+    ],
+    "u": "https://bg.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Afrikaans Wiktionary",
+    "d": "af.wiktionary.org",
+    "t": "afwiktionary",
+    "ts": [
+      "afwikt",
+      "wiktaf"
+    ],
+    "u": "https://af.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Welsh Wiktionary",
+    "d": "cy.wiktionary.org",
+    "t": "cywiktionary",
+    "ts": [
+      "cywikt",
+      "wiktcy"
+    ],
+    "u": "https://cy.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Lao Wiktionary",
+    "d": "lo.wiktionary.org",
+    "t": "lowiktionary",
+    "ts": [
+      "lowikt",
+      "wiktlo"
+    ],
+    "u": "https://lo.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Urdu Wiktionary",
+    "d": "ur.wiktionary.org",
+    "t": "urwiktionary",
+    "ts": [
+      "urwikt",
+      "wiktur"
+    ],
+    "u": "https://ur.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Georgian Wiktionary",
+    "d": "ka.wiktionary.org",
+    "t": "kawiktionary",
+    "ts": [
+      "kawikt",
+      "wiktka"
+    ],
+    "u": "https://ka.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Tajik Wiktionary",
+    "d": "tg.wiktionary.org",
+    "t": "tgwiktionary",
+    "ts": [
+      "tgwikt",
+      "wikttg"
+    ],
+    "u": "https://tg.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Pashto Wiktionary",
+    "d": "ps.wiktionary.org",
+    "t": "pswiktionary",
+    "ts": [
+      "pswikt",
+      "wiktps"
+    ],
+    "u": "https://ps.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Hebrew Wiktionary",
+    "d": "he.wiktionary.org",
+    "t": "hewiktionary",
+    "ts": [
+      "hewikt",
+      "wikthe"
+    ],
+    "u": "https://he.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Volapük Wiktionary",
+    "d": "vo.wiktionary.org",
+    "t": "vowiktionary",
+    "ts": [
+      "vowikt",
+      "wiktvo"
+    ],
+    "u": "https://vo.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Slovenian Wiktionary",
+    "d": "sl.wiktionary.org",
+    "t": "slwiktionary",
+    "ts": [
+      "slwikt",
+      "wiktsl"
+    ],
+    "u": "https://sl.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Minnan Wiktionary",
+    "d": "zh-min-nan.wiktionary.org",
+    "t": "zh-min-nanwiktionary",
+    "ts": [
+      "zh-min-nanwikt",
+      "wiktzh-min-nan"
+    ],
+    "u": "https://zh-min-nan.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Sicilian Wiktionary",
+    "d": "scn.wiktionary.org",
+    "t": "scnwiktionary",
+    "ts": [
+      "scnwikt",
+      "wiktscn"
+    ],
+    "u": "https://scn.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Tagalog Wiktionary",
+    "d": "tl.wiktionary.org",
+    "t": "tlwiktionary",
+    "ts": [
+      "tlwikt",
+      "wikttl"
+    ],
+    "u": "https://tl.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Punjabi Wiktionary",
+    "d": "pa.wiktionary.org",
+    "t": "pawiktionary",
+    "ts": [
+      "pawikt",
+      "wiktpa"
+    ],
+    "u": "https://pa.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Western Frisian Wiktionary",
+    "d": "fy.wiktionary.org",
+    "t": "fywiktionary",
+    "ts": [
+      "fywikt",
+      "wiktfy"
+    ],
+    "u": "https://fy.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Minangkabau Wiktionary",
+    "d": "min.wiktionary.org",
+    "t": "minwiktionary",
+    "ts": [
+      "minwikt",
+      "wiktmin"
+    ],
+    "u": "https://min.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Kazakh Wiktionary",
+    "d": "kk.wiktionary.org",
+    "t": "kkwiktionary",
+    "ts": [
+      "kkwikt",
+      "wiktkk"
+    ],
+    "u": "https://kk.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Gorontalo Wiktionary",
+    "d": "gor.wiktionary.org",
+    "t": "gorwiktionary",
+    "ts": [
+      "gorwikt",
+      "wiktgor"
+    ],
+    "u": "https://gor.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Norwegian Nynorsk Wiktionary",
+    "d": "nn.wiktionary.org",
+    "t": "nnwiktionary",
+    "ts": [
+      "nnwikt",
+      "wiktnn"
+    ],
+    "u": "https://nn.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Latvian Wiktionary",
+    "d": "lv.wiktionary.org",
+    "t": "lvwiktionary",
+    "ts": [
+      "lvwikt",
+      "wiktlv"
+    ],
+    "u": "https://lv.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Sinhala Wiktionary",
+    "d": "si.wiktionary.org",
+    "t": "siwiktionary",
+    "ts": [
+      "siwikt",
+      "wiktsi"
+    ],
+    "u": "https://si.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Luxembourgish Wiktionary",
+    "d": "lb.wiktionary.org",
+    "t": "lbwiktionary",
+    "ts": [
+      "lbwikt",
+      "wiktlb"
+    ],
+    "u": "https://lb.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Albanian Wiktionary",
+    "d": "sq.wiktionary.org",
+    "t": "sqwiktionary",
+    "ts": [
+      "sqwikt",
+      "wiktsq"
+    ],
+    "u": "https://sq.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Low German Wiktionary",
+    "d": "nds.wiktionary.org",
+    "t": "ndswiktionary",
+    "ts": [
+      "ndswikt",
+      "wiktnds"
+    ],
+    "u": "https://nds.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Mongolian Wiktionary",
+    "d": "mn.wiktionary.org",
+    "t": "mnwiktionary",
+    "ts": [
+      "mnwikt",
+      "wiktmn"
+    ],
+    "u": "https://mn.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Corsican Wiktionary",
+    "d": "co.wiktionary.org",
+    "t": "cowiktionary",
+    "ts": [
+      "cowikt",
+      "wiktco"
+    ],
+    "u": "https://co.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Madurese Wiktionary",
+    "d": "mad.wiktionary.org",
+    "t": "madwiktionary",
+    "ts": [
+      "madwikt",
+      "wiktmad"
+    ],
+    "u": "https://mad.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Western Punjabi Wiktionary",
+    "d": "pnb.wiktionary.org",
+    "t": "pnbwiktionary",
+    "ts": [
+      "pnbwikt",
+      "wiktpnb"
+    ],
+    "u": "https://pnb.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Dimli Wiktionary",
+    "d": "diq.wiktionary.org",
+    "t": "diqwiktionary",
+    "ts": [
+      "diqwikt",
+      "wiktdiq"
+    ],
+    "u": "https://diq.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Nahuatl Wiktionary",
+    "d": "nah.wiktionary.org",
+    "t": "nahwiktionary",
+    "ts": [
+      "nahwikt",
+      "wiktnah"
+    ],
+    "u": "https://nah.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Cantonese Wiktionary",
+    "d": "yue.wiktionary.org",
+    "t": "yuewiktionary",
+    "ts": [
+      "yuewikt",
+      "wiktyue"
+    ],
+    "u": "https://yue.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Belarusian Wiktionary",
+    "d": "be.wiktionary.org",
+    "t": "bewiktionary",
+    "ts": [
+      "bewikt",
+      "wiktbe"
+    ],
+    "u": "https://be.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Nias Wiktionary",
+    "d": "nia.wiktionary.org",
+    "t": "niawiktionary",
+    "ts": [
+      "niawikt",
+      "wiktnia"
+    ],
+    "u": "https://nia.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Khmer Wiktionary",
+    "d": "km.wiktionary.org",
+    "t": "kmwiktionary",
+    "ts": [
+      "kmwikt",
+      "wiktkm"
+    ],
+    "u": "https://km.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Central Bikol Wiktionary",
+    "d": "bcl.wiktionary.org",
+    "t": "bclwiktionary",
+    "ts": [
+      "bclwikt",
+      "wiktbcl"
+    ],
+    "u": "https://bcl.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Kara-Kalpak Wiktionary",
+    "d": "kaa.wiktionary.org",
+    "t": "kaawiktionary",
+    "ts": [
+      "kaawikt",
+      "wiktkaa"
+    ],
+    "u": "https://kaa.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Macedonian Wiktionary",
+    "d": "mk.wiktionary.org",
+    "t": "mkwiktionary",
+    "ts": [
+      "mkwikt",
+      "wiktmk"
+    ],
+    "u": "https://mk.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Betawi Wiktionary",
+    "d": "bew.wiktionary.org",
+    "t": "bewwiktionary",
+    "ts": [
+      "bewwikt",
+      "wiktbew"
+    ],
+    "u": "https://bew.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Sanskrit Wiktionary",
+    "d": "sa.wiktionary.org",
+    "t": "sawiktionary",
+    "ts": [
+      "sawikt",
+      "wiktsa"
+    ],
+    "u": "https://sa.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Venetian Wiktionary",
+    "d": "vec.wiktionary.org",
+    "t": "vecwiktionary",
+    "ts": [
+      "vecwikt",
+      "wiktvec"
+    ],
+    "u": "https://vec.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Turkmen Wiktionary",
+    "d": "tk.wiktionary.org",
+    "t": "tkwiktionary",
+    "ts": [
+      "tkwikt",
+      "wikttk"
+    ],
+    "u": "https://tk.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Somali Wiktionary",
+    "d": "so.wiktionary.org",
+    "t": "sowiktionary",
+    "ts": [
+      "sowikt",
+      "wiktso"
+    ],
+    "u": "https://so.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Kashmiri Wiktionary",
+    "d": "ks.wiktionary.org",
+    "t": "kswiktionary",
+    "ts": [
+      "kswikt",
+      "wiktks"
+    ],
+    "u": "https://ks.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Samoan Wiktionary",
+    "d": "sm.wiktionary.org",
+    "t": "smwiktionary",
+    "ts": [
+      "smwikt",
+      "wiktsm"
+    ],
+    "u": "https://sm.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Upper Sorbian Wiktionary",
+    "d": "hsb.wiktionary.org",
+    "t": "hsbwiktionary",
+    "ts": [
+      "hsbwikt",
+      "wikthsb"
+    ],
+    "u": "https://hsb.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Batak Mandailing Wiktionary",
+    "d": "btm.wiktionary.org",
+    "t": "btmwiktionary",
+    "ts": [
+      "btmwikt",
+      "wiktbtm"
+    ],
+    "u": "https://btm.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Hausa Wiktionary",
+    "d": "ha.wiktionary.org",
+    "t": "hawiktionary",
+    "ts": [
+      "hawikt",
+      "wiktha"
+    ],
+    "u": "https://ha.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Banjar Wiktionary",
+    "d": "bjn.wiktionary.org",
+    "t": "bjnwiktionary",
+    "ts": [
+      "bjnwikt",
+      "wiktbjn"
+    ],
+    "u": "https://bjn.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Sundanese Wiktionary",
+    "d": "su.wiktionary.org",
+    "t": "suwiktionary",
+    "ts": [
+      "suwikt",
+      "wiktsu"
+    ],
+    "u": "https://su.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Shawiya Wiktionary",
+    "d": "shy.wiktionary.org",
+    "t": "shywiktionary",
+    "ts": [
+      "shywikt",
+      "wiktshy"
+    ],
+    "u": "https://shy.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Central Kurdish Wiktionary",
+    "d": "ckb.wiktionary.org",
+    "t": "ckbwiktionary",
+    "ts": [
+      "ckbwikt",
+      "wiktckb"
+    ],
+    "u": "https://ckb.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Irish Wiktionary",
+    "d": "ga.wiktionary.org",
+    "t": "gawiktionary",
+    "ts": [
+      "gawikt",
+      "wiktga"
+    ],
+    "u": "https://ga.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Scottish Gaelic Wiktionary",
+    "d": "gd.wiktionary.org",
+    "t": "gdwiktionary",
+    "ts": [
+      "gdwikt",
+      "wiktgd"
+    ],
+    "u": "https://gd.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Pa'O Wiktionary",
+    "d": "blk.wiktionary.org",
+    "t": "blkwiktionary",
+    "ts": [
+      "blkwikt",
+      "wiktblk"
+    ],
+    "u": "https://blk.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Aragonese Wiktionary",
+    "d": "an.wiktionary.org",
+    "t": "anwiktionary",
+    "ts": [
+      "anwikt",
+      "wiktan"
+    ],
+    "u": "https://an.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Goan Konkani Wiktionary",
+    "d": "gom.wiktionary.org",
+    "t": "gomwiktionary",
+    "ts": [
+      "gomwikt",
+      "wiktgom"
+    ],
+    "u": "https://gom.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Marathi Wiktionary",
+    "d": "mr.wiktionary.org",
+    "t": "mrwiktionary",
+    "ts": [
+      "mrwikt",
+      "wiktmr"
+    ],
+    "u": "https://mr.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Wolof Wiktionary",
+    "d": "wo.wiktionary.org",
+    "t": "wowiktionary",
+    "ts": [
+      "wowikt",
+      "wiktwo"
+    ],
+    "u": "https://wo.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Manipuri Wiktionary",
+    "d": "mni.wiktionary.org",
+    "t": "mniwiktionary",
+    "ts": [
+      "mniwikt",
+      "wiktmni"
+    ],
+    "u": "https://mni.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Interlingua Wiktionary",
+    "d": "ia.wiktionary.org",
+    "t": "iawiktionary",
+    "ts": [
+      "iawikt",
+      "wiktia"
+    ],
+    "u": "https://ia.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Maltese Wiktionary",
+    "d": "mt.wiktionary.org",
+    "t": "mtwiktionary",
+    "ts": [
+      "mtwikt",
+      "wiktmt"
+    ],
+    "u": "https://mt.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Sindhi Wiktionary",
+    "d": "sd.wiktionary.org",
+    "t": "sdwiktionary",
+    "ts": [
+      "sdwikt",
+      "wiktsd"
+    ],
+    "u": "https://sd.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Tatar Wiktionary",
+    "d": "tt.wiktionary.org",
+    "t": "ttwiktionary",
+    "ts": [
+      "ttwikt",
+      "wikttt"
+    ],
+    "u": "https://tt.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Tyap Wiktionary",
+    "d": "kcg.wiktionary.org",
+    "t": "kcgwiktionary",
+    "ts": [
+      "kcgwikt",
+      "wiktkcg"
+    ],
+    "u": "https://kcg.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Faroese Wiktionary",
+    "d": "fo.wiktionary.org",
+    "t": "fowiktionary",
+    "ts": [
+      "fowikt",
+      "wiktfo"
+    ],
+    "u": "https://fo.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Old English Wiktionary",
+    "d": "ang.wiktionary.org",
+    "t": "angwiktionary",
+    "ts": [
+      "angwikt",
+      "wiktang"
+    ],
+    "u": "https://ang.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Guarani Wiktionary",
+    "d": "gn.wiktionary.org",
+    "t": "gnwiktionary",
+    "ts": [
+      "gnwikt",
+      "wiktgn"
+    ],
+    "u": "https://gn.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Māori Wiktionary",
+    "d": "mi.wiktionary.org",
+    "t": "miwiktionary",
+    "ts": [
+      "miwikt",
+      "wiktmi"
+    ],
+    "u": "https://mi.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Gun Wiktionary",
+    "d": "guw.wiktionary.org",
+    "t": "guwwiktionary",
+    "ts": [
+      "guwwikt",
+      "wiktguw"
+    ],
+    "u": "https://guw.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Interlingue Wiktionary",
+    "d": "ie.wiktionary.org",
+    "t": "iewiktionary",
+    "ts": [
+      "iewikt",
+      "wiktie"
+    ],
+    "u": "https://ie.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Kashubian Wiktionary",
+    "d": "csb.wiktionary.org",
+    "t": "csbwiktionary",
+    "ts": [
+      "csbwikt",
+      "wiktcsb"
+    ],
+    "u": "https://csb.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Uyghur Wiktionary",
+    "d": "ug.wiktionary.org",
+    "t": "ugwiktionary",
+    "ts": [
+      "ugwikt",
+      "wiktug"
+    ],
+    "u": "https://ug.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Lojban Wiktionary",
+    "d": "jbo.wiktionary.org",
+    "t": "jbowiktionary",
+    "ts": [
+      "jbowikt",
+      "wiktjbo"
+    ],
+    "u": "https://jbo.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Southern Sotho Wiktionary",
+    "d": "st.wiktionary.org",
+    "t": "stwiktionary",
+    "ts": [
+      "stwikt",
+      "wiktst"
+    ],
+    "u": "https://st.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Fiji Hindi Wiktionary",
+    "d": "hif.wiktionary.org",
+    "t": "hifwiktionary",
+    "ts": [
+      "hifwikt",
+      "wikthif"
+    ],
+    "u": "https://hif.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Aromanian Wiktionary",
+    "d": "roa-rup.wiktionary.org",
+    "t": "roa-rupwiktionary",
+    "ts": [
+      "roa-rupwikt",
+      "wiktroa-rup"
+    ],
+    "u": "https://roa-rup.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Santali Wiktionary",
+    "d": "sat.wiktionary.org",
+    "t": "satwiktionary",
+    "ts": [
+      "satwikt",
+      "wiktsat"
+    ],
+    "u": "https://sat.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Zulu Wiktionary",
+    "d": "zu.wiktionary.org",
+    "t": "zuwiktionary",
+    "ts": [
+      "zuwikt",
+      "wiktzu"
+    ],
+    "u": "https://zu.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Kalaallisut Wiktionary",
+    "d": "kl.wiktionary.org",
+    "t": "klwiktionary",
+    "ts": [
+      "klwikt",
+      "wiktkl"
+    ],
+    "u": "https://kl.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Standard Moroccan Tamazight Wiktionary",
+    "d": "zgh.wiktionary.org",
+    "t": "zghwiktionary",
+    "ts": [
+      "zghwikt",
+      "wiktzgh"
+    ],
+    "u": "https://zgh.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Tulu Wiktionary",
+    "d": "tcy.wiktionary.org",
+    "t": "tcywiktionary",
+    "ts": [
+      "tcywikt",
+      "wikttcy"
+    ],
+    "u": "https://tcy.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Lingala Wiktionary",
+    "d": "ln.wiktionary.org",
+    "t": "lnwiktionary",
+    "ts": [
+      "lnwikt",
+      "wiktln"
+    ],
+    "u": "https://ln.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Amharic Wiktionary",
+    "d": "am.wiktionary.org",
+    "t": "amwiktionary",
+    "ts": [
+      "amwikt",
+      "wiktam"
+    ],
+    "u": "https://am.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Aymara Wiktionary",
+    "d": "ay.wiktionary.org",
+    "t": "aywiktionary",
+    "ts": [
+      "aywikt",
+      "wiktay"
+    ],
+    "u": "https://ay.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Yiddish Wiktionary",
+    "d": "yi.wiktionary.org",
+    "t": "yiwiktionary",
+    "ts": [
+      "yiwikt",
+      "wiktyi"
+    ],
+    "u": "https://yi.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Gujarati Wiktionary",
+    "d": "gu.wiktionary.org",
+    "t": "guwiktionary",
+    "ts": [
+      "guwikt",
+      "wiktgu"
+    ],
+    "u": "https://gu.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Igbo Wiktionary",
+    "d": "ig.wiktionary.org",
+    "t": "igwiktionary",
+    "ts": [
+      "igwikt",
+      "wiktig"
+    ],
+    "u": "https://ig.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Nauru Wiktionary",
+    "d": "na.wiktionary.org",
+    "t": "nawiktionary",
+    "ts": [
+      "nawikt",
+      "wiktna"
+    ],
+    "u": "https://na.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Manx Wiktionary",
+    "d": "gv.wiktionary.org",
+    "t": "gvwiktionary",
+    "ts": [
+      "gvwikt",
+      "wiktgv"
+    ],
+    "u": "https://gv.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Nepali Wiktionary",
+    "d": "ne.wiktionary.org",
+    "t": "newiktionary",
+    "ts": [
+      "newikt",
+      "wiktne"
+    ],
+    "u": "https://ne.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Tok Pisin Wiktionary",
+    "d": "tpi.wiktionary.org",
+    "t": "tpiwiktionary",
+    "ts": [
+      "tpiwikt",
+      "wikttpi"
+    ],
+    "u": "https://tpi.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Cornish Wiktionary",
+    "d": "kw.wiktionary.org",
+    "t": "kwwiktionary",
+    "ts": [
+      "kwwikt",
+      "wiktkw"
+    ],
+    "u": "https://kw.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Kinyarwanda Wiktionary",
+    "d": "rw.wiktionary.org",
+    "t": "rwwiktionary",
+    "ts": [
+      "rwwikt",
+      "wiktrw"
+    ],
+    "u": "https://rw.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Tsonga Wiktionary",
+    "d": "ts.wiktionary.org",
+    "t": "tswiktionary",
+    "ts": [
+      "tswikt",
+      "wiktts"
+    ],
+    "u": "https://ts.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Quechua Wiktionary",
+    "d": "qu.wiktionary.org",
+    "t": "quwiktionary",
+    "ts": [
+      "quwikt",
+      "wiktqu"
+    ],
+    "u": "https://qu.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Inuktitut Wiktionary",
+    "d": "iu.wiktionary.org",
+    "t": "iuwiktionary",
+    "ts": [
+      "iuwikt",
+      "wiktiu"
+    ],
+    "u": "https://iu.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Cherokee Wiktionary",
+    "d": "chr.wiktionary.org",
+    "t": "chrwiktionary",
+    "ts": [
+      "chrwikt",
+      "wiktchr"
+    ],
+    "u": "https://chr.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Swati Wiktionary",
+    "d": "ss.wiktionary.org",
+    "t": "sswiktionary",
+    "ts": [
+      "sswikt",
+      "wiktss"
+    ],
+    "u": "https://ss.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Divehi Wiktionary",
+    "d": "dv.wiktionary.org",
+    "t": "dvwiktionary",
+    "ts": [
+      "dvwikt",
+      "wiktdv"
+    ],
+    "u": "https://dv.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Tigrinya Wiktionary",
+    "d": "ti.wiktionary.org",
+    "t": "tiwiktionary",
+    "ts": [
+      "tiwikt",
+      "wiktti"
+    ],
+    "u": "https://ti.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Tswana Wiktionary",
+    "d": "tn.wiktionary.org",
+    "t": "tnwiktionary",
+    "ts": [
+      "tnwikt",
+      "wikttn"
+    ],
+    "u": "https://tn.wiktionary.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words intl)"
+  },
+  {
+    "s": "Bosnian Wiktionary",
+    "d": "bs.wiktionary.org",
+    "t": "bswiktionary",
+    "ts": [
+      "bswikt",
+      "wiktbs"
+    ],
+    "u": "https://bs.wiktionary.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Reference (words intl)"
   },
