@@ -54499,14 +54499,6 @@
     "sc": "Audio"
   },
   {
-    "s": "Wikimedia Meta",
-    "d": "meta.wikimedia.org",
-    "t": "mwm",
-    "u": "https://meta.wikimedia.org/w/index.php?&title=Special:Search&go=Go&search={{{s}}}",
-    "c": "Multimedia",
-    "sc": "General"
-  },
-  {
     "s": "Thesaurus by Merriam-Webster",
     "d": "www.merriam-webster.com",
     "t": "mwt",
@@ -85363,9 +85355,9 @@
   {
     "s": "Wikidata",
     "d": "www.wikidata.org",
-    "t": "wd",
+    "t": "wikidata",
     "ts": [
-      "wikidata",
+      "wd",
       "wdt"
     ],
     "u": "https://www.wikidata.org/w/index.php?search={{{s}}}",
@@ -86495,6 +86487,17 @@
     "sc": "Blogs"
   },
   {
+    "s": "Wikifunctions",
+    "d": "www.wikifunctions.org",
+    "t": "wikifunctions",
+    "ts": [
+      "wf"
+    ],
+    "u": "https://www.wikifunctions.org/w/index.php?search={{{s}}}",
+    "c": "Tech",
+    "sc": "Tools"
+  },
+  {
     "s": "Wikiquote",
     "d": "en.wikiquote.org",
     "t": "wikiquote",
@@ -87211,11 +87214,11 @@
   {
     "s": "Wikispecies",
     "d": "species.wikimedia.org",
-    "t": "wksp",
+    "t": "wikispecies",
     "ts": [
       "wks",
       "wspec",
-      "wikispecies"
+      "wksp"
     ],
     "u": "https://species.wikimedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
@@ -87283,8 +87286,12 @@
   {
     "s": "Wikimedia Meta-Wiki",
     "d": "meta.wikimedia.org",
-    "t": "wmeta",
-    "u": "https://meta.wikimedia.org/w/index.php?title=Special:Search&search={{{s}}}",
+    "t": "metawikimedia",
+    "ts": [
+      "wmeta",
+      "mwm"
+    ],
+    "u": "https://meta.wikimedia.org/w/index.php?search={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -87313,7 +87320,7 @@
     "sc": "Reference (science)"
   },
   {
-    "s": "Wikimedia Phabricator installation",
+    "s": "Wikimedia Phabricator",
     "d": "phabricator.wikimedia.org",
     "t": "wmphab",
     "u": "https://phabricator.wikimedia.org/search/?query={{{s}}}",
