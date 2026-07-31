@@ -93224,7 +93224,6 @@
     "d": "la.wikisource.org",
     "t": "lawikisource",
     "ts": [
-      "laws",
       "wsla"
     ],
     "u": "https://la.wikisource.org/w/index.php?search={{{s}}}",
@@ -93716,7 +93715,6 @@
     "d": "kn.wikisource.org",
     "t": "knwikisource",
     "ts": [
-      "knws",
       "wskn"
     ],
     "u": "https://kn.wikisource.org/w/index.php?search={{{s}}}",
