@@ -42524,14 +42524,6 @@
     "sc": "Companies"
   },
   {
-    "s": "Japanese Wikisource",
-    "d": "ja.wikisource.org",
-    "t": "jaws",
-    "u": "https://ja.wikisource.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "Japanese Wiktionary",
     "d": "ja.wiktionary.org",
     "t": "jawt",
@@ -87378,17 +87370,6 @@
     "sc": "Search"
   },
   {
-    "s": "Wikisource",
-    "d": "en.wikisource.org",
-    "t": "wikisource",
-    "ts": [
-      "ws"
-    ],
-    "u": "https://en.wikisource.org/w/index.php?search={{{s}}}&title=Special:Search&go=Go",
-    "c": "Research",
-    "sc": "Academic"
-  },
-  {
     "s": "wiki.splunk.com",
     "d": "wiki.splunk.com",
     "t": "wiki.splunk",
@@ -90458,28 +90439,12 @@
     "sc": "Reference (words intl)"
   },
   {
-    "s": "Wikisource Deutsch",
-    "d": "de.wikisource.org",
-    "t": "wsde",
-    "u": "https://de.wikisource.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
-  },
-  {
     "s": "Wesley Theological Seminary",
     "d": "www.wesleyseminary.edu",
     "t": "wsem",
     "u": "https://www.wesleyseminary.edu/?s={{{s}}}",
     "c": "Research",
     "sc": "Academic"
-  },
-  {
-    "s": "Wikisource (FR)",
-    "d": "fr.wikisource.org",
-    "t": "wsfr",
-    "u": "https://fr.wikisource.org/w/index.php?search={{{s}}}&title=Spécial:Recherche&go=Lire",
-    "c": "Research",
-    "sc": "Reference"
   },
   {
     "s": "Widescreen Gaming Forum",
@@ -90544,14 +90509,6 @@
     "u": "https://www.wsws.org/en/search.html?sectionId=&maxResults=100&phrase={{{s}}}&submit=Search",
     "c": "News",
     "sc": "International"
-  },
-  {
-    "s": "Wikisource (ZH)",
-    "d": "zh.wikisource.org",
-    "t": "wszh",
-    "u": "https://zh.wikisource.org/wiki/Special:Search?search={{{s}}}",
-    "c": "Research",
-    "sc": "Reference"
   },
   {
     "s": "WTA Tennis",
@@ -92941,12 +92898,1010 @@
     "sc": "Tech"
   },
   {
-    "s": "Israeli Open Law project at Hebrew Wikisource",
+    "s": "Hebrew Wikisource Israeli Law",
     "d": "he.wikisource.org",
     "t": "חוק",
     "u": "https://he.wikisource.org/w/index.php?search=חוק+{{{s}}}",
     "c": "Research",
     "sc": "Law"
+  },
+  {
+    "s": "Chinese Wikisource",
+    "d": "zh.wikisource.org",
+    "t": "zhwikisource",
+    "ts": [
+      "zhws",
+      "wszh"
+    ],
+    "u": "https://zh.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Polish Wikisource",
+    "d": "pl.wikisource.org",
+    "t": "plwikisource",
+    "ts": [
+      "plws",
+      "wspl"
+    ],
+    "u": "https://pl.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "English Wikisource",
+    "d": "en.wikisource.org",
+    "t": "enwikisource",
+    "ts": [
+      "enws",
+      "wsen"
+    ],
+    "u": "https://en.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "French Wikisource",
+    "d": "fr.wikisource.org",
+    "t": "frwikisource",
+    "ts": [
+      "frws",
+      "wsfr"
+    ],
+    "u": "https://fr.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "German Wikisource",
+    "d": "de.wikisource.org",
+    "t": "dewikisource",
+    "ts": [
+      "dews",
+      "wsde"
+    ],
+    "u": "https://de.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Russian Wikisource",
+    "d": "ru.wikisource.org",
+    "t": "ruwikisource",
+    "ts": [
+      "ruws",
+      "wsru"
+    ],
+    "u": "https://ru.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Ukrainian Wikisource",
+    "d": "uk.wikisource.org",
+    "t": "ukwikisource",
+    "ts": [
+      "ukws",
+      "wsuk"
+    ],
+    "u": "https://uk.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Hebrew Wikisource",
+    "d": "he.wikisource.org",
+    "t": "hewikisource",
+    "ts": [
+      "hews",
+      "wshe"
+    ],
+    "u": "https://he.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Italian Wikisource",
+    "d": "it.wikisource.org",
+    "t": "itwikisource",
+    "ts": [
+      "itws",
+      "wsit"
+    ],
+    "u": "https://it.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Arabic Wikisource",
+    "d": "ar.wikisource.org",
+    "t": "arwikisource",
+    "ts": [
+      "arws",
+      "wsar"
+    ],
+    "u": "https://ar.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Spanish Wikisource",
+    "d": "es.wikisource.org",
+    "t": "eswikisource",
+    "ts": [
+      "esws",
+      "wses"
+    ],
+    "u": "https://es.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Gujarati Wikisource",
+    "d": "gu.wikisource.org",
+    "t": "guwikisource",
+    "ts": [
+      "guws",
+      "wsgu"
+    ],
+    "u": "https://gu.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Multilingual Wikisource",
+    "d": "www.wikisource.org",
+    "t": "wikisource",
+    "ts": [
+      "ws",
+      "wwwwikisource",
+      "wwwws",
+      "wswww"
+    ],
+    "u": "https://www.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Czech Wikisource",
+    "d": "cs.wikisource.org",
+    "t": "cswikisource",
+    "ts": [
+      "csws",
+      "wscs"
+    ],
+    "u": "https://cs.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Serbian Wikisource",
+    "d": "sr.wikisource.org",
+    "t": "srwikisource",
+    "ts": [
+      "srws",
+      "wssr"
+    ],
+    "u": "https://sr.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Portuguese Wikisource",
+    "d": "pt.wikisource.org",
+    "t": "ptwikisource",
+    "ts": [
+      "ptws",
+      "wspt"
+    ],
+    "u": "https://pt.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Bangla Wikisource",
+    "d": "bn.wikisource.org",
+    "t": "bnwikisource",
+    "ts": [
+      "bnws",
+      "wsbn"
+    ],
+    "u": "https://bn.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Tamil Wikisource",
+    "d": "ta.wikisource.org",
+    "t": "tawikisource",
+    "ts": [
+      "taws",
+      "wsta"
+    ],
+    "u": "https://ta.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Armenian Wikisource",
+    "d": "hy.wikisource.org",
+    "t": "hywikisource",
+    "ts": [
+      "hyws",
+      "wshy"
+    ],
+    "u": "https://hy.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Swedish Wikisource",
+    "d": "sv.wikisource.org",
+    "t": "svwikisource",
+    "ts": [
+      "svws",
+      "wssv"
+    ],
+    "u": "https://sv.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Persian Wikisource",
+    "d": "fa.wikisource.org",
+    "t": "fawikisource",
+    "ts": [
+      "faws",
+      "wsfa"
+    ],
+    "u": "https://fa.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Belarusian Wikisource",
+    "d": "be.wikisource.org",
+    "t": "bewikisource",
+    "ts": [
+      "bews",
+      "wsbe"
+    ],
+    "u": "https://be.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Korean Wikisource",
+    "d": "ko.wikisource.org",
+    "t": "kowikisource",
+    "ts": [
+      "kows",
+      "wsko"
+    ],
+    "u": "https://ko.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Telugu Wikisource",
+    "d": "te.wikisource.org",
+    "t": "tewikisource",
+    "ts": [
+      "tews",
+      "wste"
+    ],
+    "u": "https://te.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Hungarian Wikisource",
+    "d": "hu.wikisource.org",
+    "t": "huwikisource",
+    "ts": [
+      "huws",
+      "wshu"
+    ],
+    "u": "https://hu.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Dutch Wikisource",
+    "d": "nl.wikisource.org",
+    "t": "nlwikisource",
+    "ts": [
+      "nlws",
+      "wsnl"
+    ],
+    "u": "https://nl.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Latin Wikisource",
+    "d": "la.wikisource.org",
+    "t": "lawikisource",
+    "ts": [
+      "laws",
+      "wsla"
+    ],
+    "u": "https://la.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Malayalam Wikisource",
+    "d": "ml.wikisource.org",
+    "t": "mlwikisource",
+    "ts": [
+      "mlws",
+      "wsml"
+    ],
+    "u": "https://ml.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Sanskrit Wikisource",
+    "d": "sa.wikisource.org",
+    "t": "sawikisource",
+    "ts": [
+      "saws",
+      "wssa"
+    ],
+    "u": "https://sa.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Turkish Wikisource",
+    "d": "tr.wikisource.org",
+    "t": "trwikisource",
+    "ts": [
+      "trws",
+      "wstr"
+    ],
+    "u": "https://tr.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Vietnamese Wikisource",
+    "d": "vi.wikisource.org",
+    "t": "viwikisource",
+    "ts": [
+      "viws",
+      "wsvi"
+    ],
+    "u": "https://vi.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Japanese Wikisource",
+    "d": "ja.wikisource.org",
+    "t": "jawikisource",
+    "ts": [
+      "jaws",
+      "wsja"
+    ],
+    "u": "https://ja.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Slovenian Wikisource",
+    "d": "sl.wikisource.org",
+    "t": "slwikisource",
+    "ts": [
+      "slws",
+      "wssl"
+    ],
+    "u": "https://sl.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Welsh Wikisource",
+    "d": "cy.wikisource.org",
+    "t": "cywikisource",
+    "ts": [
+      "cyws",
+      "wscy"
+    ],
+    "u": "https://cy.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Romanian Wikisource",
+    "d": "ro.wikisource.org",
+    "t": "rowikisource",
+    "ts": [
+      "rows",
+      "wsro"
+    ],
+    "u": "https://ro.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Norwegian Wikisource",
+    "d": "no.wikisource.org",
+    "t": "nowikisource",
+    "ts": [
+      "nows",
+      "wsno"
+    ],
+    "u": "https://no.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Finnish Wikisource",
+    "d": "fi.wikisource.org",
+    "t": "fiwikisource",
+    "ts": [
+      "fiws",
+      "wsfi"
+    ],
+    "u": "https://fi.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Esperanto Wikisource",
+    "d": "eo.wikisource.org",
+    "t": "eowikisource",
+    "ts": [
+      "eows",
+      "wseo"
+    ],
+    "u": "https://eo.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Indonesian Wikisource",
+    "d": "id.wikisource.org",
+    "t": "idwikisource",
+    "ts": [
+      "idws",
+      "wsid"
+    ],
+    "u": "https://id.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Neapolitan Wikisource",
+    "d": "nap.wikisource.org",
+    "t": "napwikisource",
+    "ts": [
+      "napws",
+      "wsnap"
+    ],
+    "u": "https://nap.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Greek Wikisource",
+    "d": "el.wikisource.org",
+    "t": "elwikisource",
+    "ts": [
+      "elws",
+      "wsel"
+    ],
+    "u": "https://el.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Urdu Wikisource",
+    "d": "ur.wikisource.org",
+    "t": "urwikisource",
+    "ts": [
+      "urws",
+      "wsur"
+    ],
+    "u": "https://ur.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Azerbaijani Wikisource",
+    "d": "az.wikisource.org",
+    "t": "azwikisource",
+    "ts": [
+      "azws",
+      "wsaz"
+    ],
+    "u": "https://az.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Breton Wikisource",
+    "d": "br.wikisource.org",
+    "t": "brwikisource",
+    "ts": [
+      "brws",
+      "wsbr"
+    ],
+    "u": "https://br.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Catalan Wikisource",
+    "d": "ca.wikisource.org",
+    "t": "cawikisource",
+    "ts": [
+      "caws",
+      "wsca"
+    ],
+    "u": "https://ca.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Thai Wikisource",
+    "d": "th.wikisource.org",
+    "t": "thwikisource",
+    "ts": [
+      "thws",
+      "wsth"
+    ],
+    "u": "https://th.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Croatian Wikisource",
+    "d": "hr.wikisource.org",
+    "t": "hrwikisource",
+    "ts": [
+      "hrws",
+      "wshr"
+    ],
+    "u": "https://hr.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Georgian Wikisource",
+    "d": "ka.wikisource.org",
+    "t": "kawikisource",
+    "ts": [
+      "kaws",
+      "wska"
+    ],
+    "u": "https://ka.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Hindi Wikisource",
+    "d": "hi.wikisource.org",
+    "t": "hiwikisource",
+    "ts": [
+      "hiws",
+      "wshi"
+    ],
+    "u": "https://hi.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Venetian Wikisource",
+    "d": "vec.wikisource.org",
+    "t": "vecwikisource",
+    "ts": [
+      "vecws",
+      "wsvec"
+    ],
+    "u": "https://vec.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Marathi Wikisource",
+    "d": "mr.wikisource.org",
+    "t": "mrwikisource",
+    "ts": [
+      "mrws",
+      "wsmr"
+    ],
+    "u": "https://mr.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Balinese Wikisource",
+    "d": "ban.wikisource.org",
+    "t": "banwikisource",
+    "ts": [
+      "banws",
+      "wsban"
+    ],
+    "u": "https://ban.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Burmese Wikisource",
+    "d": "my.wikisource.org",
+    "t": "mywikisource",
+    "ts": [
+      "myws",
+      "wsmy"
+    ],
+    "u": "https://my.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Icelandic Wikisource",
+    "d": "is.wikisource.org",
+    "t": "iswikisource",
+    "ts": [
+      "isws",
+      "wsis"
+    ],
+    "u": "https://is.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Piedmontese Wikisource",
+    "d": "pms.wikisource.org",
+    "t": "pmswikisource",
+    "ts": [
+      "pmsws",
+      "wspms"
+    ],
+    "u": "https://pms.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Ligurian Wikisource",
+    "d": "lij.wikisource.org",
+    "t": "lijwikisource",
+    "ts": [
+      "lijws",
+      "wslij"
+    ],
+    "u": "https://lij.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Assamese Wikisource",
+    "d": "as.wikisource.org",
+    "t": "aswikisource",
+    "ts": [
+      "asws",
+      "wsas"
+    ],
+    "u": "https://as.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Danish Wikisource",
+    "d": "da.wikisource.org",
+    "t": "dawikisource",
+    "ts": [
+      "daws",
+      "wsda"
+    ],
+    "u": "https://da.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Macedonian Wikisource",
+    "d": "mk.wikisource.org",
+    "t": "mkwikisource",
+    "ts": [
+      "mkws",
+      "wsmk"
+    ],
+    "u": "https://mk.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Estonian Wikisource",
+    "d": "et.wikisource.org",
+    "t": "etwikisource",
+    "ts": [
+      "etws",
+      "wset"
+    ],
+    "u": "https://et.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Javanese Wikisource",
+    "d": "jv.wikisource.org",
+    "t": "jvwikisource",
+    "ts": [
+      "jvws",
+      "wsjv"
+    ],
+    "u": "https://jv.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Yiddish Wikisource",
+    "d": "yi.wikisource.org",
+    "t": "yiwikisource",
+    "ts": [
+      "yiws",
+      "wsyi"
+    ],
+    "u": "https://yi.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Walloon Wikisource",
+    "d": "wa.wikisource.org",
+    "t": "wawikisource",
+    "ts": [
+      "waws",
+      "wswa"
+    ],
+    "u": "https://wa.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Punjabi Wikisource",
+    "d": "pa.wikisource.org",
+    "t": "pawikisource",
+    "ts": [
+      "paws",
+      "wspa"
+    ],
+    "u": "https://pa.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Bulgarian Wikisource",
+    "d": "bg.wikisource.org",
+    "t": "bgwikisource",
+    "ts": [
+      "bgws",
+      "wsbg"
+    ],
+    "u": "https://bg.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Limburgish Wikisource",
+    "d": "li.wikisource.org",
+    "t": "liwikisource",
+    "ts": [
+      "liws",
+      "wsli"
+    ],
+    "u": "https://li.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Lithuanian Wikisource",
+    "d": "lt.wikisource.org",
+    "t": "ltwikisource",
+    "ts": [
+      "ltws",
+      "wslt"
+    ],
+    "u": "https://lt.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Kannada Wikisource",
+    "d": "kn.wikisource.org",
+    "t": "knwikisource",
+    "ts": [
+      "knws",
+      "wskn"
+    ],
+    "u": "https://kn.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Basque Wikisource",
+    "d": "eu.wikisource.org",
+    "t": "euwikisource",
+    "ts": [
+      "euws",
+      "wseu"
+    ],
+    "u": "https://eu.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Odia Wikisource",
+    "d": "or.wikisource.org",
+    "t": "orwikisource",
+    "ts": [
+      "orws",
+      "wsor"
+    ],
+    "u": "https://or.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Malay Wikisource",
+    "d": "ms.wikisource.org",
+    "t": "mswikisource",
+    "ts": [
+      "msws",
+      "wsms"
+    ],
+    "u": "https://ms.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Yakut Wikisource",
+    "d": "sah.wikisource.org",
+    "t": "sahwikisource",
+    "ts": [
+      "sahws",
+      "wssah"
+    ],
+    "u": "https://sah.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Galician Wikisource",
+    "d": "gl.wikisource.org",
+    "t": "glwikisource",
+    "ts": [
+      "glws",
+      "wsgl"
+    ],
+    "u": "https://gl.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Bosnian Wikisource",
+    "d": "bs.wikisource.org",
+    "t": "bswikisource",
+    "ts": [
+      "bsws",
+      "wsbs"
+    ],
+    "u": "https://bs.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Slovak Wikisource",
+    "d": "sk.wikisource.org",
+    "t": "skwikisource",
+    "ts": [
+      "skws",
+      "wssk"
+    ],
+    "u": "https://sk.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Minangkabau Wikisource",
+    "d": "min.wikisource.org",
+    "t": "minwikisource",
+    "ts": [
+      "minws",
+      "wsmin"
+    ],
+    "u": "https://min.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Sundanese Wikisource",
+    "d": "su.wikisource.org",
+    "t": "suwikisource",
+    "ts": [
+      "suws",
+      "wssu"
+    ],
+    "u": "https://su.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Tagalog Wikisource",
+    "d": "tl.wikisource.org",
+    "t": "tlwikisource",
+    "ts": [
+      "tlws",
+      "wstl"
+    ],
+    "u": "https://tl.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Madurese Wikisource",
+    "d": "mad.wikisource.org",
+    "t": "madwikisource",
+    "ts": [
+      "madws",
+      "wsmad"
+    ],
+    "u": "https://mad.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Minnan Wikisource",
+    "d": "zh-min-nan.wikisource.org",
+    "t": "zh-min-nanwikisource",
+    "ts": [
+      "zh-min-nanws",
+      "wszh-min-nan"
+    ],
+    "u": "https://zh-min-nan.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Central Bikol Wikisource",
+    "d": "bcl.wikisource.org",
+    "t": "bclwikisource",
+    "ts": [
+      "bclws",
+      "wsbcl"
+    ],
+    "u": "https://bcl.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Tulu Wikisource",
+    "d": "tcy.wikisource.org",
+    "t": "tcywikisource",
+    "ts": [
+      "tcyws",
+      "wstcy"
+    ],
+    "u": "https://tcy.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
+  },
+  {
+    "s": "Faroese Wikisource",
+    "d": "fo.wikisource.org",
+    "t": "fowikisource",
+    "ts": [
+      "fows",
+      "wsfo"
+    ],
+    "u": "https://fo.wikisource.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Reference"
   },
   {
     "s": "Вики-учебник Английского Языка",
