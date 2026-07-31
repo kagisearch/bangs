@@ -86768,149 +86768,328 @@
     "sc": "Learning"
   },
   {
-    "s": "Wikivoyage (Deutsch)",
-    "d": "de.wikivoyage.org",
-    "t": "wikivoyagede",
-    "u": "https://de.wikivoyage.org/w/index.php?search={{{s}}}&title=Special:Search&go=Go",
-    "c": "Research",
-    "sc": "Travel"
-  },
-  {
-    "s": "Wikivoyage (Ελληνικά)",
-    "d": "el.wikivoyage.org",
-    "t": "wikivoyageel",
-    "u": "https://el.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Travel"
-  },
-  {
-    "s": "Wikivoyage (English)",
+    "s": "English Wikivoyage",
     "d": "en.wikivoyage.org",
-    "t": "wikivoyageen",
+    "t": "enwikivoyage",
     "ts": [
-      "wven"
-    ],
-    "u": "https://en.wikivoyage.org/w/index.php?search={{{s}}}&title=Special:Search&go=Go",
-    "c": "Research",
-    "sc": "Travel"
-  },
-  {
-    "s": "Wikivoyage (Español)",
-    "d": "es.wikivoyage.org",
-    "t": "wikivoyagees",
-    "u": "https://es.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Travel"
-  },
-  {
-    "s": "Wikivoyage (français)",
-    "d": "fr.wikivoyage.org",
-    "t": "wikivoyagefr",
-    "u": "https://fr.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Travel"
-  },
-  {
-    "s": "Wikivoyage (עברית)",
-    "d": "he.wikivoyage.org",
-    "t": "wikivoyagehe",
-    "u": "https://he.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Travel"
-  },
-  {
-    "s": "Wikivoyage (Italiano)",
-    "d": "it.wikivoyage.org",
-    "t": "wikivoyageit",
-    "u": "https://it.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Travel"
-  },
-  {
-    "s": "Wikivoyage (Netherlands)",
-    "d": "nl.wikivoyage.org",
-    "t": "wikivoyagenl",
-    "u": "https://nl.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Travel"
-  },
-  {
-    "s": "Wikivoyage (Polski)",
-    "d": "pl.wikivoyage.org",
-    "t": "wikivoyagepl",
-    "u": "https://pl.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Travel"
-  },
-  {
-    "s": "Wikivoyage (português)",
-    "d": "pt.wikivoyage.org",
-    "t": "wikivoyagept",
-    "u": "https://pt.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Travel"
-  },
-  {
-    "s": "Wikivoyage (Română)",
-    "d": "ro.wikivoyage.org",
-    "t": "wikivoyagero",
-    "u": "https://ro.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Travel"
-  },
-  {
-    "s": "Wikivoyage (Русский)",
-    "d": "ru.wikivoyage.org",
-    "t": "wikivoyageru",
-    "ts": [
-      "викивояж"
-    ],
-    "u": "https://ru.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Travel"
-  },
-  {
-    "s": "Wikivoyage (Svenska)",
-    "d": "sv.wikivoyage.org",
-    "t": "wikivoyagesv",
-    "u": "https://sv.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Travel"
-  },
-  {
-    "s": "Wikivoyage (Українська)",
-    "d": "uk.wikivoyage.org",
-    "t": "wikivoyageuk",
-    "u": "https://uk.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Travel"
-  },
-  {
-    "s": "Wikivoyage (Tiếng Việt)",
-    "d": "vi.wikivoyage.org",
-    "t": "wikivoyagevi",
-    "u": "https://vi.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go",
-    "c": "Research",
-    "sc": "Travel"
-  },
-  {
-    "s": "Wikivoyage",
-    "d": "en.wikivoyage.org",
-    "t": "wikivoyage",
-    "ts": [
-      "wv"
+      "enwvoy",
+      "wvoyen"
     ],
     "u": "https://en.wikivoyage.org/w/index.php?search={{{s}}}",
     "c": "Research",
-    "sc": "Travel"
+    "sc": "Learning"
   },
   {
-    "s": "Wikivoyage (中文)",
-    "d": "zh.wikivoyage.org",
-    "t": "wikivoyagezh",
-    "u": "https://zh.wikivoyage.org/wiki/Special:Search?search={{{s}}}&go=Go",
+    "s": "German Wikivoyage",
+    "d": "de.wikivoyage.org",
+    "t": "dewikivoyage",
+    "ts": [
+      "dewvoy",
+      "wvoyde"
+    ],
+    "u": "https://de.wikivoyage.org/w/index.php?search={{{s}}}",
     "c": "Research",
-    "sc": "Travel"
+    "sc": "Learning"
+  },
+  {
+    "s": "Polish Wikivoyage",
+    "d": "pl.wikivoyage.org",
+    "t": "plwikivoyage",
+    "ts": [
+      "plwvoy",
+      "wvoypl"
+    ],
+    "u": "https://pl.wikivoyage.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Italian Wikivoyage",
+    "d": "it.wikivoyage.org",
+    "t": "itwikivoyage",
+    "ts": [
+      "itwvoy",
+      "wvoyit"
+    ],
+    "u": "https://it.wikivoyage.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "French Wikivoyage",
+    "d": "fr.wikivoyage.org",
+    "t": "frwikivoyage",
+    "ts": [
+      "frwvoy",
+      "wvoyfr"
+    ],
+    "u": "https://fr.wikivoyage.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Persian Wikivoyage",
+    "d": "fa.wikivoyage.org",
+    "t": "fawikivoyage",
+    "ts": [
+      "fawvoy",
+      "wvoyfa"
+    ],
+    "u": "https://fa.wikivoyage.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Russian Wikivoyage",
+    "d": "ru.wikivoyage.org",
+    "t": "ruwikivoyage",
+    "ts": [
+      "ruwvoy",
+      "wvoyru"
+    ],
+    "u": "https://ru.wikivoyage.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Chinese Wikivoyage",
+    "d": "zh.wikivoyage.org",
+    "t": "zhwikivoyage",
+    "ts": [
+      "zhwvoy",
+      "wvoyzh"
+    ],
+    "u": "https://zh.wikivoyage.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Dutch Wikivoyage",
+    "d": "nl.wikivoyage.org",
+    "t": "nlwikivoyage",
+    "ts": [
+      "nlwvoy",
+      "wvoynl"
+    ],
+    "u": "https://nl.wikivoyage.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Portuguese Wikivoyage",
+    "d": "pt.wikivoyage.org",
+    "t": "ptwikivoyage",
+    "ts": [
+      "ptwvoy",
+      "wvoypt"
+    ],
+    "u": "https://pt.wikivoyage.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Spanish Wikivoyage",
+    "d": "es.wikivoyage.org",
+    "t": "eswikivoyage",
+    "ts": [
+      "eswvoy",
+      "wvoyes"
+    ],
+    "u": "https://es.wikivoyage.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Hebrew Wikivoyage",
+    "d": "he.wikivoyage.org",
+    "t": "hewikivoyage",
+    "ts": [
+      "hewvoy",
+      "wvoyhe"
+    ],
+    "u": "https://he.wikivoyage.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Bangla Wikivoyage",
+    "d": "bn.wikivoyage.org",
+    "t": "bnwikivoyage",
+    "ts": [
+      "bnwvoy",
+      "wvoybn"
+    ],
+    "u": "https://bn.wikivoyage.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Finnish Wikivoyage",
+    "d": "fi.wikivoyage.org",
+    "t": "fiwikivoyage",
+    "ts": [
+      "fiwvoy",
+      "wvoyfi"
+    ],
+    "u": "https://fi.wikivoyage.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Japanese Wikivoyage",
+    "d": "ja.wikivoyage.org",
+    "t": "jawikivoyage",
+    "ts": [
+      "jawvoy",
+      "wvoyja"
+    ],
+    "u": "https://ja.wikivoyage.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Indonesian Wikivoyage",
+    "d": "id.wikivoyage.org",
+    "t": "idwikivoyage",
+    "ts": [
+      "idwvoy",
+      "wvoyid"
+    ],
+    "u": "https://id.wikivoyage.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Swedish Wikivoyage",
+    "d": "sv.wikivoyage.org",
+    "t": "svwikivoyage",
+    "ts": [
+      "svwvoy",
+      "wvoysv"
+    ],
+    "u": "https://sv.wikivoyage.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Vietnamese Wikivoyage",
+    "d": "vi.wikivoyage.org",
+    "t": "viwikivoyage",
+    "ts": [
+      "viwvoy",
+      "wvoyvi"
+    ],
+    "u": "https://vi.wikivoyage.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Esperanto Wikivoyage",
+    "d": "eo.wikivoyage.org",
+    "t": "eowikivoyage",
+    "ts": [
+      "eowvoy",
+      "wvoyeo"
+    ],
+    "u": "https://eo.wikivoyage.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Greek Wikivoyage",
+    "d": "el.wikivoyage.org",
+    "t": "elwikivoyage",
+    "ts": [
+      "elwvoy",
+      "wvoyel"
+    ],
+    "u": "https://el.wikivoyage.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Ukrainian Wikivoyage",
+    "d": "uk.wikivoyage.org",
+    "t": "ukwikivoyage",
+    "ts": [
+      "ukwvoy",
+      "wvoyuk"
+    ],
+    "u": "https://uk.wikivoyage.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Romanian Wikivoyage",
+    "d": "ro.wikivoyage.org",
+    "t": "rowikivoyage",
+    "ts": [
+      "rowvoy",
+      "wvoyro"
+    ],
+    "u": "https://ro.wikivoyage.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Czech Wikivoyage",
+    "d": "cs.wikivoyage.org",
+    "t": "cswikivoyage",
+    "ts": [
+      "cswvoy",
+      "wvoycs"
+    ],
+    "u": "https://cs.wikivoyage.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Turkish Wikivoyage",
+    "d": "tr.wikivoyage.org",
+    "t": "trwikivoyage",
+    "ts": [
+      "trwvoy",
+      "wvoytr"
+    ],
+    "u": "https://tr.wikivoyage.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Pashto Wikivoyage",
+    "d": "ps.wikivoyage.org",
+    "t": "pswikivoyage",
+    "ts": [
+      "pswvoy",
+      "wvoyps"
+    ],
+    "u": "https://ps.wikivoyage.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Shan Wikivoyage",
+    "d": "shn.wikivoyage.org",
+    "t": "shnwikivoyage",
+    "ts": [
+      "shnwvoy",
+      "wvoyshn"
+    ],
+    "u": "https://shn.wikivoyage.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
+  },
+  {
+    "s": "Hindi Wikivoyage",
+    "d": "hi.wikivoyage.org",
+    "t": "hiwikivoyage",
+    "ts": [
+      "hiwvoy",
+      "wvoyhi"
+    ],
+    "u": "https://hi.wikivoyage.org/w/index.php?search={{{s}}}",
+    "c": "Research",
+    "sc": "Learning"
   },
   {
     "s": "WikiWand",
@@ -89752,76 +89931,12 @@
     "sc": "Search"
   },
   {
-    "s": "Wikivoyage Deutsch",
-    "d": "de.wikivoyage.org",
-    "t": "wvde",
-    "u": "https://de.wikivoyage.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Travel"
-  },
-  {
-    "s": "Wikivoyage español",
-    "d": "es.wikivoyage.org",
-    "t": "wves",
-    "u": "https://es.wikivoyage.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Travel"
-  },
-  {
-    "s": "Wikivoyage Français",
-    "d": "fr.wikivoyage.org",
-    "t": "wvfr",
-    "u": "https://fr.wikivoyage.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Travel"
-  },
-  {
-    "s": "Wikivoyage Italiano",
-    "d": "it.wikivoyage.org",
-    "t": "wvit",
-    "u": "https://it.wikivoyage.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Travel"
-  },
-  {
     "s": "WorldVectorLogo",
     "d": "worldvectorlogo.com",
     "t": "wvl",
     "u": "https://worldvectorlogo.com/search/{{{s}}}",
     "c": "Tech",
     "sc": "Design"
-  },
-  {
-    "s": "Wikivoyage Nederlands",
-    "d": "nl.wikivoyage.org",
-    "t": "wvnl",
-    "u": "https://nl.wikivoyage.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Travel"
-  },
-  {
-    "s": "Wikivoyage Português",
-    "d": "pt.wikivoyage.org",
-    "t": "wvpt",
-    "u": "https://pt.wikivoyage.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Travel"
-  },
-  {
-    "s": "Wikivoyage Russian",
-    "d": "ru.wikivoyage.org",
-    "t": "wvru",
-    "u": "https://ru.wikivoyage.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Travel"
-  },
-  {
-    "s": "Wikivoyage Svenska",
-    "d": "sv.wikivoyage.org",
-    "t": "wvsv",
-    "u": "https://sv.wikivoyage.org/w/index.php?search={{{s}}}",
-    "c": "Research",
-    "sc": "Travel"
   },
   {
     "s": "WoodwindsBrasswinds",
