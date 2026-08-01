@@ -66003,12 +66003,22 @@
     "d": "rateyourmusic.com",
     "t": "rym",
     "ts": [
-      "rymf",
       "rateyourmusic"
     ],
     "u": "https://rateyourmusic.com/search?searchterm={{{s}}}",
     "c": "Entertainment",
     "sc": "Audio"
+  },
+  {
+    "s": "Rate Your Music (films)",
+    "d": "rateyourmusic.com",
+    "t": "rymf",
+    "ts": [
+      "rymfilms", "rateyourfilms"
+    ],
+    "u": "https://rateyourmusic.com/search?searchtype=F&searchterm={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Movies"
   },
   {
     "s": "TopRatgeber24",
