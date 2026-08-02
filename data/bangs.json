@@ -93596,5 +93596,15 @@
     "u": "https://tesaurus.kemendikdasmen.go.id/tematis/lema/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
+  },
+  {
+    "s": "Resonite Wiki",
+    "d": "wiki.resonite.com",
+    "t": "resowiki",
+    "ts": [
+      "resow"
+    ],
+    "u": "https://wiki.resonite.com/index.php?search={{{s}}}",
+    "c": "Online Services"
   }
 ]
