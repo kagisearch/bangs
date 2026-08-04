@@ -16062,6 +16062,27 @@
     "sc": "Health"
   },
   {
+    "s": "Canadian Public Transit Discussion Board",
+    "d": "cptdb.ca",
+    "t": "cptdb",
+    "u": "https://cptdb.ca/search/?q={{{s}}}&quick=1",
+    "c": "Entertainment",
+    "sc": "Forum"
+  },
+  {  
+    "s": "Canadian Public Transit Discussion Board Wiki",
+    "d": "cptdb.ca",
+    "ad": "cptdb.ca/wiki/index.php/Main_Page",
+    "t": "cptdbwiki",
+    "u": "https://cptdb.ca/wiki/index.php?search={{{s}}}&title=Special:Search&go=Go",
+    "c": "Research",
+    "sc": "Reference",
+    "fmt": [
+      "open_snap_domain",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
     "s": "Collins Dictionary (Portuguese - English)",
     "d": "www.collinsdictionary.com",
     "t": "cpten",
