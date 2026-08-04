@@ -35640,6 +35640,19 @@
     "sc": "Google"
   },
   {
+    "s": "GTK 4 Documentation",
+    "d": "docs.gtk.org",
+    "ad": "docs.gtk.org/gtk4/",
+    "t": "gtk4",
+    "u": "https://docs.gtk.org/gtk4/index.html?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Programming",
+    "fmt": [
+      "open_snap_domain",
+      "url_encode_placeholder"
+    ]
+  },
+  {
     "s": "Google Translate (to Korean)",
     "d": "translate.google.com",
     "t": "gtko",
@@ -46822,6 +46835,19 @@
     "u": "https://lehollandaisvolant.net/?mode=links&q={{{s}}}",
     "c": "Tech",
     "sc": "Blogs"
+  },
+  {
+    "s": "libadwaita Documentation",
+    "d": "gnome.pages.gitlab.gnome.org",
+    "ad": "gnome.pages.gitlab.gnome.org/libadwaita/doc/1-latest/",
+    "t": "libadwaita",
+    "u": "https://gnome.pages.gitlab.gnome.org/libadwaita/doc/1-latest/index.html?q={{{s}}}",
+    "c": "Tech",
+    "sc": "Programming",
+    "fmt": [
+      "open_snap_domain",
+      "url_encode_placeholder"
+    ]
   },
   {
     "s": "Libby, By Overdrive",
@@ -66003,12 +66029,23 @@
     "d": "rateyourmusic.com",
     "t": "rym",
     "ts": [
-      "rymf",
       "rateyourmusic"
     ],
     "u": "https://rateyourmusic.com/search?searchterm={{{s}}}",
     "c": "Entertainment",
     "sc": "Audio"
+  },
+  {
+    "s": "Rate Your Music (films)",
+    "d": "rateyourmusic.com",
+    "t": "rymf",
+    "ts": [
+      "rymfilms",
+      "rateyourfilms"
+    ],
+    "u": "https://rateyourmusic.com/search?searchtype=F&searchterm={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Movies"
   },
   {
     "s": "TopRatgeber24",
