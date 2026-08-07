@@ -42857,7 +42857,7 @@
     "ts": [
       "johnlewis"
     ],
-    "u": "https://www.johnlewis.com/Search/Search.aspx?SearchTerm={{{s}}}",
+    "u": "https://www.johnlewis.com/search?search-term={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
