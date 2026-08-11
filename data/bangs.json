@@ -84900,7 +84900,7 @@
     "s": "Watson",
     "d": "www.watson.ch",
     "t": "watson",
-    "u": "https://www.watson.ch/u/search?#{{{s}}}",
+    "u": "https://www.watson.ch/u/search?q={{{s}}}",
     "c": "News",
     "sc": "Aggregators"
   },
