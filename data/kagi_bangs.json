@@ -739,7 +739,7 @@
     "s": "Kagi (year defined search)",
     "d": "kagi.com",
     "t": "years",
-    "u": " https://kagi.com/search?q=$2&from_date=$1-01-01&to_date=$1-12-31",
+    "u": "https://kagi.com/search?q=$2&from_date=$1-01-01&to_date=$1-12-31",
     "x": "\\b((?:20|19)[0-9]{2})\\b\\s+(.*)"
   },
   {
