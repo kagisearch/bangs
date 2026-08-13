@@ -44630,6 +44630,14 @@
     "sc": "Online"
   },
   {
+    "s": "KLIPY",
+    "d": "klipy.com",
+    "t": "klipy",
+    "u": "https://klipy.com/search/{{{s}}}",
+    "c": "Multimedia",
+    "sc": "Images"
+  },
+  {
     "s": "Konsolentreff.de",
     "d": "www.konsolentreff.de",
     "t": "kon",
