@@ -13319,6 +13319,9 @@
     "s": "OpenRouter",
     "d": "openrouter.ai",
     "t": "opr",
+    "ts": [
+      "openrouter"
+    ],
     "u": "https://openrouter.ai/models?q={{{s}}}",
     "c": "Online Services",
     "sc": "AI Chatbots"
