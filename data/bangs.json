@@ -32258,6 +32258,17 @@
     "sc": "Programming"
   },
   {
+    "s": "GitHub Pull Requests",
+    "d": "github.com",
+    "t": "ghpr",
+    "ts": [
+      "ghpull"
+    ],
+    "u": "https://github.com/search?q={{{s}}}&type=pullrequests",
+    "c": "Tech",
+    "sc": "Programming"
+  },
+  {
     "s": "GitHub JavaScript Code",
     "d": "github.com",
     "t": "ghjs",
