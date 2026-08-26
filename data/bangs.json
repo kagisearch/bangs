@@ -5394,9 +5394,9 @@
   },
   {
     "s": "Intel Processor Specification",
-    "d": "ark.intel.com",
+    "d": "www.intel.com",
     "t": "ark",
-    "u": "https://ark.intel.com/search?q={{{s}}}",
+    "u": "https://www.intel.com/content/www/us/en/search.html#cf-tabfilter=Products&q={{{s}}}",
     "c": "Tech",
     "sc": "Companies"
   },
