@@ -62401,6 +62401,17 @@
     "sc": "Specialty"
   },
   {
+    "s": "Prisjagt",
+    "d": "www.prisjagt.dk",
+    "t": "pjdk",
+    "ts": [
+      "prisjagt"
+    ],
+    "u": "https://www.prisjagt.dk/search?query={{{s}}}",
+    "c": "Shopping",
+    "sc": "Online (deals)"
+  },
+  {
     "s": "Prisjakt (Norway)",
     "d": "www.prisjakt.no",
     "t": "pjno",
