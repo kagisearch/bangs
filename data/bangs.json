@@ -64079,6 +64079,9 @@
     "s": "pricespy.co.nz",
     "d": "pricespy.co.nz",
     "t": "pricespy",
+    "ts": [
+      "psnz"
+    ],
     "u": "https://pricespy.co.nz/search?query={{{s}}}",
     "c": "Shopping",
     "sc": "Online (deals)"
@@ -64595,14 +64598,6 @@
     "d": "store.playstation.com",
     "t": "psnuk",
     "u": "https://store.playstation.com/#!/en-gb/search/q={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
-    "s": "PriceSpy",
-    "d": "pricespy.co.nz",
-    "t": "psnz",
-    "u": "https://pricespy.co.nz/search?query={{{s}}}",
     "c": "Shopping",
     "sc": "Online"
   },
