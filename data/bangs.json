@@ -19289,7 +19289,7 @@
     "s": "Le Dénicheur",
     "d": "ledenicheur.fr",
     "t": "denicheur",
-    "u": "https://ledenicheur.fr/#rparams=ss={{{s}}}",
+    "u": "https://ledenicheur.fr/search?query={{{s}}}",
     "c": "Shopping",
     "sc": "Online (deals)"
   },
@@ -62401,10 +62401,21 @@
     "sc": "Specialty"
   },
   {
+    "s": "Prisjagt",
+    "d": "www.prisjagt.dk",
+    "t": "pjdk",
+    "ts": [
+      "prisjagt"
+    ],
+    "u": "https://www.prisjagt.dk/search?query={{{s}}}",
+    "c": "Shopping",
+    "sc": "Online (deals)"
+  },
+  {
     "s": "Prisjakt (Norway)",
     "d": "www.prisjakt.no",
     "t": "pjno",
-    "u": "https://www.prisjakt.no/search?search={{{s}}}",
+    "u": "https://www.prisjakt.no/search?query={{{s}}}",
     "c": "Shopping",
     "sc": "Online (deals)"
   },
@@ -62416,7 +62427,7 @@
       "prisjakt",
       "pris"
     ],
-    "u": "https://www.prisjakt.nu/search?search={{{s}}}",
+    "u": "https://www.prisjakt.nu/search?query={{{s}}}",
     "c": "Shopping",
     "sc": "Online (deals)"
   },
@@ -64068,7 +64079,10 @@
     "s": "pricespy.co.nz",
     "d": "pricespy.co.nz",
     "t": "pricespy",
-    "u": "https://pricespy.co.nz/search?search={{{s}}}",
+    "ts": [
+      "psnz"
+    ],
+    "u": "https://pricespy.co.nz/search?query={{{s}}}",
     "c": "Shopping",
     "sc": "Online (deals)"
   },
@@ -64588,14 +64602,6 @@
     "sc": "Online"
   },
   {
-    "s": "PriceSpy",
-    "d": "pricespy.co.nz",
-    "t": "psnz",
-    "u": "https://pricespy.co.nz/search?q={{{s}}}",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
     "s": "Psoriasis-Netz",
     "d": "www.psoriasis-netz.de",
     "t": "pso",
@@ -64623,7 +64629,7 @@
     "s": "pricespyuk",
     "d": "pricespy.co.uk",
     "t": "psuk",
-    "u": "https://pricespy.co.uk/search?q={{{s}}}",
+    "u": "https://pricespy.co.uk/search?query={{{s}}}",
     "c": "Shopping",
     "sc": "Online (deals)"
   },
