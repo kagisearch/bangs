@@ -21370,9 +21370,9 @@
   },
   {
     "s": "Dota 2 Wiki",
-    "d": "dota2.gamepedia.com",
+    "d": "liquipedia.net",
     "t": "dota",
-    "u": "https://dota2.gamepedia.com/index.php?search={{{s}}}",
+    "u": "https://liquipedia.net/dota2/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
   },
