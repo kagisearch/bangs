@@ -93443,16 +93443,20 @@
     ]
   },
   {
-    "s": "Kagi Universal Summarizer (Key Moments)",
+    "s": "Kagi Universal Summarizer (Bullet Points)",
     "d": "kagi.com",
-    "t": "sumt",
+    "t": "sumb",
     "ts": [
       "sumk",
       "sumkey",
       "summarizekey",
-      "summarisekey"
+      "summarisekey",
+      "sumt",
+      "sumbullet",
+      "summarizebullet",
+      "summarisebullet"
     ],
-    "u": "https://kagi.com/summarizer?url={{{s}}}&summary=takeaway",
+    "u": "https://kagi.com/summarizer?url={{{s}}}&summary=keypoints",
     "fmt": [
       "url_encode_placeholder"
     ]
@@ -93462,6 +93466,20 @@
     "d": "kagi.com",
     "t": "summ",
     "u": "https://kagi.com/summarizer?url={{{s}}}&summary=summary",
+    "fmt": [
+      "url_encode_placeholder"
+    ]
+  },
+  {
+    "s": "Kagi Universal Summarizer (ELI5)",
+    "d": "kagi.com",
+    "t": "sume",
+    "ts": [
+      "sumeli5",
+      "summarizeeli5",
+      "summariseeli5"
+    ],
+    "u": "https://kagi.com/summarizer?url={{{s}}}&summary=eli5",
     "fmt": [
       "url_encode_placeholder"
     ]
