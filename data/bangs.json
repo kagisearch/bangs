@@ -71399,13 +71399,13 @@
   },
   {
     "s": "Shikimori",
-    "d": "shikimori.org",
+    "d": "shikimori.io",
     "t": "shikimori",
     "ts": [
       "shiki",
       "shm"
     ],
-    "u": "https://shikimori.org/animes?search={{{s}}}",
+    "u": "https://shikimori.io/animes?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Movies"
   },
