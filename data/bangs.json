@@ -44210,6 +44210,17 @@
     "sc": "Jobs"
   },
   {
+    "s": "KHInsider Video Game Music",
+    "d": "downloads.khinsider.com",
+    "t": "khi",
+    "ts": [
+      "vgm"
+    ],
+    "u": "https://downloads.khinsider.com/search?search={{{s}}}",
+    "c": "Multimedia",
+    "sc": "Music"
+  },
+  {
     "s": "Kingdom Hearts Insider",
     "d": "www.khinsider.com",
     "t": "khinsider",
