@@ -102,6 +102,7 @@
   {
     "s": "11번가",
     "d": "search.11st.co.kr",
+    "ad": "11st.co.kr",
     "t": "11st",
     "u": "https://search.11st.co.kr/SearchPrdAction.tmall?method=getTotalSearchSeller&kwd={{{s}}}",
     "c": "Shopping",
@@ -657,6 +658,7 @@
   {
     "s": "4shared",
     "d": "search.4shared.com",
+    "ad": "4shared.com",
     "t": "4shared",
     "u": "https://search.4shared.com/q/CCAD/1/{{{s}}}",
     "c": "Multimedia",
@@ -1238,6 +1240,7 @@
   {
     "s": "ABC Australia",
     "d": "search.abc.net.au",
+    "ad": "abc.net.au",
     "t": "abcau",
     "u": "https://search.abc.net.au/s/search.html?query={{{s}}}&collection=abcall_meta&form=simple",
     "c": "News",
@@ -3514,6 +3517,7 @@
   {
     "s": "Ameblo",
     "d": "search.ameba.jp",
+    "ad": "ameba.jp",
     "t": "ameblo",
     "u": "https://search.ameba.jp/search.html?q={{{s}}}",
     "c": "Entertainment",
@@ -4305,6 +4309,7 @@
   {
     "s": "AOL",
     "d": "search.aol.com",
+    "ad": "aol.com",
     "t": "aol",
     "u": "https://search.aol.com/aol/search?enabled_terms=&s_it=comsearch&q={{{s}}}",
     "c": "Research",
@@ -6311,6 +6316,7 @@
   {
     "s": "au one Web Portal",
     "d": "search.auone.jp",
+    "ad": "auone.jp",
     "t": "auone",
     "u": "https://search.auone.jp/?q={{{s}}}",
     "c": "Online Services",
@@ -6510,6 +6516,7 @@
   {
     "s": "AVG Secure Search",
     "d": "search.avg.com",
+    "ad": "avg.com",
     "t": "avg",
     "u": "https://search.avg.com/search?q={{{s}}}",
     "c": "Online Services",
@@ -6697,6 +6704,7 @@
   {
     "s": "Az Lyrics",
     "d": "search.azlyrics.com",
+    "ad": "azlyrics.com",
     "t": "azl",
     "ts": [
       "azlyrics"
@@ -8897,6 +8905,7 @@
   {
     "s": "bilibili",
     "d": "search.bilibili.com",
+    "ad": "bilibili.com",
     "t": "bilibili",
     "ts": [
       "bili",
@@ -9246,6 +9255,7 @@
   {
     "s": "Bangkok Post",
     "d": "search.bangkokpost.com",
+    "ad": "bangkokpost.com",
     "t": "bkkpost",
     "u": "https://search.bangkokpost.com/search/result_advanced?category=all&xChannel=&q={{{s}}}",
     "c": "News",
@@ -9254,6 +9264,7 @@
   {
     "s": "博客來",
     "d": "search.books.com.tw",
+    "ad": "books.com.tw",
     "t": "bkl",
     "u": "https://search.books.com.tw/search/query/key/{{{s}}}/cat/all",
     "c": "Shopping",
@@ -10431,6 +10442,7 @@
   {
     "s": "Brave Search",
     "d": "search.brave.com",
+    "ad": "brave.com",
     "t": "brave",
     "u": "https://search.brave.com/search?q={{{s}}}",
     "c": "Online Services",
@@ -11855,6 +11867,7 @@
   {
     "s": "University of Cambridge",
     "d": "search.cam.ac.uk",
+    "ad": "cam.ac.uk",
     "t": "cam",
     "u": "https://search.cam.ac.uk/web?query={{{s}}}",
     "c": "Research",
@@ -12109,6 +12122,7 @@
   {
     "s": "Carrot2 Clustering Engine",
     "d": "search.carrot2.org",
+    "ad": "carrot2.org",
     "t": "carrot",
     "u": "https://search.carrot2.org/stable/search?source=web&view=folders&skin=fancy-compact&query={{{s}}}&results=100&algorithm=lingo",
     "c": "Online Services",
@@ -12328,6 +12342,7 @@
   {
     "s": "CBSNews",
     "d": "search.cbsnews.com",
+    "ad": "cbsnews.com",
     "t": "cbsnews",
     "u": "https://search.cbsnews.com/?source=cbs&q={{{s}}}",
     "c": "News",
@@ -13447,6 +13462,7 @@
   {
     "s": "Cheezburger",
     "d": "search.cheezburger.com",
+    "ad": "cheezburger.com",
     "t": "cheezburger",
     "u": "https://search.cheezburger.com/?q={{{s}}}",
     "c": "Multimedia",
@@ -13955,6 +13971,7 @@
   {
     "s": "Cisco",
     "d": "search.cisco.com",
+    "ad": "cisco.com",
     "t": "cisco",
     "u": "https://search.cisco.com/search?query={{{s}}}",
     "c": "Tech",
@@ -14546,6 +14563,7 @@
   {
     "s": "CNBC",
     "d": "search.cnbc.com",
+    "ad": "cnbc.com",
     "t": "cnbc",
     "u": "https://search.cnbc.com/main.do?target=all&keywords={{{s}}}",
     "c": "News",
@@ -16289,6 +16307,7 @@
   {
     "s": "Cricinfo",
     "d": "search.espncricinfo.com",
+    "ad": "espncricinfo.com",
     "t": "cricinfo",
     "u": "https://search.espncricinfo.com/ci/content/site/search.html?search={{{s}}}&gblsearch=",
     "c": "Entertainment",
@@ -16409,6 +16428,7 @@
   {
     "s": "crossref",
     "d": "search.crossref.org",
+    "ad": "crossref.org",
     "t": "crossref",
     "ts": [
       "xref"
@@ -17545,6 +17565,7 @@
   {
     "s": "Danawa",
     "d": "search.danawa.com",
+    "ad": "danawa.com",
     "t": "danawa",
     "ts": [
       "dnw"
@@ -17690,6 +17711,7 @@
   {
     "s": "Dartmouth College Libraries",
     "d": "search.library.dartmouth.edu",
+    "ad": "library.dartmouth.edu",
     "t": "dartlib",
     "u": "https://search.library.dartmouth.edu/discovery/search?vid=01DCL_INST:01DCL&tab=All&search_scope=MyInst_and_CI&mode=basic&displayMode=full&bulkSize=10&highlight=true&dum=true&query=any,contains,{{{s}}}&displayField=all&pcAvailabilityMode=true",
     "c": "Research",
@@ -17746,6 +17768,7 @@
   {
     "s": "datacite.org",
     "d": "search.datacite.org",
+    "ad": "datacite.org",
     "t": "datacite",
     "u": "https://search.datacite.org/works?query={{{s}}}",
     "c": "Research",
@@ -17821,6 +17844,7 @@
   {
     "s": "Daum",
     "d": "search.daum.net",
+    "ad": "daum.net",
     "t": "daum",
     "u": "https://search.daum.net/search?w=tot&q={{{s}}}",
     "c": "Online Services",
@@ -18190,6 +18214,7 @@
   {
     "s": "dcinside",
     "d": "search.dcinside.com",
+    "ad": "dcinside.com",
     "t": "dcinside",
     "u": "https://search.dcinside.com/combine/q/{{{s}}}",
     "c": "Entertainment",
@@ -18710,6 +18735,7 @@
   {
     "s": "Debian",
     "d": "search.debian.org",
+    "ad": "debian.org",
     "t": "debian",
     "u": "https://search.debian.org/cgi-bin/omega?DB=en&P={{{s}}}",
     "c": "Tech",
@@ -20333,6 +20359,7 @@
   {
     "s": "Disconnect Search",
     "d": "search.disconnect.me",
+    "ad": "disconnect.me",
     "t": "disconnect",
     "u": "https://search.disconnect.me/searchTerms/search?query={{{s}}}&ses=Google",
     "c": "Online Services",
@@ -20341,6 +20368,7 @@
   {
     "s": "Disconnect Image Search",
     "d": "search.disconnect.me",
+    "ad": "disconnect.me",
     "t": "disconnectimg",
     "u": "https://search.disconnect.me/searchTerms/search?query={{{s}}}&option=Images",
     "c": "Online Services",
@@ -20404,6 +20432,7 @@
   {
     "s": "Disney.com",
     "d": "search.disney.go.com",
+    "ad": "disney.go.com",
     "t": "disney",
     "u": "https://search.disney.go.com/?q={{{s}}}",
     "c": "Entertainment",
@@ -21441,6 +21470,7 @@
   {
     "s": "Dover Publications",
     "d": "search.doverpublications.com",
+    "ad": "doverpublications.com",
     "t": "dover",
     "u": "https://search.doverpublications.com/search?keywords={{{s}}}",
     "c": "Shopping",
@@ -22131,6 +22161,7 @@
   {
     "s": "Disroot Search",
     "d": "search.disroot.org",
+    "ad": "disroot.org",
     "t": "dsrt",
     "u": "https://search.disroot.org/?q={{{s}}}",
     "c": "Online Services",
@@ -22658,6 +22689,7 @@
   {
     "s": "Earth911.com",
     "d": "search.earth911.com",
+    "ad": "earth911.com",
     "t": "earth911",
     "ts": [
       "recycle"
@@ -24212,6 +24244,7 @@
   {
     "s": "The Register",
     "d": "search.theregister.co.uk",
+    "ad": "theregister.co.uk",
     "t": "elreg",
     "ts": [
       "register",
@@ -24325,6 +24358,7 @@
   {
     "s": "Medscape Reference",
     "d": "search.medscape.com",
+    "ad": "medscape.com",
     "t": "emedicine",
     "ts": [
       "medscape"
@@ -25146,6 +25180,7 @@
   {
     "s": "US Environmental Protection Agency",
     "d": "search.epa.gov",
+    "ad": "epa.gov",
     "t": "epa",
     "u": "https://search.epa.gov/epasearch/?querytext={{{s}}}&areaname=&areacontacts=&areasearchurl=&typeofsearch=epa&result_template=#/",
     "c": "Research",
@@ -25183,6 +25218,7 @@
   {
     "s": "EPFL Directory",
     "d": "search.epfl.ch",
+    "ad": "epfl.ch",
     "t": "epfldir",
     "u": "https://search.epfl.ch/psearch.action?q={{{s}}}&f=directory&lang=en&pageSize=10&sort=",
     "c": "Research",
@@ -25191,6 +25227,7 @@
   {
     "s": "EPFL",
     "d": "search.epfl.ch",
+    "ad": "epfl.ch",
     "t": "epfl",
     "u": "https://search.epfl.ch/web.action?q={{{s}}}",
     "c": "Research",
@@ -25807,6 +25844,7 @@
   {
     "s": "ETH Library",
     "d": "search.library.ethz.ch",
+    "ad": "library.ethz.ch",
     "t": "ethl",
     "u": "https://search.library.ethz.ch/primo-explore/search?query=any,contains,{{{s}}}&tab=default_tab&search_scope=default_scope&vid=DADS&lang=en_US&offset=0",
     "c": "Multimedia",
@@ -27287,6 +27325,7 @@
   {
     "s": "freeCodeCamp",
     "d": "search.freecodecamp.org",
+    "ad": "freecodecamp.org",
     "t": "fcode",
     "u": "https://search.freecodecamp.org/?q={{{s}}}",
     "c": "Online Services",
@@ -27322,6 +27361,7 @@
   {
     "s": "FDA",
     "d": "search.usa.gov",
+    "ad": "usa.gov",
     "t": "fda",
     "u": "https://search.usa.gov/search?utf8=%E2%9C%93&affiliate=fda&query={{{s}}}&commit=Search",
     "c": "Research",
@@ -27425,6 +27465,7 @@
   {
     "s": "F-Droid search",
     "d": "search.f-droid.org",
+    "ad": "f-droid.org",
     "t": "fdroid",
     "u": "https://search.f-droid.org/?q={{{s}}}",
     "c": "Tech",
@@ -28381,6 +28422,7 @@
   {
     "s": "FIU Libraries EDS",
     "d": "search.ebscohost.com.ezproxy.fiu.edu",
+    "ad": "ebscohost.com.ezproxy.fiu.edu",
     "t": "fiueds",
     "u": "https://search.ebscohost.com.ezproxy.fiu.edu/login.aspx?direct=true&scope=site&type=0&site=eds-live&lang=en&bquery=[{{{s}}}]",
     "c": "Research",
@@ -28851,6 +28893,7 @@
   {
     "s": "Folha de S. Paulo",
     "d": "search.folha.com.br",
+    "ad": "folha.com.br",
     "t": "folha",
     "u": "https://search.folha.com.br/search?q={{{s}}}",
     "c": "News",
@@ -28990,6 +29033,7 @@
   {
     "s": "Cook's Thesaurus",
     "d": "search.freefind.com",
+    "ad": "freefind.com",
     "t": "foodsubs",
     "u": "https://search.freefind.com/find.html?id=81296093&pageid=r&query={{{s}}}",
     "c": "Research",
@@ -31894,6 +31938,7 @@
   {
     "s": "gexsi",
     "d": "search.gexsi.com",
+    "ad": "gexsi.com",
     "t": "gex",
     "u": "https://search.gexsi.com/en/search/?q={{{s}}}",
     "c": "Online Services",
@@ -33113,6 +33158,7 @@
   {
     "s": "GMarket",
     "d": "search.gmarket.co.kr",
+    "ad": "gmarket.co.kr",
     "t": "gmarket",
     "u": "https://search.gmarket.co.kr/search.aspx?keyword={{{s}}}",
     "c": "Shopping",
@@ -33977,6 +34023,7 @@
   {
     "s": "goo検索",
     "d": "search.goo.ne.jp",
+    "ad": "goo.ne.jp",
     "t": "goo",
     "u": "https://search.goo.ne.jp/web.jsp?MT={{{s}}}&IE=UTF-8&OE=UTF-8",
     "c": "Online Services",
@@ -34127,6 +34174,7 @@
   {
     "s": "US Government Image Search",
     "d": "search.usa.gov",
+    "ad": "usa.gov",
     "t": "govimages",
     "u": "https://search.usa.gov/search/images?affiliate=usagov&query={{{s}}}",
     "c": "Research",
@@ -34154,6 +34202,7 @@
   {
     "s": "US Government Search",
     "d": "search.usa.gov",
+    "ad": "usa.gov",
     "t": "gov",
     "u": "https://search.usa.gov/search?affiliate=usagov&query={{{s}}}",
     "c": "Research",
@@ -37443,6 +37492,7 @@
   {
     "s": "All Datasheet Catalog",
     "d": "search.datasheetcatalog.net",
+    "ad": "datasheetcatalog.net",
     "t": "hds",
     "u": "https://search.datasheetcatalog.net/key/{{{s}}}",
     "c": "Shopping",
@@ -38761,6 +38811,7 @@
   {
     "s": "HP",
     "d": "search.hp.com",
+    "ad": "hp.com",
     "t": "hp",
     "u": "https://search.hp.com/query.html?lang=en&submit.x=0&submit.y=0&qt={{{s}}}&la=en&cc=us",
     "c": "Tech",
@@ -39802,6 +39853,7 @@
   {
     "s": "Iowa City Public Library",
     "d": "search.icpl.org",
+    "ad": "icpl.org",
     "t": "icpl",
     "u": "https://search.icpl.org/Search/Results?lookfor={{{s}}}",
     "c": "Research",
@@ -40490,6 +40542,7 @@
   {
     "s": "Illinois State University",
     "d": "search.illinoisstate.edu",
+    "ad": "illinoisstate.edu",
     "t": "ilstu",
     "u": "https://search.illinoisstate.edu/?q={{{s}}}",
     "c": "Research",
@@ -41628,6 +41681,7 @@
   {
     "s": "IRS",
     "d": "search.irs.gov",
+    "ad": "irs.gov",
     "t": "irs",
     "u": "https://search.irs.gov/search?q={{{s}}}&proxystylesheet=irs_portals_frontend",
     "c": "Research",
@@ -42330,6 +42384,7 @@
   {
     "s": "Java4 Docs",
     "d": "search.oracle.com",
+    "ad": "oracle.com",
     "t": "java4",
     "u": "https://search.oracle.com/search/search?tzoffset=420&default=true&q={{{s}}}+url:/javase/1.4.2/docs&start=1&nodeid=&fid=&showSimilarDoc=true&group=Documentation&keyword=&x=0&y=0",
     "c": "Tech",
@@ -42338,6 +42393,7 @@
   {
     "s": "Java5 Docs",
     "d": "search.oracle.com",
+    "ad": "oracle.com",
     "t": "java5",
     "u": "https://search.oracle.com/search/search?tzoffset=420&default=true&q={{{s}}}+url:/javase/1.5.0/docs&start=1&nodeid=&fid=&showSimilarDoc=true&group=Documentation&keyword=&x=0&y=0",
     "c": "Tech",
@@ -42346,6 +42402,7 @@
   {
     "s": "Java6 Docs",
     "d": "search.oracle.com",
+    "ad": "oracle.com",
     "t": "java6",
     "u": "https://search.oracle.com/search/search?tzoffset=420&default=true&q={{{s}}}+url:/javase/6/docs&start=1&nodeid=&fid=&showSimilarDoc=true&group=Documentation&keyword=&x=0&y=0",
     "c": "Tech",
@@ -42382,6 +42439,7 @@
   {
     "s": "Oracle JavaFX",
     "d": "search.oracle.com",
+    "ad": "oracle.com",
     "t": "javafx",
     "u": "https://search.oracle.com/search/search?num=10&exttimeout=false&q={{{s}}}+url:/javase/8/javafx/api&group=Documentation",
     "c": "Tech",
@@ -42602,6 +42660,7 @@
   {
     "s": "京东网上商城",
     "d": "search.jd.com",
+    "ad": "jd.com",
     "t": "jd",
     "u": "https://search.jd.com/Search?keyword={{{s}}}&enc=utf-8",
     "c": "Shopping",
@@ -43334,6 +43393,7 @@
   {
     "s": "Java Tutorial (Oracle)",
     "d": "search.oracle.com",
+    "ad": "oracle.com",
     "t": "jtut",
     "u": "https://search.oracle.com/search/search?search_p_main_operator=all&group=Documentation&q={{{s}}}+url:/javase/tutorial",
     "c": "Tech",
@@ -44964,6 +45024,7 @@
   {
     "s": "Kompas",
     "d": "search.kompas.com",
+    "ad": "kompas.com",
     "t": "kompas",
     "u": "https://search.kompas.com/search/?q={{{s}}}&submit=Submit+Query",
     "c": "News",
@@ -45540,6 +45601,7 @@
   {
     "s": "Kyobo Book Centre",
     "d": "search.kyobobook.co.kr",
+    "ad": "kyobobook.co.kr",
     "t": "kyobo",
     "u": "https://search.kyobobook.co.kr/web/search?vPstrKeyWord={{{s}}}",
     "c": "Shopping",
@@ -45958,6 +46020,7 @@
   {
     "s": "LATimes",
     "d": "search.latimes.com",
+    "ad": "latimes.com",
     "t": "latimes",
     "u": "https://search.latimes.com/search?q={{{s}}}",
     "c": "News",
@@ -46749,6 +46812,7 @@
   {
     "s": "Letssingit",
     "d": "search.letssingit.com",
+    "ad": "letssingit.com",
     "t": "letssingit",
     "u": "https://search.letssingit.com/?s={{{s}}}&a=search&l=archive",
     "c": "Multimedia",
@@ -47279,6 +47343,7 @@
   {
     "s": "Lilo",
     "d": "search.lilo.org",
+    "ad": "lilo.org",
     "t": "lilo",
     "u": "https://search.lilo.org/searchweb.php?q={{{s}}}",
     "c": "Online Services",
@@ -47757,6 +47822,7 @@
   {
     "s": "Linköping University",
     "d": "search.liu.se",
+    "ad": "liu.se",
     "t": "liu",
     "u": "https://search.liu.se/en/?query={{{s}}}",
     "c": "Research",
@@ -48511,6 +48577,7 @@
   {
     "s": "Let's sing it",
     "d": "search.letssingit.com",
+    "ad": "letssingit.com",
     "t": "lsi",
     "u": "https://search.letssingit.com/cgi-exe/am.cgi?a=search&l=archive&typeid=2&s={{{s}}}",
     "c": "Entertainment",
@@ -48616,6 +48683,7 @@
   {
     "s": "La Trobe University Library",
     "d": "search.lib.latrobe.edu.au",
+    "ad": "lib.latrobe.edu.au",
     "t": "ltulib",
     "u": "https://search.lib.latrobe.edu.au/primo_library/libweb/action/dlSearch.do?vid=LATROBE&institution=LATROBE&search_scope=All&query=any,contains,{{{s}}}",
     "c": "Research",
@@ -48948,6 +49016,7 @@
   {
     "s": "Lycos",
     "d": "search.lycos.com",
+    "ad": "lycos.com",
     "t": "lycos",
     "u": "https://search.lycos.com/web?q={{{s}}}",
     "c": "Online Services",
@@ -49845,6 +49914,7 @@
   {
     "s": "Marginalia Search",
     "d": "search.marginalia.nu",
+    "ad": "marginalia.nu",
     "t": "marginalia",
     "u": "https://search.marginalia.nu/search?query={{{s}}}",
     "c": "Online Services",
@@ -51563,6 +51633,7 @@
   {
     "s": "Mercola",
     "d": "search.mercola.com",
+    "ad": "mercola.com",
     "t": "mercola",
     "u": "https://search.mercola.com/results.aspx?q={{{s}}}",
     "c": "Research",
@@ -51963,6 +52034,7 @@
   {
     "s": "Mibbit",
     "d": "search.mibbit.com",
+    "ad": "mibbit.com",
     "t": "mib",
     "u": "https://search.mibbit.com/search/{{{s}}}",
     "c": "Online Services",
@@ -52003,6 +52075,7 @@
   {
     "s": "Microsoft",
     "d": "search.microsoft.com",
+    "ad": "microsoft.com",
     "t": "microsoft",
     "ts": [
       "ms"
@@ -52038,6 +52111,7 @@
   {
     "s": "Migros (DE)",
     "d": "search.migros.ch",
+    "ad": "migros.ch",
     "t": "migros_de",
     "ts": [
       "migros_fr",
@@ -52288,6 +52362,7 @@
   {
     "s": "MIT OpenCourseWare",
     "d": "search.mit.edu",
+    "ad": "mit.edu",
     "t": "mitocw",
     "ts": [
       "ocw"
@@ -52363,6 +52438,7 @@
   {
     "s": "Městská knihovna v Praze",
     "d": "search.mlp.cz",
+    "ad": "mlp.cz",
     "t": "mkp",
     "u": "https://search.mlp.cz/cz/?query={{{s}}}",
     "c": "Multimedia",
@@ -52824,6 +52900,7 @@
   {
     "s": "Mobile-Friendly Test - Google",
     "d": "search.google.com",
+    "ad": "google.com",
     "t": "mobilefriendly",
     "u": "https://search.google.com/test/mobile-friendly?url={{{s}}}",
     "c": "Online Services",
@@ -54297,6 +54374,7 @@
   {
     "s": "Muzli Search",
     "d": "search.muz.li",
+    "ad": "muz.li",
     "t": "muzli",
     "u": "https://search.muz.li/search/{{{s}}}",
     "c": "Tech",
@@ -54948,6 +55026,7 @@
   {
     "s": "Naver Shopping",
     "d": "search.shopping.naver.com",
+    "ad": "shopping.naver.com",
     "t": "nasp",
     "u": "https://search.shopping.naver.com/search/all.nhn?query={{{s}}}&cat_id=&frm=NVSHATC",
     "c": "Shopping",
@@ -55085,6 +55164,7 @@
   {
     "s": "NAVER",
     "d": "search.naver.com",
+    "ad": "naver.com",
     "t": "nv",
     "ts": [
       "naver",
@@ -55284,6 +55364,7 @@
   {
     "s": "NCSU Libraries",
     "d": "search.lib.ncsu.edu",
+    "ad": "lib.ncsu.edu",
     "t": "ncsulib",
     "u": "https://search.lib.ncsu.edu/?q={{{s}}}",
     "c": "Research",
@@ -55801,6 +55882,7 @@
   {
     "s": "News.com.au",
     "d": "search.news.com.au",
+    "ad": "news.com.au",
     "t": "newscomau",
     "u": "https://search.news.com.au/search?us=ndmnews&as=NEWS&q={{{s}}}",
     "c": "News",
@@ -56149,6 +56231,7 @@
   {
     "s": "Nifty",
     "d": "search.nifty.com",
+    "ad": "nifty.com",
     "t": "nifty",
     "u": "https://search.nifty.com/websearch/search?cflg=検索&q={{{s}}}",
     "c": "Online Services",
@@ -56165,6 +56248,7 @@
   {
     "s": "NIH",
     "d": "search.nih.gov",
+    "ad": "nih.gov",
     "t": "nih",
     "u": "https://search.nih.gov/search?utf8=%E2%9C%93&affiliate=nih&query={{{s}}}&commit=Search&btnG.x=0&btnG.y=0&btnG=search",
     "c": "Research",
@@ -56237,6 +56321,7 @@
   {
     "s": "National Instruments",
     "d": "search.ni.com",
+    "ad": "ni.com",
     "t": "ni",
     "u": "https://search.ni.com/nisearch/app/main/p/bot/no/ap/global/lang/en/pg/1/q/{{{s}}}/",
     "c": "Tech",
@@ -56488,6 +56573,7 @@
   {
     "s": "National Library of Scotland=Leabharlann Nàiseanta na h-Alba",
     "d": "search.nls.uk",
+    "ad": "nls.uk",
     "t": "nls",
     "u": "https://search.nls.uk/discovery/search?query=any,contains,{{{s}}}&tab=MainCatalogue&search_scope=MainCatalogue&vid=44NLS_INST:44NLS_VU1&offset=0",
     "c": "Research",
@@ -56576,6 +56662,7 @@
   {
     "s": "NNDB",
     "d": "search.nndb.com",
+    "ad": "nndb.com",
     "t": "nndb",
     "u": "https://search.nndb.com/search/nndb.cgi?nndb=1&omenu=unspecified&query={{{s}}}",
     "c": "Entertainment",
@@ -57370,6 +57457,7 @@
   {
     "s": "Naver Images",
     "d": "search.naver.com",
+    "ad": "naver.com",
     "t": "nvi",
     "u": "https://search.naver.com/search.naver?sm=tab_hty.top&where=image&query={{{s}}}",
     "c": "Online Services",
@@ -57501,6 +57589,7 @@
   {
     "s": "New Zealand Qualifications Authority",
     "d": "search.nzqa.govt.nz",
+    "ad": "nzqa.govt.nz",
     "t": "nzqa",
     "u": "https://search.nzqa.govt.nz/apps/search/?q={{{s}}}",
     "c": "Research",
@@ -58302,6 +58391,7 @@
   {
     "s": "CPAN",
     "d": "search.cpan.org",
+    "ad": "cpan.org",
     "t": "oldcpan",
     "ts": [
       "searchcpan"
@@ -58372,6 +58462,7 @@
   {
     "s": "OregonLive",
     "d": "search.oregonlive.com",
+    "ad": "oregonlive.com",
     "t": "ol",
     "u": "https://search.oregonlive.com/{{{s}}}",
     "c": "News",
@@ -59089,6 +59180,7 @@
   {
     "s": "Open University",
     "d": "search.open.ac.uk",
+    "ad": "open.ac.uk",
     "t": "openuni",
     "u": "https://search.open.ac.uk/public/search/results?q={{{s}}}",
     "c": "Research",
@@ -63347,6 +63439,7 @@
   {
     "s": "pomagalo.com",
     "d": "search.pomagalo.com",
+    "ad": "pomagalo.com",
     "t": "pomagalo",
     "u": "https://search.pomagalo.com/?keywords_id=&keywords={{{s}}}",
     "c": "Research",
@@ -64903,6 +64996,7 @@
   {
     "s": "PurpleMath",
     "d": "search.freefind.com",
+    "ad": "freefind.com",
     "t": "purplemath",
     "u": "https://search.freefind.com/find.html?id=5014414&pageid=r&mode=ALL&n=0&query={{{s}}}",
     "c": "Research",
@@ -65733,6 +65827,7 @@
   {
     "s": "Rakuten Ichiba",
     "d": "search.rakuten.co.jp",
+    "ad": "rakuten.co.jp",
     "t": "r10",
     "ts": [
       "rakuten"
@@ -65974,6 +66069,7 @@
   {
     "s": "Rockwell Automation Literature",
     "d": "search.rockwellautomation.com",
+    "ad": "rockwellautomation.com",
     "t": "ralit",
     "u": "https://search.rockwellautomation.com/search?q={{{s}}}&client=literature&filter=0&ie=UTF-8&oe=UTF-8&output=xml_no_dtd&proxystylesheet=literature&site=literature&getfields=*&lang=en&hl=en&num=20&requiredfields=xlanguage:MU|xlanguage:EN",
     "c": "Tech",
@@ -70181,6 +70277,7 @@
   {
     "s": "Scientific Electronic Library Online",
     "d": "search.scielo.org",
+    "ad": "scielo.org",
     "t": "scielo",
     "u": "https://search.scielo.org/?q={{{s}}}&where=ORG",
     "c": "Research",
@@ -70318,6 +70415,7 @@
   {
     "s": "SAP Community Network",
     "d": "search.sap.com",
+    "ad": "sap.com",
     "t": "scn",
     "u": "https://search.sap.com/ui/scn#query={{{s}}}",
     "c": "Tech",
@@ -71145,6 +71243,7 @@
   {
     "s": "Seznam",
     "d": "search.seznam.cz",
+    "ad": "seznam.cz",
     "t": "seznam",
     "ts": [
       "szn"
@@ -71255,6 +71354,7 @@
   {
     "s": "Simon Fraser University Library",
     "d": "search.lib.sfu.ca",
+    "ad": "lib.sfu.ca",
     "t": "sfulib",
     "u": "https://search.lib.sfu.ca/?q={{{s}}}",
     "c": "Research",
@@ -71900,6 +72000,7 @@
   {
     "s": "SINDOnews",
     "d": "search.sindonews.com",
+    "ad": "sindonews.com",
     "t": "sindonews",
     "u": "https://search.sindonews.com/search?type=artikel&q={{{s}}}",
     "c": "News",
@@ -72864,6 +72965,7 @@
   {
     "s": "什么值得买",
     "d": "search.smzdm.com",
+    "ad": "smzdm.com",
     "t": "smzdm",
     "u": "https://search.smzdm.com/?c=home&s={{{s}}}",
     "c": "Shopping",
@@ -74138,6 +74240,7 @@
   {
     "s": "SitePoint Reference",
     "d": "search.sitepoint.com",
+    "ad": "sitepoint.com",
     "t": "spr",
     "u": "https://search.sitepoint.com/?q={{{s}}}&refinements[reference]=1",
     "c": "Tech",
@@ -75467,6 +75570,7 @@
   {
     "s": "Sulekha",
     "d": "search.sulekha.com",
+    "ad": "sulekha.com",
     "t": "sulekha",
     "u": "https://search.sulekha.com/sulekhasearch.aspx?txtsearch={{{s}}}",
     "c": "Online Services",
@@ -80224,6 +80328,7 @@
   {
     "s": "Graz University of Technology",
     "d": "search.tugraz.at",
+    "ad": "tugraz.at",
     "t": "tug",
     "u": "https://search.tugraz.at/search?q={{{s}}}&site=Alle&btnG=Suchen&client=tug_portal&output=xml_no_dtd&proxystylesheet=tug_portal&sitesearch=www.tugraz.at",
     "c": "Research",
@@ -80428,6 +80533,7 @@
   {
     "s": "TV2",
     "d": "search.tv2.dk",
+    "ad": "tv2.dk",
     "t": "tv2",
     "u": "https://search.tv2.dk/?query={{{s}}}&sort=relevance&page=1",
     "c": "Entertainment",
@@ -81134,6 +81240,7 @@
   {
     "s": "UbuWeb",
     "d": "search.freefind.com",
+    "ad": "freefind.com",
     "t": "ubu",
     "u": "https://search.freefind.com/find.html?si=61902956&pid=r&n=0&_charset_=UTF-8&bcd=÷&query={{{s}}}",
     "c": "Multimedia",
@@ -81150,6 +81257,7 @@
   {
     "s": "uCern",
     "d": "search.ucern.com",
+    "ad": "ucern.com",
     "t": "ucern",
     "u": "https://search.ucern.com/search?cp=connect&q={{{s}}}",
     "c": "Tech",
@@ -81158,6 +81266,7 @@
   {
     "s": "University of Central Florida",
     "d": "search.ucf.edu",
+    "ad": "ucf.edu",
     "t": "ucfl",
     "u": "https://search.ucf.edu/#?q={{{s}}}",
     "c": "Online Services",
@@ -81673,6 +81782,7 @@
   {
     "s": "University of Melbourne",
     "d": "search.unimelb.edu.au",
+    "ad": "unimelb.edu.au",
     "t": "umelb",
     "u": "https://search.unimelb.edu.au/?q={{{s}}}",
     "c": "Research",
@@ -81705,6 +81815,7 @@
   {
     "s": "University of Minnesota",
     "d": "search.umn.edu",
+    "ad": "umn.edu",
     "t": "umn",
     "u": "https://search.umn.edu/tc/index.php?q={{{s}}}",
     "c": "Research",
@@ -81729,6 +81840,7 @@
   {
     "s": "University of North Caroline at Greensboro",
     "d": "search.uncg.edu",
+    "ad": "uncg.edu",
     "t": "uncg",
     "u": "https://search.uncg.edu/search?q={{{s}}}&site=default_collection&client=default_frontend&output=xml_no_dtd&proxystylesheet=default_frontend",
     "c": "Research",
@@ -82018,6 +82130,7 @@
   {
     "s": "University of New Mexico",
     "d": "search.unm.edu",
+    "ad": "unm.edu",
     "t": "unm",
     "u": "https://search.unm.edu/search?q={{{s}}}",
     "c": "Research",
@@ -82117,6 +82230,7 @@
   {
     "s": "United Nations",
     "d": "search.un.org",
+    "ad": "un.org",
     "t": "un",
     "u": "https://search.un.org/search?ie=utf8&site=un_org&output=xml_no_dtd&client=UN_Website_en&num=10&lr=lang_en&proxystylesheet=UN_Website_en&oe=utf8&q={{{s}}}&Submit=Go",
     "c": "Research",
@@ -82141,6 +82255,7 @@
   {
     "s": "University of Alberta Library",
     "d": "search.library.ualberta.ca",
+    "ad": "library.ualberta.ca",
     "t": "uoal",
     "u": "https://search.library.ualberta.ca/symphony?q={{{s}}}",
     "c": "Research",
@@ -82149,6 +82264,7 @@
   {
     "s": "University of Auckland",
     "d": "search.auckland.ac.nz",
+    "ad": "auckland.ac.nz",
     "t": "uoa",
     "u": "https://search.auckland.ac.nz/search?site=All_university_websites&client=uoa_frontend&proxystylesheet=uoa_frontend&proxyreload=0&output=xml_no_dtd&q={{{s}}}",
     "c": "Research",
@@ -82286,6 +82402,7 @@
   {
     "s": "University of Queensland Library",
     "d": "search.library.uq.edu.au",
+    "ad": "library.uq.edu.au",
     "t": "uql",
     "u": "https://search.library.uq.edu.au/primo-explore/search?query=any,contains,{{{s}}}&tab=61uq_all&search_scope=61UQ_All&sortby=rank&vid=61UQ&offset=0",
     "c": "Research",
@@ -82406,6 +82523,7 @@
   {
     "s": "USA.gov",
     "d": "search.usa.gov",
+    "ad": "usa.gov",
     "t": "usa",
     "u": "https://search.usa.gov/search?utf8=%E2%9C%93&affiliate=usagov&query={{{s}}}",
     "c": "Research",
@@ -82535,6 +82653,7 @@
   {
     "s": "The United States Mint",
     "d": "search.usmint.gov",
+    "ad": "usmint.gov",
     "t": "usmint",
     "u": "https://search.usmint.gov/search?affiliate=usmint.gov&formFocused=0&query={{{s}}}",
     "c": "Research",
@@ -82683,6 +82802,7 @@
   {
     "s": "University of Virginia Library Catalog",
     "d": "search.lib.virginia.edu",
+    "ad": "lib.virginia.edu",
     "t": "uvac",
     "ts": [
       "uvalib"
@@ -82750,6 +82870,7 @@
   {
     "s": "University of Wisconsin Libraries",
     "d": "search.library.wisc.edu",
+    "ad": "library.wisc.edu",
     "t": "uwlib",
     "u": "https://search.library.wisc.edu/search/catalog?q={{{s}}}",
     "c": "Research",
@@ -84375,6 +84496,7 @@
   {
     "s": "Virginia Tech",
     "d": "search.vt.edu",
+    "ad": "vt.edu",
     "t": "vtech",
     "u": "https://search.vt.edu/search/pages.html;sa=Search&q={{{s}}}",
     "c": "Research",
@@ -84897,6 +85019,7 @@
   {
     "s": "University of Warwick",
     "d": "search.warwick.ac.uk",
+    "ad": "warwick.ac.uk",
     "t": "warwick",
     "u": "https://search.warwick.ac.uk/?q={{{s}}}",
     "c": "Online Services",
@@ -86270,6 +86393,7 @@
   {
     "s": "WikiLeaks",
     "d": "search.wikileaks.org",
+    "ad": "wikileaks.org",
     "t": "wikileaks",
     "ts": [
       "wl"
@@ -89162,6 +89286,7 @@
   {
     "s": "Yahoo!",
     "d": "search.yahoo.com",
+    "ad": "yahoo.com",
     "t": "yahoo",
     "ts": [
       "y"
@@ -89541,6 +89666,7 @@
   {
     "s": "Yahoo! Japan Realtime",
     "d": "search.yahoo.co.jp",
+    "ad": "yahoo.co.jp",
     "t": "yjr",
     "ts": [
       "yrtjp"
@@ -89568,6 +89694,7 @@
   {
     "s": "Yahoo Japan",
     "d": "search.yahoo.co.jp",
+    "ad": "yahoo.co.jp",
     "t": "yj",
     "ts": [
       "yjp"
@@ -89848,6 +89975,7 @@
   {
     "s": "Yahoo Sports",
     "d": "search.yahoo.com",
+    "ad": "yahoo.com",
     "t": "ysports",
     "u": "https://search.yahoo.com/search?p=/{{{s}}}",
     "c": "Entertainment",
@@ -90580,6 +90708,7 @@
   {
     "s": "Zoho",
     "d": "search.zoho.com",
+    "ad": "zoho.com",
     "t": "zoho",
     "u": "https://search.zoho.com/searchresult?query={{{s}}}&search_type=all&index_key=-1&embed=false",
     "c": "Tech",
@@ -90655,6 +90784,7 @@
   {
     "s": "zum",
     "d": "search.zum.com",
+    "ad": "zum.com",
     "t": "zum",
     "u": "https://search.zum.com/search.zum?query={{{s}}}",
     "c": "Online Services",
@@ -90878,6 +91008,7 @@
   {
     "s": "NixOS Packages Search",
     "d": "search.nixos.org",
+    "ad": "nixos.org",
     "t": "nixpkgs",
     "u": "https://search.nixos.org/packages?query={{{s}}}",
     "c": "Tech",
@@ -90886,6 +91017,7 @@
   {
     "s": "NixOS Options Search",
     "d": "search.nixos.org",
+    "ad": "nixos.org",
     "t": "nixopt",
     "u": "https://search.nixos.org/options?query={{{s}}}",
     "c": "Tech",
@@ -90894,6 +91026,7 @@
   {
     "s": "NixOS Home Manager Options Search",
     "d": "search.nixos.org",
+    "ad": "nixos.org",
     "t": "nixhopt",
     "ts": [
       "nixhmopt",
