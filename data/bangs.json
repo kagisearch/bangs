@@ -20822,10 +20822,14 @@
     "sc": "Blogs"
   },
   {
-    "s": "Daum Map",
-    "d": "map.daum.net",
-    "t": "dmap",
-    "u": "https://map.daum.net/?q={{{s}}}",
+    "s": "Kakao Map",
+    "d": "map.kakao.com",
+    "t": "kamap",
+    "ts": [
+      "kmap",
+      "dmap"
+    ],
+    "u": "https://map.kakao.com/?q={{{s}}}",
     "c": "Online Services",
     "sc": "Maps"
   },
@@ -54850,14 +54854,6 @@
     "sc": "Reference"
   },
   {
-    "s": "Naver Maps",
-    "d": "map.naver.com",
-    "t": "navm",
-    "u": "https://map.naver.com/p/search/{{{s}}}",
-    "c": "Online Services",
-    "sc": "Maps"
-  },
-  {
     "s": "Timini",
     "d": "www.timini.no",
     "t": "nano",
@@ -56529,6 +56525,9 @@
     "s": "Naver Map",
     "d": "map.naver.com",
     "t": "nmap",
+    "ts": [
+      "navm"
+    ],
     "u": "https://map.naver.com/?query={{{s}}}",
     "c": "Online Services",
     "sc": "Maps"
