@@ -62997,7 +62997,7 @@
   },
   {
     "s": "Pubmed",
-    "d": "www.ncbi.nlm.nih.gov",
+    "d": "pubmed.ncbi.nlm.nih.gov",
     "t": "pmd",
     "ts": [
       "pmid",
@@ -63005,7 +63005,7 @@
       "pubmed",
       "pub"
     ],
-    "u": "https://www.ncbi.nlm.nih.gov/pubmed/?term={{{s}}}",
+    "u": "https://pubmed.ncbi.nlm.nih.gov/?term={{{s}}}"
     "c": "Research",
     "sc": "Academic"
   },
