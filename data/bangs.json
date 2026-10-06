@@ -18618,6 +18618,18 @@
     "sc": "Magazine"
   },
   {
+    "s": "Deadlock Wiki",
+    "d": "deadlock.wiki",
+    "t": "deadlock",
+    "ts": [
+      "dlock",
+      "dlwiki"
+    ],
+    "u": "https://deadlock.wiki/index.php?search={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Games (specific)"
+  },
+  {
     "s": "Deadspin",
     "d": "deadspin.com",
     "t": "deadspin",
