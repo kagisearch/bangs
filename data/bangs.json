@@ -93866,5 +93866,18 @@
     "u": "https://tesaurus.kemendikdasmen.go.id/tematis/lema/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
+  },
+  {
+    "s": "DeepWiki",
+    "d": "kagi.com",
+    "ad": "deepwiki.com",
+    "t": "deepwiki",
+    "ts": [
+      "deep",
+      "dwi"
+    ],
+    "u": "/search?q={{{s}}}+site:deepwiki.com",
+    "c": "Tech",
+    "sc": "Programming"
   }
 ]
