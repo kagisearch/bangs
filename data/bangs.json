@@ -63009,15 +63009,16 @@
   },
   {
     "s": "Pubmed",
-    "d": "www.ncbi.nlm.nih.gov",
+    "d": "pubmed.ncbi.nlm.nih.gov",
     "t": "pmd",
     "ts": [
       "pmid",
       "pm",
       "pubmed",
-      "pub"
+      "pub",
+      "publabs"
     ],
-    "u": "https://www.ncbi.nlm.nih.gov/pubmed/?term={{{s}}}",
+    "u": "https://pubmed.ncbi.nlm.nih.gov/?term={{{s}}}",
     "c": "Research",
     "sc": "Academic"
   },
@@ -64883,14 +64884,6 @@
     "u": "https://pubg.wiki.gg/index.php?search={{{s}}}",
     "c": "Entertainment",
     "sc": "Games (specific)"
-  },
-  {
-    "s": "PubMed Labs",
-    "d": "pubmed.ncbi.nlm.nih.gov",
-    "t": "publabs",
-    "u": "https://pubmed.ncbi.nlm.nih.gov/?term={{{s}}}",
-    "c": "Research",
-    "sc": "Academic"
   },
   {
     "s": "PUBLC",
