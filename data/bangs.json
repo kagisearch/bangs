@@ -19082,6 +19082,19 @@
     "sc": "Academic"
   },
   {
+    "s": "DeepWiki",
+    "d": "kagi.com",
+    "ad": "deepwiki.com",
+    "t": "deepwiki",
+    "ts": [
+      "deepw",
+      "dwi"
+    ],
+    "u": "/search?q={{{s}}}+site:deepwiki.com",
+    "c": "Tech",
+    "sc": "Programming"
+  },
+  {
     "s": "Dict.cc Deutsch-Spanisch",
     "d": "dees.dict.cc",
     "t": "dees",
