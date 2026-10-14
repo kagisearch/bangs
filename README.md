@@ -6,6 +6,11 @@ You can submit changes to improve accuracy of existing bangs as well as create n
 
 Accepted changes are deployed to our website weekly.
 
+Pull requests receive an automatically updated comment summarizing effective changes to
+`data/bangs.json` and `data/kagi_bangs.json`: added/removed bangs and aliases, plus changes
+to URLs, regex patterns, format flags, and domains. Ordering, moves between data files,
+and metadata-only changes are ignored. The same comparison is used for release notes.
+
 
 ## Contribution Guidelines
 
