@@ -58600,6 +58600,14 @@
     "sc": "Maps"
   },
   {
+    "s": "OsmAnd",
+    "d": "osmand.net",
+    "t": "osmand",
+    "u": "https://osmand.net/map/search/result/?query={{{s}}}",
+    "c": "Online Services",
+    "sc": "Maps"
+  },
+  {
     "s": "World of O",
     "d": "omaps.worldofo.com",
     "t": "omaps",
