@@ -2789,6 +2789,18 @@
     "sc": "TV"
   },
   {
+    "s": "AniList (Manga)",
+    "d": "anilist.co",
+    "t": "alm",
+    "ts": [
+      "almanga",
+      "anilsitm"
+    ],
+    "u": "https://anilist.co/search/manga?search={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Comics"
+  },
+  {
     "s": "Arch Linux ARM Packages",
     "d": "archlinuxarm.org",
     "t": "alarmpkg",
