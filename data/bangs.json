@@ -4059,6 +4059,14 @@
     "sc": "Misc"
   },
   {
+    "s": "Anime News Network Encyclopedia",
+    "d": "www.animenewsnetwork.com",
+    "t": "anne",
+    "u": "https://www.animenewsnetwork.com/encyclopedia/search/name?only=anime&q={{{s}}}",
+    "c": "Entertainment",
+    "sc": "TV"
+  },
+  {
     "s": "Anime Planet",
     "d": "www.anime-planet.com",
     "t": "anime-planet",
@@ -4111,14 +4119,6 @@
     "d": "www.apertium.org",
     "t": "anlaf",
     "u": "https://www.apertium.org/index.eng.html?dir=nld-afr&q={{{s}}}"
-  },
-  {
-    "s": "AnimeNewsNetwork Encyclopedia",
-    "d": "www.animenewsnetwork.com",
-    "t": "anne",
-    "u": "https://www.animenewsnetwork.com/encyclopedia/search/name?only=anime&q={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Comics"
   },
   {
     "s": "なんぽるとこわ別館",
