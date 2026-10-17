@@ -49644,6 +49644,7 @@
     "t": "mal",
     "ts": [
       "malist",
+      "malall",
       "myanimelist"
     ],
     "u": "https://myanimelist.net/search/all?q={{{s}}}",
@@ -49662,6 +49663,9 @@
     "s": "MyAnimeList (Manga)",
     "d": "myanimelist.net",
     "t": "malm",
+    "ts": [
+      "mml"
+    ],
     "u": "https://myanimelist.net/manga.php?q={{{s}}}",
     "c": "Entertainment",
     "sc": "Comics"
@@ -49763,17 +49767,6 @@
     "u": "https://www.mangahigh.com/browse/?q={{{s}}}",
     "c": "Research",
     "sc": "Academic (math/cs)"
-  },
-  {
-    "s": "MyAnimeList Manga",
-    "d": "myanimelist.net",
-    "t": "manga",
-    "ts": [
-      "mml"
-    ],
-    "u": "https://myanimelist.net/manga.php?q={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Books"
   },
   {
     "s": "mangarock",
