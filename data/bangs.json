@@ -4083,6 +4083,7 @@
     "d": "kitsu.io",
     "t": "kitsu",
     "ts": [
+      "animes",
       "ksu"
     ],
     "u": "https://kitsu.io/anime?text={{{s}}}",
@@ -4094,6 +4095,7 @@
     "d": "kitsu.io",
     "t": "kitsum",
     "ts": [
+      "mangas",
       "ksum"
     ],
     "u": "https://kitsu.io/manga?text={{{s}}}",
