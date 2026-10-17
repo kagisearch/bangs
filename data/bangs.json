@@ -4081,14 +4081,26 @@
   {
     "s": "Kitsu Anime",
     "d": "kitsu.io",
-    "t": "animes",
+    "t": "kitsu",
     "ts": [
-      "kitsu",
-      "ksu"
+      "kitsua",
+      "ksu",
+      "ksua"
     ],
     "u": "https://kitsu.io/anime?text={{{s}}}",
     "c": "Entertainment",
     "sc": "TV"
+  },
+  {
+    "s": "Kitsu Manga",
+    "d": "kitsu.io",
+    "t": "kitsum",
+    "ts": [
+      "ksum"
+    ],
+    "u": "https://kitsu.io/manga?text={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Comics"
   },
   {
     "s": "aniSearch",
@@ -49773,14 +49785,6 @@
     "d": "mangarock.com",
     "t": "mangarock",
     "u": "https://mangarock.com/search?q={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Comics"
-  },
-  {
-    "s": "Kitsu Manga",
-    "d": "kitsu.io",
-    "t": "mangas",
-    "u": "https://kitsu.io/manga?text={{{s}}}",
     "c": "Entertainment",
     "sc": "Comics"
   },
