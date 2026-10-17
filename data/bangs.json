@@ -4083,9 +4083,7 @@
     "d": "kitsu.io",
     "t": "kitsu",
     "ts": [
-      "kitsua",
-      "ksu",
-      "ksua"
+      "ksu"
     ],
     "u": "https://kitsu.io/anime?text={{{s}}}",
     "c": "Entertainment",
