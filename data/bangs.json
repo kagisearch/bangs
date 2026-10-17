@@ -49647,14 +49647,6 @@
     "sc": "TV"
   },
   {
-    "s": "Málið",
-    "d": "malid.is",
-    "t": "malid",
-    "u": "https://malid.is/leit/{{{s}}}",
-    "c": "Research",
-    "sc": "Reference (words)"
-  },
-  {
     "s": "MyAnimeList",
     "d": "myanimelist.net",
     "t": "malist",
@@ -49665,6 +49657,14 @@
     "u": "https://myanimelist.net/anime.php?q={{{s}}}",
     "c": "News",
     "sc": "Specialty"
+  },
+  {
+    "s": "Málið",
+    "d": "malid.is",
+    "t": "malid",
+    "u": "https://malid.is/leit/{{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words)"
   },
   {
     "s": "Mall.cz",
