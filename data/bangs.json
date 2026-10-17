@@ -49639,24 +49639,32 @@
     "sc": "Misc"
   },
   {
-    "s": "MyAnimeList Search All",
+    "s": "MyAnimeList",
     "d": "myanimelist.net",
-    "t": "malall",
+    "t": "mal",
+    "ts": [
+      "malist",
+      "myanimelist"
+    ],
     "u": "https://myanimelist.net/search/all?q={{{s}}}",
     "c": "Entertainment",
     "sc": "TV"
   },
   {
-    "s": "MyAnimeList",
+    "s": "MyAnimeList (Anime)",
     "d": "myanimelist.net",
-    "t": "malist",
-    "ts": [
-      "mal",
-      "myanimelist"
-    ],
+    "t": "mala",
     "u": "https://myanimelist.net/anime.php?q={{{s}}}",
-    "c": "News",
-    "sc": "Specialty"
+    "c": "Entertainment",
+    "sc": "TV"
+  },
+  {
+    "s": "MyAnimeList (Manga)",
+    "d": "myanimelist.net",
+    "t": "malm",
+    "u": "https://myanimelist.net/manga.php?q={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Comics"
   },
   {
     "s": "Málið",
