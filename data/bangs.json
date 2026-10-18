@@ -49676,7 +49676,8 @@
     "d": "myanimelist.net",
     "t": "malm",
     "ts": [
-      "mml"
+      "mml",
+      "manga"
     ],
     "u": "https://myanimelist.net/manga.php?q={{{s}}}",
     "c": "Entertainment",
