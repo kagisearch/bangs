@@ -2789,6 +2789,18 @@
     "sc": "TV"
   },
   {
+    "s": "AniList (Manga)",
+    "d": "anilist.co",
+    "t": "alm",
+    "ts": [
+      "almanga",
+      "anilsitm"
+    ],
+    "u": "https://anilist.co/search/manga?search={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Comics"
+  },
+  {
     "s": "Arch Linux ARM Packages",
     "d": "archlinuxarm.org",
     "t": "alarmpkg",
@@ -4047,6 +4059,14 @@
     "sc": "Misc"
   },
   {
+    "s": "Anime News Network Encyclopedia",
+    "d": "www.animenewsnetwork.com",
+    "t": "anne",
+    "u": "https://www.animenewsnetwork.com/encyclopedia/search/name?only=anime&q={{{s}}}",
+    "c": "Entertainment",
+    "sc": "TV"
+  },
+  {
     "s": "Anime Planet",
     "d": "www.anime-planet.com",
     "t": "anime-planet",
@@ -4061,14 +4081,26 @@
   {
     "s": "Kitsu Anime",
     "d": "kitsu.io",
-    "t": "animes",
+    "t": "kitsu",
     "ts": [
-      "kitsu",
+      "animes",
       "ksu"
     ],
     "u": "https://kitsu.io/anime?text={{{s}}}",
     "c": "Entertainment",
     "sc": "TV"
+  },
+  {
+    "s": "Kitsu Manga",
+    "d": "kitsu.io",
+    "t": "kitsum",
+    "ts": [
+      "mangas",
+      "ksum"
+    ],
+    "u": "https://kitsu.io/manga?text={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Comics"
   },
   {
     "s": "aniSearch",
@@ -4099,14 +4131,6 @@
     "d": "www.apertium.org",
     "t": "anlaf",
     "u": "https://www.apertium.org/index.eng.html?dir=nld-afr&q={{{s}}}"
-  },
-  {
-    "s": "AnimeNewsNetwork Encyclopedia",
-    "d": "www.animenewsnetwork.com",
-    "t": "anne",
-    "u": "https://www.animenewsnetwork.com/encyclopedia/search/name?only=anime&q={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Comics"
   },
   {
     "s": "なんぽるとこわ別館",
@@ -49627,12 +49651,37 @@
     "sc": "Misc"
   },
   {
-    "s": "MyAnimeList Search All",
+    "s": "MyAnimeList",
     "d": "myanimelist.net",
-    "t": "malall",
+    "t": "mal",
+    "ts": [
+      "malist",
+      "malall",
+      "myanimelist"
+    ],
     "u": "https://myanimelist.net/search/all?q={{{s}}}",
     "c": "Entertainment",
     "sc": "TV"
+  },
+  {
+    "s": "MyAnimeList (Anime)",
+    "d": "myanimelist.net",
+    "t": "mala",
+    "u": "https://myanimelist.net/anime.php?q={{{s}}}",
+    "c": "Entertainment",
+    "sc": "TV"
+  },
+  {
+    "s": "MyAnimeList (Manga)",
+    "d": "myanimelist.net",
+    "t": "malm",
+    "ts": [
+      "mml",
+      "manga"
+    ],
+    "u": "https://myanimelist.net/manga.php?q={{{s}}}",
+    "c": "Entertainment",
+    "sc": "Comics"
   },
   {
     "s": "Málið",
@@ -49641,18 +49690,6 @@
     "u": "https://malid.is/leit/{{{s}}}",
     "c": "Research",
     "sc": "Reference (words)"
-  },
-  {
-    "s": "MyAnimeList",
-    "d": "myanimelist.net",
-    "t": "malist",
-    "ts": [
-      "mal",
-      "myanimelist"
-    ],
-    "u": "https://myanimelist.net/anime.php?q={{{s}}}",
-    "c": "News",
-    "sc": "Specialty"
   },
   {
     "s": "Mall.cz",
@@ -49745,29 +49782,10 @@
     "sc": "Academic (math/cs)"
   },
   {
-    "s": "MyAnimeList Manga",
-    "d": "myanimelist.net",
-    "t": "manga",
-    "ts": [
-      "mml"
-    ],
-    "u": "https://myanimelist.net/manga.php?q={{{s}}}",
-    "c": "Multimedia",
-    "sc": "Books"
-  },
-  {
     "s": "mangarock",
     "d": "mangarock.com",
     "t": "mangarock",
     "u": "https://mangarock.com/search?q={{{s}}}",
-    "c": "Entertainment",
-    "sc": "Comics"
-  },
-  {
-    "s": "Kitsu Manga",
-    "d": "kitsu.io",
-    "t": "mangas",
-    "u": "https://kitsu.io/manga?text={{{s}}}",
     "c": "Entertainment",
     "sc": "Comics"
   },
