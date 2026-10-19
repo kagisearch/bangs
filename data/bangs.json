@@ -40013,6 +40013,14 @@
     "sc": "Social"
   },
   {
+    "s": "Île-de-France Mobilités",
+    "d": "www.iledefrance-mobilites.fr",
+    "t": "idfm",
+    "u": "https://www.iledefrance-mobilites.fr/#{{{s}}}",
+    "c": "Research",
+    "sc": "Travel"
+  },
+  {
     "s": "Idealo France",
     "d": "www.idealo.fr",
     "t": "idfr",
