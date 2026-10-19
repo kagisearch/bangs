@@ -71982,7 +71982,7 @@
     "s": "Simkl",
     "d": "simkl.com",
     "t": "simkl",
-    "u": "https://simkl.com/search/?type=all&q=test{{{s}}}",
+    "u": "https://simkl.com/search/?type=all&q={{{s}}}",
     "c": "Entertainment"
   },
   {
