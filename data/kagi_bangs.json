@@ -120,6 +120,75 @@
     "u": "/search?q={{{s}}}&safe=false"
   },
   {
+    "s": "Search with Academic lens",
+    "d": "kagi.com",
+    "t": "academic",
+    "u": "/search?q={{{s}}}&lens=academic",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Search with Fediverse Forums lens",
+    "d": "kagi.com",
+    "t": "fediverse",
+    "u": "/search?q={{{s}}}&lens=fediverse",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Search with Forums lens",
+    "d": "kagi.com",
+    "t": "forums",
+    "ts": [
+      "forum"
+    ],
+    "u": "/search?q={{{s}}}&lens=forums",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Search with Programming lens",
+    "d": "kagi.com",
+    "t": "programming",
+    "u": "/search?q={{{s}}}&lens=programming",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Search with Small Web lens",
+    "d": "kagi.com",
+    "t": "small_web",
+    "ts": [
+      "smallweb"
+    ],
+    "u": "/search?q={{{s}}}&lens=small_web",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
+    "s": "Search with Usenet/Archive lens",
+    "d": "kagi.com",
+    "t": "usenet_archive",
+    "ts": [
+      "usenetarchive"
+    ],
+    "u": "/search?q={{{s}}}&lens=usenet_archive",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
     "s": "Kagi Discussion",
     "d": "kagi.com",
     "t": "discussdoc",
@@ -734,6 +803,13 @@
     "d": "kagi.com",
     "t": "year",
     "u": "/search?q={{{s}}}&dr=4"
+  },
+  {
+    "s": "Kagi (year defined search)",
+    "d": "kagi.com",
+    "t": "years",
+    "u": "https://kagi.com/search?q=$2&from_date=$1-01-01&to_date=$1-12-31",
+    "x": "\\b((?:20|19)[0-9]{2})\\b\\s+(.*)"
   },
   {
     "s": "Kagi (calculator)",
