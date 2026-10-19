@@ -26778,6 +26778,14 @@
     "sc": "Movies"
   },
   {
+    "s": "Find Case Law (National Archives)",
+    "d": "caselaw.nationalarchives.gov.uk",
+    "t": "fcl",
+    "u": "https://caselaw.nationalarchives.gov.uk/search?query={{{s}}}",
+    "c": "Research",
+    "sc": "Law"
+  },
+  {
     "s": "Font Awesome",
     "d": "fontawesome.com",
     "t": "faicon",
