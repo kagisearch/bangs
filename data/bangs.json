@@ -13842,9 +13842,9 @@
   },
   {
     "s": "SoChain",
-    "d": "chain.so",
+    "d": "sochain.com",
     "t": "chs",
-    "u": "https://chain.so/address/{{{s}}}",
+    "u": "https://sochain.com/search?q={{{s}}}",
     "c": "Tech",
     "sc": "Cryptocurrency"
   },
