@@ -71971,6 +71971,13 @@
     "sc": "Tools"
   },
   {
+    "s": "Simkl",
+    "d": "simkl.com",
+    "t": "simkl",
+    "u": "https://simkl.com/search/?type=all&q={{{s}}}",
+    "c": "Entertainment"
+  },
+  {
     "s": "Simkl Anime",
     "d": "simkl.com",
     "t": "simkla",
