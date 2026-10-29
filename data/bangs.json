@@ -76072,12 +76072,12 @@
   },
   {
     "s": "Swiss Post",
-    "d": "www.post.ch",
+    "d": "mys.post.ch",
     "t": "swisspost",
     "ts": [
       "postch"
     ],
-    "u": "https://www.post.ch/EasyTrack/submitParcelData.do?formattedParcelCodes={{{s}}}",
+    "u": "https://mys.post.ch/my-consignments/deeplink-search?formattedParcelCodes={{{s}}}",
     "c": "Online Services",
     "sc": "Tracking"
   },
