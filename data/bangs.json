@@ -56551,14 +56551,6 @@
     "sc": "Sysadmin"
   },
   {
-    "s": "NixOS Packages",
-    "d": "nixos.org",
-    "t": "nixpkg",
-    "u": "https://nixos.org/nixos/packages.html?query={{{s}}}",
-    "c": "Tech",
-    "sc": "Downloads"
-  },
-  {
     "s": "MyNixOS",
     "d": "mynixos.com",
     "t": "mynixos",
@@ -91082,6 +91074,9 @@
     "d": "search.nixos.org",
     "ad": "nixos.org",
     "t": "nixpkgs",
+    "ts": [
+      "nixpkg"
+    ],
     "u": "https://search.nixos.org/packages?query={{{s}}}",
     "c": "Tech",
     "sc": "Languages (nix)"
