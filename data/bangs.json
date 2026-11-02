@@ -65585,7 +65585,7 @@
     "s": "QRZ.com",
     "d": "www.qrz.com",
     "t": "qrz",
-    "u": "https://www.qrz.com/db/?callsign={{{s}}}&cmd=Search",
+    "u": "https://www.qrz.com/db/{{{s}}}",
     "c": "Entertainment",
     "sc": "Misc"
   },
