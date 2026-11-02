@@ -44764,9 +44764,9 @@
   {
     "s": "Kleinanzeigen",
     "d": "www.kleinanzeigen.de",
-    "t": "ebaykleinanzeigen",
+    "t": "kleinanzeigen",
     "ts": [
-      "eka"
+      "kad"
     ],
     "u": "https://www.kleinanzeigen.de/s-{{{s}}}/k0",
     "c": "Shopping",
@@ -44775,7 +44775,7 @@
   {
     "s": "Kleinanzeigen Aachen",
     "d": "www.kleinanzeigen.de",
-    "t": "ekac",
+    "t": "kaac",
     "u": "https://www.kleinanzeigen.de/s-aachen/{{{s}}}/k0l1921",
     "c": "Shopping",
     "sc": "Online (marketplace)"
@@ -44783,7 +44783,7 @@
   {
     "s": "Kleinanzeigen Berlin",
     "d": "www.kleinanzeigen.de",
-    "t": "ekb",
+    "t": "kab",
     "u": "https://www.kleinanzeigen.de/s-berlin/{{{s}}}/k0l3331",
     "c": "Shopping",
     "sc": "Online"
@@ -44791,7 +44791,7 @@
   {
     "s": "Kleinanzeigen Hamburg",
     "d": "www.kleinanzeigen.de",
-    "t": "ekh",
+    "t": "kah",
     "u": "https://www.kleinanzeigen.de/s-hamburg/{{{s}}}/k0l9409",
     "c": "Shopping",
     "sc": "Online (marketplace)"
@@ -44799,7 +44799,7 @@
   {
     "s": "Kleinanzeigen Hannover",
     "d": "www.kleinanzeigen.de",
-    "t": "ekhr",
+    "t": "kahr",
     "u": "https://www.kleinanzeigen.de/s-hannover/{{{s}}}/k0l3155",
     "c": "Shopping",
     "sc": "Online (marketplace)"
@@ -44807,7 +44807,7 @@
   {
     "s": "Kleinanzeigen Köln",
     "d": "www.kleinanzeigen.de",
-    "t": "ekk",
+    "t": "kak",
     "u": "https://www.kleinanzeigen.de/s-koeln/{{{s}}}/k0l945",
     "c": "Shopping",
     "sc": "Online (marketplace)"
@@ -44815,7 +44815,7 @@
   {
     "s": "Kleinanzeigen Leipzig",
     "d": "www.kleinanzeigen.de",
-    "t": "ekl",
+    "t": "kal",
     "u": "https://www.kleinanzeigen.de/s-leipzig/{{{s}}}/k0l4233",
     "c": "Shopping",
     "sc": "Online (marketplace)"
@@ -44823,7 +44823,7 @@
   {
     "s": "Kleinanzeigen München",
     "d": "www.kleinanzeigen.de",
-    "t": "ekm",
+    "t": "kamuc",
     "u": "https://www.kleinanzeigen.de/s-muenchen/{{{s}}}/k0l6411",
     "c": "Shopping",
     "sc": "Online (marketplace)"
