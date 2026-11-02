@@ -36812,6 +36812,14 @@
     "sc": "Academic"
   },
   {
+    "s": "Google (Web)",
+    "d": "www.google.com",
+    "t": "gweb",
+    "u": "https://www.google.com/search?udm=web&q={{{s}}}",
+    "c": "Online Services",
+    "sc": "Google"
+  },
+  {
     "s": "Google (Past Week)",
     "d": "www.google.com",
     "t": "gweek",
