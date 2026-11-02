@@ -44762,14 +44762,6 @@
     "sc": "Services"
   },
   {
-    "s": "eBay Kleinanzeigen",
-    "d": "www.ebay-kleinanzeigen.de",
-    "t": "klein",
-    "u": "https://www.ebay-kleinanzeigen.de/{{{s}}}/k0",
-    "c": "Shopping",
-    "sc": "Online (marketplace)"
-  },
-  {
     "s": "Ebay Kleinanzeigen",
     "d": "www.ebay-kleinanzeigen.de",
     "t": "ebaykleinanzeigen",
