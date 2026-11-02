@@ -23036,17 +23036,6 @@
     "sc": "Online (marketplace)"
   },
   {
-    "s": "Ebay Kleinanzeigen",
-    "d": "www.ebay-kleinanzeigen.de",
-    "t": "ebaykleinanzeigen",
-    "ts": [
-      "eka"
-    ],
-    "u": "https://www.ebay-kleinanzeigen.de/s-{{{s}}}/k0",
-    "c": "Shopping",
-    "sc": "Online (marketplace)"
-  },
-  {
     "s": "ebay.com.my",
     "d": "shop.ebay.com.my",
     "t": "ebaymy",
@@ -23891,68 +23880,12 @@
     "sc": "Academic"
   },
   {
-    "s": "ebay Kleinanzeigen Aachen",
-    "d": "www.ebay-kleinanzeigen.de",
-    "t": "ekac",
-    "u": "https://www.ebay-kleinanzeigen.de/s-aachen/{{{s}}}/k0l1921",
-    "c": "Shopping",
-    "sc": "Online (marketplace)"
-  },
-  {
-    "s": "eBay Kleinanzeigen Berlin",
-    "d": "kleinanzeigen.ebay.de",
-    "t": "ekb",
-    "u": "https://kleinanzeigen.ebay.de/anzeigen/s-berlin/{{{s}}}/k0l3331",
-    "c": "Shopping",
-    "sc": "Online"
-  },
-  {
     "s": "Elektronik-Kompendium",
     "d": "www.elektronik-kompendium.de",
     "t": "ek",
     "u": "https://www.elektronik-kompendium.de/service/suchen/suchen.php?q={{{s}}}",
     "c": "Tech",
     "sc": "Blogs"
-  },
-  {
-    "s": "eBay Kleinanzeigen Hamburg",
-    "d": "www.ebay-kleinanzeigen.de",
-    "t": "ekh",
-    "u": "https://www.ebay-kleinanzeigen.de/s-hamburg/{{{s}}}/k0l9409",
-    "c": "Shopping",
-    "sc": "Online (marketplace)"
-  },
-  {
-    "s": "Kleinanzeigen Hannover",
-    "d": "www.ebay-kleinanzeigen.de",
-    "t": "ekhr",
-    "u": "https://www.ebay-kleinanzeigen.de/s-hannover/{{{s}}}/k0l3155",
-    "c": "Shopping",
-    "sc": "Online (marketplace)"
-  },
-  {
-    "s": "ebay Kleinanzeigen Köln",
-    "d": "www.ebay-kleinanzeigen.de",
-    "t": "ekk",
-    "u": "https://www.ebay-kleinanzeigen.de/s-koeln/{{{s}}}/k0l945",
-    "c": "Shopping",
-    "sc": "Online (marketplace)"
-  },
-  {
-    "s": "eBay Kleinanzeigen Leipzig",
-    "d": "www.ebay-kleinanzeigen.de",
-    "t": "ekl",
-    "u": "https://www.ebay-kleinanzeigen.de/s-leipzig/{{{s}}}/k0l4233",
-    "c": "Shopping",
-    "sc": "Online (marketplace)"
-  },
-  {
-    "s": "eBay Kleinanzeigen München",
-    "d": "www.ebay-kleinanzeigen.de",
-    "t": "ekm",
-    "u": "https://www.ebay-kleinanzeigen.de/s-muenchen/{{{s}}}/k0l6411",
-    "c": "Shopping",
-    "sc": "Online (marketplace)"
   },
   {
     "s": "Ekşi Sözlük",
@@ -44837,10 +44770,69 @@
     "sc": "Services"
   },
   {
-    "s": "eBay Kleinanzeigen",
-    "d": "www.ebay-kleinanzeigen.de",
-    "t": "klein",
-    "u": "https://www.ebay-kleinanzeigen.de/{{{s}}}/k0",
+    "s": "Kleinanzeigen",
+    "d": "www.kleinanzeigen.de",
+    "t": "kleinanzeigen",
+    "ts": [
+      "kad"
+    ],
+    "u": "https://www.kleinanzeigen.de/s-{{{s}}}/k0",
+    "c": "Shopping",
+    "sc": "Online (marketplace)"
+  },
+  {
+    "s": "Kleinanzeigen Aachen",
+    "d": "www.kleinanzeigen.de",
+    "t": "kaac",
+    "u": "https://www.kleinanzeigen.de/s-aachen/{{{s}}}/k0l1921",
+    "c": "Shopping",
+    "sc": "Online (marketplace)"
+  },
+  {
+    "s": "Kleinanzeigen Berlin",
+    "d": "www.kleinanzeigen.de",
+    "t": "kab",
+    "u": "https://www.kleinanzeigen.de/s-berlin/{{{s}}}/k0l3331",
+    "c": "Shopping",
+    "sc": "Online (marketplace)"
+  },
+  {
+    "s": "Kleinanzeigen Hamburg",
+    "d": "www.kleinanzeigen.de",
+    "t": "kah",
+    "u": "https://www.kleinanzeigen.de/s-hamburg/{{{s}}}/k0l9409",
+    "c": "Shopping",
+    "sc": "Online (marketplace)"
+  },
+  {
+    "s": "Kleinanzeigen Hannover",
+    "d": "www.kleinanzeigen.de",
+    "t": "kahr",
+    "u": "https://www.kleinanzeigen.de/s-hannover/{{{s}}}/k0l3155",
+    "c": "Shopping",
+    "sc": "Online (marketplace)"
+  },
+  {
+    "s": "Kleinanzeigen Köln",
+    "d": "www.kleinanzeigen.de",
+    "t": "kak",
+    "u": "https://www.kleinanzeigen.de/s-koeln/{{{s}}}/k0l945",
+    "c": "Shopping",
+    "sc": "Online (marketplace)"
+  },
+  {
+    "s": "Kleinanzeigen Leipzig",
+    "d": "www.kleinanzeigen.de",
+    "t": "kal",
+    "u": "https://www.kleinanzeigen.de/s-leipzig/{{{s}}}/k0l4233",
+    "c": "Shopping",
+    "sc": "Online (marketplace)"
+  },
+  {
+    "s": "Kleinanzeigen München",
+    "d": "www.kleinanzeigen.de",
+    "t": "kamuc",
+    "u": "https://www.kleinanzeigen.de/s-muenchen/{{{s}}}/k0l6411",
     "c": "Shopping",
     "sc": "Online (marketplace)"
   },
