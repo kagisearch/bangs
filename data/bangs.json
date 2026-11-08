@@ -49859,7 +49859,8 @@
     "s": "Mankier",
     "d": "www.mankier.com",
     "t": "mankier",
-    "u": "https://www.mankier.com/?q={{{s}}}",
+    "u": "https://www.mankier.com/?q=$2&sections=$1",
+    "x": "^(?:(\d\w*)\s+)?(.+)$",
     "c": "Tech",
     "sc": "Sysadmin (man)"
   },
