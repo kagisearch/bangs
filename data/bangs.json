@@ -43226,6 +43226,9 @@
     "s": "Japan Dict",
     "d": "www.japandict.com",
     "t": "jpd",
+    "ts": [
+      "japandict"
+    ],
     "u": "https://www.japandict.com/?s={{{s}}}",
     "c": "Online Services",
     "sc": "Tools"
