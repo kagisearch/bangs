@@ -42377,6 +42377,14 @@
     "sc": "Academic"
   },
   {
+    "s": "JapanDict",
+    "d": "japandict.com",
+    "t": "japandict",
+    "u": "https://www.japandict.com/?s={{{s}}}",
+    "c": "Research",
+    "sc": "Reference (words)"
+  },
+  {
     "s": "Joomla API (Kagi Search)",
     "d": "kagi.com",
     "ad": "api.joomla.org",
