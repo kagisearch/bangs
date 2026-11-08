@@ -11225,6 +11225,21 @@
     "sc": "Big box/department"
   },
   {
+    "s": "Bunpro",
+    "d": "bunpro.jp",
+    "t": "bunpro",
+    "ts": [
+      "文プロ"
+    ],
+    "u": "https://bunpro.jp/search?query={{{s}}}",
+    "c": "Research",
+    "sc": "Learning",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
+  },
+  {
     "s": "bunq Together",
     "d": "together.bunq.com",
     "t": "bunq",
