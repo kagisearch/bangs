@@ -13368,7 +13368,6 @@
   {
     "s": "Google AI Mode",
     "d": "www.google.com",
-    "ad": "www.google.com/search?udm=50",
     "t": "gai",
     "ts": [
       "googleai",
@@ -13376,7 +13375,11 @@
     ],
     "u": "https://www.google.com/search?q={{{s}}}&udm=50",
     "c": "Online Services",
-    "sc": "AI Chatbots"
+    "sc": "AI Chatbots",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Chatters Salons",
