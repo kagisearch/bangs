@@ -109,6 +109,12 @@ def trigger_format_check(bangs)
     it "trigger should be lowercase (#{bang["s"]})" do
       expect(bang["t"]).to eq(bang["t"].downcase)
     end
+
+    it "triggers should not contain spaces (#{bang["s"]})" do
+      triggers = [bang["t"]] + (bang["ts"] || [])
+
+      expect(triggers.grep(/\s/)).to be_empty
+    end
   end
 end
 

@@ -245,8 +245,8 @@ Key   | Description  | Required | Notes
 `s`   | Website name | yes      |
 `d`   | Domain       | yes      |
 `ad`  | Snap Domain  | no       | Can be used to specify the domain of the results if the bang searches another website. See `hn` bang.
-`t`   | Trigger      | yes      | May contain letters, numbers, dashes (`-`), periods (`.`), and underscores (`_`). No spaces or other special characters.
-`ts`  | Additional triggers     | Additional triggers that invoke this bang
+`t`   | Trigger      | yes      | Must be lowercase and must not contain spaces. Letters from any script (e.g. `уики`) and symbols (e.g. `c++`, `/.`) are allowed.
+`ts`  | Additional triggers | no | Other triggers that invoke this bang. Same rules as `t`.
 `u`   | URL template | yes      | Use `{{{s}}}` for query placeholder.
 `x`   | Regex pattern | no      | Regex pattern that can be used for parsing the query for more complex bangs, allowing substition using `$1`, `$2`, etc.
 `c`   | Category     | no       |
