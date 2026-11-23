@@ -34940,7 +34940,11 @@
     ],
     "u": "https://docs.google.com/spreadsheets/u/0/?q={{{s}}}",
     "c": "Online Services",
-    "sc": "Google"
+    "sc": "Google",
+    "fmt": [
+      "url_encode_placeholder",
+      "url_encode_space_to_plus"
+    ]
   },
   {
     "s": "Google SI",
